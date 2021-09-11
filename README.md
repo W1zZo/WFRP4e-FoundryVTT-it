@@ -22,6 +22,5 @@ To install, follow these instructions:
 ## TODO
 - [x] Initial Google Basic Translation
 - [x] Translation Refinement using Italian Core RuleBook
-- [x] Add Basic Pack Translation via Babele Module
-- [ ] Add Remaining Compendium Packs Translations
+- [ ] Add Compendium Packs Translations [WIP]
 - [ ] Final Refinement
