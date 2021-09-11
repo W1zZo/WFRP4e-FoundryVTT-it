@@ -1,0 +1,1830 @@
+{
+    "label": "Incantesimi",
+    "entries": [
+        {
+            "id": "The First Portent of Amul",
+            "name": "Il Primo Portento di Amul",
+            "description": "<p>Gain +1 Fortune Point. For every +2 SL, gain +1 more. Any of these points unused at the end of the Duration are lost.</p>"
+        },
+        {
+            "id": "Dark Vision (Death)",
+            "name": "Vista Oscura (Morte)",
+            "description": "<p>You boost your Second Sight to assist your mundane senses. While the spell is active, gain the @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Dark Vision} Creature Trait</p>"
+        },
+        {
+            "id": "Drop (Fire)",
+            "name": "Gettare (Fuoco)",
+            "description": "<p>You channel magic into an object being held by an opponent. This could be a weapon, a rope, or someone's hand. Unless a <strong>Challenging (+0) Dexterity</strong> Test is passed, the item is dropped. For every +2 SL you may impose an additional -10 on the Dexterity Test.</p>"
+        },
+        {
+            "id": "Sanctify",
+            "name": "Santificare",
+            "description": "<p>Inscribing a magical circle, you ward it with <em>Shyish</em>, forming an impenetrable barrier to the Undead. Creatures with the @Compendium[wfrp4e-core.traits.PFTD9gDvRWW9uh5g]{Undead} Creature Trait cannot enter or leave the circle.</p>"
+        },
+        {
+            "id": "Terrifying (Death)",
+            "name": "Terrificante (Morte)",
+            "description": "<p>You gain the @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terror (1)} Creature Trait.</p>"
+        },
+        {
+            "id": "Move Object (Metal)",
+            "name": "Muovere Oggetto (Metallo)",
+            "description": "<p>Using magic, you grab hold of an non-sentient object no larger than you, moving it with the sheer force of your will, which is considered to have a Strength equal to your Willpower. You may move the object up to Willpower Bonus yards. If anyone attempts to impede the object's movement, make a <strong>Contested Willpower/Strength</strong> Test. For every +2 SL you may increase the distance the object is moved by Willpower Bonus yards.</p>"
+        },
+        {
+            "id": "Distracting (Death)",
+            "name": "Distrazione (Morte)",
+            "description": "<p>You wreathe yourself in magic, which swirls around you, distracting your foes. While the spell is active, gain the @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distracting} Creature Trait.</p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Drop (Beasts)",
+            "name": "Gettare (Bestie)",
+            "description": "<p>You channel magic into an object being held by an opponent. This could be a weapon, a rope, or someone's hand. Unless a <strong>Challenging (+0) Dexterity</strong> Test is passed, the item is dropped. For every +2 SL you may impose an additional -10 on the Dexterity Test.</p>"
+        },
+        {
+            "id": "Blast (Death)",
+            "name": "Scoppio (Morte)",
+            "description": "<p>You channel magic into an explosive blast. This is a Magic Missile with Damage +3 that targets everyone in the Area of Effect.</p>"
+        },
+        {
+            "id": "Firewall",
+            "name": "Muro di Fuoco",
+            "description": "<p>You channel a fiery streak of Aqshy, creating a wall of flame. The Firewall is Willpower Bonus yards wide, and 1 yard deep. For every +2 SL you may extend the length of the Firewall by +Willpower Bonus yards. Anyone crossing the firewall gains 1 @Condition[Ablaze]&nbsp;condition and suffers a hit with a Damage equal to your Willpower Bonus, handled like a Magic Missile</p>"
+        },
+        {
+            "id": "Drop (Life)",
+            "name": "Gettare (Vita)",
+            "description": "<p>You channel magic into an object being held by an opponent. This could be a weapon, a rope, or someone's hand. Unless a <strong>Challenging (+0) Dexterity</strong> Test is passed, the item is dropped. For every +2 SL you may impose an additional -10 on the Dexterity Test.</p>"
+        },
+        {
+            "id": "Shadowsteed",
+            "name": "Destriero d'Ombra",
+            "description": "<p>You summon forth a shadowy steed. The creature's unnatural flesh is black as midnight, and at times it appears to be both solid and insubstantial. Use the rules for a riding horse. When the Shadowsteed is out of sunlight, it also gains the following Creature Traits: @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Dark Vision}<em>, @Compendium[wfrp4e-core.traits.tNWrJUOArwfWXsPw]{Ethereal}, @Compendium[wfrp4e-core.traits.mDgEMOoJpi8DkRYb]{Magical}, @Compendium[wfrp4e-core.traits.wMwSRDmgiF2IdCJr]{Painless}, @Compendium[wfrp4e-core.traits.OzwDT6kzoLYeeR2d]{Stealthy}, @Compendium[wfrp4e-core.traits.UmxGZRV0Lw3TZ0Kx]{Stride}, @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear (1)} and @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)}.</em></p>\n<p>&nbsp;</p>\n<p>Even when insubstantial, Shadowsteeds may be ridden. Riders with the @Compendium[wfrp4e-core.talents.3O9clK7LGyuLTHPW]{Arcane Magic (Shadow)} Talent do so with a bonus of +20 to Ride Tests. Those without suffer a penalty of -20 to Ride Tests. Shadowsteeds are tireless, so need no rest (though their unsettled riders might!). As the first rays of dawn break over the horizon the steeds melt into insubstantial mist. If still being ridden when the spell ends, or when dispelled, the rider will suffer Falling Damage.</p>"
+        },
+        {
+            "id": "Comet of Casandora",
+            "name": "Cometa di Cassandora",
+            "description": "<p>You channel all the <em>Azyr</em> you can muster and reach out to the skies, calling down a comet to wreak havoc amongst your foes. Select a target point within range. At the end of the next round, make an <strong>Average (+20) Perception</strong> Test. For every +SL you achieve, you may move your point of impact by Initiative Bonus yards.&nbsp;</p>\n<p><br>For every -SL, the GM will move the point of impact by Initiative Bonus yards in a random direction. Comet of Casandora then acts as a magical missile with Damage +12 that hits all targets in the Area of Effect, who also gain +1 <em>Ablaze</em> and the <em>Prone</em> Condition. </p>"
+        },
+        {
+            "id": "Magic Shield (Daemonology)",
+            "name": "Scudo Magico (Demonologia)",
+            "description": "<p>You encase yourself in bands of protective magic. While the spell is active, add +Willpower Bonus SL to any dispel attempts you make.</p>"
+        },
+        {
+            "id": "Shroud of Invisibility",
+            "name": "Sudario dell'Invisibilità",
+            "description": "<p>You wrap the target in a shroud of <em>Ulgu</em>. The Target becomes invisible and cannot be perceived by mundane senses. The spell will automatically fool anyone without the @Compendium[wfrp4e-core.talents.OEjUvJKi0xmBwbS2]{Second Sight} Talent. Those with the Talent must pass a <strong>Challenging (+0) Perception </strong>Test to notice that someone is nearby, though they will not be able to pin down the precise location. They must dispel the Shroud of Invisibility to do so . You are still perceptible to the other senses, and the spell will come to an end if you bring attention to yourself by making large noises or attacking someone.</p>"
+        },
+        {
+            "id": "Earthpool",
+            "name": "Vortice di Terra",
+            "description": "<p>On casting the spell, you immediately disappear into the ground in a wild torrent of <em>Ghyran</em>. You appear at the start of the next Round at any point within your Willpower in yards, erupting from the earth violently. For every +2 SL you may increase the distance travelled by your Willpower in yards. Any enemies engaged by you on your appearance gain the <em>Surpised</em> Condition. This spell will not allow you to move through stone but will allow you to move through water.</p>"
+        },
+        {
+            "id": "Acquiescence",
+            "name": "Rassegnazione",
+            "description": "<p>Your magic pierces deep within your target, flooding the soul with an acute awareness of their broken dreams. The target's Initiative Characteristic drops to 10, if it was not already lower, as the mind turns inwards. On the target's Turn, all movement is randomized as determined by the GM as the character bemoans life, lewdly telling all what should have been as hands are flung in the air. Further, the target can only perform an Action if a <strong>Challenging (+0) Cool</strong> Test is first passed; if failed, the Target is far too busy bemoaning what could have been to do anything else</p>"
+        },
+        {
+            "id": "Mundane Aura (Metal)",
+            "name": "Aura Mondana (Metallo)",
+            "description": "<p>You drain all the Winds of Magic from within your body and your possessions, removing any magical aura. For the duration of the spell you appear mundane to the Magical Sense Talent and similar. You effectively have no magical ability and your magical nature cannot be detected by any means. While this spell is in effect, you cannot cast any other spells. Mundane Aura is immediately dispelled if you make a Channeling Test.</p>"
+        },
+        {
+            "id": "Chain Attack (Shadow)",
+            "name": "Attacco Concatenato (Ombre)",
+            "description": "<p>You channel a twisting spur of rupturing magic into your target. This is a Magic Missile&nbsp;with a Damage of +4. If Chain Attack reduces a target to 0 Wounds, it leaps to another target within the spell's initial range, and within Willpower Bonus yards of the previous target, inflicting the same Damage again. It may leap a maximum number of times equal to your Willpower Bonus. For every +2 SL achieved, it may chain to an additional target.</p>"
+        },
+        {
+            "id": "Fearsome (Necromancy)",
+            "name": "Temibile (Necromanzia)",
+            "description": "<p>Shrouding yourself in magic, you become fearsome and intimidating. Gain @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1}. For every +3 SL, you may increase your Fear value by one.</p>"
+        },
+        {
+            "id": "Net of Amyntok",
+            "name": "Rete di Amyntok",
+            "description": "<p>You cast a delicate net woven from strands of <em>Hysh</em> over your targets, whose minds are overcome with conundrums and puzzles, leaving them paralyzed with indecision. Targets gain +1 @Condition[Stunned] Condition, which they cannot lose while the spell is in effect. When recovering from the Condition, targets test their Intelligence instead of the Endurance Skill. Targets with the <em>Bestial</em> Creature Trait are immune to this spell.</p>"
+        },
+        {
+            "id": "Entangle (Necromancy)",
+            "name": "Aggrovigliare (Necromanzia)",
+            "description": "<p>Using magic, you entrap your target, wrapping them in whatever suits your Lore: vines, shadows, their own clothing&hellip; Your target gains one @Condition[Entangled] Condition with a Strength equal to your Intelligence. For every +2 SL, you may give the target +1 additional <em>Entangled</em> Condition. The spell lasts until all Entangled Conditions are removed.</p>"
+        },
+        {
+            "id": "Bridge",
+            "name": "Ponte",
+            "description": "<p>You create a bridge of magical energy, with a maximum length and breadth of your Willpower Bonus in yards. For every +2 SL you may increase length or breadth by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Aethyric Armour (Necromancy)",
+            "name": "Armatura Aethyrica (Necromanzia)",
+            "description": "<p>You gain +1 Armor Point to all Hit Locations as you wrap yourself in a protective swathe of magic.</p>"
+        },
+        {
+            "id": "Flaming Sword of Rhuin",
+            "name": "Spada Fiammeggiante di Rhuin",
+            "description": "<p>You wreathe a sword in magical flames. The weapon has Damage +6 and the <em>Impact</em> Quality, and anyone struck by the blade gains +1 <em>Ablaze</em> Condition. If wielders do not possess the Arcane Magic (Fire) Talent, and they fumble an attack with the Flaming Sword, they gain +1 <em>Ablaze</em> Condition.</p>"
+        },
+        {
+            "id": "Push (Beasts)",
+            "name": "Spinta (Bestie)",
+            "description": "<p>All living creatures within Willpower Bonus yards are pushed back your Willpower Bonus in yards and gain the @Condition[Prone] Condition. If this brings them into contact with a wall or other large obstacle, they take Damage equal to the distance travelled in yards. For every +2 SL, you may push creatures back another Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Fearsome (Heavens)",
+            "name": "Temibile (Empireo)",
+            "description": "<p>Shrouding yourself in magic, you become fearsome and intimidating. Gain @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1}. For every +3 SL, you may increase your Fear value by one.</p>"
+        },
+        {
+            "id": "Fearsome (Metal)",
+            "name": "Temibile (Metallo)",
+            "description": "<p>Shrouding yourself in magic, you become fearsome and intimidating. Gain @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1}. For every +3 SL, you may increase your Fear value by one.</p>"
+        },
+        {
+            "id": "Breath (Light)",
+            "name": "Soffio (Luce)",
+            "description": "<p>You immediately make a Breath attack, as if you had spent 2 Advantage to activate the @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Breath} Creature Trait. Breath is a Magic Missile with a Damage equal to your Toughness Bonus. The GM decides which type of Breath attack best suits your Arcane Magic Talent.</p>"
+        },
+        {
+            "id": "Blast (Daemonology)",
+            "name": "Scoppio (Demonologia)",
+            "description": "<p>You channel magic into an explosive blast. This is a Magic Missile with Damage +3 that targets everyone in the Area of Effect.</p>"
+        },
+        {
+            "id": "Breath (Heavens)",
+            "name": "Soffio (Empireo)",
+            "description": "<p>You immediately make a Breath attack, as if you had spent 2 Advantage to activate the @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Breath} Creature Trait. Breath is a Magic Missile with a Damage equal to your Toughness Bonus. The GM decides which type of Breath attack best suits your Arcane Magic Talent.</p>"
+        },
+        {
+            "id": "Regenerate",
+            "name": "Rigenerare",
+            "description": "<p>Your target gains @Compendium[wfrp4e-core.traits.SfUUdOGjdYpr3KSR]{Regenerate}.</p>"
+        },
+        {
+            "id": "Magic Shield (Beasts)",
+            "name": "Scudo Magico (Bestie)",
+            "description": "<p>You encase yourself in bands of protective magic. While the spell is active, add +Willpower Bonus SL to any dispel attempts you make.</p>"
+        },
+        {
+            "id": "Sleep",
+            "name": "Sonno",
+            "description": "<p>You touch your opponent, sending them into a deep sleep. If the target has the @Condition[Prone] Condition, they gain the @Condition[Unconscious] Condition as they fall asleep. They remain unconscious for the duration, although loud noises or being moved or jostled will awaken them instantly. If your targets are standing or sitting when affected, they start themselves awake as they hit the ground, gaining the Prone Condition, but remaining conscious. If your targets are not resisting, and are suitably tired, they will, at the spell&rsquo;s end, pass into a deep and restful sleep.</p>"
+        },
+        {
+            "id": "Ward (Death)",
+            "name": "Protezione (Morte)",
+            "description": "<p>You wrap yourself in protective magic, gaining the @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)} Creature Trait.</p>"
+        },
+        {
+            "id": "Teleport (Life)",
+            "name": "Teletrasporto (Vita)",
+            "description": "<p>Using magic, you can teleport up to your Willpower Bonus in yards. This movement allows you to traverse gaps, avoid perils and pitfalls, and ignore obstacles. For every +2 SL you may increase the distance travelled by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Teleport (Beasts)",
+            "name": "Teletrasporto (Bestie)",
+            "description": "<p>Using magic, you can teleport up to your Willpower Bonus in yards. This movement allows you to traverse gaps, avoid perils and pitfalls, and ignore obstacles. For every +2 SL you may increase the distance travelled by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Blinding Light",
+            "name": "Luce Accecante",
+            "description": "<p>You emit a bright, blinding flash of light from your hand or staff. Everyone looking at you, unless they possess the <em>Arcane Magic (Light)</em> Talent, receives +SL <em>Blinded</em> Conditions.</p>"
+        },
+        {
+            "id": "Terrifying (Fire)",
+            "name": "Terrificante (Fuoco)",
+            "description": "<p>You gain the @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terror (1)} Creature Trait.</p>"
+        },
+        {
+            "id": "Flight (Metal)",
+            "name": "Volo (Metallo)",
+            "description": "<p><span style=\"color: #231f20;\">You can fly, whether by sprouting wings, ascending on a pillar of magical light, or some other method. Gain the @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Flight (Agility)}</span><span style=\"color: #231f20;\"> Creature Trait.</span></p>"
+        },
+        {
+            "id": "Move Object (Necromancy)",
+            "name": "Muovere Oggetto (Necromanzia)",
+            "description": "<p>Using magic, you grab hold of an non-sentient object no larger than you, moving it with the sheer force of your will, which is considered to have a Strength equal to your Willpower. You may move the object up to Willpower Bonus yards. If anyone attempts to impede the object's movement, make a <strong>Contested Willpower/Strength</strong> Test. For every +2 SL you may increase the distance the object is moved by Willpower Bonus yards.</p>"
+        },
+        {
+            "id": "Aethyric Armour (Life)",
+            "name": "Armatura Aethyrica (Vita)",
+            "description": "<p>You gain +1 Armor Point to all Hit Locations as you wrap yourself in a protective swathe of magic.</p>"
+        },
+        {
+            "id": "Teleport (Shadow)",
+            "name": "Teletrasporto (Ombre)",
+            "description": "<p>Using magic, you can teleport up to your Willpower Bonus in yards. This movement allows you to traverse gaps, avoid perils and pitfalls, and ignore obstacles. For every +2 SL you may increase the distance travelled by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Aethyric Armour (Beasts)",
+            "name": "Armatura Aethyrica (Bestie)",
+            "description": "<p>You gain +1 Armor Point to all Hit Locations as you wrap yourself in a protective swathe of magic.</p>"
+        },
+        {
+            "id": "Magic Shield (Death)",
+            "name": "Scudo Magico (Morte)",
+            "description": "<p>You encase yourself in bands of protective magic. While the spell is active, add +Willpower Bonus SL to any dispel attempts you make.</p>"
+        },
+        {
+            "id": "Magic Shield (Heavens)",
+            "name": "Scudo Magico (Empireo)",
+            "description": "<p>You encase yourself in bands of protective magic. While the spell is active, add +Willpower Bonus SL to any dispel attempts you make.</p>"
+        },
+        {
+            "id": "Reanimate",
+            "name": "Rianimare",
+            "description": "<p>You channel worming strands of thick Dhar before you, sinking it into corpses, reanimating that which was once dead. Reanimate Willpower Bonus + SL dead bodies (as Zombies) or skeletons (as Skeletons) within range. They start with the @Condition[Prone] Condition. The summoned Undead are entirely under your control and can perform simple orders as you command. If you die or gain an @Condition[Unconscious] Condition, the spell comes to an end and the reanimated corpses fall dead again. For each +2 SL you score, you may reanimate an extra Willpower Bonus +SL Skeletons or Zombies.</p>"
+        },
+        {
+            "id": "Distracting (Daemonology)",
+            "name": "Distrazione (Demonologia)",
+            "description": "<p>You wreathe yourself in magic, which swirls around you, distracting your foes. While the spell is active, gain the @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distracting} Creature Trait.</p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Corrosive Blood (Light)",
+            "name": "Sangue Corrosivo (Luce)",
+            "description": "<p>You infuse yourself with magic, lending your blood a fearsome potency. You gain the @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Corrosive Blood} Creature Trait</p>"
+        },
+        {
+            "id": "Mundane Aura (Fire)",
+            "name": "Aura Mondana (Fuoco)",
+            "description": "<p>You drain all the Winds of Magic from within your body and your possessions, removing any magical aura. For the duration of the spell you appear mundane to the Magical Sense Talent and similar. You effectively have no magical ability and your magical nature cannot be detected by any means. While this spell is in effect, you cannot cast any other spells. Mundane Aura is immediately dispelled if you make a Channeling Test.</p>"
+        },
+        {
+            "id": "Push (Daemonology)",
+            "name": "Spinta (Demonologia)",
+            "description": "<p>All living creatures within Willpower Bonus yards are pushed back your Willpower Bonus in yards and gain the @Condition[Prone] Condition. If this brings them into contact with a wall or other large obstacle, they take Damage equal to the distance travelled in yards. For every +2 SL, you may push creatures back another Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Clarity of Thought",
+            "name": "Chiarezza di Pensiero",
+            "description": "<p>You calm your target's mind, allowing them to think clearly. All negative modifiers on their thinking processes - from Conditions, Mental Mutations, Psychologies, or any other source - are ignored while the spell is in effect.</p>"
+        },
+        {
+            "id": "Aethyric Arms (Fire)",
+            "name": "Arma Aethyrica (Fuoco)",
+            "description": "<p>You create a melee weapon with a Damage equal to your Willpower Bonus. This may take any form, and so use any Melee Skill you may possess. The weapon counts as Magical.</p>"
+        },
+        {
+            "id": "Blast (Shadow)",
+            "name": "Scoppio (Ombre)",
+            "description": "<p>You channel magic into an explosive blast. This is a Magic Missile with Damage +3 that targets everyone in the Area of Effect.</p>"
+        },
+        {
+            "id": "Push (Fire)",
+            "name": "Spinta (Fuoco)",
+            "description": "<p>All living creatures within Willpower Bonus yards are pushed back your Willpower Bonus in yards and gain the @Condition[Prone] Condition. If this brings them into contact with a wall or other large obstacle, they take Damage equal to the distance travelled in yards. For every +2 SL, you may push creatures back another Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Arrow Shield",
+            "name": "Riparo dalle Frecce",
+            "description": "<p>Any missiles containing organic matter, such as arrows with wooden shafts, are automatically destroyed if they pass within the Area of Effect, causing no damage to their target. Missiles comprising only inorganic matter, such as throwing knives or pistol shots, are unaffected.</p>"
+        },
+        {
+            "id": "Flight",
+            "name": "Volo",
+            "description": "<p><span style=\"color: #231f20;\">You can fly, whether by sprouting wings, ascending on a pillar of magical light, or some other method. Gain the @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Flight (Agility)}</span><span style=\"color: #231f20;\"> Creature Trait.</span></p>"
+        },
+        {
+            "id": "Teleport (Heavens)",
+            "name": "Teletrasporto (Empireo)",
+            "description": "<p>Using magic, you can teleport up to your Willpower Bonus in yards. This movement allows you to traverse gaps, avoid perils and pitfalls, and ignore obstacles. For every +2 SL you may increase the distance travelled by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Arrow Shield (Metal)",
+            "name": "Riparo dalle Frecce (Metallo)",
+            "description": "<p>Any missiles containing organic matter, such as arrows with wooden shafts, are automatically destroyed if they pass within the Area of Effect, causing no damage to their target. Missiles comprising only inorganic matter, such as throwing knives or pistol shots, are unaffected.</p>\n\n <b>Lore:</b> Spells inflicting Damage ignore Armor Points from metal armor, and inflict bonus Damage equal to the number of Armor Points of metal armor being worn on any Hit Location struck. So, if your spell hit an Arm location protected by 2 Armor Points of metal armor, it would cause an additional +2 Damage and ignore the Armor Points."
+        },
+        {
+            "id": "Barkskin",
+            "name": "Pelle di Corteccia",
+            "description": "<p>You cause the target's skin to become hard and rough like the bark of a tree. While affected by the spell, add +2 to the target's Toughness Bonus, but suffer a penalty of -10 to Agility and Dexterity.</p>"
+        },
+        {
+            "id": "Bolt (Necromancy)",
+            "name": "Strale (Necromanzia)",
+            "description": "<p>You channel magic into a damaging bolt. Bolt is a Magic Missile with a Damage of +4.</p>"
+        },
+        {
+            "id": "Breath (Shadow)",
+            "name": "Soffio (Ombre)",
+            "description": "<p>You immediately make a Breath attack, as if you had spent 2 Advantage to activate the @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Breath} Creature Trait. Breath is a Magic Missile with a Damage equal to your Toughness Bonus. The GM decides which type of Breath attack best suits your Arcane Magic Talent.</p>"
+        },
+        {
+            "id": "Sly Hands",
+            "name": "Mano Lesta",
+            "description": "<p>You teleport a small object - no bigger than your fist - from about your person into your hand.</p>"
+        },
+        {
+            "id": "Earthblood",
+            "name": "Sangue della Terra",
+            "description": "<p>To cast this spell, you must be in direct contact with the earth. Standing barefoot counts. For the duration of the spell, any creatures in direct contact with the earth within AoE heal Wounds equal to your Willpower Bonus at the start of every Round.</p>"
+        },
+        {
+            "id": "Push (Shadow)",
+            "name": "Spinta (Ombre)",
+            "description": "<p>All living creatures within Willpower Bonus yards are pushed back your Willpower Bonus in yards and gain the @Condition[Prone] Condition. If this brings them into contact with a wall or other large obstacle, they take Damage equal to the distance travelled in yards. For every +2 SL, you may push creatures back another Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Chain Attack",
+            "name": "Attacco Concatenato",
+            "description": "<p>You channel a twisting spur of rupturing magic into your target. This is a Magic Missile&nbsp;with a Damage of +4. If Chain Attack reduces a target to 0 Wounds, it leaps to another target within the spell's initial range, and within Willpower Bonus yards of the previous target, inflicting the same Damage again. It may leap a maximum number of times equal to your Willpower Bonus. For every +2 SL achieved, it may chain to an additional target.</p>"
+        },
+        {
+            "id": "Mundane Aura (Life)",
+            "name": "Aura Mondana (Vita)",
+            "description": "<p>You drain all the Winds of Magic from within your body and your possessions, removing any magical aura. For the duration of the spell you appear mundane to the Magical Sense Talent and similar. You effectively have no magical ability and your magical nature cannot be detected by any means. While this spell is in effect, you cannot cast any other spells. Mundane Aura is immediately dispelled if you make a Channeling Test.</p>"
+        },
+        {
+            "id": "Move Object (Beasts)",
+            "name": "Muovere Oggetto (Bestie)",
+            "description": "<p>Using magic, you grab hold of an non-sentient object no larger than you, moving it with the sheer force of your will, which is considered to have a Strength equal to your Willpower. You may move the object up to Willpower Bonus yards. If anyone attempts to impede the object's movement, make a <strong>Contested Willpower/Strength</strong> Test. For every +2 SL you may increase the distance the object is moved by Willpower Bonus yards.</p>"
+        },
+        {
+            "id": "Teleport",
+            "name": "Teletrasporto",
+            "description": "<p>Using magic, you can teleport up to your Willpower Bonus in yards. This movement allows you to traverse gaps, avoid perils and pitfalls, and ignore obstacles. For every +2 SL you may increase the distance travelled by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "The Evil Eye",
+            "name": "Malocchio",
+            "description": "<p>You lock eyes with a single target, who must be looking at you. Perform an <strong>Opposed Intimidate/Cool</strong> Test, adding any SL from your casting roll to your result. Your opponent gains 1 @Condition[Fatigued] Condition per +2 SL by which you win. If you win by 6+ SL, your opponent gains the @Condition[Broken] Condition.</p>"
+        },
+        {
+            "id": "Lie of the Land",
+            "name": "Sondare il Terreno",
+            "description": "<p>Touching the earth, your senses flow through the <em>Ghyran</em> tracing the nearby area. After communing for 1 minute, you receive a detailed mental map of all-natural features - land, forests, rivers, but not settlements - within range. Settlements may be alluded to - areas of clear terrain, or dug trenches, for example. Each time you increase the range with SL increases the time taken communing with the land by +1 minute.</p>"
+        },
+        {
+            "id": "Corrosive Blood (Metal)",
+            "name": "Sangue Corrosivo (Metallo)",
+            "description": "<p>You infuse yourself with magic, lending your blood a fearsome potency. You gain the @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Corrosive Blood} Creature Trait</p>"
+        },
+        {
+            "id": "Chain Attack (Beasts)",
+            "name": "Attacco Concatenato (Bestie)",
+            "description": "<p>You channel a twisting spur of rupturing magic into your target. This is a Magic Missile&nbsp;with a Damage of +4. If Chain Attack reduces a target to 0 Wounds, it leaps to another target within the spell's initial range, and within Willpower Bonus yards of the previous target, inflicting the same Damage again. It may leap a maximum number of times equal to your Willpower Bonus. For every +2 SL achieved, it may chain to an additional target.</p>"
+        },
+        {
+            "id": "Dark Vision (Metal)",
+            "name": "Vista Oscura (Metallo)",
+            "description": "<p>You boost your Second Sight to assist your mundane senses. While the spell is active, gain the @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Dark Vision} Creature Trait</p>"
+        },
+        {
+            "id": "Produce Small Animal",
+            "name": "Creare Piccoli Animali",
+            "description": "<p>You reach into a bag, pocket, or hat, or under a rock, bush or burrow, producing a small animal of a type you would expect to find in the vicinity, such as a rabbit, dove, or rat. If there are no appropriate local animals, the spell does nothing. The temperament of the animal is not guaranteed.</p>"
+        },
+        {
+            "id": "Breath (Fire)",
+            "name": "Soffio (Fuoco)",
+            "description": "<p>You immediately make a Breath attack, as if you had spent 2 Advantage to activate the @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Breath} Creature Trait. Breath is a Magic Missile with a Damage equal to your Toughness Bonus. The GM decides which type of Breath attack best suits your Arcane Magic Talent.</p>"
+        },
+        {
+            "id": "Raise Dead",
+            "name": "Resuscitare i Morti",
+            "description": "<p>You channel a heavy flow of <em>Dhar </em>into bare earth, causing old bones to gather and rise. SL+1 Skeletons will claw upwards into the affected area at the end of the Round, which are organized as you prefer within the area of effect. They start with the @Condition[Prone] Condition. The summoned undead are entirely under your control and can perform simple orders as you command. If you are killed or gain an @Condition[Unconscious] Condition, the spell comes to an end and the summoned Undead collapse. For each +2 SL you score, you may summon an extra SL Skeletons.</p>"
+        },
+        {
+            "id": "Beast Master",
+            "name": "Signore delle Bestie",
+            "description": "<p>Your breath steams and your eyes take on a shining amber sheen as <em>Ghur</em> suffuses you. Your gaze and words convince 1 creature possessing the Bestial trait that you are its pack master, and it will fight to the death to protect you. While subject to your mastery it will follow your instructions, instinctively understanding simple instructions. If the creature is released from the spell - through the duration running out, or the spell being dispelled - it will retain enough residual respect and fear not to attack you, unless compelled to. Your allies may not be so fortunate.</p>"
+        },
+        {
+            "id": "Dome (Metal)",
+            "name": "Cupola (Metallo)",
+            "description": "<p>You create a dome of magical energy overhead, blocking incoming attacks. Anyone within the Area of Effect gains the Ward (6+) Creature Trait against magical or ranged attacks originating outside the dome. Those within may attack out of the dome as normal, and the dome does not impede movement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Perhaps because they are magical, wear a special talisman, or are just plain lucky, some blows just seem to miss. Roll [[/r 1d10]] after any blow is received, if the creature rolls Rating or higher, the blow is ignored, even if it is a critical.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Arrow Shield (Shadow)",
+            "name": "Riparo dalle Frecce (Ombre)",
+            "description": "<p>Any missiles containing organic matter, such as arrows with wooden shafts, are automatically destroyed if they pass within the Area of Effect, causing no damage to their target. Missiles comprising only inorganic matter, such as throwing knives or pistol shots, are unaffected.</p>"
+        },
+        {
+            "id": "Forest of Thorns",
+            "name": "Foresta di Spine",
+            "description": "<p>This spell may only target a patch of earth (though the patch can be very small). You cause a dense knot of wickedly spiked brambles and tangled vines to burst upwards, covering the Area of Effect.</p>\n<p>While the spell is active, anyone attempting to traverse the area on foot without the <em>Arcane Magic (Life)</em> Talent must make a <strong>Hard (&ndash;20) Agility</strong> Test. Failure means they gain 1 @Condition[Bleeding] Condition, and 1 @Condition[Entangled] Condition, with your Willpower used for its Strength. After the spell concludes, the growth remains, but loses its preternatural properties.</p>"
+        },
+        {
+            "id": "Aethyric Armour (Metal)",
+            "name": "Armatura Aethyrica (Metallo)",
+            "description": "<p>You gain +1 Armor Point to all Hit Locations as you wrap yourself in a protective swathe of magic.</p>"
+        },
+        {
+            "id": "Chain Attack (Death)",
+            "name": "Attacco Concatenato (Morte)",
+            "description": "<p>You channel a twisting spur of rupturing magic into your target. This is a Magic Missile&nbsp;with a Damage of +4. If Chain Attack reduces a target to 0 Wounds, it leaps to another target within the spell's initial range, and within Willpower Bonus yards of the previous target, inflicting the same Damage again. It may leap a maximum number of times equal to your Willpower Bonus. For every +2 SL achieved, it may chain to an additional target.</p>"
+        },
+        {
+            "id": "Healing Light",
+            "name": "Luce Guaritrice",
+            "description": "<p>Your target glows with a bright, cleansing light (equivalent light to a campfire), healing Intelligence Bonus + Willpower Bonus Wounds. If the Target passes a <strong>Very Hard (-20) Endurance</strong> Test, 1 Corruption point gained in the last hour is also lost.</p>"
+        },
+        {
+            "id": "Aethyric Armour (Light)",
+            "name": "Armatura Aethyrica (Luce)",
+            "description": "<p>You gain +1 Armor Point to all Hit Locations as you wrap yourself in a protective swathe of magic.</p>"
+        },
+        {
+            "id": "Teleport (Necromancy)",
+            "name": "Teletrasporto (Necromanzia)",
+            "description": "<p>Using magic, you can teleport up to your Willpower Bonus in yards. This movement allows you to traverse gaps, avoid perils and pitfalls, and ignore obstacles. For every +2 SL you may increase the distance travelled by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Blast (Beasts)",
+            "name": "Scoppio (Bestie)",
+            "description": "<p>You channel magic into an explosive blast. This is a Magic Missile with Damage +3 that targets everyone in the Area of Effect.</p>"
+        },
+        {
+            "id": "Great Fires of U'Zhul",
+            "name": "Grandi Fuochi di U'Zhul",
+            "description": "<p>You hurl a great, explosive blast of <em>Aqshy</em> into an enemy, which erupts into a furious blaze, burning with the heat of a forge. This is a Magic Missile with Damage +10 that ignores Armor Points and inflicts +2 @Condition[Ablaze] Conditions and the @Condition[Prone] Condition on a target. Everyone within the Area of Effect of that target suffers a Damage +5 hit ignoring Armor Points, and must pass a Dodge Test or also gain +1 @Condition[Ablaze] Condition. The spell stops behaving like a magic missile as the fire continues to burn in the Area of Effect for the duration. Anyone within the Area of Effect at the start of a round suffers [[/r 1d10+6]] Damage, ignoring APs, and gains +1 @Condition[Ablaze] Condition.</p>"
+        },
+        {
+            "id": "Screaming Skull",
+            "name": "Teschio Urlante",
+            "description": "<p>You shriek the high-pitched words of the spell and a large, black skull wreathed with greenish-purple fire forms before you, then flies forwards, screaming and cackling as it goes. The skull moves in a straight line for the spell range, following the contours of the land, passing through any obstacles in its way. Screaming Skull is a Magic Missile that only affects targets without the @Compendium[wfrp4e-core.traits.PFTD9gDvRWW9uh5g]{Undead} Creature Trait, and has a Damage equal to your Willpower Bonus. Any suffering Wounds from the spell must pass a <strong>Challenging (+0) Cool</strong> Test or also take a @Condition[Broken] Condition.</p>"
+        },
+        {
+            "id": "Dazzle",
+            "name": "Abbagliare",
+            "description": "<p>The target gains 1 @Condition[Blinded] Condition, and gains 1 <em>Blinded</em> Condition at the start of each round for the duration of the spell.</p>"
+        },
+        {
+            "id": "Dome (Beasts)",
+            "name": "Cupola (Bestie)",
+            "description": "<p>You create a dome of magical energy overhead, blocking incoming attacks. Anyone within the Area of Effect gains the Ward (6+) Creature Trait against magical or ranged attacks originating outside the dome. Those within may attack out of the dome as normal, and the dome does not impede movement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Perhaps because they are magical, wear a special talisman, or are just plain lucky, some blows just seem to miss. Roll [[/r 1d10]] after any blow is received, if the creature rolls Rating or higher, the blow is ignored, even if it is a critical.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Entangle (Heavens)",
+            "name": "Aggrovigliare (Empireo)",
+            "description": "<p>Using magic, you entrap your target, wrapping them in whatever suits your Lore: vines, shadows, their own clothing&hellip; Your target gains one @Condition[Entangled] Condition with a Strength equal to your Intelligence. For every +2 SL, you may give the target +1 additional <em>Entangled</em> Condition. The spell lasts until all Entangled Conditions are removed.</p>"
+        },
+        {
+            "id": "Bridge (Metal)",
+            "name": "Ponte (Metallo)",
+            "description": "<p>You create a bridge of magical energy, with a maximum length and breadth of your Willpower Bonus in yards. For every +2 SL you may increase length or breadth by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Terrifying (Light)",
+            "name": "Terrificante (Luce)",
+            "description": "<p>You gain the @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terror (1)} Creature Trait.</p>"
+        },
+        {
+            "id": "Terrifying (Daemonology)",
+            "name": "Terrificante (Demonologia)",
+            "description": "<p>You gain the @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terror (1)} Creature Trait.</p>"
+        },
+        {
+            "id": "Entangle (Shadow)",
+            "name": "Aggrovigliare (Ombre)",
+            "description": "<p>Using magic, you entrap your target, wrapping them in whatever suits your Lore: vines, shadows, their own clothing&hellip; Your target gains one @Condition[Entangled] Condition with a Strength equal to your Intelligence. For every +2 SL, you may give the target +1 additional <em>Entangled</em> Condition. The spell lasts until all Entangled Conditions are removed.</p>"
+        },
+        {
+            "id": "Terrifying",
+            "name": "Terrificante",
+            "description": "<p>You gain the @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terror (1)} Creature Trait.</p>"
+        },
+        {
+            "id": "Fat of the Land",
+            "name": "Frutti della Terra",
+            "description": "<p>You flood the target's body with nourishing <em>Ghyran</em>. The target need not eat or drink, but will still excrete as normal, though any leavings will be verdant green.</p>"
+        },
+        {
+            "id": "Distracting (Beasts)",
+            "name": "Distrazione (Bestie)",
+            "description": "<p>You wreathe yourself in magic, which swirls around you, distracting your foes. While the spell is active, gain the @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distracting} Creature Trait.</p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Ward (Metal)",
+            "name": "Protezione (Metallo)",
+            "description": "<p>You wrap yourself in protective magic, gaining the @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)} Creature Trait.</p>"
+        },
+        {
+            "id": "Blast (Metal)",
+            "name": "Scoppio (Metallo)",
+            "description": "<p>You channel magic into an explosive blast. This is a Magic Missile with Damage +3 that targets everyone in the Area of Effect.</p>"
+        },
+        {
+            "id": "Lifebloom",
+            "name": "Linfa Vitale",
+            "description": "<p>You cause <em>Ghyran</em> to flood an area that is blighted or desolate. You may target either a dry riverbed, well, field, or a domestic animal. If you successfully cast the spell, the target bursts to life:</p>\n<ul type=\"disc\">\n<li>A dry river begins to flow once again</li>\n<li>A dry or polluted well becomes clean and fresh</li>\n<li>A planted field, vineyard or orchard bursts into life, with all crops immediately reaching full ripeness</li>\n<li>A sick or unproductive animal becomes healthy. The affected beast is now healthily productive (cows produce milk, hens lay eggs, coats and hides of sheep and cows are healthy and lustrous) and any diseases are cured.</li>\n</ul>"
+        },
+        {
+            "id": "Breath (Life)",
+            "name": "Soffio (Vita)",
+            "description": "<p>You immediately make a Breath attack, as if you had spent 2 Advantage to activate the @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Breath} Creature Trait. Breath is a Magic Missile with a Damage equal to your Toughness Bonus. The GM decides which type of Breath attack best suits your Arcane Magic Talent.</p>"
+        },
+        {
+            "id": "Blast (Life)",
+            "name": "Scoppio (Vita)",
+            "description": "<p>You channel magic into an explosive blast. This is a Magic Missile with Damage +3 that targets everyone in the Area of Effect.</p>"
+        },
+        {
+            "id": "Aethyric Arms (Death)",
+            "name": "Arma Aethyrica (Morte)",
+            "description": "<p>You create a melee weapon with a Damage equal to your Willpower Bonus. This may take any form, and so use any Melee Skill you may possess. The weapon counts as Magical.</p>"
+        },
+        {
+            "id": "Push (Necromancy)",
+            "name": "Spinta (Necromanzia)",
+            "description": "<p>All living creatures within Willpower Bonus yards are pushed back your Willpower Bonus in yards and gain the @Condition[Prone] Condition. If this brings them into contact with a wall or other large obstacle, they take Damage equal to the distance travelled in yards. For every +2 SL, you may push creatures back another Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Corrosive Blood (Life)",
+            "name": "Sangue Corrosivo (Vita)",
+            "description": "<p>You infuse yourself with magic, lending your blood a fearsome potency. You gain the @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Corrosive Blood} Creature Trait</p>"
+        },
+        {
+            "id": "Ward",
+            "name": "Protezione",
+            "description": "<p>You wrap yourself in protective magic, gaining the @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)} Creature Trait.</p>"
+        },
+        {
+            "id": "The Amber Spear",
+            "name": "Lancia d'Ambra",
+            "description": "<p>You hurl a great spear of pure Ghur in a straight line. This is a Magic Missile with a Damage of +12. It strikes the first creature in its path, ignoring APs from armor made of leather and furs. If the target suffers any Wounds, also inflict +1 <em>Bleeding</em> Condition, after which the spear continues on its path, striking each target in the same manner, but at -1 Damage each time. If the spear fails to inflict any Wounds, its progress is stopped and the spell comes to an end. The Amber Spear only inflicts the minimum 1 Wound on the first target it strikes.</p>"
+        },
+        {
+            "id": "Bearing",
+            "name": "Bussola",
+            "description": "<p>You sense the influx of the Winds of Magic from their source. You know which direction North is.</p>"
+        },
+        {
+            "id": "Corrosive Blood (Beasts)",
+            "name": "Sangue Corrosivo (Bestie)",
+            "description": "<p>You infuse yourself with magic, lending your blood a fearsome potency. You gain the @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Corrosive Blood} Creature Trait</p>"
+        },
+        {
+            "id": "Distracting (Fire)",
+            "name": "Distrazione (Fuoco)",
+            "description": "<p>You wreathe yourself in magic, which swirls around you, distracting your foes. While the spell is active, gain the @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distracting} Creature Trait.</p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Move Object (Heavens)",
+            "name": "Muovere Oggetto (Empireo)",
+            "description": "<p>Using magic, you grab hold of an non-sentient object no larger than you, moving it with the sheer force of your will, which is considered to have a Strength equal to your Willpower. You may move the object up to Willpower Bonus yards. If anyone attempts to impede the object's movement, make a <strong>Contested Willpower/Strength</strong> Test. For every +2 SL you may increase the distance the object is moved by Willpower Bonus yards.</p>"
+        },
+        {
+            "id": "Detect Daemon",
+            "name": "Individuare Demone",
+            "description": "<p>Your spell homes in on the daemonic influences in the surrounding area. You automatically know if there is a manifested Daemon within range, be it summoned, bound into an artefact, possessing another, or similar.</p>"
+        },
+        {
+            "id": "Terrifying (Heavens)",
+            "name": "Terrificante (Empireo)",
+            "description": "<p>You gain the @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terror (1)} Creature Trait.</p>"
+        },
+        {
+            "id": "Fearsome (Shadow)",
+            "name": "Temibile (Ombre)",
+            "description": "<p>Shrouding yourself in magic, you become fearsome and intimidating. Gain @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1}. For every +3 SL, you may increase your Fear value by one.</p>"
+        },
+        {
+            "id": "Dome (Light)",
+            "name": "Cupola (Luce)",
+            "description": "<p>You create a dome of magical energy overhead, blocking incoming attacks. Anyone within the Area of Effect gains the Ward (6+) Creature Trait against magical or ranged attacks originating outside the dome. Those within may attack out of the dome as normal, and the dome does not impede movement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Perhaps because they are magical, wear a special talisman, or are just plain lucky, some blows just seem to miss. Roll [[/r 1d10]] after any blow is received, if the creature rolls Rating or higher, the blow is ignored, even if it is a critical.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Chain Attack (Life)",
+            "name": "Attacco Concatenato (Vita)",
+            "description": "<p>You channel a twisting spur of rupturing magic into your target. This is a Magic Missile&nbsp;with a Damage of +4. If Chain Attack reduces a target to 0 Wounds, it leaps to another target within the spell's initial range, and within Willpower Bonus yards of the previous target, inflicting the same Damage again. It may leap a maximum number of times equal to your Willpower Bonus. For every +2 SL achieved, it may chain to an additional target.</p>"
+        },
+        {
+            "id": "Protection from Rain",
+            "name": "Protezione dalla Pioggia",
+            "description": "<p>You can keep yourself dry whatever the weather, unaffected by precipitation. This affects rain, hail, sleet and snow, and any similar water falling from the heavens, but not standing water.</p>"
+        },
+        {
+            "id": "Gust",
+            "name": "Folata",
+            "description": "<p>You create a brief gust of wind, strong enough to blow out a candle, cause an open door to slam, or blow a few pages to the floor.</p>"
+        },
+        {
+            "id": "Octagram",
+            "name": "Octacolo",
+            "description": "<p>Daubing an octagram to the floor, and marking it with unholy symbols, you ward against all daemonic influence. Those with the @Compendium[wfrp4e-core.traits.v3uzEthcq0JRar0J]{Daemonic} Creature Trait cannot enter or leave the octagram unless their Willpower is more than twice yours.&nbsp;</p>"
+        },
+        {
+            "id": "Dark Vision (Shadow)",
+            "name": "Vista Oscura (Ombre)",
+            "description": "<p>You boost your Second Sight to assist your mundane senses. While the spell is active, gain the @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Dark Vision} Creature Trait</p>"
+        },
+        {
+            "id": "Blight",
+            "name": "Rovina",
+            "description": "<p>You may target either a well, a field, or a domestic animal. If you successfully cast the spell, the target suffers from a blight:</p>\n<ul type=\"disc\">\n<li>A blighted well becomes instantly brackish and stagnant</li>\n<li>Any crops currently planted in a Blighted field rot overnight</li>\n<li>A blighted animal sickens. The afflicted beast no longer produces anything (cows produce no milk, hens produce no eggs, coats and hides grow mangy and unusable) and will die in 10-SL days</li>\n</ul>"
+        },
+        {
+            "id": "Drain",
+            "name": "Risucchio",
+            "description": "<p>You touch your targets, draining their life. This counts as a Magic Missile with Damage +0 that ignores Armor Points. You then Heal 1 Wound.</p>"
+        },
+        {
+            "id": "Speed of Thought",
+            "name": "Velocità di Pensiero",
+            "description": "<p>A lattice of <em>Hysh</em> overlays your mind, allowing you to think rapidly. Gain a bonus of +20 to Intelligence and Initiative.</p>"
+        },
+        {
+            "id": "Doppelganger",
+            "name": "Sosia",
+            "description": "<p>You weave a mask and cloak of <em>Ulgu</em> around your form, assuming the likeness of another humanoid creature with whom you are familiar (as determined by the GM). Your appearance will automatically fool anyone without the @Compendium[wfrp4e-core.talents.OEjUvJKi0xmBwbS2]{Second Sight}&nbsp;Talent, though some may note if any of your mannerisms are incorrect. Those with that Talent must pass a <strong>Difficult (-10) Perception</strong> Test to notice you are disguising your form. This does not let them see through the spell. They must dispel it to do so.</p>"
+        },
+        {
+            "id": "Bridge (Daemonology)",
+            "name": "Ponte (Demonologia)",
+            "description": "<p>You create a bridge of magical energy, with a maximum length and breadth of your Willpower Bonus in yards. For every +2 SL you may increase length or breadth by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Aethyric Arms",
+            "name": "Arma Aethyrica",
+            "description": "<p>You create a melee weapon with a Damage equal to your Willpower Bonus. This may take any form, and so use any Melee Skill you may possess. The weapon counts as Magical.</p>"
+        },
+        {
+            "id": "Illusion",
+            "name": "Illusione",
+            "description": "<p>You spin a web of intricate strands of <em>Ulgu</em>, obfuscating the Area of Effect with an illusory image of your choosing. You will automatically fool anyone without the @Compendium[wfrp4e-core.talents.OEjUvJKi0xmBwbS2]{Second Sight}&nbsp;Talent. Those with that Talent must pass a <strong>Difficult (-10) Perception</strong> Test to notice the illusion. This does not let them see through the spell. They must dispel it to do so. The illusion is, by default, static. For your Action, you may make a <strong>Hard (-20) Channeling</strong> Test to make the illusion move for that Round.</p>"
+        },
+        {
+            "id": "Drop (Shadow)",
+            "name": "Gettare (Ombre)",
+            "description": "<p>You channel magic into an object being held by an opponent. This could be a weapon, a rope, or someone's hand. Unless a <strong>Challenging (+0) Dexterity</strong> Test is passed, the item is dropped. For every +2 SL you may impose an additional -10 on the Dexterity Test.</p>"
+        },
+        {
+            "id": "Daemonbane",
+            "name": "Flagello del Demone",
+            "description": "<p>You summon a blast of <em>Hysh</em> that passes through the border between the Realm of Chaos and the material world. The Casting Test is Opposed by the target making a Willpower Test. If you win, you obliterate a target with the <em>Daemonic</em> Creature Trait with a blinding white light, sending it back whence it came. If the spell successfully banishes a Daemon, everyone looking at your target, unless they possess the <em>Arcane Magic (Light)</em> Talent, receives +SL <em>Blinded</em>&nbsp;Conditions.</p>"
+        },
+        {
+            "id": "Bridge (Life)",
+            "name": "Ponte (Vita)",
+            "description": "<p>You create a bridge of magical energy, with a maximum length and breadth of your Willpower Bonus in yards. For every +2 SL you may increase length or breadth by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Warning",
+            "name": "Avvertimento",
+            "description": "<p>You channel magic into an object, noticing immediately if it has been poisoned or trapped.</p>"
+        },
+        {
+            "id": "Bridge (Light)",
+            "name": "Ponte (Luce)",
+            "description": "<p>You create a bridge of magical energy, with a maximum length and breadth of your Willpower Bonus in yards. For every +2 SL you may increase length or breadth by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Haunting Horror",
+            "name": "Orrore Infestante",
+            "description": "<p>You target a single location, such as a house or clearing, and inflict haunting dreams and waking nightmares on any who enter there. Those entering while the spell is in effect are unnerved by eerie sensations, flitting shadows, and whispered voices lurking on the threshold of hearing. Unless they possess the <em>Arcane Magic (Witchcraft)</em> Talent, they gain +1 @Condition[Fatigued] Condition. Then, unless they pass an <strong>Average (+0) Cool </strong>Test, they gain another +1 @Condition[Fatigued] Condition and the @Condition[Broken] Condition, both of which are only removed upon leaving the location.</p>"
+        },
+        {
+            "id": "Magic Shield (Life)",
+            "name": "Scudo Magico (Vita)",
+            "description": "<p>You encase yourself in bands of protective magic. While the spell is active, add +Willpower Bonus SL to any dispel attempts you make.</p>"
+        },
+        {
+            "id": "Flight (Light)",
+            "name": "Volo (Luce)",
+            "description": "<p><span style=\"color: #231f20;\">You can fly, whether by sprouting wings, ascending on a pillar of magical light, or some other method. Gain the @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Flight (Agility)}</span><span style=\"color: #231f20;\"> Creature Trait.</span></p>"
+        },
+        {
+            "id": "Flight (Life)",
+            "name": "Volo (Vita)",
+            "description": "<p><span style=\"color: #231f20;\">You can fly, whether by sprouting wings, ascending on a pillar of magical light, or some other method. Gain the @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Flight (Agility)}</span><span style=\"color: #231f20;\"> Creature Trait.</span></p>"
+        },
+        {
+            "id": "Distracting (Metal)",
+            "name": "Distrazione (Metallo)",
+            "description": "<p>You wreathe yourself in magic, which swirls around you, distracting your foes. While the spell is active, gain the @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distracting} Creature Trait.</p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Hunter's Hide",
+            "name": "Pelle del Cacciatore",
+            "description": "<p>You cloak yourself in a shimmering mantle of Ghur. While the spell lasts, gain a bonus of +20 Toughness and the @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Dark Vision} and @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear (1)} Creature Traits, as well as the @Compendium[wfrp4e-core.talents.9h82z72XGo9tfgQS]{Acute Sense}&nbsp;Talent.</p>"
+        },
+        {
+            "id": "Breath (Death)",
+            "name": "Soffio (Morte)",
+            "description": "<p>You immediately make a Breath attack, as if you had spent 2 Advantage to activate the @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Breath} Creature Trait. Breath is a Magic Missile with a Damage equal to your Toughness Bonus. The GM decides which type of Breath attack best suits your Arcane Magic Talent.</p>"
+        },
+        {
+            "id": "Destroy Lesser Demon",
+            "name": "Distruggere Demone Minore",
+            "description": "<p>Your spell disrupts the <em>Dhar </em>holding a target Daemon together, and draws it back to you. A target with the Daemonic Creature Trait and a lower Willpower than you loses Wounds equal to your Willpower Bonus, ignoring Toughness Bonus or Armor Points. In turn, you may increase one of your Characteristic by +10 for the duration as you siphon profane energies.</p>"
+        },
+        {
+            "id": "Breath (Beasts)",
+            "name": "Soffio (Bestie)",
+            "description": "<p>You immediately make a Breath attack, as if you had spent 2 Advantage to activate the @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Breath} Creature Trait. Breath is a Magic Missile with a Damage equal to your Toughness Bonus. The GM decides which type of Breath attack best suits your Arcane Magic Talent.</p>"
+        },
+        {
+            "id": "Bolt",
+            "name": "Strale",
+            "description": "<p>You channel magic into a damaging bolt. Bolt is a Magic Missile with a Damage of +4.</p>"
+        },
+        {
+            "id": "Mundane Aura (Heavens)",
+            "name": "Aura Mondana (Empireo)",
+            "description": "<p>You drain all the Winds of Magic from within your body and your possessions, removing any magical aura. For the duration of the spell you appear mundane to the Magical Sense Talent and similar. You effectively have no magical ability and your magical nature cannot be detected by any means. While this spell is in effect, you cannot cast any other spells. Mundane Aura is immediately dispelled if you make a Channeling Test.</p>"
+        },
+        {
+            "id": "Drop (Heavens)",
+            "name": "Gettare (Empireo)",
+            "description": "<p>You channel magic into an object being held by an opponent. This could be a weapon, a rope, or someone's hand. Unless a <strong>Challenging (+0) Dexterity</strong> Test is passed, the item is dropped. For every +2 SL you may impose an additional -10 on the Dexterity Test.</p>"
+        },
+        {
+            "id": "Blast (Fire)",
+            "name": "Scoppio (Fuoco)",
+            "description": "<p>You channel magic into an explosive blast. This is a Magic Missile with Damage +3 that targets everyone in the Area of Effect.</p>"
+        },
+        {
+            "id": "Entangle (Light)",
+            "name": "Aggrovigliare (Luce)",
+            "description": "<p>Using magic, you entrap your target, wrapping them in whatever suits your Lore: vines, shadows, their own clothing&hellip; Your target gains one @Condition[Entangled] Condition with a Strength equal to your Intelligence. For every +2 SL, you may give the target +1 additional <em>Entangled</em> Condition. The spell lasts until all Entangled Conditions are removed.</p>"
+        },
+        {
+            "id": "Push (Life)",
+            "name": "Spinta (Vita)",
+            "description": "<p>All living creatures within Willpower Bonus yards are pushed back your Willpower Bonus in yards and gain the @Condition[Prone] Condition. If this brings them into contact with a wall or other large obstacle, they take Damage equal to the distance travelled in yards. For every +2 SL, you may push creatures back another Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Purge",
+            "name": "Epurare",
+            "description": "<p>You funnel intense flame to burn away the taint and corruption in an area. Anything flammable is set alight, and any creatures in the area takes +SL @Condition[Ablaze]<em> </em>conditions. If the location contains a Corrupting Influence, such as Dhar, warpstone, or a Chaos-tainted object, it too will smolder and blacken, beginning to burn. This spell may be maintained in subsequent rounds by passing a <strong>Challenging (+0) Channeling</strong> Test. The precise time needed to eliminate the Corrupting Influence will be determined by your GM. As a rough guideline, a small quantity (smaller than an acorn) of warpstone, or a minor Chaos-tainted object may require 10&ndash;Willpower Bonus Rounds (minimum of 1 Round). A larger quantity of warpstone &mdash; fist-sized &mdash; or a more potent Chaos-tainted object may require double this. A powerful Chaos Artefact may take hours, or even longer&hellip; See @JournalEntry[Corruption].</p>"
+        },
+        {
+            "id": "Purple Pall of Shyish",
+            "name": "Feretro Purpureo di Shyish",
+            "description": "<p>You pull about you a pall fashioned from fine strands of purple magic. Gain +Willpower Bonus Armor Points on all locations, and the @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear (1)} Creature Trait. For every +2 SL you may increase your Fear rating by 1.</p>"
+        },
+        {
+            "id": "Bolt (Daemonology)",
+            "name": "Strale (Demonologia)",
+            "description": "<p>You channel magic into a damaging bolt. Bolt is a Magic Missile with a Damage of +4.</p>"
+        },
+        {
+            "id": "Push (Death)",
+            "name": "Spinta (Morte)",
+            "description": "<p>All living creatures within Willpower Bonus yards are pushed back your Willpower Bonus in yards and gain the @Condition[Prone] Condition. If this brings them into contact with a wall or other large obstacle, they take Damage equal to the distance travelled in yards. For every +2 SL, you may push creatures back another Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Corrosive Blood (Death)",
+            "name": "Sangue Corrosivo (Morte)",
+            "description": "<p>You infuse yourself with magic, lending your blood a fearsome potency. You gain the @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Corrosive Blood} Creature Trait</p>"
+        },
+        {
+            "id": "Move Object (Death)",
+            "name": "Muovere Oggetto (Morte)",
+            "description": "<p>Using magic, you grab hold of an non-sentient object no larger than you, moving it with the sheer force of your will, which is considered to have a Strength equal to your Willpower. You may move the object up to Willpower Bonus yards. If anyone attempts to impede the object's movement, make a <strong>Contested Willpower/Strength</strong> Test. For every +2 SL you may increase the distance the object is moved by Willpower Bonus yards.</p>"
+        },
+        {
+            "id": "Push (Metal)",
+            "name": "Spinta (Metallo)",
+            "description": "<p>All living creatures within Willpower Bonus yards are pushed back your Willpower Bonus in yards and gain the @Condition[Prone] Condition. If this brings them into contact with a wall or other large obstacle, they take Damage equal to the distance travelled in yards. For every +2 SL, you may push creatures back another Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Dome (Necromancy)",
+            "name": "Cupola (Necromanzia)",
+            "description": "<p>You create a dome of magical energy overhead, blocking incoming attacks. Anyone within the Area of Effect gains the Ward (6+) Creature Trait against magical or ranged attacks originating outside the dome. Those within may attack out of the dome as normal, and the dome does not impede movement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Perhaps because they are magical, wear a special talisman, or are just plain lucky, some blows just seem to miss. Roll [[/r 1d10]] after any blow is received, if the creature rolls Rating or higher, the blow is ignored, even if it is a critical.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Ward (Light)",
+            "name": "Protezione (Luce)",
+            "description": "<p>You wrap yourself in protective magic, gaining the @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)} Creature Trait.</p>"
+        },
+        {
+            "id": "Teleport (Metal)",
+            "name": "Teletrasporto (Metallo)",
+            "description": "<p>Using magic, you can teleport up to your Willpower Bonus in yards. This movement allows you to traverse gaps, avoid perils and pitfalls, and ignore obstacles. For every +2 SL you may increase the distance travelled by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Scythe of Shyish",
+            "name": "Falce di Shyish",
+            "description": "<p>You conjure a magical scythe, which can be wielded in combat, using the Melee (Polearm) Skill. It acts like a normal scythe with a Damage equal to your Willpower Bonus+3. Enemies with the @Compendium[wfrp4e-core.traits.PFTD9gDvRWW9uh5g]{Undead} Creature Trait do not receive Advantage when Engaged in combat with you.</p>"
+        },
+        {
+            "id": "Terrifying (Necromancy)",
+            "name": "Terrificante (Necromanzia)",
+            "description": "<p>You gain the @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terror (1)} Creature Trait.</p>"
+        },
+        {
+            "id": "Dart",
+            "name": "Dardo",
+            "description": "<p>You cause a small dart of magical energy to fly from your fingers. This is a Magic Missile with a Damage of +0.</p>"
+        },
+        {
+            "id": "Mundane Aura",
+            "name": "Aura Mondana",
+            "description": "<p>You drain all the Winds of Magic from within your body and your possessions, removing any magical aura. For the duration of the spell you appear mundane to the Magical Sense Talent and similar. You effectively have no magical ability and your magical nature cannot be detected by any means. While this spell is in effect, you cannot cast any other spells. Mundane Aura is immediately dispelled if you make a Channeling Test.</p>"
+        },
+        {
+            "id": "Part the Branches",
+            "name": "Scostare i Rami",
+            "description": "<p>Your pupils dilate as you complete your incantation, and you are able to see into the Spirit world. This allows you to perceive invisible creatures, spirits, and Daemons, even those marked as impossible to see.</p>"
+        },
+        {
+            "id": "Blast (Heavens)",
+            "name": "Scoppio (Empireo)",
+            "description": "<p>You channel magic into an explosive blast. This is a Magic Missile with Damage +3 that targets everyone in the Area of Effect.</p>"
+        },
+        {
+            "id": "Move Object (Fire)",
+            "name": "Muovere Oggetto (Fuoco)",
+            "description": "<p>Using magic, you grab hold of an non-sentient object no larger than you, moving it with the sheer force of your will, which is considered to have a Strength equal to your Willpower. You may move the object up to Willpower Bonus yards. If anyone attempts to impede the object's movement, make a <strong>Contested Willpower/Strength</strong> Test. For every +2 SL you may increase the distance the object is moved by Willpower Bonus yards.</p>"
+        },
+        {
+            "id": "Mystifying Miasma",
+            "name": "Miasma Ingannatore",
+            "description": "<p>You conjure forth a swirling mass of mist shot through with roiling shadow that flits and confounds the senses. Anyone within the mist who does not possess the <em>Arcane Magic (Shadows)</em> Talent is affected by the Miasma, gaining +1 @Condition[Blinded], @Condition[Deafened], and @Condition[Fatigued] Condition, which remain for the spell&rsquo;s duration. Anyone affected attempting to move must pass a <strong>Challenging (+0) Perception</strong> Test, or gain the @Condition[Prone]<em> </em>Condition. If the spell is dispelled once in play, anyone affected by the spell must make a <strong>Routine (+40) Initiative</strong> Test, or gain the @Condition[Stunned] Condition.</p>"
+        },
+        {
+            "id": "Flight (Heavens)",
+            "name": "Volo (Empireo)",
+            "description": "<p><span style=\"color: #231f20;\">You can fly, whether by sprouting wings, ascending on a pillar of magical light, or some other method. Gain the @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Flight (Agility)}</span><span style=\"color: #231f20;\"> Creature Trait.</span></p>"
+        },
+        {
+            "id": "Ward (Beasts)",
+            "name": "Protezione (Bestie)",
+            "description": "<p>You wrap yourself in protective magic, gaining the @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)} Creature Trait.</p>"
+        },
+        {
+            "id": "Aethyric Arms (Life)",
+            "name": "Arma Aethyrica (Vita)",
+            "description": "<p>You create a melee weapon with a Damage equal to your Willpower Bonus. This may take any form, and so use any Melee Skill you may possess. The weapon counts as Magical.</p>"
+        },
+        {
+            "id": "Bolt (Beasts)",
+            "name": "Strale (Bestie)",
+            "description": "<p>You channel magic into a damaging bolt. Bolt is a Magic Missile with a Damage of +4.</p>"
+        },
+        {
+            "id": "Ward (Fire)",
+            "name": "Protezione (Fuoco)",
+            "description": "<p>You wrap yourself in protective magic, gaining the @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)} Creature Trait.</p>"
+        },
+        {
+            "id": "Aethyric Arms (Beasts)",
+            "name": "Arma Aethyrica (Bestie)",
+            "description": "<p>You create a melee weapon with a Damage equal to your Willpower Bonus. This may take any form, and so use any Melee Skill you may possess. The weapon counts as Magical.</p>"
+        },
+        {
+            "id": "Bridge (Beasts)",
+            "name": "Ponte (Bestie)",
+            "description": "<p>You create a bridge of magical energy, with a maximum length and breadth of your Willpower Bonus in yards. For every +2 SL you may increase length or breadth by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Aqshy's Aegis",
+            "name": "Egida dell'Aqshy",
+            "description": "<p>You wrap yourself in a fiery cloak of Aqshy, which channels flame into the Aegis. You are completely immune to damage from non-magical fire, including the breath attacks of monsters, and ignore any Ablaze Conditions you receive. You receive the @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)} Creature Trait against magical fire attacks including spells from the Lore of Fire.</p>"
+        },
+        {
+            "id": "Shadowstep",
+            "name": "Passo d'Ombra",
+            "description": "<p>You create a shadowy portal of <em>Ulgu</em> through the Aethyr. You disappear from your current location and immediately appear up to your Willpower yards away. Any enemies Engaged by you on your disappearance or reappearance gain the @Condition[Surprised] Condition.</p>"
+        },
+        {
+            "id": "Bolt (Life)",
+            "name": "Strale (Vita)",
+            "description": "<p>You channel magic into a damaging bolt. Bolt is a Magic Missile with a Damage of +4.</p>"
+        },
+        {
+            "id": "Push (Light)",
+            "name": "Spinta (Luce)",
+            "description": "<p>All living creatures within Willpower Bonus yards are pushed back your Willpower Bonus in yards and gain the @Condition[Prone] Condition. If this brings them into contact with a wall or other large obstacle, they take Damage equal to the distance travelled in yards. For every +2 SL, you may push creatures back another Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Ward (Daemonology)",
+            "name": "Protezione (Demonologia)",
+            "description": "<p>You wrap yourself in protective magic, gaining the @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)} Creature Trait.</p>"
+        },
+        {
+            "id": "Bolt (Light)",
+            "name": "Strale (Luce)",
+            "description": "<p>You channel magic into a damaging bolt. Bolt is a Magic Missile with a Damage of +4.</p>"
+        },
+        {
+            "id": "Arrow Shield (Fire)",
+            "name": "Riparo dalle Frecce (Fuoco)",
+            "description": "<p>Any missiles containing organic matter, such as arrows with wooden shafts, are automatically destroyed if they pass within the Area of Effect, causing no damage to their target. Missiles comprising only inorganic matter, such as throwing knives or pistol shots, are unaffected.</p>"
+        },
+        {
+            "id": "Entangle",
+            "name": "Aggrovigliare",
+            "description": "<p>Using magic, you entrap your target, wrapping them in whatever suits your Lore: vines, shadows, their own clothing&hellip; Your target gains one @Condition[Entangled] Condition with a Strength equal to your Intelligence. For every +2 SL, you may give the target +1 additional <em>Entangled</em> Condition. The spell lasts until all Entangled Conditions are removed.</p>"
+        },
+        {
+            "id": "Beast Form",
+            "name": "Forma della Bestia",
+            "description": "<p>You infuse your very bones and flesh with <em>Ghur</em>, warping your body into that of a creature. When cast, select a new form from any of the Beasts of the Reikland section of the Bestiary. Gain all the standard Traits of the creature, except the <em>Bestial</em> Trait. Further, replace your <strong>S</strong>, <strong>T</strong>, <strong>Agi</strong>, and <strong>Dex</strong> with those of the creature, then recalculate your Wounds. For every + 2 SL, you may include 1 of the included Optional Creature Trait.</p>\n<p>While in Beast Form, you look like a normal version of the creature, with amber and brown coloring. You may not speak, which means you cannot cast spells, or attempt to dispel. If you have lost any Wounds when the spell ends, you lose the same number of Wounds when you revert to your True form, to a minimum of 0 Wounds</p>"
+        },
+        {
+            "id": "Bolt (Fire)",
+            "name": "Strale (Fuoco)",
+            "description": "<p>You channel magic into a damaging bolt. Bolt is a Magic Missile with a Damage of +4.</p>"
+        },
+        {
+            "id": "Drop",
+            "name": "Gettare",
+            "description": "<p>You channel magic into an object being held by an opponent. This could be a weapon, a rope, or someone's hand. Unless a <strong>Challenging (+0) Dexterity</strong> Test is passed, the item is dropped. For every +2 SL you may impose an additional -10 on the Dexterity Test.</p>"
+        },
+        {
+            "id": "Rot",
+            "name": "Marcescenza",
+            "description": "<p>You cause a roughly fist-sized volume of organic material to immediately rot. Food stuffs perish, clothes crumble, leathers shrivel (losing 1 Armor Point on 1 hit location), and similar, as dictated by the GM.</p>"
+        },
+        {
+            "id": "Fearsome (Beasts)",
+            "name": "Temibile (Bestie)",
+            "description": "<p>Shrouding yourself in magic, you become fearsome and intimidating. Gain @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1}. For every +3 SL, you may increase your Fear value by one.</p>"
+        },
+        {
+            "id": "Breath (Daemonology)",
+            "name": "Soffio (Demonologia)",
+            "description": "<p>You immediately make a Breath attack, as if you had spent 2 Advantage to activate the @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Breath} Creature Trait. Breath is a Magic Missile with a Damage equal to your Toughness Bonus. The GM decides which type of Breath attack best suits your Arcane Magic Talent.</p>"
+        },
+        {
+            "id": "Starcrossed",
+            "name": "Sventura",
+            "description": "<p>While this spell is active, you can spend Fortune Points to force an opponent to reroll Tests.</p>"
+        },
+        {
+            "id": "Stream of Corruption",
+            "name": "Flusso di Corruzione",
+            "description": "<p>Your maw distends horrifically before you vomit forth a foul stream of diseased filth and horror. Immediately make a Breath attack as if you had spent 2 Advantage to activate the @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Breath} Creature Trait. It counts as a Magic Missile with a Damage equal to your Toughness Bonus, and it ignores Armor Points. The attack also has the <em>Corrosive</em> and <em>Poison</em> Traits listed under the Breath Creature Trait. Further, should any targets take more than their Toughness Bonus in Wounds, they must pass a <strong>Challenging (+0) Endurance</strong> Test or contract @Compendium[wfrp4e-core.diseases.M8XyRs9DN12XsFTQ]{Blood Rot}. For every +2 SL achieved, you may also increase Damage by +2.</p>"
+        },
+        {
+            "id": "Spring",
+            "name": "Sorgente",
+            "description": "<p>You touch the ground and water bubbles forth at the rate of 1 pint per Round, to a total of your Initiative Bonus in pints.</p>"
+        },
+        {
+            "id": "Magic Shield (Metal)",
+            "name": "Scudo Magico (Metallo)",
+            "description": "<p>You encase yourself in bands of protective magic. While the spell is active, add +Willpower Bonus SL to any dispel attempts you make.</p>"
+        },
+        {
+            "id": "Enchant Weapon",
+            "name": "Incantare Arma",
+            "description": "<p>You encase a single non-magical weapon with heavy bands of Chamon, enhancing its potency. For the duration of the spell it counts as magical, gains a bonus to Damage equal to your Willpower Bonus, and gains the <em>Unbreakable</em> Quality. For every +3 SL you may also add 1 Quality or remove 1 Flaw from the weapon, while the spell is in effect.</p>"
+        },
+        {
+            "id": "Aethyric Armour (Fire)",
+            "name": "Armatura Aethyrica (Fuoco)",
+            "description": "<p>You gain +1 Armor Point to all Hit Locations as you wrap yourself in a protective swathe of magic.</p>"
+        },
+        {
+            "id": "Goodwill",
+            "name": "Benevolenza",
+            "description": "<p>You create an atmosphere conducive to friendliness and good spirits. All Fellowship Tests within the Area of Effect receive a bonus of +10, and Animosity and Hatred Psychologies have no effect.</p>"
+        },
+        {
+            "id": "Corrosive Blood (Shadow)",
+            "name": "Sangue Corrosivo (Ombre)",
+            "description": "<p>You infuse yourself with magic, lending your blood a fearsome potency. You gain the @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Corrosive Blood} Creature Trait</p>"
+        },
+        {
+            "id": "Mundane Aura (Death)",
+            "name": "Aura Mondana (Morte)",
+            "description": "<p>You drain all the Winds of Magic from within your body and your possessions, removing any magical aura. For the duration of the spell you appear mundane to the Magical Sense Talent and similar. You effectively have no magical ability and your magical nature cannot be detected by any means. While this spell is in effect, you cannot cast any other spells. Mundane Aura is immediately dispelled if you make a Channeling Test.</p>"
+        },
+        {
+            "id": "Arrow Shield (Light)",
+            "name": "Riparo dalle Frecce (Luce)",
+            "description": "<p>Any missiles containing organic matter, such as arrows with wooden shafts, are automatically destroyed if they pass within the Area of Effect, causing no damage to their target. Missiles comprising only inorganic matter, such as throwing knives or pistol shots, are unaffected.</p>\n\n <b>Lore:</b> You may inflict one Blinded Condition on those targeted by Lore of Light spells, unless they possess the Arcane Magic (Light) Talent. If a target has the Daemonic or Undead Creature Traits, spells also inflict an additional hit with Damage equal to your Intelligence Bonus that ignores Toughness Bonus and Armor Points."
+        },
+        {
+            "id": "Curse of Crippling Pain",
+            "name": "Maledizione del Dolore Paralizzante",
+            "description": "<p>Stabbing a crude representation of your target - a doll or puppet - you inflict crippling pain. When successfully cast, choose which hit location to stab:</p>\n<ul type=\"disc\">\n<li>Leg - Leg becomes useless, as if it was Amputated. If running, the target also gains the Prone Condition and takes falling Damage.</li>\n</ul>\n<ul type=\"disc\">\n<li>Arm - Arm becomes useless, as if it was Amputated. If target was holding anything in that hand, it is automatically dropped.</li>\n</ul>\n<ul type=\"disc\">\n<li>Body - Target doubles up in agony, gaining +1 <em>Fatigued </em>Condition, and must pass a Hard (-20) Endurance Test or gain the <em>Prone</em> Condition.</li>\n<li>Head - Target gains the <em>Stunned</em>&nbsp;Condition, and must pass an Average (+20) Endurance Test or gain the <em>Unconscious </em>Condition for the Duration.</li>\n</ul>\n<p>While the spell is in effect, for your Action you may make a Channeling Test, stabbing the doll again, to affect a different location.</p>"
+        },
+        {
+            "id": "Drop (Metal)",
+            "name": "Gettare (Metallo)",
+            "description": "<p>You channel magic into an object being held by an opponent. This could be a weapon, a rope, or someone's hand. Unless a <strong>Challenging (+0) Dexterity</strong> Test is passed, the item is dropped. For every +2 SL you may impose an additional -10 on the Dexterity Test.</p>"
+        },
+        {
+            "id": "Aethyric Arms (Daemonology)",
+            "name": "Arma Aethyrica (Demonologia)",
+            "description": "<p>You create a melee weapon with a Damage equal to your Willpower Bonus. This may take any form, and so use any Melee Skill you may possess. The weapon counts as Magical.</p>"
+        },
+        {
+            "id": "Breath (Metal)",
+            "name": "Soffio (Metallo)",
+            "description": "<p>You immediately make a Breath attack, as if you had spent 2 Advantage to activate the @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Breath} Creature Trait. Breath is a Magic Missile with a Damage equal to your Toughness Bonus. The GM decides which type of Breath attack best suits your Arcane Magic Talent.</p>"
+        },
+        {
+            "id": "Entangle (Beasts)",
+            "name": "Aggrovigliare (Bestie)",
+            "description": "<p>Using magic, you entrap your target, wrapping them in whatever suits your Lore: vines, shadows, their own clothing&hellip; Your target gains one @Condition[Entangled] Condition with a Strength equal to your Intelligence. For every +2 SL, you may give the target +1 additional <em>Entangled</em> Condition. The spell lasts until all Entangled Conditions are removed.</p>"
+        },
+        {
+            "id": "Corrosive Blood (Heavens)",
+            "name": "Sangue Corrosivo (Empireo)",
+            "description": "<p>You infuse yourself with magic, lending your blood a fearsome potency. You gain the @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Corrosive Blood} Creature Trait</p>"
+        },
+        {
+            "id": "Creeping Menace",
+            "name": "Minaccia Strisciante",
+            "description": "<p>You summon a swarm of creeping, slithering creatures to harass your foes. Each target affected is immediately engaged by a swarm of Giant Rats, Giant Spiders, or Snakes. Use the standard profiles for the relevant creature type, adding the Swarm Trait. For your Action you may make a <strong>Challenging (+0) Charm Animal</strong> Test to direct 1 or more swarms to attack a different target. When the spell ends, any remaining swarms disappear into the shadows.</p>"
+        },
+        {
+            "id": "Ward (Shadow)",
+            "name": "Protezione (Ombre)",
+            "description": "<p>You wrap yourself in protective magic, gaining the @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)} Creature Trait.</p>"
+        },
+        {
+            "id": "Mundane Aura (Daemonology)",
+            "name": "Aura Mondana (Demonologia)",
+            "description": "<p>You drain all the Winds of Magic from within your body and your possessions, removing any magical aura. For the duration of the spell you appear mundane to the Magical Sense Talent and similar. You effectively have no magical ability and your magical nature cannot be detected by any means. While this spell is in effect, you cannot cast any other spells. Mundane Aura is immediately dispelled if you make a Channeling Test.</p>"
+        },
+        {
+            "id": "Drop (Necromancy)",
+            "name": "Gettare (Necromanzia)",
+            "description": "<p>You channel magic into an object being held by an opponent. This could be a weapon, a rope, or someone's hand. Unless a <strong>Challenging (+0) Dexterity</strong> Test is passed, the item is dropped. For every +2 SL you may impose an additional -10 on the Dexterity Test.</p>"
+        },
+        {
+            "id": "Dark Vision (Beasts)",
+            "name": "Vista Oscura (Bestie)",
+            "description": "<p>You boost your Second Sight to assist your mundane senses. While the spell is active, gain the @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Dark Vision} Creature Trait</p>"
+        },
+        {
+            "id": "Distracting (Shadow)",
+            "name": "Distrazione (Ombre)",
+            "description": "<p>You wreathe yourself in magic, which swirls around you, distracting your foes. While the spell is active, gain the @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distracting} Creature Trait.</p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Nepenthe",
+            "name": "Nepenthe",
+            "description": "<p>You mutter words of power over a premade potion of herbs, magically transforming it into a potent philtre. If drunk while the spell is in effect, the target may choose to completely forget one individual, permanently.</p>"
+        },
+        {
+            "id": "Cauterise",
+            "name": "Cauterizzare",
+            "description": "<p>Channeling <em>Aqshy</em> through your hands you lay them on an ally&rsquo;s wounds. Immediately heal [[/r 1d10]] Wounds and remove all <em>Bleeding </em>Conditions. Further, the wounds will not become infected.</p>\n<p>&nbsp;</p>\n<p>Targets without the <em>Arcane Magic (Fire)</em> Talent, must pass a <strong>Challenging (+0) Cool</strong> Test or scream in agony.. If Failed by &ndash;6 or more SL, the target gains the <em>Unconscious</em> Condition and is permanently scarred, waking up [[/gmr 1d10]] hours later</p>"
+        },
+        {
+            "id": "Aethyric Arms (Heavens)",
+            "name": "Arma Aethyrica (Empireo)",
+            "description": "<p>You create a melee weapon with a Damage equal to your Willpower Bonus. This may take any form, and so use any Melee Skill you may possess. The weapon counts as Magical.</p>"
+        },
+        {
+            "id": "Mundane Aura (Beasts)",
+            "name": "Aura Mondana (Bestie)",
+            "description": "<p>You drain all the Winds of Magic from within your body and your possessions, removing any magical aura. For the duration of the spell you appear mundane to the Magical Sense Talent and similar. You effectively have no magical ability and your magical nature cannot be detected by any means. While this spell is in effect, you cannot cast any other spells. Mundane Aura is immediately dispelled if you make a Channeling Test.</p>"
+        },
+        {
+            "id": "Entangle (Daemonology)",
+            "name": "Aggrovigliare (Demonologia)",
+            "description": "<p>Using magic, you entrap your target, wrapping them in whatever suits your Lore: vines, shadows, their own clothing&hellip; Your target gains one @Condition[Entangled] Condition with a Strength equal to your Intelligence. For every +2 SL, you may give the target +1 additional <em>Entangled</em> Condition. The spell lasts until all Entangled Conditions are removed.</p>"
+        },
+        {
+            "id": "Arrow Shield (Beasts)",
+            "name": "Riparo dalle Frecce (Bestie)",
+            "description": "<p>Any missiles containing organic matter, such as arrows with wooden shafts, are automatically destroyed if they pass within the Area of Effect, causing no damage to their target. Missiles comprising only inorganic matter, such as throwing knives or pistol shots, are unaffected.</p>\n\n <b>Lore:</b> Whenever you successfully cast a spell from the Lore of Beasts, you may also gain the Fear (1) Creature Trait for the next [[/r 1d10]] Rounds."
+        },
+        {
+            "id": "Dark Vision (Heavens)",
+            "name": "Vista Oscura (Empireo)",
+            "description": "<p>You boost your Second Sight to assist your mundane senses. While the spell is active, gain the @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Dark Vision} Creature Trait</p>"
+        },
+        {
+            "id": "Conserve",
+            "name": "Conserva",
+            "description": "<p>You preserve up to a day's worth of rations. During this time they will not rot, develop mold, or go stale, although they can still be harmed by external factors, such as getting wet or being burned or poisoned.</p>"
+        },
+        {
+            "id": "Terrifying (Shadow)",
+            "name": "Terrificante (Ombre)",
+            "description": "<p>You gain the @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terror (1)} Creature Trait.</p>"
+        },
+        {
+            "id": "Fearsome (Death)",
+            "name": "Temibile (Morte)",
+            "description": "<p>Shrouding yourself in magic, you become fearsome and intimidating. Gain @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1}. For every +3 SL, you may increase your Fear value by one.</p>"
+        },
+        {
+            "id": "Push (Heavens)",
+            "name": "Spinta (Empireo)",
+            "description": "<p>All living creatures within Willpower Bonus yards are pushed back your Willpower Bonus in yards and gain the @Condition[Prone] Condition. If this brings them into contact with a wall or other large obstacle, they take Damage equal to the distance travelled in yards. For every +2 SL, you may push creatures back another Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Breath",
+            "name": "Soffio",
+            "description": "<p>You immediately make a Breath attack, as if you had spent 2 Advantage to activate the @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Breath} Creature Trait. Breath is a Magic Missile with a Damage equal to your Toughness Bonus. The GM decides which type of Breath attack best suits your Arcane Magic Talent.</p>"
+        },
+        {
+            "id": "Careful Step",
+            "name": "Passo Cauto",
+            "description": "<p>The magic flowing through your feet ensures any organic matter you tread upon remains undamaged: twigs do not break, grass springs back to its original position, and even delicate flowers are unharmed. Those seeking to use the Track skill to pursue you through rural terrain suffer a -30 penalty to their Tests.</p>"
+        },
+        {
+            "id": "Entangle (Death)",
+            "name": "Aggrovigliare (Morte)",
+            "description": "<p>Using magic, you entrap your target, wrapping them in whatever suits your Lore: vines, shadows, their own clothing&hellip; Your target gains one @Condition[Entangled] Condition with a Strength equal to your Intelligence. For every +2 SL, you may give the target +1 additional <em>Entangled</em> Condition. The spell lasts until all Entangled Conditions are removed.</p>"
+        },
+        {
+            "id": "Move Object (Life)",
+            "name": "Muovere Oggetto (Vita)",
+            "description": "<p>Using magic, you grab hold of an non-sentient object no larger than you, moving it with the sheer force of your will, which is considered to have a Strength equal to your Willpower. You may move the object up to Willpower Bonus yards. If anyone attempts to impede the object's movement, make a <strong>Contested Willpower/Strength</strong> Test. For every +2 SL you may increase the distance the object is moved by Willpower Bonus yards.</p>"
+        },
+        {
+            "id": "Move Object (Daemonology)",
+            "name": "Muovere Oggetto (Demonologia)",
+            "description": "<p>Using magic, you grab hold of an non-sentient object no larger than you, moving it with the sheer force of your will, which is considered to have a Strength equal to your Willpower. You may move the object up to Willpower Bonus yards. If anyone attempts to impede the object's movement, make a <strong>Contested Willpower/Strength</strong> Test. For every +2 SL you may increase the distance the object is moved by Willpower Bonus yards.</p>"
+        },
+        {
+            "id": "Entangle (Metal)",
+            "name": "Aggrovigliare (Metallo)",
+            "description": "<p>Using magic, you entrap your target, wrapping them in whatever suits your Lore: vines, shadows, their own clothing&hellip; Your target gains one @Condition[Entangled] Condition with a Strength equal to your Intelligence. For every +2 SL, you may give the target +1 additional <em>Entangled</em> Condition. The spell lasts until all Entangled Conditions are removed.</p>"
+        },
+        {
+            "id": "Mindslip",
+            "name": "Dimenticanza",
+            "description": "<p>You conjure delicate threads of <em>Ulgu</em> in your Target's mind, causing all prior memory of you to disappear for the spell's duration. Once the spell is over, the Target must pass an <strong>Average (+20) Intelligence</strong> Test, or the memory loss becomes permanent until dispelled.</p>"
+        },
+        {
+            "id": "Aethyric Arms (Necromancy)",
+            "name": "Arma Aethyrica (Necromanzia)",
+            "description": "<p>You create a melee weapon with a Damage equal to your Willpower Bonus. This may take any form, and so use any Melee Skill you may possess. The weapon counts as Magical.</p>"
+        },
+        {
+            "id": "Entangle (Life)",
+            "name": "Aggrovigliare (Vita)",
+            "description": "<p>Using magic, you entrap your target, wrapping them in whatever suits your Lore: vines, shadows, their own clothing&hellip; Your target gains one @Condition[Entangled] Condition with a Strength equal to your Intelligence. For every +2 SL, you may give the target +1 additional <em>Entangled</em> Condition. The spell lasts until all Entangled Conditions are removed.</p>"
+        },
+        {
+            "id": "Phâ's Protection",
+            "name": "Protezione di Phâ",
+            "description": "<p>You summon a protective aura of pure, holy light. Profane creatures &mdash; those with the @Compendium[wfrp4e-core.traits.PFTD9gDvRWW9uh5g]{Undead} or @Compendium[wfrp4e-core.traits.v3uzEthcq0JRar0J]{Daemonic} Creature Trait, those with mutations, and those with more Corruption than their Willpower Bonus and Toughness Bonus combined &mdash; cannot enter the Area of Effect. Any already within the Area gain the @Condition[Broken] Condition until they leave. Creatures within the Area cannot gain any Corruption points while the spell is active.</p>"
+        },
+        {
+            "id": "Aethyric Arms (Shadow)",
+            "name": "Arma Aethyrica (Ombre)",
+            "description": "<p>You create a melee weapon with a Damage equal to your Willpower Bonus. This may take any form, and so use any Melee Skill you may possess. The weapon counts as Magical.</p>"
+        },
+        {
+            "id": "Forge of Chamon",
+            "name": "Forgia di Chamon",
+            "description": "<p>You alter the quality of a single item made of metal. You may add 1 Quality or remove 1 Flaw. For every +2 SL, you may add another Quality or remove another Flaw.</p>"
+        },
+        {
+            "id": "Fool's Gold",
+            "name": "Oro degli Sciocchi",
+            "description": "<p>You weave <em>Chamon</em> into a non-magical object made of metal, fundamentally altering its alchemical nature. For the duration of the spell, all metal in the object becomes gold. This is not an illusion: it has actually transformed into gold. When the spell ends, the item reverts to its original metal. Tis spell can ruin good weapons, make armor too heavy to wear, and turn lead coins into something much more appealing. Spot effects arising from this spell are left in the hands of the GM.</p>"
+        },
+        {
+            "id": "Crown of Flame",
+            "name": "Corona di Fiamme",
+            "description": "<p>You channel <em>Aqshy</em> into a majestic crown of inspiring fire about your brow. Gain the @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear (1)} Trait and +1 @Compendium[wfrp4e-core.talents.vCgEAetBMngR53aT]{War Leader}&nbsp;Talent while the spell is active.</p>\n<p>For every +2 SL, you may increase your <em>Fear</em> value by +1, or take War Leader&nbsp;Talent again. Furthermore, gain a bonus of +10 on all attempts to Channel and Cast with Aqshy while the spell is in effect.</p>"
+        },
+        {
+            "id": "Fearsome (Fire)",
+            "name": "Temibile (Fuoco)",
+            "description": "<p>Shrouding yourself in magic, you become fearsome and intimidating. Gain @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1}. For every +3 SL, you may increase your Fear value by one.</p>"
+        },
+        {
+            "id": "Soul Vortex",
+            "name": "Vortice d'Anime",
+            "description": "<p>You hurl a shimmering ball of Shyish which erupts into purple flames, swirling with ghostly faces, mouths agape in silent terror. Targets within the Area of Effect receive +1 @Condition[Broken] Condition. Against targets with the Undead Creature Trait, Soul Vortex is a Magic Missile with a Damage of +10 that ignores Toughness Bonus and Armor Points.</p>"
+        },
+        {
+            "id": "Magic Shield (Necromancy)",
+            "name": "Scudo Magico (Necromanzia)",
+            "description": "<p>You encase yourself in bands of protective magic. While the spell is active, add +Willpower Bonus SL to any dispel attempts you make.</p>"
+        },
+        {
+            "id": "Flight (Fire)",
+            "name": "Volo (Fuoco)",
+            "description": "<p><span style=\"color: #231f20;\">You can fly, whether by sprouting wings, ascending on a pillar of magical light, or some other method. Gain the @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Flight (Agility)}</span><span style=\"color: #231f20;\"> Creature Trait.</span></p>"
+        },
+        {
+            "id": "Bridge (Death)",
+            "name": "Ponte (Morte)",
+            "description": "<p>You create a bridge of magical energy, with a maximum length and breadth of your Willpower Bonus in yards. For every +2 SL you may increase length or breadth by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Magic Shield (Fire)",
+            "name": "Scudo Magico (Fuoco)",
+            "description": "<p>You encase yourself in bands of protective magic. While the spell is active, add +Willpower Bonus SL to any dispel attempts you make.</p>"
+        },
+        {
+            "id": "Terrifying (Metal)",
+            "name": "Terrificante (Metallo)",
+            "description": "<p>You gain the @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terror (1)} Creature Trait.</p>"
+        },
+        {
+            "id": "Move Object (Light)",
+            "name": "Muovere Oggetto (Luce)",
+            "description": "<p>Using magic, you grab hold of an non-sentient object no larger than you, moving it with the sheer force of your will, which is considered to have a Strength equal to your Willpower. You may move the object up to Willpower Bonus yards. If anyone attempts to impede the object's movement, make a <strong>Contested Willpower/Strength</strong> Test. For every +2 SL you may increase the distance the object is moved by Willpower Bonus yards.</p>"
+        },
+        {
+            "id": "Swift Passing",
+            "name": "Rapido Trapasso",
+            "description": "<p>Your touch brings the release of death to a single mortally wounded target. If you successfully touch a target with 0 wounds remaining and at least 2 Critical Wounds, death swiftly follows. Further, the target cannot be raised as Undead.</p>"
+        },
+        {
+            "id": "Chain Attack (Daemonology)",
+            "name": "Attacco Concatenato (Demonologia)",
+            "description": "<p>You channel a twisting spur of rupturing magic into your target. This is a Magic Missile&nbsp;with a Damage of +4. If Chain Attack reduces a target to 0 Wounds, it leaps to another target within the spell's initial range, and within Willpower Bonus yards of the previous target, inflicting the same Damage again. It may leap a maximum number of times equal to your Willpower Bonus. For every +2 SL achieved, it may chain to an additional target.</p>"
+        },
+        {
+            "id": "Eavesdrop",
+            "name": "Origliare",
+            "description": "<p>You can hear what your targets say as if you were standing right next to them.</p>"
+        },
+        {
+            "id": "Vanhel's Call",
+            "name": "Richiamo di Vanhel",
+            "description": "<p>You manipulate complicated flows of <em>Dhar </em>into your targets, filling them with overwhelming energy. Intelligence Bonus targets with the <em>Undead</em> Trait gain a free Move or Action - you choose one or the other to affect all targets - this is taken the moment the spell is cast. For each +2 SL you score, you may invigorate an extra Intelligence Bonus targets.</p>"
+        },
+        {
+            "id": "Distracting (Heavens)",
+            "name": "Distrazione (Empireo)",
+            "description": "<p>You wreathe yourself in magic, which swirls around you, distracting your foes. While the spell is active, gain the @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distracting} Creature Trait.</p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Blast",
+            "name": "Scoppio",
+            "description": "<p>You channel magic into an explosive blast. This is a Magic Missile with Damage +3 that targets everyone in the Area of Effect.</p>"
+        },
+        {
+            "id": "Animal Friend",
+            "name": "Amico Animale",
+            "description": "<p>You make friends with a creature that is smaller than you and possesses the Bestial creature Trait. The animal trusts you completely and regards you as a friend.</p>"
+        },
+        {
+            "id": "Drop (Death)",
+            "name": "Gettare (Morte)",
+            "description": "<p>You channel magic into an object being held by an opponent. This could be a weapon, a rope, or someone's hand. Unless a <strong>Challenging (+0) Dexterity</strong> Test is passed, the item is dropped. For every +2 SL you may impose an additional -10 on the Dexterity Test.</p>"
+        },
+        {
+            "id": "Magic Shield (Shadow)",
+            "name": "Scudo Magico (Ombre)",
+            "description": "<p>You encase yourself in bands of protective magic. While the spell is active, add +Willpower Bonus SL to any dispel attempts you make.</p>"
+        },
+        {
+            "id": "Beast Tongue",
+            "name": "Parlata delle Bestie",
+            "description": "<p>You can commune with all creatures possessing the Bestial Trait. <em>Ghur</em> clogs your throat, and your language comes out as snarls, hisses, and roars as befits the beasts to whom you talk. While the creatures are not compelled to answer you, or do as you bid, most will be curious enough to hear you out. You gain +20 on all Charm Animal and Animal Training Tests While this spell is active, you may only speak with beasts - you may not speak any civilized tongues, and can only communicate with your party using gestures or Language (Battle). Note, this also means you cannot cast any spells, or dispel, while Beast Tongue is active.</p>"
+        },
+        {
+            "id": "Entangle (Fire)",
+            "name": "Aggrovigliare (Fuoco)",
+            "description": "<p>Using magic, you entrap your target, wrapping them in whatever suits your Lore: vines, shadows, their own clothing&hellip; Your target gains one @Condition[Entangled] Condition with a Strength equal to your Intelligence. For every +2 SL, you may give the target +1 additional <em>Entangled</em> Condition. The spell lasts until all Entangled Conditions are removed.</p>"
+        },
+        {
+            "id": "Bridge (Heavens)",
+            "name": "Ponte (Empireo)",
+            "description": "<p>You create a bridge of magical energy, with a maximum length and breadth of your Willpower Bonus in yards. For every +2 SL you may increase length or breadth by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Shock",
+            "name": "Shock",
+            "description": "<p>Your target receives 1 @Condition[Stunned] Condition.</p>"
+        },
+        {
+            "id": "Bridge (Necromancy)",
+            "name": "Ponte (Necromanzia)",
+            "description": "<p>You create a bridge of magical energy, with a maximum length and breadth of your Willpower Bonus in yards. For every +2 SL you may increase length or breadth by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Purify Water",
+            "name": "Purificare Acqua",
+            "description": "<p>You purify all water within a receptacle, such as a water flask, stein, or jug. All non-magical impurities, such as poison or contaminants are removed, leaving crisp, clear, potable water. If the vessel contained another liquid that is predominantly water - such as ale, or wine - this is also purified, turning into delicious, pure, non-alcoholic water.</p>"
+        },
+        {
+            "id": "Bolt (Heavens)",
+            "name": "Strale (Empireo)",
+            "description": "<p>You channel magic into a damaging bolt. Bolt is a Magic Missile with a Damage of +4.</p>"
+        },
+        {
+            "id": "Dark Vision (Necromancy)",
+            "name": "Vista Oscura (Necromanzia)",
+            "description": "<p>You boost your Second Sight to assist your mundane senses. While the spell is active, gain the @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Dark Vision} Creature Trait</p>"
+        },
+        {
+            "id": "Flight (Daemonology)",
+            "name": "Volo (Demonologia)",
+            "description": "<p><span style=\"color: #231f20;\">You can fly, whether by sprouting wings, ascending on a pillar of magical light, or some other method. Gain the @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Flight (Agility)}</span><span style=\"color: #231f20;\"> Creature Trait.</span></p>"
+        },
+        {
+            "id": "Arrow Shield (Necromancy)",
+            "name": "Riparo dalle Frecce (Necromanzia)",
+            "description": "<p>Any missiles containing organic matter, such as arrows with wooden shafts, are automatically destroyed if they pass within the Area of Effect, causing no damage to their target. Missiles comprising only inorganic matter, such as throwing knives or pistol shots, are unaffected.</p>"
+        },
+        {
+            "id": "Distracting (Necromancy)",
+            "name": "Distrazione (Necromanzia)",
+            "description": "<p>You wreathe yourself in magic, which swirls around you, distracting your foes. While the spell is active, gain the @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distracting} Creature Trait.</p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Corrosive Blood (Daemonology)",
+            "name": "Sangue Corrosivo (Demonologia)",
+            "description": "<p>You infuse yourself with magic, lending your blood a fearsome potency. You gain the @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Corrosive Blood} Creature Trait</p>"
+        },
+        {
+            "id": "Steal Life",
+            "name": "Rubavita",
+            "description": "<p>Thin strands of purple mist connect you briefly to your target, who wastes away before your very eyes. This counts as a Magic Missile with a Damage of +6 that ignores Armor Points and inflicts +1 @Condition[Fatigued] Condition. Further, you remove all <em>Fatigued</em>&nbsp;Conditions you currently suffer, and may heal yourself up to half the Wounds the target suffers, rounding up.</p>"
+        },
+        {
+            "id": "Dying Words",
+            "name": "Ultime Parole",
+            "description": "<p>Touching the body of a recently departed soul (one that passed away within the last day), you call its soul back briefly. For the spell's duration, you can communicate with the dead soul, though it cannot take any action other than talking. It is not compelled to answer you, but the dead do not lie.</p>"
+        },
+        {
+            "id": "Mutable Metal",
+            "name": "Metallo Mutevole",
+            "description": "<p>You touch a non-magical object made of metal, which instantly becomes warm to the touch as you squeeze <em>Chamon</em> into it. You may bend and mangle the object with an <strong>Average (+20) Strength</strong> Test. If you wish to make a more complex alteration, you may attempt an <strong>Average (+20) Trade (Smith, or similar)</strong> Test instead.</p>"
+        },
+        {
+            "id": "Open Lock",
+            "name": "Aprire Serrature",
+            "description": "<p>One non-magical lock you touch opens.</p>"
+        },
+        {
+            "id": "Marsh Lights",
+            "name": "Fuochi Fatui",
+            "description": "<p>You create a number of flickering magical lights up to your Intelligence Bonus. They resemble torches or hooded lanterns. Providing they remain within line of sight, for your Action you may control the lights by passing an <strong>Average (+20) Channeling</strong> Test; a success allows you to send the lights moving in any direction. They will move at walking pace in a straight line, passing through any objects (or witnesses) in their path, unless you test again to change their direction.</p>"
+        },
+        {
+            "id": "Drop (Light)",
+            "name": "Gettare (Luce)",
+            "description": "<p>You channel magic into an object being held by an opponent. This could be a weapon, a rope, or someone's hand. Unless a <strong>Challenging (+0) Dexterity</strong> Test is passed, the item is dropped. For every +2 SL you may impose an additional -10 on the Dexterity Test.</p>"
+        },
+        {
+            "id": "Aethyric Armour (Shadow)",
+            "name": "Armatura Aethyrica (Ombre)",
+            "description": "<p>You gain +1 Armor Point to all Hit Locations as you wrap yourself in a protective swathe of magic.</p>"
+        },
+        {
+            "id": "Move Object (Shadow)",
+            "name": "Muovere Oggetto (Ombre)",
+            "description": "<p>Using magic, you grab hold of an non-sentient object no larger than you, moving it with the sheer force of your will, which is considered to have a Strength equal to your Willpower. You may move the object up to Willpower Bonus yards. If anyone attempts to impede the object's movement, make a <strong>Contested Willpower/Strength</strong> Test. For every +2 SL you may increase the distance the object is moved by Willpower Bonus yards.</p>"
+        },
+        {
+            "id": "Mundane Aura (Light)",
+            "name": "Aura Mondana (Luce)",
+            "description": "<p>You drain all the Winds of Magic from within your body and your possessions, removing any magical aura. For the duration of the spell you appear mundane to the Magical Sense Talent and similar. You effectively have no magical ability and your magical nature cannot be detected by any means. While this spell is in effect, you cannot cast any other spells. Mundane Aura is immediately dispelled if you make a Channeling Test.</p>"
+        },
+        {
+            "id": "Aethyric Armour (Heavens)",
+            "name": "Armatura Aethyrica (Empireo)",
+            "description": "<p>You gain +1 Armor Point to all Hit Locations as you wrap yourself in a protective swathe of magic.</p>"
+        },
+        {
+            "id": "Chain Attack (Light)",
+            "name": "Attacco Concatenato (Luce)",
+            "description": "<p>You channel a twisting spur of rupturing magic into your target. This is a Magic Missile&nbsp;with a Damage of +4. If Chain Attack reduces a target to 0 Wounds, it leaps to another target within the spell's initial range, and within Willpower Bonus yards of the previous target, inflicting the same Damage again. It may leap a maximum number of times equal to your Willpower Bonus. For every +2 SL achieved, it may chain to an additional target.</p>"
+        },
+        {
+            "id": "Push",
+            "name": "Spinta",
+            "description": "<p>All living creatures within Willpower Bonus yards are pushed back your Willpower Bonus in yards and gain the @Condition[Prone] Condition. If this brings them into contact with a wall or other large obstacle, they take Damage equal to the distance travelled in yards. For every +2 SL, you may push creatures back another Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Sounds",
+            "name": "Suoni",
+            "description": "<p>You create small noises nearby. You can create quiet, indistinct noises that sound as if they come from a specific location within range, regardless of line of sight. The noises can evoke something specific, such as footsteps, whispers or the howl of an animal, but nothing so distinct that it might convey a message. While the spell is active, you may control the sounds by passing a <strong>Average (+20) Channeling</strong> Test. A success allows you to move the sounds to another point within range, or to increase or decrease their volume.</p>"
+        },
+        {
+            "id": "Teleport (Light)",
+            "name": "Teletrasporto (Luce)",
+            "description": "<p>Using magic, you can teleport up to your Willpower Bonus in yards. This movement allows you to traverse gaps, avoid perils and pitfalls, and ignore obstacles. For every +2 SL you may increase the distance travelled by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Flight (Shadow)",
+            "name": "Volo (Ombre)",
+            "description": "<p><span style=\"color: #231f20;\">You can fly, whether by sprouting wings, ascending on a pillar of magical light, or some other method. Gain the @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Flight (Agility)}</span><span style=\"color: #231f20;\"> Creature Trait.</span></p>"
+        },
+        {
+            "id": "Fate's Fickle Fingers",
+            "name": "Dita Capricciose del Fato",
+            "description": "<p>All allies within the Area of Effect, excluding those with the <em>Arcane Magic (Heavens) </em>Talent, create a single pool for their Fortune Points. All may draw on the pool, first come, first served. When the spell ends, you reallocate any remaining Fortune Points as fairly as possible.</p>"
+        },
+        {
+            "id": "Bolt (Metal)",
+            "name": "Strale (Metallo)",
+            "description": "<p>You channel magic into a damaging bolt. Bolt is a Magic Missile with a Damage of +4.</p>"
+        },
+        {
+            "id": "Dome (Daemonology)",
+            "name": "Cupola (Demonologia)",
+            "description": "<p>You create a dome of magical energy overhead, blocking incoming attacks. Anyone within the Area of Effect gains the Ward (6+) Creature Trait against magical or ranged attacks originating outside the dome. Those within may attack out of the dome as normal, and the dome does not impede movement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Perhaps because they are magical, wear a special talisman, or are just plain lucky, some blows just seem to miss. Roll [[/r 1d10]] after any blow is received, if the creature rolls Rating or higher, the blow is ignored, even if it is a critical.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Magic Shield",
+            "name": "Scudo Magico",
+            "description": "<p>You encase yourself in bands of protective magic. While the spell is active, add +Willpower Bonus SL to any dispel attempts you make.</p>"
+        },
+        {
+            "id": "Aethyric Arms (Light)",
+            "name": "Arma Aethyrica (Luce)",
+            "description": "<p>You create a melee weapon with a Damage equal to your Willpower Bonus. This may take any form, and so use any Melee Skill you may possess. The weapon counts as Magical.</p>"
+        },
+        {
+            "id": "Ward (Life)",
+            "name": "Protezione (Vita)",
+            "description": "<p>You wrap yourself in protective magic, gaining the @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)} Creature Trait.</p>"
+        },
+        {
+            "id": "Chain Attack (Fire)",
+            "name": "Attacco Concatenato (Fuoco)",
+            "description": "<p>You channel a twisting spur of rupturing magic into your target. This is a Magic Missile&nbsp;with a Damage of +4. If Chain Attack reduces a target to 0 Wounds, it leaps to another target within the spell's initial range, and within Willpower Bonus yards of the previous target, inflicting the same Damage again. It may leap a maximum number of times equal to your Willpower Bonus. For every +2 SL achieved, it may chain to an additional target.</p>"
+        },
+        {
+            "id": "Bolt (Shadow)",
+            "name": "Strale (Ombre)",
+            "description": "<p>You channel magic into a damaging bolt. Bolt is a Magic Missile with a Damage of +4.</p>"
+        },
+        {
+            "id": "Arrow Shield (Heavens)",
+            "name": "Riparo dalle Frecce (Empireo)",
+            "description": "<p>Any missiles containing organic matter, such as arrows with wooden shafts, are automatically destroyed if they pass within the Area of Effect, causing no damage to their target. Missiles comprising only inorganic matter, such as throwing knives or pistol shots, are unaffected.</p>\n\n <b>Lore:</b> Spells causing Damage ignore Armour Points from metal armour, and will arc to all other targets within 2 yards, except those with the Arcane Magic (Heavens) Talent, inflicting hits with a Damage equal to your Willpower Bonus, handled like a magical missile."
+        },
+        {
+            "id": "Flaming Hearts",
+            "name": "Cuori Ardenti",
+            "description": "<p>Your voice takes on a rich resonance, echoing with Aqshy&rsquo;s fiery passion. Affected allies lose all @Condition[Broken] and @Condition[Fatigued] Conditions, and gain +1 @Compendium[wfrp4e-core.talents.J9MK0AIaTbvd5oF6]{Drilled}, @Compendium[wfrp4e-core.talents.8pVzgPkgWpTJvfhG]{Fearless}and @Compendium[wfrp4e-core.talents.IogM5gnsoOX63w7j]{Stout-hearted}&nbsp;Talent while the spell is in effect.</p>"
+        },
+        {
+            "id": "Dome (Life)",
+            "name": "Cupola (Vita)",
+            "description": "<p>You create a dome of magical energy overhead, blocking incoming attacks. Anyone within the Area of Effect gains the Ward (6+) Creature Trait against magical or ranged attacks originating outside the dome. Those within may attack out of the dome as normal, and the dome does not impede movement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Perhaps because they are magical, wear a special talisman, or are just plain lucky, some blows just seem to miss. Roll [[/r 1d10]] after any blow is received, if the creature rolls Rating or higher, the blow is ignored, even if it is a critical.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Breath (Necromancy)",
+            "name": "Soffio (Necromanzia)",
+            "description": "<p>You immediately make a Breath attack, as if you had spent 2 Advantage to activate the @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Breath} Creature Trait. Breath is a Magic Missile with a Damage equal to your Toughness Bonus. The GM decides which type of Breath attack best suits your Arcane Magic Talent.</p>"
+        },
+        {
+            "id": "Fearsome",
+            "name": "Temibile",
+            "description": "<p>Shrouding yourself in magic, you become fearsome and intimidating. Gain @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1}. For every +3 SL, you may increase your Fear value by one.</p>"
+        },
+        {
+            "id": "Protective Charm",
+            "name": "Amuleto Protettivo",
+            "description": "<p>You imbue a protective charm with a spell of protection. Those bearing the charm gain the @Compendium[wfrp4e-core.talents.eowbsW6oHGSNJmxV]{Magic Resistance} Talent. If they already have that Talent, the charm does nothing more.</p>"
+        },
+        {
+            "id": "Terrifying (Beasts)",
+            "name": "Terrificante (Bestie)",
+            "description": "<p>You gain the @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terror (1)} Creature Trait.</p>"
+        },
+        {
+            "id": "Feather of Lead",
+            "name": "Piume di Piombo",
+            "description": "<p>Calling on the golden wind, you alter the density of your target's belongings, raising or lowering their weight. For the duration of the spell, choose one effect for everyone within the area of effect:&nbsp;</p>\n<ul type=\"disc\">\n<li>Count as two steps more Overburdened</li>\n<li>Do not count as Overburdened</li>\n</ul>"
+        },
+        {
+            "id": "Mundane Aura (Shadow)",
+            "name": "Aura Mondana (Ombre)",
+            "description": "<p>You drain all the Winds of Magic from within your body and your possessions, removing any magical aura. For the duration of the spell you appear mundane to the Magical Sense Talent and similar. You effectively have no magical ability and your magical nature cannot be detected by any means. While this spell is in effect, you cannot cast any other spells. Mundane Aura is immediately dispelled if you make a Channeling Test.</p>"
+        },
+        {
+            "id": "Transmutation of Chamon",
+            "name": "Trasmutazione di Chamon",
+            "description": "<p>You wrench <em>Chamon</em> from the metals worn by your foes, and the earth itself, briefly transforming the flesh of your enemies into metal. This is a Magic Missile affecting all in the Area of Effect, with a Damage equal to your Willpower Bonus; the spell ignores Toughness Bonus and inflicts +1 <em>Blinded</em>, <em>Deafened</em>, and <em>Stunned </em>Condition, all of which last for the duration of the spell. All affected targets gain +1 Armor Point from the gold wrapped about their bodies, but also suffer from Suffocation. If targets die while the spell is in effect, they are permanently encased in a shell of base metals, a macabre reminder of the risks of sorcery</p>"
+        },
+        {
+            "id": "Aethyric Armour (Death)",
+            "name": "Armatura Aethyrica (Morte)",
+            "description": "<p>You gain +1 Armor Point to all Hit Locations as you wrap yourself in a protective swathe of magic.</p>"
+        },
+        {
+            "id": "Ward (Necromancy)",
+            "name": "Protezione (Necromanzia)",
+            "description": "<p>You wrap yourself in protective magic, gaining the @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)} Creature Trait.</p>"
+        },
+        {
+            "id": "Chain Attack (Necromancy)",
+            "name": "Attacco Concatenato (Necromanzia)",
+            "description": "<p>You channel a twisting spur of rupturing magic into your target. This is a Magic Missile&nbsp;with a Damage of +4. If Chain Attack reduces a target to 0 Wounds, it leaps to another target within the spell's initial range, and within Willpower Bonus yards of the previous target, inflicting the same Damage again. It may leap a maximum number of times equal to your Willpower Bonus. For every +2 SL achieved, it may chain to an additional target.</p>"
+        },
+        {
+            "id": "Dark Vision (Daemonology)",
+            "name": "Vista Oscura (Demonologia)",
+            "description": "<p>You boost your Second Sight to assist your mundane senses. While the spell is active, gain the @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Dark Vision} Creature Trait</p>"
+        },
+        {
+            "id": "Murmured Whisper",
+            "name": "Sussurro",
+            "description": "<p>You cast your voice at a point within Willpower yards, regardless of line of sight. Your voice sounds from this point, and all within earshot will hear it.</p>"
+        },
+        {
+            "id": "Aethyric Armour",
+            "name": "Armatura Aethyrica",
+            "description": "<p>You gain +1 Armor Point to all Hit Locations as you wrap yourself in a protective swathe of magic.</p>"
+        },
+        {
+            "id": "Fearsome (Daemonology)",
+            "name": "Temibile (Demonologia)",
+            "description": "<p>Shrouding yourself in magic, you become fearsome and intimidating. Gain @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1}. For every +3 SL, you may increase your Fear value by one.</p>"
+        },
+        {
+            "id": "Fearsome (Light)",
+            "name": "Temibile (Luce)",
+            "description": "<p>Shrouding yourself in magic, you become fearsome and intimidating. Gain @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1}. For every +3 SL, you may increase your Fear value by one.</p>"
+        },
+        {
+            "id": "Aethyric Armour (Daemonology)",
+            "name": "Armatura Aethyrica (Demonologia)",
+            "description": "<p>You gain +1 Armor Point to all Hit Locations as you wrap yourself in a protective swathe of magic.</p>"
+        },
+        {
+            "id": "Mundane Aura (Necromancy)",
+            "name": "Aura Mondana (Necromanzia)",
+            "description": "<p>You drain all the Winds of Magic from within your body and your possessions, removing any magical aura. For the duration of the spell you appear mundane to the Magical Sense Talent and similar. You effectively have no magical ability and your magical nature cannot be detected by any means. While this spell is in effect, you cannot cast any other spells. Mundane Aura is immediately dispelled if you make a Channeling Test.</p>"
+        },
+        {
+            "id": "Magic Shield (Light)",
+            "name": "Scudo Magico (Luce)",
+            "description": "<p>You encase yourself in bands of protective magic. While the spell is active, add +Willpower Bonus SL to any dispel attempts you make.</p>"
+        },
+        {
+            "id": "Fearsome (Life)",
+            "name": "Temibile (Vita)",
+            "description": "<p>Shrouding yourself in magic, you become fearsome and intimidating. Gain @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1}. For every +3 SL, you may increase your Fear value by one.</p>"
+        },
+        {
+            "id": "Choking Shadows",
+            "name": "Ombre Soffocanti",
+            "description": "<p>You wrap shadowy tendrils of <em>Ulgu</em> around your foes' necks. Assuming they need to breathe, they gain +1 <em>Fatigued</em> Condition, cannot talk, and are subject to rules for Suffocation.</p>"
+        },
+        {
+            "id": "Corrosive Blood",
+            "name": "Sangue Corrosivo",
+            "description": "<p>You infuse yourself with magic, lending your blood a fearsome potency. You gain the @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Corrosive Blood} Creature Trait</p>"
+        },
+        {
+            "id": "Dome (Death)",
+            "name": "Cupola (Morte)",
+            "description": "<p>You create a dome of magical energy overhead, blocking incoming attacks. Anyone within the Area of Effect gains the Ward (6+) Creature Trait against magical or ranged attacks originating outside the dome. Those within may attack out of the dome as normal, and the dome does not impede movement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Perhaps because they are magical, wear a special talisman, or are just plain lucky, some blows just seem to miss. Roll [[/r 1d10]] after any blow is received, if the creature rolls Rating or higher, the blow is ignored, even if it is a critical.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Blast (Light)",
+            "name": "Scoppio (Luce)",
+            "description": "<p>You channel magic into an explosive blast. This is a Magic Missile with Damage +3 that targets everyone in the Area of Effect.</p>"
+        },
+        {
+            "id": "Corrosive Blood (Fire)",
+            "name": "Sangue Corrosivo (Fuoco)",
+            "description": "<p>You infuse yourself with magic, lending your blood a fearsome potency. You gain the @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Corrosive Blood} Creature Trait</p>"
+        },
+        {
+            "id": "T'Essla's Arc",
+            "name": "Arco di T'Essla",
+            "description": "<p><span class=\"fontstyle0\">A crackling bolt of lightning shoots from your fngertips, striking your target. This is a </span><span class=\"fontstyle0\" style=\"font-size: 10pt;\">magic missile </span><span class=\"fontstyle0\">with Damage +10 that inflicts +1 </span><span class=\"fontstyle0\" style=\"font-size: 10pt;\"><em>Blinded</em> </span><span class=\"fontstyle0\">condition.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>"
+        },
+        {
+            "id": "Drop (Daemonology)",
+            "name": "Gettare (Demonologia)",
+            "description": "<p>You channel magic into an object being held by an opponent. This could be a weapon, a rope, or someone's hand. Unless a <strong>Challenging (+0) Dexterity</strong> Test is passed, the item is dropped. For every +2 SL you may impose an additional -10 on the Dexterity Test.</p>"
+        },
+        {
+            "id": "Magic Flame",
+            "name": "Fiamma Magica",
+            "description": "<p>You kindle a small flame that flickers to life in the palm of your hand. It will not burn you, but will emit heat and set flammable objects alight, like a natural flame.</p>"
+        },
+        {
+            "id": "Terrifying (Life)",
+            "name": "Terrificante (Vita)",
+            "description": "<p>You gain the @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terror (1)} Creature Trait.</p>"
+        },
+        {
+            "id": "Dome (Fire)",
+            "name": "Cupola (Fuoco)",
+            "description": "<p>You create a dome of magical energy overhead, blocking incoming attacks. Anyone within the Area of Effect gains the Ward (6+) Creature Trait against magical or ranged attacks originating outside the dome. Those within may attack out of the dome as normal, and the dome does not impede movement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Perhaps because they are magical, wear a special talisman, or are just plain lucky, some blows just seem to miss. Roll [[/r 1d10]] after any blow is received, if the creature rolls Rating or higher, the blow is ignored, even if it is a critical.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Dome (Heavens)",
+            "name": "Cupola (Empireo)",
+            "description": "<p>You create a dome of magical energy overhead, blocking incoming attacks. Anyone within the Area of Effect gains the Ward (6+) Creature Trait against magical or ranged attacks originating outside the dome. Those within may attack out of the dome as normal, and the dome does not impede movement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Perhaps because they are magical, wear a special talisman, or are just plain lucky, some blows just seem to miss. Roll [[/r 1d10]] after any blow is received, if the creature rolls Rating or higher, the blow is ignored, even if it is a critical.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Banishment",
+            "name": "Esilio",
+            "description": "<p>You send a cleansing halo of <em>Hysh</em> out from hands, affecting all creatures within the Area of Effect whose Toughness is lower than your Willpower. Targets with the <em>Undead</em> and <em>Daemonic</em> Creature Traits gain the <em>Unstable</em>&nbsp;Creature Trait. If they already have the <em>Unstable</em> Trait, they are reduced to 0 Wounds.</p>"
+        },
+        {
+            "id": "Manifest Lesser Daemon",
+            "name": "Manifestare Demone Minore",
+            "description": "<p>You channel a sickening flow of <em>Dhar</em>, briefly forcing a rent into the fabric of reality. A Lesser Daemon immediately manifests through the rent. Perform an <strong>Opposed Channel (Dhar)/Willpower</strong> Test with the Daemon. If successful, the Daemon will respond to one command issued by you, quite literally, then vanish (assuming the command is completed before the Duration ends). If failed, the Daemon immediately attacks.</p>"
+        },
+        {
+            "id": "Curse of Ill-Fortune",
+            "name": "Maledizione della Sfortuna",
+            "description": "<p>The ingredient for this spell is something belonging to the target, either a personal possession or a strand of hair. For the duration, your target suffers bad luck. Laces snap, chairs break, and other minor narrative effects inconvenience them. The target suffers a penalty of -10 to all Tests, in addition to any other modifiers, and may not spend Fortune points.</p>"
+        },
+        {
+            "id": "Nostrum",
+            "name": "Nostrum",
+            "description": "<p>You incant a spell over an already prepared draught, imbuing it with magical power. If drunk while the spell is in effect, the target immediately heals your Willpower Bonus in Wounds and is cured of one disease. For every +2 SL you may cure an extra disease.</p>"
+        },
+        {
+            "id": "Amber Talons",
+            "name": "Artigli d'Ambra",
+            "description": "<p>Your nails grow into wickedly sharp talons of crystal amber. Unarmed attacks made using Melee (Brawling) count as magical, have a Damage equal to your Willpower Bonus, and inflict +1 <em>Bleeding</em> Condition whenever they cause a loss of Wounds.</p>"
+        },
+        {
+            "id": "Bridge (Shadow)",
+            "name": "Ponte (Ombre)",
+            "description": "<p>You create a bridge of magical energy, with a maximum length and breadth of your Willpower Bonus in yards. For every +2 SL you may increase length or breadth by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Distracting",
+            "name": "Distrazione",
+            "description": "<p>You wreathe yourself in magic, which swirls around you, distracting your foes. While the spell is active, gain the @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distracting} Creature Trait.</p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Distracting (Life)",
+            "name": "Distrazione (Vita)",
+            "description": "<p>You wreathe yourself in magic, which swirls around you, distracting your foes. While the spell is active, gain the @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distracting} Creature Trait.</p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Arrow Shield (Life)",
+            "name": "Riparo dalle Frecce (Vita)",
+            "description": "<p>Any missiles containing organic matter, such as arrows with wooden shafts, are automatically destroyed if they pass within the Area of Effect, causing no damage to their target. Missiles comprising only inorganic matter, such as throwing knives or pistol shots, are unaffected.</p>\n\n <b>Lore:</b> Receive a +10 bonus to Casting and Channeling rolls when in a rural or wilderness environment. Living creatures - e.g. those without the Daemonic or Undead Creature Traits - targeted by Arcane Spells from the Lore of Life have all Fatigued and Bleeding Conditions removed after any other effects have been applied as life magic floods through them. Creatures with the Undead Creature Trait, on the other hand, suffer additional Damage equal to your Willpower Bonus, ignoring Toughness Bonus and Armor Points, if affected by any spell cast with the Lore of Life."
+        },
+        {
+            "id": "Flight (Death)",
+            "name": "Volo (Morte)",
+            "description": "<p><span style=\"color: #231f20;\">You can fly, whether by sprouting wings, ascending on a pillar of magical light, or some other method. Gain the @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Flight (Agility)}</span><span style=\"color: #231f20;\"> Creature Trait.</span></p>"
+        },
+        {
+            "id": "Wyssan's Wildform",
+            "name": "Forma Selvaggia di Wyssan",
+            "description": "<p>You call on the wild power of <em>Ghur</em> to infuse you, surrendering to its savage delights. Gain the following Creature Traits: @Compendium[wfrp4e-core.traits.rOV2s6PQBBrhpMOv]{Arboreal}, @Compendium[wfrp4e-core.traits.VUJUZVN3VYhOaPjj]{Armour (2)}, @Compendium[wfrp4e-core.traits.GbDyBCu8ZjDp6dkj]{Belligerent}, @Compendium[wfrp4e-core.traits.a8MC97PLzl10WocT]{Big}, @Compendium[wfrp4e-core.traits.pLW9SVX0TVTYPiPv]{Bite (Strength Bonus + 1)}, @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear (1)}, @Compendium[wfrp4e-core.traits.fjd1u9VAgiYzhBRp]{Fury}, @Compendium[wfrp4e-core.traits.mDgEMOoJpi8DkRYb]{Magical}, @Compendium[wfrp4e-core.traits.AtpAudHA4ybXVlWM]{Weapon (Strength Bonus + 2)}. While the spell is in place you are incapable of using any Language or Lore skills.</p>"
+        },
+        {
+            "id": "Twitch",
+            "name": "Scossone",
+            "description": "<p>You cause a small object to move, slightly. Something may fall from a shelf, or a book may slam its pages shut. If the object is held, the holder must pass an <strong>Average (+20) Dexterity</strong> Test or drop the object.</p>"
+        },
+        {
+            "id": "The Third Portent of Amul",
+            "name": "Il Terzo Portento di Amul",
+            "description": "<p><span class=\"fontstyle0\">Gain +1 Fate Point. If the Fate point is not used by the end of the Duration, it is lost.</span></p>"
+        },
+        {
+            "id": "Dome",
+            "name": "Cupola",
+            "description": "<p>You create a dome of magical energy overhead, blocking incoming attacks. Anyone within the Area of Effect gains the @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (6+)} Creature Trait against magical or ranged attacks originating outside the dome. Those within may attack out of the dome as normal, and the dome does not impede movement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Perhaps because they are magical, wear a special talisman, or are just plain lucky, some blows just seem to miss. Roll [[/r 1d10]] after any blow is received, if the creature rolls Rating or higher, the blow is ignored, even if it is a critical.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Ward (Heavens)",
+            "name": "Protezione (Empireo)",
+            "description": "<p>You wrap yourself in protective magic, gaining the @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)} Creature Trait.</p>"
+        },
+        {
+            "id": "Teleport (Fire)",
+            "name": "Teletrasporto (Fuoco)",
+            "description": "<p>Using magic, you can teleport up to your Willpower Bonus in yards. This movement allows you to traverse gaps, avoid perils and pitfalls, and ignore obstacles. For every +2 SL you may increase the distance travelled by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Chain Attack (Metal)",
+            "name": "Attacco Concatenato (Metallo)",
+            "description": "<p>You channel a twisting spur of rupturing magic into your target. This is a Magic Missile&nbsp;with a Damage of +4. If Chain Attack reduces a target to 0 Wounds, it leaps to another target within the spell's initial range, and within Willpower Bonus yards of the previous target, inflicting the same Damage again. It may leap a maximum number of times equal to your Willpower Bonus. For every +2 SL achieved, it may chain to an additional target.</p>"
+        },
+        {
+            "id": "Dark Vision (Fire)",
+            "name": "Vista Oscura (Fuoco)",
+            "description": "<p>You boost your Second Sight to assist your mundane senses. While the spell is active, gain the @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Dark Vision} Creature Trait</p>"
+        },
+        {
+            "id": "Glittering Robe",
+            "name": "Veste Scintillante",
+            "description": "<p>Wild flurries of <em>Chamon</em> whirl around you, deflecting blows and intercepting missiles and magical attacks. Gain @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Ward (9+)} against all attacks and spells targeting you. Each hit successfully saved increases the Ward&rsquo;s effectiveness by 1, to a maximum of <em>Ward (3+).</em></p>"
+        },
+        {
+            "id": "Caress of Laniph",
+            "name": "Carezza di Laniph",
+            "description": "<p>As you reach out your hand, it appears withered, even skeletal, drawing Shyish from your target's corpus. This counts as a Magic Missile with a Damage of +6 that ignores Toughness Bonus and Armor Points. For every 2 Wounds inflicted, you may recover 1 Wound.</p>"
+        },
+        {
+            "id": "Flight (Necromancy)",
+            "name": "Volo (Necromanzia)",
+            "description": "<p><span style=\"color: #231f20;\">You can fly, whether by sprouting wings, ascending on a pillar of magical light, or some other method. Gain the @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Flight (Agility)}</span><span style=\"color: #231f20;\"> Creature Trait.</span></p>"
+        },
+        {
+            "id": "Teleport (Death)",
+            "name": "Teletrasporto (Morte)",
+            "description": "<p>Using magic, you can teleport up to your Willpower Bonus in yards. This movement allows you to traverse gaps, avoid perils and pitfalls, and ignore obstacles. For every +2 SL you may increase the distance travelled by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Distracting (Light)",
+            "name": "Distrazione (Luce)",
+            "description": "<p>You wreathe yourself in magic, which swirls around you, distracting your foes. While the spell is active, gain the @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distracting} Creature Trait.</p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Blast (Necromancy)",
+            "name": "Scoppio (Necromanzia)",
+            "description": "<p>You channel magic into an explosive blast. This is a Magic Missile with Damage +3 that targets everyone in the Area of Effect.</p>"
+        },
+        {
+            "id": "Aethyric Arms (Metal)",
+            "name": "Arma Aethyrica (Metallo)",
+            "description": "<p>You create a melee weapon with a Damage equal to your Willpower Bonus. This may take any form, and so use any Melee Skill you may possess. The weapon counts as Magical.</p>"
+        },
+        {
+            "id": "Chain Attack (Heavens)",
+            "name": "Attacco Concatenato (Empireo)",
+            "description": "<p>You channel a twisting spur of rupturing magic into your target. This is a Magic Missile&nbsp;with a Damage of +4. If Chain Attack reduces a target to 0 Wounds, it leaps to another target within the spell's initial range, and within Willpower Bonus yards of the previous target, inflicting the same Damage again. It may leap a maximum number of times equal to your Willpower Bonus. For every +2 SL achieved, it may chain to an additional target.</p>"
+        },
+        {
+            "id": "Crucible of Chamon",
+            "name": "Crogiolo di Chamon",
+            "description": "<p>You channel <em>Chamon</em> into a single non-magical, metallic object, such as a weapon or piece of armor. The item melts, dripping to the floor as molten metal, cooling almost immediately. If held, the item is dropped. If worn, the wearer takes a hit like a Magic Missile with Damage equal to your Willpower Bonus that ignores Toughness Bonus. While the object is destroyed, the metal retains its base value, and may be used by a smith as raw material.</p>"
+        },
+        {
+            "id": "Move Object",
+            "name": "Muovere Oggetto",
+            "description": "<p>Using magic, you grab hold of an non-sentient object no larger than you, moving it with the sheer force of your will, which is considered to have a Strength equal to your Willpower. You may move the object up to Willpower Bonus yards. If anyone attempts to impede the object's movement, make a <strong>Contested Willpower/Strength</strong> Test. For every +2 SL you may increase the distance the object is moved by Willpower Bonus yards.</p>"
+        },
+        {
+            "id": "Cerulean Shield",
+            "name": "Scudo Ceruleo",
+            "description": "<p>You encase yourself in a crackling cage of sparking electricity and <em>Azyr</em>. For the spell's duration, gain +SL Armour Points to all locations against melee attacks. If attacked by metal weapons - such as daggers, swords, and spears with metal tips - your attacker takes +Willpower Bonus Damage.</p>"
+        },
+        {
+            "id": "Arrow Shield (Daemonology)",
+            "name": "Riparo dalle Frecce (Demonologia)",
+            "description": "<p>Any missiles containing organic matter, such as arrows with wooden shafts, are automatically destroyed if they pass within the Area of Effect, causing no damage to their target. Missiles comprising only inorganic matter, such as throwing knives or pistol shots, are unaffected.</p>"
+        },
+        {
+            "id": "Light",
+            "name": "Luce",
+            "description": "<p>You create a small light, roughly equivalent to a torch, which glows from your hand, staff or some other part of your person. While the spell is active, you may choose to increase the illumination to that of a lantern, or decrease it to that of a candle, if you pass an <strong>Average (+20) Channeling</strong> Test.</p>"
+        },
+        {
+            "id": "Dark Vision",
+            "name": "Vista Oscura",
+            "description": "<p>You boost your Second Sight to assist your mundane senses. While the spell is active, gain the @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Dark Vision} Creature Trait</p>"
+        },
+        {
+            "id": "Dark Vision (Light)",
+            "name": "Vista Oscura (Luce)",
+            "description": "<p>You boost your Second Sight to assist your mundane senses. While the spell is active, gain the @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Dark Vision} Creature Trait</p>"
+        },
+        {
+            "id": "The Second Portent of Amul",
+            "name": "Il Secondo Portento di Amul",
+            "description": "<p>Gain +SL Fortune Points. For every +2 SL, gain +1 additional Fortune point. Any unused points at the end of the Duration are lost. </p>"
+        },
+        {
+            "id": "Bridge (Fire)",
+            "name": "Ponte (Fuoco)",
+            "description": "<p>You create a bridge of magical energy, with a maximum length and breadth of your Willpower Bonus in yards. For every +2 SL you may increase length or breadth by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Treason of Tzeentch",
+            "name": "Tradimento di Tzeentch",
+            "description": "<p>You channel fine strands of traitorous mergings of the Winds of Magic directly into your target&rsquo;s mind, twisting motivations, undermining desires, and fanning fires of discontent. The target can no longer use Talents, and doesn&rsquo;t add Skill Advances when making Skill Tests, meaning the target only Tests against unmodified Characteristics.</p>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Mirkride",
+            "name": "Cavalcare il Buio",
+            "description": "<p>Speaking ancient words of magic, your spirit leaves your body, stepping into the Hedge, the dark space between the material world and the spirit realm. For the duration, your stand apart from the world, able to witness it invisibly, but not affect it in any way. Physical barriers are no impediment to you, and you may walk through non-magical obstacles at will. Your body remains in place, immobile and insensate.</p>\n<p>At the end of the spell you will be pulled suddenly back to your body. If your body is killed while you are walking the Hedge, your spirit will wander aimlessly for eternity.</p>"
+        },
+        {
+            "id": "Teleport (Daemonology)",
+            "name": "Teletrasporto (Demonologia)",
+            "description": "<p>Using magic, you can teleport up to your Willpower Bonus in yards. This movement allows you to traverse gaps, avoid perils and pitfalls, and ignore obstacles. For every +2 SL you may increase the distance travelled by your Willpower Bonus in yards.</p>"
+        },
+        {
+            "id": "Flight (Beasts)",
+            "name": "Volo (Bestie)",
+            "description": "<p><span style=\"color: #231f20;\">You can fly, whether by sprouting wings, ascending on a pillar of magical light, or some other method. Gain the @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Flight (Agility)}</span><span style=\"color: #231f20;\"> Creature Trait.</span></p>"
+        },
+        {
+            "id": "Flock of Doom",
+            "name": "Stormo del Fato",
+            "description": "<p>You call down a murder of crows or similar local bird to assail your foes.</p>\n<p>The flock attacks everyone in the Area of Effect who does not possess the <em>Arcane Magic (Beasts)</em> Talent ferociously, inflicting a +7 Damage hit at the end of the Round. The flock remains in play for the duration of the spell. For your Action you may make an <strong>Average (+20) Charm</strong> <strong>Animal </strong>Test to move the flock to another target within range. While within the Area of Effect, all creatures gain +1 @Condition[Blinded] Condition.</p>"
+        },
+        {
+            "id": "Corrosive Blood (Necromancy)",
+            "name": "Sangue Corrosivo (Necromanzia)",
+            "description": "<p>You infuse yourself with magic, lending your blood a fearsome potency. You gain the @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Corrosive Blood} Creature Trait</p>"
+        },
+        {
+            "id": "Bolt (Death)",
+            "name": "Strale (Morte)",
+            "description": "<p>You channel magic into a damaging bolt. Bolt is a Magic Missile with a Damage of +4.</p>"
+        },
+        {
+            "id": "Dome (Shadow)",
+            "name": "Cupola (Ombre)",
+            "description": "<p>You create a dome of magical energy overhead, blocking incoming attacks. Anyone within the Area of Effect gains the Ward (6+) Creature Trait against magical or ranged attacks originating outside the dome. Those within may attack out of the dome as normal, and the dome does not impede movement.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Perhaps because they are magical, wear a special talisman, or are just plain lucky, some blows just seem to miss. Roll [[/r 1d10]] after any blow is received, if the creature rolls Rating or higher, the blow is ignored, even if it is a critical.&nbsp;</p>\n</blockquote>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Dark Vision (Life)",
+            "name": "Vista Oscura (Vita)",
+            "description": "<p>You boost your Second Sight to assist your mundane senses. While the spell is active, gain the @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Dark Vision} Creature Trait</p>"
+        },
+        {
+            "id": "Arrow Shield (Death)",
+            "name": "Riparo dalle Frecce (Morte)",
+            "description": "<p>Any missiles containing organic matter, such as arrows with wooden shafts, are automatically destroyed if they pass within the Area of Effect, causing no damage to their target. Missiles comprising only inorganic matter, such as throwing knives or pistol shots, are unaffected.</p>"
+        }
+    ]
+}
