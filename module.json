@@ -20,5 +20,7 @@
     }
   ],
   "systems": ["wfrp4e"],
-  "readme": "README.md"
+  "url": "https://github.com/W1zZo/WFRP4e-FoundryVTT-it",
+  "manifest": "https://raw.githubusercontent.com/W1zZo/WFRP4e-FoundryVTT-it/master/module.json",
+  "download": "https://github.com/W1zZo/WFRP4e-FoundryVTT-it/archive/master.zip"
 }
