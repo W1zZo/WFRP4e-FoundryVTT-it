@@ -2,14 +2,23 @@
 
 This FoundryVTT module is based on the FoundryVTT system of [WFRP4e](https://github.com/moo-man/WFRP4e-FoundryVTT).
 
-## Module Manual Installation
+## Module Installation
 
-* Placing the module files under Data/modules/WFRP4e-FoundryVTT-it inside your Foundry VTT user data folder
-* Restart the Foundry VTT server
-* Log back into Foundry VTT as the GameMaster
-* Open the Game Settings tab
-* Click the Manage Modules button
-* Find the newly installed module and place a checkmark next to the name, then click Update Modules at the bottom of the list to activate it
+### Manifest
+1. Open the Foundry setup page
+2. Click on the Add-on Modules tab
+3. Click the Install Module button
+4. Paste the manifest URL: https://raw.githubusercontent.com/W1zZo/WFRP4e-FoundryVTT-it/master/module.json
+5. Click Install
+
+### Manual
+
+1. Place the module files under Data/modules/WFRP4e-FoundryVTT-it inside your Foundry VTT user data folder
+2. Restart the Foundry VTT server
+3. Log back into Foundry VTT as the GameMaster
+4. Open the Game Settings tab
+5. Click the Manage Modules button
+6. Find the newly installed module and place a checkmark next to the name, then click Update Modules at the bottom of the list to activate it
 
 ## Babele Dependency Installation
 
