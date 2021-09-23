@@ -812,7 +812,7 @@
             "id": "Menacing",
             "name": "Minaccioso",
             "description": "You have an imposing presence. When using the Intimidate Skill, gain a SL bonus equal to your levels of Menacing.",
-            "tests": "Intimidate"
+            "tests": "Intimidire"
         },
         {
             "id": "Deadeye Shot",
@@ -1178,7 +1178,7 @@
             "id": "Aethyric Attunement",
             "name": "Sintonia Aethyrica",
             "description": "<p>Your experience, talent or training lets you more safely manipulate the Winds of Magic. You do not suffer a Miscast if you roll a double on a successful Channel Test.</p>",
-            "tests": "Channeling (Any)"
+            "tests": "Incanalare (qualsiasi)"
         },
         {
             "id": "Supportive",
@@ -1202,7 +1202,7 @@
             "id": "Dual Wielder",
             "name": "Stile a Doppia Arma",
             "description": "<p>When armed with two weapons, you may attack with both for your Action. Roll to hit with the weapon held in your primary hand. If you hit, determine Damage as normal, but remember to keep your dice roll, as you will use it again. If the first strike hits, once it is resolved, the weapon in your secondary hand can then target an available opponent of your choice using the same dice roll for the first strike, but reversed. So, if you rolled 34 to hit with the first weapon, you use 43 to hit with the second. Remember to modify this second roll by your off-hand penalty (–20 unless you have the Ambidextrous Talent). This second attack is Opposed with a new defending roll, and damage for this second strike is calculated as normal. The only exception to this is if you roll a Critical for your first strike. If this happens, use the roll on the Critical Table to also act as the roll for the second attack. So, if you scored a critical to the head and rolled 56 on the Critical table for a Major Eye Wound, your second attack would then strike out with a to-hit value of 56. If you choose to attack with both weapons, all your defensive rolls until the start of your next Turn suffer a penalty of –10. You do not gain an Advantage when you successfully strike or Wound an opponent when Dual Wielding unless both attacks hit.</p>",
-            "tests": "Melee or Ranged when attacking with two weapons"
+            "tests": "Mischia o Mira quando si attacca con due armi"
         },
         {
             "id": "Witch!",
