@@ -1,0 +1,50 @@
+{
+	"label": "Malattie",
+	"entries": [
+		{
+			"id": "Blood Rot",
+			"name": "Blood Rot",
+			"description": "<p>Your very blood is diseased, and your heart now pumps sickness through your body. Leeching the rot is the accepted cure, but some doktors instead cut careful incisions near the neck to free the contaminated blood, demanding the patient ingest of vast quantities of healthy blood to replace what is lost. Whether the patient accepts such remedies or not, without treatment, Blood Rot is deadly, and will likely end in a visit from the Mourners’ Guild and the Cult of Morr.</p>"
+		},
+		{
+			"id": "Festering Wound",
+			"name": "Festering Wound",
+			"description": "<p>Infected cuts and abrasions are commonplace, meaning many superstitions exist explaining how best to treat them. Poultices fashioned from wrapped leaves and dung, the skin of toads, and dove-feathers are common, as is rubbing the wound in Sigmar’s Good Soil. Most physicians rubbish such talk, and prefer more scientific curatives, such as mixing the gall of a black ox with three spoonfuls of the patient’s urine and half a spoon of sea salt, which is then rubbed into the festering, pus-filled wound. The screams this elicits prove just how effective the remedy is.</p>"
+		},
+		{
+			"id": "Galloping Trots",
+			"name": "Galloping Trots",
+			"description": "<p>It is said Halﬂing food won’t give you Galloping Trots, a messy affliction all too common in the Empire given just how little care is given to the proper preparation of food, but those suffering ‘Rumster’s Revenge’ from the cheap, Halﬂing pies on sale across Altdorf, would disagree, assuming they could escape the privy for long enough…</p>"
+		},
+		{
+			"id": "Itching Pox",
+			"name": "Itching Pox",
+			"description": "<p>Annual outbreaks of Itching Pox afflict most towns and cities of the Empire. The disease, which causes body-wide itchy blisters, is relatively mild, and very rarely has lasting complications, so it concerns few outside worried parents or vain nobles. So common is it, that most temples of Shallya have vials of white paste on hand to relieve the itching of the afflicted.</p>"
+		},
+		{
+			"id": "Minor Infection",
+			"name": "Minor Infection",
+			"description": "<p>Minor infections — slow-healing wounds with a modicum of swelling and heat — are extremely common. Most heal of their own accord in time, so few worry about them until it’s too late, and Morr’s Portal opens.</p>"
+		},
+		{
+			"id": "Packer's Pox",
+			"name": "Packer's Pox",
+			"description": "<p>A common infection amongst hunters, furriers, and traders, Packer’s Pox is contracted from infected cattle and sheep, including their hides and wool, and from the bodies of those killed by the disease. It starts as a small itchy rash, but soon pink, depressed blisters spread across the whole body, concentrating on the torso and arms. Not the worst of the various poxes plaguing the Empire, but it does linger for a very long time, and can occasionally turn deadly.</p>"
+		},
+		{
+			"id": "Ratte Fever",
+			"name": "Ratte Fever",
+			"description": "<p>Contracted from infected rodents, dreaded Ratte Fever brings inﬂamed rashes and ulcerations before a fever rises and the body begins to spasm. Tough rarely fatal, it’s a debilitating disease, and it takes a long time to recover, so most are willing to try anything to lessen the symptoms. Common remedies include self-ﬂagellation in Altdorf — which reputedly does bring some relief to the skin infections — and smearing oneself in goatcheese mixed with imported Kislevite ice-peppers in Talabheim. In the bigger towns and cities, Ratte Fever is also known as Pie Fever given just how many savory pasties contain tainted rat in place of more expensive meat.</p>"
+		},
+		{
+			"id": "The Black Plague",
+			"name": "The Black Plague",
+			"description": "<p>Historians claim that centuries ago rats swarmed the Empire and the Black Plague followed, wiping out nine in every ten souls. Unexplained ﬂare-ups of the horrendous disease still occur today, and when they do, it always brings no-nonsense white nuns. The Cult of Shallya has sworn to do everything in its power to eradicate the foul disease, so, using ancient laws and rights granted to them, white-roped cordon sanitaires are erected wherever they encounter the Plague, ensuring none can leave or enter the quarantined area until the outbreak is contained, and all bodies correctly disposed.</p>"
+		},
+		{
+			"id": "The Bloody Flux",
+			"name": "The Bloody Flux",
+			"description": "<p>The Bloody Flux is a persistent problem in the Empire, and widely viewed to be a curse upon the impious by the Gods. The foul disease causes its unfortunate victim to evacuate the bowels forcibly and frequently. The Bloody Flux is endemic in the State Armies, where it is commonly claimed to kill more soldiers than any enemy. Typical cures include eating blood pudding to replace lost humors, ‘corking’, and rubbing fats into the afflicted area to lessen the sting.</p>"
+		}
+	]
+}

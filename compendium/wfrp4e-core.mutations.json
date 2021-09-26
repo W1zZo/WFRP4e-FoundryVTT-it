@@ -1,0 +1,200 @@
+{
+	"label": "Mutazioni",
+	"entries": [
+		{
+			"id": "Animalistic Legs",
+			"name": "Animalistic Legs",
+			"description": ""
+		},
+		{
+			"id": "Awful Cravings",
+			"name": "Awful Cravings",
+			"description": ""
+		},
+		{
+			"id": "Beast Within",
+			"name": "Beast Within",
+			"description": ""
+		},
+		{
+			"id": "Chaotic Dreams",
+			"name": "Chaotic Dreams",
+			"description": "<p>Gain the Fatigued Condition for the first two hours of every day</p>"
+		},
+		{
+			"id": "Corpulent",
+			"name": "Corpulent",
+			"description": ""
+		},
+		{
+			"id": "Crawling Skin",
+			"name": "Crawling Skin",
+			"description": ""
+		},
+		{
+			"id": "Distended Digits",
+			"name": "Distended Digits",
+			"description": ""
+		},
+		{
+			"id": "Emaciated",
+			"name": "Emaciated",
+			"description": ""
+		},
+		{
+			"id": "Enormous Eye",
+			"name": "Enormous Eye",
+			"description": ""
+		},
+		{
+			"id": "Erratic Fantasist",
+			"name": "Erratic Fantasist",
+			"description": ""
+		},
+		{
+			"id": "Extra Leg Joints",
+			"name": "Extra Leg Joints",
+			"description": ""
+		},
+		{
+			"id": "Extra Mouth",
+			"name": "Extra Mouth",
+			"description": "<p>Roll on the @Table[hitloc]{Hit Location} table to see where.</p>"
+		},
+		{
+			"id": "Fearful Concern",
+			"name": "Fearful Concern",
+			"description": ""
+		},
+		{
+			"id": "Fleshy Tentacle",
+			"name": "Fleshy Tentacle",
+			"description": "<p>Gain the @Compendium[wfrp4e-core.traits.4xF7M6ylIiGntekh]{Tentacles} Creature Trait.</p>"
+		},
+		{
+			"id": "Glowing Skin",
+			"name": "Glowing Skin",
+			"description": "<p>Effective light of a candle</p>"
+		},
+		{
+			"id": "Hateful Impulses",
+			"name": "Hateful Impulses",
+			"description": "<p>Subject to Animosity to all not of your species</p>"
+		},
+		{
+			"id": "Hollow Heart",
+			"name": "Hollow Heart",
+			"description": ""
+		},
+		{
+			"id": "Inhuman Beauty",
+			"name": "Inhuman Beauty",
+			"description": ""
+		},
+		{
+			"id": "Inverted Face",
+			"name": "Inverted Face",
+			"description": ""
+		},
+		{
+			"id": "Iron Skin",
+			"name": "Iron Skin",
+			"description": ""
+		},
+		{
+			"id": "Jealous Thoughts",
+			"name": "Jealous Thoughts",
+			"description": ""
+		},
+		{
+			"id": "Lolling Tongue",
+			"name": "Lolling Tongue",
+			"description": ""
+		},
+		{
+			"id": "Lonely Spirit",
+			"name": "Lonely Spirit",
+			"description": ""
+		},
+		{
+			"id": "Mental Blocks",
+			"name": "Mental Blocks",
+			"description": ""
+		},
+		{
+			"id": "Patchy Feathers",
+			"name": "Patchy Feathers",
+			"description": "<p>Roll on the @Table[hitloc]{Hit Location} table twice to see where</p>"
+		},
+		{
+			"id": "Profane Urgency",
+			"name": "Profane Urgency",
+			"description": ""
+		},
+		{
+			"id": "Shaky Morale",
+			"name": "Shaky Morale",
+			"description": ""
+		},
+		{
+			"id": "Short Legs",
+			"name": "Short Legs",
+			"description": ""
+		},
+		{
+			"id": "Suspicious Mind",
+			"name": "Suspicious Mind",
+			"description": ""
+		},
+		{
+			"id": "Thorny Scales",
+			"name": "Thorny Scales",
+			"description": ""
+		},
+		{
+			"id": "Thrill Hunter",
+			"name": "Thrill Hunter",
+			"description": ""
+		},
+		{
+			"id": "Tortured Visions",
+			"name": "Tortured Visions",
+			"description": ""
+		},
+		{
+			"id": "Totally Unhinged",
+			"name": "Totally Unhinged",
+			"description": ""
+		},
+		{
+			"id": "Unending Malice",
+			"name": "Unending Malice",
+			"description": ""
+		},
+		{
+			"id": "Uneven Horns",
+			"name": "Uneven Horns",
+			"description": "<p>Counts as a Creature Weapon of Damage equal to your SB</p>"
+		},
+		{
+			"id": "Unholy Rage",
+			"name": "Unholy Rage",
+			"description": ""
+		},
+		{
+			"id": "Weeping Pus",
+			"name": "Weeping Pus",
+			"description": "<p>Roll on the @Table[hitloc]{Hit Location} table to see from where</p>"
+		},
+		{
+			"id": "Whiskered Snout",
+			"name": "Whiskered Snout",
+			"description": ""
+		},
+		{
+			"id": "Worried Jitters",
+			"name": "Worried Jitters",
+			"description": ""
+		}
+	]
+}
