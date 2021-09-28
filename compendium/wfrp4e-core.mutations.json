@@ -3,197 +3,197 @@
 	"entries": [
 		{
 			"id": "Animalistic Legs",
-			"name": "Animalistic Legs",
+			"name": "Gambe Animalesche",
 			"description": ""
 		},
 		{
 			"id": "Awful Cravings",
-			"name": "Awful Cravings",
+			"name": "Orride Voglie",
 			"description": ""
 		},
 		{
 			"id": "Beast Within",
-			"name": "Beast Within",
+			"name": "Bestia Interiore",
 			"description": ""
 		},
 		{
 			"id": "Chaotic Dreams",
-			"name": "Chaotic Dreams",
+			"name": "Sogni Caotici",
 			"description": "<p>Gain the Fatigued Condition for the first two hours of every day</p>"
 		},
 		{
 			"id": "Corpulent",
-			"name": "Corpulent",
+			"name": "Corpulento",
 			"description": ""
 		},
 		{
 			"id": "Crawling Skin",
-			"name": "Crawling Skin",
+			"name": "Pelle d’Oca",
 			"description": ""
 		},
 		{
 			"id": "Distended Digits",
-			"name": "Distended Digits",
+			"name": "Falangi Allungate",
 			"description": ""
 		},
 		{
 			"id": "Emaciated",
-			"name": "Emaciated",
+			"name": "Emaciato",
 			"description": ""
 		},
 		{
 			"id": "Enormous Eye",
-			"name": "Enormous Eye",
+			"name": "Occhio Enorme",
 			"description": ""
 		},
 		{
 			"id": "Erratic Fantasist",
-			"name": "Erratic Fantasist",
+			"name": "Fantasie Errabonde",
 			"description": ""
 		},
 		{
 			"id": "Extra Leg Joints",
-			"name": "Extra Leg Joints",
+			"name": "Articolazione Aggiuntiva alle Gambe",
 			"description": ""
 		},
 		{
 			"id": "Extra Mouth",
-			"name": "Extra Mouth",
-			"description": "<p>Roll on the @Table[hitloc]{Hit Location} table to see where.</p>"
+			"name": "Bocca Aggiuntiva",
+			"description": "<p>Tirare sulla tabella @Table[hitloc]{Locazione} per determinarla.</p>"
 		},
 		{
 			"id": "Fearful Concern",
-			"name": "Fearful Concern",
+			"name": "Terribili Timori",
 			"description": ""
 		},
 		{
 			"id": "Fleshy Tentacle",
-			"name": "Fleshy Tentacle",
-			"description": "<p>Gain the @Compendium[wfrp4e-core.traits.4xF7M6ylIiGntekh]{Tentacles} Creature Trait.</p>"
+			"name": "Tentacoli Carnosi",
+			"description": "<p>Si ottiene il Tratto @Compendium[wfrp4e-core.traits.4xF7M6ylIiGntekh]{Tentacoli} (vedere pag. 343).</p>"
 		},
 		{
 			"id": "Glowing Skin",
-			"name": "Glowing Skin",
-			"description": "<p>Effective light of a candle</p>"
+			"name": "Pelle Luminosa",
+			"description": "<p>Luce pari a una candela</p>"
 		},
 		{
 			"id": "Hateful Impulses",
-			"name": "Hateful Impulses",
-			"description": "<p>Subject to Animosity to all not of your species</p>"
+			"name": "Impulsi d’Odio",
+			"description": "<p>Animosità (vedere Psicologia) verso ogni altra specie.</p>"
 		},
 		{
 			"id": "Hollow Heart",
-			"name": "Hollow Heart",
+			"name": "Cuore Gelido",
 			"description": ""
 		},
 		{
 			"id": "Inhuman Beauty",
-			"name": "Inhuman Beauty",
+			"name": "Bellezza Inumana",
 			"description": ""
 		},
 		{
 			"id": "Inverted Face",
-			"name": "Inverted Face",
+			"name": "Volto Rovesciato",
 			"description": ""
 		},
 		{
 			"id": "Iron Skin",
-			"name": "Iron Skin",
+			"name": "Pelle di Ferro",
 			"description": ""
 		},
 		{
 			"id": "Jealous Thoughts",
-			"name": "Jealous Thoughts",
+			"name": "Gelosia",
 			"description": ""
 		},
 		{
 			"id": "Lolling Tongue",
-			"name": "Lolling Tongue",
+			"name": "Lingua Pigra",
 			"description": ""
 		},
 		{
 			"id": "Lonely Spirit",
-			"name": "Lonely Spirit",
+			"name": "Spirito Melanconico",
 			"description": ""
 		},
 		{
 			"id": "Mental Blocks",
-			"name": "Mental Blocks",
+			"name": "Blocco Mentale",
 			"description": ""
 		},
 		{
 			"id": "Patchy Feathers",
-			"name": "Patchy Feathers",
-			"description": "<p>Roll on the @Table[hitloc]{Hit Location} table twice to see where</p>"
+			"name": "Chiazze di Piume",
+			"description": "<p>Tirare sulla tabella @Table[hitloc]{Locazione} per determinarla.</p>"
 		},
 		{
 			"id": "Profane Urgency",
-			"name": "Profane Urgency",
+			"name": "Bisogno Profano",
 			"description": ""
 		},
 		{
 			"id": "Shaky Morale",
-			"name": "Shaky Morale",
+			"name": "Spirito Debole",
 			"description": ""
 		},
 		{
 			"id": "Short Legs",
-			"name": "Short Legs",
+			"name": "Gambe Corte",
 			"description": ""
 		},
 		{
 			"id": "Suspicious Mind",
-			"name": "Suspicious Mind",
+			"name": "Sospettoso",
 			"description": ""
 		},
 		{
 			"id": "Thorny Scales",
-			"name": "Thorny Scales",
+			"name": "Scaglie Cornee",
 			"description": ""
 		},
 		{
 			"id": "Thrill Hunter",
-			"name": "Thrill Hunter",
+			"name": "Ricerca del Brivido",
 			"description": ""
 		},
 		{
 			"id": "Tortured Visions",
-			"name": "Tortured Visions",
+			"name": "Visioni Terribili",
 			"description": ""
 		},
 		{
 			"id": "Totally Unhinged",
-			"name": "Totally Unhinged",
+			"name": "Follia Totale",
 			"description": ""
 		},
 		{
 			"id": "Unending Malice",
-			"name": "Unending Malice",
+			"name": "Malizia Infinita",
 			"description": ""
 		},
 		{
 			"id": "Uneven Horns",
-			"name": "Uneven Horns",
-			"description": "<p>Counts as a Creature Weapon of Damage equal to your SB</p>"
+			"name": "Corna Irregolari",
+			"description": "<p>Conta come un’Arma Naturale con Danno pari al BF (vedere pag. 338).</p>"
 		},
 		{
 			"id": "Unholy Rage",
-			"name": "Unholy Rage",
+			"name": "Rabbia Sacrilega",
 			"description": ""
 		},
 		{
 			"id": "Weeping Pus",
-			"name": "Weeping Pus",
-			"description": "<p>Roll on the @Table[hitloc]{Hit Location} table to see from where</p>"
+			"name": "Pustola Suppurante",
+			"description": "<p>Tirare sulla tabella @Table[hitloc]{Locazione} per determinarla.</p>"
 		},
 		{
 			"id": "Whiskered Snout",
-			"name": "Whiskered Snout",
+			"name": "Naso Peloso",
 			"description": ""
 		},
 		{
 			"id": "Worried Jitters",
-			"name": "Worried Jitters",
+			"name": "Tremiti Nervosi",
 			"description": ""
 		}
 	]
