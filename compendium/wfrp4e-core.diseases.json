@@ -3,48 +3,48 @@
 	"entries": [
 		{
 			"id": "Blood Rot",
-			"name": "Blood Rot",
-			"description": "<p>Your very blood is diseased, and your heart now pumps sickness through your body. Leeching the rot is the accepted cure, but some doktors instead cut careful incisions near the neck to free the contaminated blood, demanding the patient ingest of vast quantities of healthy blood to replace what is lost. Whether the patient accepts such remedies or not, without treatment, Blood Rot is deadly, and will likely end in a visit from the Mourners’ Guild and the Cult of Morr.</p>"
+			"name": "Sangue Marcio",
+			"description": "<p>Il sangue del Personaggio è infetto e il suo cuore invia il male in ogni angolo del corpo. La cura comune sono le sanguisughe, ma alcuni dottori preferiscono incisioni vicino al collo per far spurgare il sangue contaminato, mentre ne fanno bere grandi quantità per compensare. Che piaccia o no, senza una trattamento il Sangue Marcio è fatale e porta a una visita alla Gilda degli Afflitti e al Culto di Morr.</p>"
 		},
 		{
 			"id": "Festering Wound",
-			"name": "Festering Wound",
-			"description": "<p>Infected cuts and abrasions are commonplace, meaning many superstitions exist explaining how best to treat them. Poultices fashioned from wrapped leaves and dung, the skin of toads, and dove-feathers are common, as is rubbing the wound in Sigmar’s Good Soil. Most physicians rubbish such talk, and prefer more scientific curatives, such as mixing the gall of a black ox with three spoonfuls of the patient’s urine and half a spoon of sea salt, which is then rubbed into the festering, pus-filled wound. The screams this elicits prove just how effective the remedy is.</p>"
+			"name": "Ferite Purulente",
+			"description": "<p>Tagli e ferite infette sono comuni, quindi vengono tramandati numerosi rimedi popolari: unguenti prodotti da foglie e letame, pelli di rospo e piume di colomba, oppure strofinarle con terra benedetta da Sigmar. Molti medici ridono di tali idee e preferiscono cure più scientifiche, come mescolare la bile di un bue nero con tre cucchiai di urina del paziente e mezzo di sale marino. Il composto viene poi strofinato nella ferita purulenta. Le urla del paziente non sono che la prova della sua efficacia.</p>"
 		},
 		{
 			"id": "Galloping Trots",
-			"name": "Galloping Trots",
-			"description": "<p>It is said Halﬂing food won’t give you Galloping Trots, a messy affliction all too common in the Empire given just how little care is given to the proper preparation of food, but those suffering ‘Rumster’s Revenge’ from the cheap, Halﬂing pies on sale across Altdorf, would disagree, assuming they could escape the privy for long enough…</p>"
+			"name": "Dissenteria Fulminante",
+			"description": "<p>Si dice che solo la cucina Halfling non provochi la Dissenteria, un male molto comune nell’Impero data la scarsa cura nella preparazione del cibo. Chi ha sofferto della ‘Vendetta di Rumster’ a causa delle torte a poco prezzo in vendita ad Altdorf avrebbe da ridire… se riuscisse a lasciare la latrina per più di un minuto.</p>"
 		},
 		{
 			"id": "Itching Pox",
-			"name": "Itching Pox",
-			"description": "<p>Annual outbreaks of Itching Pox afflict most towns and cities of the Empire. The disease, which causes body-wide itchy blisters, is relatively mild, and very rarely has lasting complications, so it concerns few outside worried parents or vain nobles. So common is it, that most temples of Shallya have vials of white paste on hand to relieve the itching of the afflicted.</p>"
+			"name": "Vaiolo Pruriginoso",
+			"description": "<p>In molte città e villaggi, ogni anno appaiono focolai di questo male. La malattia provoca bolle pruriginose su tutto il corpo, ma è relativamente leggera e non ha gravi complicazioni, quindi se ne preoccupano solo genitori e nobili vanitosi. È talmente comune che molti templi di Shallya hanno a disposizione scorte di pomata bianca per ridurre il prurito.</p>"
 		},
 		{
 			"id": "Minor Infection",
-			"name": "Minor Infection",
-			"description": "<p>Minor infections — slow-healing wounds with a modicum of swelling and heat — are extremely common. Most heal of their own accord in time, so few worry about them until it’s too late, and Morr’s Portal opens.</p>"
+			"name": "Infezione Minore",
+			"description": "<p>Le infezioni minori – di solito ferite che non guariscono accompagnate da leggera febbre e rigonfiamenti– sono molto comuni. Molte si risolvono da sole, per cui pochi se ne preoccupano, finché non è troppo tardi e il Portale di Morr si apre.</p>"
 		},
 		{
 			"id": "Packer's Pox",
-			"name": "Packer's Pox",
-			"description": "<p>A common infection amongst hunters, furriers, and traders, Packer’s Pox is contracted from infected cattle and sheep, including their hides and wool, and from the bodies of those killed by the disease. It starts as a small itchy rash, but soon pink, depressed blisters spread across the whole body, concentrating on the torso and arms. Not the worst of the various poxes plaguing the Empire, but it does linger for a very long time, and can occasionally turn deadly.</p>"
+			"name": "Vaiolo del Conciatore",
+			"description": "<p>Questa infezione – comune tra cacciatori, conciatori e mercanti – è diffusa dal bestiame infetto, comprese le loro pelli o lana, e dai cadaveri della vittime. Si presenta come una brutta eruzione cutanea, che si trasforma in bolle rosa su tutto il corpo, specie sul torace e sulle braccia. Non è la peggior malattia dell’Impero, ma dura a lungo e, a volte, può risultare fatale.</p>"
 		},
 		{
 			"id": "Ratte Fever",
-			"name": "Ratte Fever",
-			"description": "<p>Contracted from infected rodents, dreaded Ratte Fever brings inﬂamed rashes and ulcerations before a fever rises and the body begins to spasm. Tough rarely fatal, it’s a debilitating disease, and it takes a long time to recover, so most are willing to try anything to lessen the symptoms. Common remedies include self-ﬂagellation in Altdorf — which reputedly does bring some relief to the skin infections — and smearing oneself in goatcheese mixed with imported Kislevite ice-peppers in Talabheim. In the bigger towns and cities, Ratte Fever is also known as Pie Fever given just how many savory pasties contain tainted rat in place of more expensive meat.</p>"
+			"name": "Febbre dei Ratti",
+			"description": "<p>Causata da roditori infetti, la temuta Febbre dei Ratti causa infiammazioni e ulcere, poi febbre e spasmi. È raramente fatale, ma assai debilitante e ci vuole molto tempo a guarire, per cui le vittime sono pronte a tutto per alleviarne i sintomi. I rimedi variano dalle flagellazioni ad Altdorf – che pare diano effettivo sollievo dalle ulcere – allo spalmarsi di formaggio di capra mescolato a peperoni del ghiaccio kisleviti a Talabheim. Nelle città più grandi viene detta Febbre da Ripieno, a testimonianza di quanti usino ratti nel ripieno al posto di carni più costose.</p>"
 		},
 		{
 			"id": "The Black Plague",
-			"name": "The Black Plague",
-			"description": "<p>Historians claim that centuries ago rats swarmed the Empire and the Black Plague followed, wiping out nine in every ten souls. Unexplained ﬂare-ups of the horrendous disease still occur today, and when they do, it always brings no-nonsense white nuns. The Cult of Shallya has sworn to do everything in its power to eradicate the foul disease, so, using ancient laws and rights granted to them, white-roped cordon sanitaires are erected wherever they encounter the Plague, ensuring none can leave or enter the quarantined area until the outbreak is contained, and all bodies correctly disposed.</p>"
+			"name": "Peste Nera",
+			"description": "<p>Gli storici sostengono che secoli fa i ratti sciamarono per l’Impero e la Peste Nera li seguì, uccidendo nove persone ogni dieci. Ancora oggi ci sono focolai inspiegabili di questo orrendo male. Le monache bianche del Culto di Shallya hanno giurato di fare tutto il possibile per sradicare questo male e, grazie ad antiche leggi, creano cordoni sanitari – marcati con corda bianca – per assicurarsi che nessuno possa andare o venire dalle zone di quarantena finché il focolaio non è contenuto e i cadaveri correttamente smaltiti.</p>"
 		},
 		{
 			"id": "The Bloody Flux",
-			"name": "The Bloody Flux",
-			"description": "<p>The Bloody Flux is a persistent problem in the Empire, and widely viewed to be a curse upon the impious by the Gods. The foul disease causes its unfortunate victim to evacuate the bowels forcibly and frequently. The Bloody Flux is endemic in the State Armies, where it is commonly claimed to kill more soldiers than any enemy. Typical cures include eating blood pudding to replace lost humors, ‘corking’, and rubbing fats into the afflicted area to lessen the sting.</p>"
+			"name": "Diarrea Rossa",
+			"description": "<p>La Diarrea Rossa è un problema persistente nell’Impero e considerato da molti la punizione divina per gli empi. Il paziente è costretto a evacuare in modo incontinente. Il male è endemico negli Eserciti Provinciali, dove pare faccia più vittime del nemico. Le cure più comuni includono mangiare del sanguinaccio per reintegrare gli umori persi, applicare dei ‘tappi’ o spalmare del grasso sulle parti interessate per ridurre il fastidio.</p>"
 		}
 	]
 }
