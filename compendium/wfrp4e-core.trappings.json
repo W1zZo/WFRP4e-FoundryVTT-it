@@ -1,99 +1,99 @@
-{
+ {
 	"label": "Averi",
 	"entries": [
 		{
 			"id": "Abacus",
-			"name": "Abacus",
+			"name": "Abaco",
 			"description": ""
 		},
 		{
 			"id": "Ale, Keg",
-			"name": "Ale, Keg",
-			"description": "<p>Capacity 3 gallons. Empty kegs can be refilled for 18d</p>"
+			"name": "Birra, barilotto",
+			"description": "<p>Capacità 13,5 l. Uno vuoto può essere riempito per 3p.</p>"
 		},
 		{
 			"id": "Ale, pint",
-			"name": "Ale, pint",
+			"name": "Birra, pinta",
 			"description": ""
 		},
 		{
 			"id": "Amulet",
-			"name": "Amulet",
+			"name": "Amuleto",
 			"description": ""
 		},
 		{
 			"id": "Animal Trap",
-			"name": "Animal Trap",
-			"description": "<p>Used to catch game (see @Compendium[wfrp4e-core.skills.os4NKy5Oy6sRt1eh]{Outdoor Survival})</p>"
+			"name": "Trap. per Animali",
+			"description": "<p>Usata per catturare piccole prede (vedere pag. 129: @Compendium[wfrp4e-core.skills.os4NKy5Oy6sRt1eh]{Sopravvivere})</p>"
 		},
 		{
 			"id": "Antitoxin Kit",
-			"name": "Antitoxin Kit",
-			"description": "<p>Contains a small knife, herbs, and a jar of leeches. A successful Heal Test with an antitoxin kit removes all Poisoned Conditions. Treatment takes at least two Rounds.</p>"
+			"name": "Kit Antitossine",
+			"description": "<p>Contiene un coltellino, erbe e una giara di sanguisughe. Superando una Prova di Guarire permette di rimuovere tutte le Condizioni Avvelenato da un paziente. Il trattamento richiede almeno 2 Round.</p>"
 		},
 		{
 			"id": "Arrow",
-			"name": "Arrow",
+			"name": "Frecce",
 			"description": null
 		},
 		{
 			"id": "Backpack",
-			"name": "Backpack",
-			"description": "<p>Counts as ‘worn’ when strapped to your back.&nbsp;</p>"
+			"name": "Zaino",
+			"description": "<p>Conta come ‘indossato’ se legato sulla schiena.</p>"
 		},
 		{
 			"id": "Ball",
-			"name": "Ball",
+			"name": "Palla",
 			"description": ""
 		},
 		{
 			"id": "Bandage",
-			"name": "Bandage",
-			"description": "<p>A successful <strong>Heal</strong> or <strong>Dexterity</strong> Test removes +1 extra <em>Bleeding</em> Status.</p>"
+			"name": "Benda",
+			"description": "<p>Superando una Prova di <strong>Guarire</strong> o di <strong>Destrezza</strong> permette di rimuovere 1 <em>Sanguinante</em>.</p>"
 		},
 		{
 			"id": "Barrel",
-			"name": "Barrel",
-			"description": "<p>Capacity: 32 gallons of liquid.</p>\n<p>&nbsp;</p>"
+			"name": "Botte",
+			"description": "<p>Capacità di 145 l.</p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Bastard Sword",
-			"name": "Bastard Sword",
+			"name": "Spada Bastarda",
 			"description": ""
 		},
 		{
 			"id": "Baton",
-			"name": "Baton",
+			"name": "Bastone",
 			"description": ""
 		},
 		{
 			"id": "Bedroll",
-			"name": "Bedroll",
-			"description": "<p>Endurance Tests rolled to resist Cold Exposure gain a bonus of +20 when resting.</p>"
+			"name": "Sacco a Pelo",
+			"description": "<p>Fornisce +20 alle Prove di Tempra per resistere al freddo mentre si dorme (vedere pag. 181).</p>"
 		},
 		{
 			"id": "Black Lotus",
-			"name": "Black Lotus",
-			"description": "<p>This deadly plant grows in Southland jungles and is used for blade venom. Victims who suffer at least 1 Wound from a sap-coated blade immediately take 2 Poisoned Conditions. Resisted with a <strong>Difficult (–10) Endurance</strong> Test.</p>"
+			"name": "Loto Nero",
+			"description": "<p>Questa pianta letale cresce solo nelle giungle delle Terre Meridionali e la sua resina viene cosparsa sulle lame. Chi subisce almeno 1 Ferita deve superare una Prova <strong>Difficile (-10) di Tempra</strong> o subire 2 Condizioni Avvelenato</p>"
 		},
 		{
 			"id": "Blanket",
-			"name": "Blanket",
-			"description": "<p>Endurance Tests rolled to resist Cold Exposure gain a bonus of +20 when resting.</p>"
+			"name": "Coperta",
+			"description": "<p>Fornisce +20 alle Prove di Tempra per resistere al freddo mentre si dorme (vedere pag. 181).</p>"
 		},
 		{
 			"id": "Blunderbuss",
-			"name": "Blunderbuss",
+			"name": "Trombone",
 			"description": ""
 		},
 		{
 			"id": "Boat Hook",
-			"name": "Boat Hook",
+			"name": "Gaffa",
 			"description": ""
 		},
 		{
 			"id": "Boiled Leather Breastplate",
-			"name": "Boiled Leather Breastplate",
+			"name": "Pettorale",
 			"description": ""
 		},
 		{
@@ -103,173 +103,173 @@
 		},
 		{
 			"id": "Bolt",
-			"name": "Bolt",
+			"name": "Quadrelli",
 			"description": ""
 		},
 		{
 			"id": "Bomb",
-			"name": "Bomb",
+			"name": "Bomba",
 			"description": ""
 		},
 		{
 			"id": "Book, Apothecary",
-			"name": "Book, Apothecary",
-			"description": "<p>Apothecary books are usually hand-written. A basic apothecary book contains ingredient descriptions and diagrammed instructions for brewing processes. Formulas for Digestive Tonics, Healing Draughts, and Vitality Draughts are usually included (see Herbs and Draughts). Advanced texts contain formulas for more exotic draughts.</p>"
+			"name": "Libro, Apotecario",
+			"description": "<p>Questi libri sono solitamente scritti a mano e contengono ricette e istruzioni su come distillare farmaci. Di solito includono le formule per Tonico Digestivo, Infuso Guaritore e Infuso Vitale (vedere Erbe e Infusi). Le versioni più avanzate comprendono ricette ancora più esotiche.</p>"
 		},
 		{
 			"id": "Book, Art",
-			"name": "Book, Art",
-			"description": "<p>Plays, poems, and ballads or perhaps musical arrangements scribbled on loose parchment, Art books come in many forms. They also include treatises on perspective, form, and style, often written by famous painters or sculptors — such as Leonardo da Miragliano — for mass printing&nbsp;</p>"
+			"name": "Libro, Arte",
+			"description": "<p>Questi testi hanno molte forme, perché ballate, poemi e altri arrangiamenti sono spesso scritti su fogli volanti. Le opere su prospettiva, forma e stile redatte da celebri artisti, come Leonardo da Miragliano, vengono spesso stampate per il grande pubblico.</p>"
 		},
 		{
 			"id": "Book, Cryptography",
-			"name": "Book, Cryptography",
-			"description": "<p>Where individual ciphers and encryption keys can be written on a single page or two, Cryptography books are often hand-scribed codices dealing with mathematics, numerology, and polyalphabetic encryption.</p>"
+			"name": "Libro, Crittografia",
+			"description": "<p>Di solito, un codice può spesso essere riassunto in una o due pagine. Questi libri invece, di solito manoscritti, trattano di come creare o decifrare sistemi matematici, numerologici e polialfabetici.</p>"
 		},
 		{
 			"id": "Book, Engineer",
-			"name": "Book, Engineer",
-			"description": "<p>The majority of engineering books are press-printed. Engineering is an advanced science in the Empire, largely due to the Imperial Engineers’ School in Altdorf and the Dwarf Engineers’ Guild. Because of this, Engineering texts are often authored, co-authored, or edited by Dwarfs.</p>"
+			"name": "Libro, Ingegneria",
+			"description": "<p>La maggioranza di questi testi è stampata. L’ingegneria è la scienza più avanzata dell’Impero, grazie alla Scuola Imperiale d’Ingegneria di Altdorf e alla Gilda degli Ingegneri dei Nani. Spesso, i Nani redigono, scrivono (a due o quattro mani) o collaborano alla stesura di questi testi.</p>"
 		},
 		{
 			"id": "Book, Law",
-			"name": "Book, Law",
-			"description": "<p>Laws vary considerably from one region to the next. Cities with printing presses compile legislation in bound volumes, whereas judges in smaller towns often rely on documents handwritten centuries ago. Law books used by travelling lawyers or judges often combine printed and written pages from different towns across the Empire, collated and bound together within the same cover</p>"
+			"name": "Libro, Legge",
+			"description": "<p>La legge varia molto da zona a zona. Nelle città principali i codici legali vengono riuniti in enormi volumi, mentre nei paesi più piccoli i magistrati devono cavarsela con documenti scritti a mano secoli fa. Questi libri vengono usati da avvocati e magistrati itineranti, che spesso riuniscono in un’unica copertina pagine raccolte e stampate in diverse parti dell’Impero.</p>"
 		},
 		{
 			"id": "Book, Magic",
-			"name": "Book, Magic",
-			"description": "<p>Spell grimoires are usually scribed by wizards, and their covers are often secured with locks. Sometimes grimoires are even protected by magical alarms or wards. Carrying a spell grimoire is punishable as heresy unless the owning wizard is licensed by the Colleges of Magic.</p>"
+			"name": "Libro, Magia",
+			"description": "<p>Di solito, i Grimori vengono scritti a mano dai maghi e sigillati con un lucchetto e, a volte, allarmi e protezioni magiche. Un individuo privo di licenza dei Collegi che ne porti con sé uno può essere accusato di eresia.</p>"
 		},
 		{
 			"id": "Book, Medicine",
-			"name": "Book, Medicine",
-			"description": "<p>Medical texts can either be scribed or press-printed, depending on the authoring physician’s prestige. Illuminations are common, and usually include detailed autopsy drawings and procedural diagrams.</p>"
+			"name": "Libro, Medicina",
+			"description": "<p>I testi medici possono essere scritti a mano o stampati, a seconda del prestigio dell’autore. Includono molte illustrazioni dettagliate di autopsie e diagrammi delle procedure.</p>"
 		},
 		{
 			"id": "Book, Religion",
-			"name": "Book, Religion",
-			"description": "<p>Religions books come in all forms in the Empire, a realm renowned for its religious observances. There is an eager market for the most popular texts, most of which are cheaply produced by printing presses.</p>"
+			"name": "Libro, Religione",
+			"description": "<p>Ci sono testi religiosi di ogni genere nell’Impero, la cui popolazione è famosa per la propria devozione. I più popolari sono molto richiesti e realizzati a basso costo da numerosi stampatori.</p>"
 		},
 		{
 			"id": "Boots",
-			"name": "Boots",
+			"name": "Stivali",
 			"description": ""
 		},
 		{
 			"id": "Bow",
-			"name": "Bow",
+			"name": "Arco",
 			"description": ""
 		},
 		{
 			"id": "Bowl",
-			"name": "Bowl",
+			"name": "Scodella",
 			"description": ""
 		},
 		{
 			"id": "Brass Penny",
-			"name": "Brass Penny",
+			"name": "Penny in Ottone",
 			"description": ""
 		},
 		{
 			"id": "Broom",
-			"name": "Broom",
+			"name": "Scopa",
 			"description": ""
 		},
 		{
 			"id": "Bucket",
-			"name": "Bucket",
+			"name": "Secchio",
 			"description": ""
 		},
 		{
 			"id": "Bugman’s XXXXXX Ale, pint",
-			"name": "Bugman’s XXXXXX Ale, pint",
-			"description": "<p>Merchants travel across the Old World to purchase this potent Dwarfen ale from the famous brewery founded by Josef Bugman. Bugman’s Ale is distributed to most major cities. One mug of Bugman’s counts as 4 mugs of normal ale for intoxication purposes (see @Item[Consume Alcohol]), and grants immunity to Fear Tests for 1d10 hours.</p>"
+			"name": "Birra, Bugman XXXXXX, pinta",
+			"description": "<p>Mercanti da tutto il Vecchio Mondo acquistano questa potente birra Nanica dal famoso birrificio fondato da Josef Bugman e la rivendono nella grandi città. Un boccale di Bugman’s conta come quattro di birra comune ai fini dell’ubriacatura (vedere @Item[Consume Alcohol], pag. 127) e fornisce immunità alle Prove di Paura per 1d10 ore.</p>"
 		},
 		{
 			"id": "Bullet and Powder",
-			"name": "Bullet and Powder",
+			"name": "Pallottole e Polvere",
 			"description": ""
 		},
 		{
 			"id": "Candle",
-			"name": "Candle",
-			"description": "<p>Provides illumination for 10 yards when lit.</p>"
+			"name": "Candela",
+			"description": "<p>Illumina in un raggio di 10 metri.</p>"
 		},
 		{
 			"id": "Canvas Tarp",
-			"name": "Canvas Tarp",
+			"name": "Tela Cerata",
 			"description": ""
 		},
 		{
 			"id": "Cart",
-			"name": "Cart",
-			"description": "<p>One driver and one draft animal required.</p>"
+			"name": "Carretto",
+			"description": "<p>Richiede un conducente e un animale da tiro.</p>"
 		},
 		{
 			"id": "Cask",
-			"name": "Cask",
-			"description": "<p>Capacity: 10 gallons of liquid.</p>\n<p>&nbsp;</p>"
+			"name": "Barile",
+			"description": "<p>Capacità di 45 l.</p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Cavalry Hammer",
-			"name": "Cavalry Hammer",
+			"name": "Martello da Cavaliere",
 			"description": ""
 		},
 		{
 			"id": "Chalk",
-			"name": "Chalk",
+			"name": "Gesso",
 			"description": ""
 		},
 		{
 			"id": "Charcoal stick",
-			"name": "Charcoal stick",
+			"name": "Carboncino",
 			"description": ""
 		},
 		{
 			"id": "Chicken",
-			"name": "Chicken",
+			"name": "Gallina",
 			"description": ""
 		},
 		{
 			"id": "Chisel",
-			"name": "Chisel",
+			"name": "Scalpello",
 			"description": ""
 		},
 		{
 			"id": "Cloak",
-			"name": "Cloak",
-			"description": "<p>Protects wearer against the elements.&nbsp;</p>"
+			"name": "Mantello",
+			"description": "<p>Protegge dagli elementi.&nbsp;</p>"
 		},
 		{
 			"id": "Clothing",
-			"name": "Clothing",
+			"name": "Abiti",
 			"description": ""
 		},
 		{
 			"id": "Coach",
-			"name": "Coach",
-			"description": "<p>Two drivers and four horses are standard.</p>"
+			"name": "Carrozza",
+			"description": "<p>Di solito ha due conducenti e quattro cavalli.</p>"
 		},
 		{
 			"id": "Coat",
-			"name": "Coat",
-			"description": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt; color: #231f20;\">Protects wearer against the elements and extreme cold; without a good coat or similar, you will receive penalties to resist Cold Exposure</p>"
+			"name": "Cappotto",
+			"description": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt; color: #231f20;\">protegge dagli elementi e dal freddo estremo; chi è senza un cappotto o altre protezioni simili subisce penalità nel resistere al freddo (vedere pag. 181).</p>"
 		},
 		{
 			"id": "Comb",
-			"name": "Comb",
+			"name": "Pettine",
 			"description": ""
 		},
 		{
 			"id": "Cooking Pot",
-			"name": "Cooking Pot",
+			"name": "Pentola",
 			"description": ""
 		},
 		{
 			"id": "Coracle",
-			"name": "Coracle",
-			"description": "<p>Coracles are small, lightweight boats that accommodate one person and can be carried easily. They are made from leather or bark stretched over a wood frame, and rowed with a single oar.</p>"
+			"name": "Canoa",
+			"description": "<p>Le canoe sono piccole imbarcazioni leggere per una persona, che possono essere trasportate facilmente. Di solito sono fatte di pelli o corteccia tese su una struttura di legno e hanno un solo remo.</p>"
 		},
 		{
 			"id": "Costume",
@@ -278,618 +278,618 @@
 		},
 		{
 			"id": "Courtly Garb",
-			"name": "Courtly Garb",
-			"description": "<p>Nobles’ garb features embellishments such as lace cuffs &amp; collars, excessive high-quality fabric and pointed shoes. Servants also wear courtly garb to banquets and ceremonies, although their surcoats and corsets are less ostentatious than the nobles’ fashions and can therefore be purchased at half price.&nbsp;</p>"
+			"name": "Abito da Corte",
+			"description": "<p>Quest’abito include decorazioni come polsini di merletto, tessuti di qualità eccessiva e scarpini a punta. Durante banchetti e cerimonie anche i servi li indossano, sebbene le loro giacche e corsetti siano decisamente meno ostentati di quelli degli aristocratici e, di conseguenza, costino la metà.</p>"
 		},
 		{
 			"id": "Crossbow",
-			"name": "Crossbow",
+			"name": "Balestra",
 			"description": ""
 		},
 		{
 			"id": "Crossbow Pistol",
-			"name": "Crossbow Pistol",
+			"name": "Balestrino",
 			"description": ""
 		},
 		{
 			"id": "Crowbar",
-			"name": "Crowbar",
+			"name": "Piede di Porco",
 			"description": ""
 		},
 		{
 			"id": "Crutch",
-			"name": "Crutch",
+			"name": "Stampella",
 			"description": ""
 		},
 		{
 			"id": "Cup",
-			"name": "Cup",
+			"name": "Tazza",
 			"description": ""
 		},
 		{
 			"id": "Cutlery",
-			"name": "Cutlery",
+			"name": "Posate",
 			"description": ""
 		},
 		{
 			"id": "Dagger",
-			"name": "Dagger",
+			"name": "Pugnale",
 			"description": ""
 		},
 		{
 			"id": "Dart",
-			"name": "Dart",
+			"name": "Dardo",
 			"description": ""
 		},
 		{
 			"id": "Davrich Lamp",
-			"name": "Davrich Lamp",
-			"description": "<p>A safety lamp emitting the light of a candle, first developed for Reikland’s mines by Master Engineer Davrich Stephansson. It ﬂares brightly in ‘firedamp’ (explosive gasses); after [[/r 1d10]] Rounds of exposure to the lamp the firedamp will explode. It is wise to withdraw before this happens.</p>"
+			"name": "Lampada Davrich",
+			"description": "<p>Questa lampada di sicurezza, ideata dal Mastro Ingegnere Davrich Stephansson per i minatori del Reikland, emette luce pari a una candela. Quando incontra un grisù (gas esplosivo) si illumina violentemente e dopo [[/r 1d10]] Round incendia il gas, dando però tempo di accorgersene.</p>"
 		},
 		{
 			"id": "Deck of Cards",
-			"name": "Deck of Cards",
+			"name": "Mazzo di Carte",
 			"description": ""
 		},
 		{
 			"id": "Destrier",
-			"name": "Destrier",
-			"description": "<p>Horse trained for war.</p>"
+			"name": "Destriero",
+			"description": "<p>Un cavallo addestrato per la guerra.</p>"
 		},
 		{
 			"id": "Dice",
-			"name": "Dice",
+			"name": "Dado",
 			"description": ""
 		},
 		{
 			"id": "Digestive Tonic",
-			"name": "Digestive Tonic",
-			"description": "<p>Provides +20 to recovery Tests from stomach ailments such as the Galloping Trots or The Bloody Flux</p>"
+			"name": "Tonico Digestivo",
+			"description": "<p>Fornisce +20 alla Prove per recuperare da problemi digestivi come Dissenteria o Diarrea Rossa (vedere pag. 186).</p>"
 		},
 		{
 			"id": "Disguise Kit",
-			"name": "Disguise Kit",
+			"name": "Kit Camuffamento",
 			"description": "<p>Contains enough props for four disguises (e.g. wigs and make-up) and also materials for changing your appearance used by those with the Entertain (Acting) Skill (e.g. wax, fake blood, and prosthetics).</p>"
 		},
 		{
 			"id": "Dog collar and lead",
-			"name": "Dog collar and lead",
+			"name": "Collare e guinzaglio",
 			"description": ""
 		},
 		{
 			"id": "Doll",
-			"name": "Doll",
+			"name": "Bambola",
 			"description": ""
 		},
 		{
 			"id": "Draught Horse",
-			"name": "Draught Horse",
+			"name": "Cavallo da Tiro",
 			"description": ""
 		},
 		{
 			"id": "Ear Pick",
-			"name": "Ear Pick",
+			"name": "Curette per Orecc.",
 			"description": ""
 		},
 		{
 			"id": "Earth Root",
-			"name": "Earth Root",
-			"description": "<p>This herb is ingested to negate the effects of Buboes caused by the Black Plague (though the swellings are still significant). Further, gain a bonus of +10 on all Tests concerning the disease. <strong>Dose</strong>: 1 per day.</p>"
+			"name": "Radice di Terra",
+			"description": "<p>Quest’erba viene ingerita per contrastare i bubboni della Peste Nera (che restano comunque notevoli). Inoltre fornisce +10 a tutte le Prove legate alla malattia. <strong>Dosi</strong>: 1 al giorno.</p>"
 		},
 		{
 			"id": "Elf Arrow",
-			"name": "Elf Arrow",
+			"name": "Freccia Elfica",
 			"description": ""
 		},
 		{
 			"id": "Elf Bow",
-			"name": "Elf Bow",
+			"name": "Arco Elfico",
 			"description": ""
 		},
 		{
 			"id": "Engineering Marvel",
-			"name": "Engineering Marvel",
-			"description": "<p>Only for the exceedingly rich, you commission a work of art from one of the Engineers&rsquo; Guilds, allowing you to completely ignore the loss of an ear, hand, arm, or leg, as steam hisses and machinery clicks in place of blood and muscle. Should you ever receive a Critical Wound to the marvel, it automatically breaks down, and needs to be taken back for costly repair (at least 10% of the base cost, depending upon the nature of the Critical Wound received).</p>"
+			"name": "Meraviglia Ingegneristica",
+			"description": "<p>Solo i più ricchi possono permettersi di commissionare alla Gilda degli Ingegneri queste opere d’arte. Una Meraviglia permette d’ignorare la perdita di un orecchio, mano, braccio o gamba, rimpiazzato da metallo e congegni a vapore. Se la Locazione rimpiazzata subisce una Ferita Critica, il marchingegno smetterà di funzionare e dovrà essere portato a riparare (prezzo minimo, il 10% del costo base, ma può dipendere dalla natura della Ferita Critica).</p>"
 		},
 		{
 			"id": "Eye patch",
-			"name": "Eye patch",
-			"description": "<p>Often decorated, an eye patch is used to cover scarred eye sockets.</p>"
+			"name": "Benda sull’Occhio",
+			"description": "<p>Spesso decorata, viene usata per coprire le ferite all’orbita oculare.</p>"
 		},
 		{
 			"id": "Face Powder",
-			"name": "Face Powder",
+			"name": "Cipria",
 			"description": ""
 		},
 		{
 			"id": "False Eye",
-			"name": "False Eye",
-			"description": "<p>Particularly popular amongst the rich who prefer not to wear cruder eye-patches, false eyes come in many forms, from wooden to polished glass.</p>"
+			"name": "Occhio Finto",
+			"description": "<p>Molto popolare tra i nobili che non apprezzano le semplici bende. Ce ne sono di vari materiali, dal legno al vetro.</p>"
 		},
 		{
 			"id": "False Leg",
-			"name": "False Leg",
-			"description": "<p>&nbsp;</p>\n<p>A False Leg (or just a False Foot, for half price), allows you to ignore 1 point of Movement loss due to the missing body part. Further, for 100 XP you can regain the last point of Movement Loss as you train yourself to use your new body part, and for 200 XP you relearn how to use Dodge again. This all requires you not to lose your False Leg, though.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+			"name": "Gamba Finta",
+			"description": "<p>&nbsp;</p>\n<p>Una gamba finta (o piede finto, che costa la metà) permette di ignorare 1 punto perdita di Movimento dovuto all’amputazione. Pagando 100 PE è possibile allenarsi a usarla per recuperare un ulteriore punto di Movimento perso. Per altri 200 PE è possibile imparare di nuovo a Schivare. Tuttavia, queste capacità richiedono di non perdere la gamba finta.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Faxtoryll",
-			"name": "Faxtoryll",
-			"description": "<p>When smeared on a wound, poultices made from this herbal coagulant remove all Bleeding Conditions without a Heal Test. <strong>Dose</strong>: 1 per Critical Wound.</p>"
+			"name": "Fior di Bosco",
+			"description": "<p>Ridotta a unguento, quest’erba agisce da coagulante e rimuove tutte le Condizioni Sanguinante senza bisogno di Prove. <strong>Dosi</strong>: 1 per Ferita Critica.</p>"
 		},
 		{
 			"id": "Fish Hooks",
-			"name": "Fish Hooks",
-			"description": "<p>Can be used to catch fish (see Gathering Food and Herbs)</p>"
+			"name": "Ami da Pesca",
+			"description": "<p>Usati per pescare (vedere pag. 129).</p>"
 		},
 		{
 			"id": "Flail",
-			"name": "Flail",
+			"name": "Flagello",
 			"description": ""
 		},
 		{
 			"id": "Flask",
-			"name": "Flask",
-			"description": "<p>Capacity: 1 pint of liquid.</p>\n<p>&nbsp;</p>"
+			"name": "Fiasca",
+			"description": "<p>Capacità di 0,5 l.</p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Flask of Spirits",
-			"name": "Flask of Spirits",
+			"name": "Fiasca di Liquore",
 			"description": ""
 		},
 		{
 			"id": "Floor Brush",
-			"name": "Floor Brush",
+			"name": "Spazzolone",
 			"description": ""
 		},
 		{
 			"id": "Foil",
-			"name": "Foil",
+			"name": "Fioretto",
 			"description": ""
 		},
 		{
 			"id": "Food, groceries/day",
-			"name": "Food, groceries/day",
+			"name": "Provviste, giorno",
 			"description": ""
 		},
 		{
 			"id": "Gavel",
-			"name": "Gavel",
+			"name": "Martelletto",
 			"description": ""
 		},
 		{
 			"id": "Gilded Nose",
-			"name": "Gilded Nose",
-			"description": "<p>Though most are made of wood or ceramic, the term gilded nose is widely used regardless. You can ignore the Fellowship loss for having no nose.</p>"
+			"name": "Naso d’Oro",
+			"description": "<p>Nonostante molti nasi finti siano di legno o ceramica, vengono quasi sempre indicati come ‘nasi d’oro’. Il Personaggio ignora la perdita di Socialità causata dalla mancanza del naso.</p>"
 		},
 		{
 			"id": "Gloves",
-			"name": "Gloves",
+			"name": "Guanti",
 			"description": ""
 		},
 		{
 			"id": "Gold Crown",
-			"name": "Gold Crown",
+			"name": "Corona d'Oro",
 			"description": ""
 		},
 		{
 			"id": "Grain Flail",
-			"name": "Grain Flail",
+			"name": "Correggiato",
 			"description": ""
 		},
 		{
 			"id": "Grappling Hook",
-			"name": "Grappling Hook",
-			"description": "<p>Coupled with a rope, allows unscalable surfaces to be climbed.</p>"
+			"name": "Rampino",
+			"description": "<p>Insieme con una corda rende affrontabili le pareti più impervie.</p>"
 		},
 		{
 			"id": "Great Axe",
-			"name": "Great Axe",
+			"name": "Ascia a 2 Mani",
 			"description": ""
 		},
 		{
 			"id": "Guild License",
-			"name": "Guild License",
-			"description": "<p>Guild licenses are usually printed on single sheets of parchment, stamped with an official seal, and signed by the local guild master. Guild licenses are not purchased; instead, they are granted to guild members according to each guild’s traditions and laws.</p>"
+			"name": "Licenza della Gilda",
+			"description": "<p>Di solito queste licenze sono stampate su una singola pergamena e autenticate con un sigillo ufficiale e la firma di un mastro. Non è possibile acquistarle, ma vengono concesse in accordo con la tradizione e il regolamento di ogni Gilda.</p>"
 		},
 		{
 			"id": "Halberd",
-			"name": "Halberd",
+			"name": "Alabarda",
 			"description": ""
 		},
 		{
 			"id": "Hammer",
-			"name": "Hammer",
+			"name": "Martello",
 			"description": ""
 		},
 		{
 			"id": "Hand Mirror",
-			"name": "Hand Mirror",
+			"name": "Specchietto",
 			"description": ""
 		},
 		{
 			"id": "Hand Weapon",
-			"name": "Hand Weapon",
+			"name": "Arma a una Mano",
 			"description": ""
 		},
 		{
 			"id": "Handgun",
-			"name": "Handgun",
+			"name": "Archibugio",
 			"description": ""
 		},
 		{
 			"id": "Hat",
-			"name": "Hat",
-			"description": "<p>Fine quality hats are status symbols in the Empire’s towns and cities. The more ﬂamboyant the hat, the better.</p>"
+			"name": "Cappello",
+			"description": "<p>Un cappello di alta qualità è un simbolo di status nell’Impero, più è spettacolare meglio è.</p>"
 		},
 		{
 			"id": "Healing Draught",
-			"name": "Healing Draught",
-			"description": "<p>If you have more than 0 Wounds, recover Toughness Bonus Wounds immediately. <strong>Dose</strong>: 1 per encounter.</p>"
+			"name": "Infuso Guaritore",
+			"description": "<p>Se il Personaggio ha più di 0 Ferite, bevendolo ne recupera un numero pari al proprio Bonus Resistenza. <strong>Dosi</strong>: 1 per incontro.</p>"
 		},
 		{
 			"id": "Healing Poultice",
-			"name": "Healing Poultice",
-			"description": "<p>This foul-smelling medicinal wrap is made from animal dung and urine combined with any number of common herbs such as Sigmafoil, Tarrabeth, and Valerian. You do not suffer any Minor Infections from a Critical Wound treated with a Healing Poultice.</p>"
+			"name": "Unguento Guaritore",
+			"description": "<p>Questa medicina puzzolente è composta di letame e urina mescolate con erbe comuni, come la Foglia di Sigmar, la Tarrabeth e la Valeriana. Trattare una Ferita Critica con questo medicinale previene le Infezioni Minori</p>"
 		},
 		{
 			"id": "Heartkill",
-			"name": "Heartkill",
-			"description": "<p>Combining the venoms from an Amphisbaena (a rare, two-headed serpent) and a Jabberslythe produces an odorless, colorless poison. When ingested, the deadly mixture inﬂicts 4 Poisoned Conditions. Resisted with a <strong>Difficult (–10) Endurance</strong> Test.</p>"
+			"name": "Ammazzacuore",
+			"description": "<p>Questa sostanza inodore e incolore si ottiene mescolando il veleno dell’Anfisbena (un raro serpente a due teste) con quello di un Jabberslythe. Se ingerita provoca 4 Avvelenato. Resistere richiede una Prova <strong>Difficile (-10) di Tempra</strong>.</p>"
 		},
 		{
 			"id": "Heavy Crossbow",
-			"name": "Heavy Crossbow",
+			"name": "Balestra Pesante",
 			"description": ""
 		},
 		{
 			"id": "Hochland Long Rifle",
-			"name": "Hochland Long Rifle",
+			"name": "Moschetto Hochland",
 			"description": ""
 		},
 		{
 			"id": "Hoe",
-			"name": "Hoe",
+			"name": "Zappa",
 			"description": ""
 		},
 		{
 			"id": "Homing Pigeon",
-			"name": "Homing Pigeon",
+			"name": "Piccione Viaggiatore",
 			"description": ""
 		},
 		{
 			"id": "Hood",
-			"name": "Hood",
+			"name": "Cappuccio",
 			"description": ""
 		},
 		{
 			"id": "Hook",
-			"name": "Hook",
-			"description": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\"><span style=\"color: #231f20;\">You have a hook strapped where you used to have a hand. A surprisingly nimble tool once you are used to it, you can buy back the –20 penalty on all Tests involving two hands for 100 XP per 5 you subtract from the penalty, removing the penalty completely for 400 XP. </span><strong><span style=\"color: #231f20;\">Append</span></strong><span style=\"font-weight: bold; color: #231f20;\">: </span><span style=\"color: #231f20;\">In Close Combat, a Hook counts as a Dagger</span></p>"
+			"name": "Uncino",
+			"description": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\"><span style=\"color: #231f20;\">Gli uncini vengono legati al posto di una mano mancante e si rivelano strumenti molto duttili una volta imparato a usarli. Il Personaggio può eliminare la penalità di -20 alle attività che richiedono due mani al costo di 100 PE ogni -5 (rimuovendola completamente con 400 PE).</span><strong><span style=\"color: #231f20;\">Append</span></strong><span style=\"font-weight: bold; color: #231f20;\">: </span><span style=\"color: #231f20;\">In combattimento un uncino conta come un Pugnale.</span></p>"
 		},
 		{
 			"id": "Hunting Dog",
-			"name": "Hunting Dog",
+			"name": "Cane da Caccia",
 			"description": ""
 		},
 		{
 			"id": "Improvised Shot and Powder",
-			"name": "Improvised Shot and Powder",
+			"name": "Carica Improvvisata e Polvere",
 			"description": ""
 		},
 		{
 			"id": "Improvised Weapon",
-			"name": "Improvised Weapon",
+			"name": "Arma Improvvisata",
 			"description": ""
 		},
 		{
 			"id": "Incendiary",
-			"name": "Incendiary",
+			"name": "Bomba Incendiaria",
 			"description": ""
 		},
 		{
 			"id": "Instrument",
-			"name": "Instrument",
-			"description": "<p>Various instruments are included in this category. The standard price and encumbrance reﬂects medium-sized instruments (e.g. mandolin, coach horn, small drum). Small instruments are half the price and 0 Encumbrance points (e.g. ﬂute, recorder, tambourine). Larger instruments are double the price and 2 Encumbrance points (e.g. harp, lute, large drum).</p>"
+			"name": "Strumento Musicale",
+			"description": "<p>Esistono molti tipi di strumenti musicali. Il prezzo indicato è per uno di dimensioni medie (come un mandolino, un corno da cocchiere o un piccolo tamburo). Strumenti piccoli (flauti o tamburelli) costano la metà e hanno Ingombro 0, mentre quelli grandi (arpe, liuti o grossi tamburi) costano il doppio e hanno Ingombro 2.</p>"
 		},
 		{
 			"id": "Javelin",
-			"name": "Javelin",
+			"name": "Giavellotto",
 			"description": ""
 		},
 		{
 			"id": "Jewellry",
-			"name": "Jewellry",
-			"description": "<p>Prices vary by craftsmanship, metal type, and gem value. As a general guideline, common rings without any gemstones cost 10 coins equal to their metal type (i.e. brass, silver or gold) whereas necklaces cost 20 coins of the same metal type</p>"
+			"name": "Gioielli",
+			"description": "<p>Il prezzo dipende dalla fattura e dai materiali impiegati. Di solito un semplice anello metallico senza gemme costa 10 monete del tipo corrispondente (ottone, argento od oro), mentre le collane ne costano 20.</p>"
 		},
 		{
 			"id": "Jug",
-			"name": "Jug",
-			"description": "<p>Capacity: 1 gallon of liquid.</p>\n<p>&nbsp;</p>"
+			"name": "Caraffa",
+			"description": "<p>Capacità di 4,5 l.</p>\n<p>&nbsp;</p>"
 		},
 		{
 			"id": "Key",
-			"name": "Key",
+			"name": "Chiave",
 			"description": ""
 		},
 		{
 			"id": "Knife",
-			"name": "Knife",
+			"name": "Coltello",
 			"description": ""
 		},
 		{
 			"id": "Knife",
-			"name": "Knife",
+			"name": "Coltello",
 			"description": ""
 		},
 		{
 			"id": "Knuckledusters",
-			"name": "Knuckledusters",
+			"name": "Tirapugni",
 			"description": ""
 		},
 		{
 			"id": "Lamp Oil",
-			"name": "Lamp Oil",
-			"description": "<p>Contains enough fuel for 4 hours of standard use, or 8 hours of low ﬂame equivalent to a candle.</p>"
+			"name": "Olio per Lampade",
+			"description": "<p>Una fiasca ne contiene abbastanza per 4 ore, che diventano 8 tenendo la fiamma bassa come quella di una candela.</p>"
 		},
 		{
 			"id": "Lance",
-			"name": "Lance",
+			"name": "Lancia da Cavaliere",
 			"description": ""
 		},
 		{
 			"id": "Lantern",
-			"name": "Lantern",
-			"description": "<p>Provides illumination for 20 yards.</p>"
+			"name": "Lanterna",
+			"description": "<p>Illumina in un raggio di 20 metri.</p>"
 		},
 		{
 			"id": "Lasso",
-			"name": "Lasso",
+			"name": "Lazo",
 			"description": ""
 		},
 		{
 			"id": "Lead Bullet",
-			"name": "Lead Bullet",
+			"name": "Proiettili di Piombo",
 			"description": ""
 		},
 		{
 			"id": "Leaflet",
-			"name": "Leaflet",
+			"name": "Volantino",
 			"description": ""
 		},
 		{
 			"id": "Leather Jack",
-			"name": "Leather Jack",
+			"name": "Giaco di Cuoio",
 			"description": ""
 		},
 		{
 			"id": "Leather Jerkin",
-			"name": "Leather Jerkin",
+			"name": "Farsetto di Cuoio",
 			"description": ""
 		},
 		{
 			"id": "Leather Leggings",
-			"name": "Leather Leggings",
+			"name": "Gambali di Cuoio",
 			"description": ""
 		},
 		{
 			"id": "Leather Skullcap",
-			"name": "Leather Skullcap",
+			"name": "Elmetto di Cuoio",
 			"description": ""
 		},
 		{
 			"id": "Legal Document",
-			"name": "Legal Document",
-			"description": "<p>A simple legal document such as a will, IOU or letter of intent.</p>"
+			"name": "Documento Legale",
+			"description": "<p>Un semplice documento notificato, come una cambiale o una lettera d’intenti.</p>"
 		},
 		{
 			"id": "Light Warhorse",
-			"name": "Light Warhorse",
+			"name": "Cavallo da Guerra Leggero",
 			"description": ""
 		},
 		{
 			"id": "Lock Picks",
-			"name": "Lock Picks",
-			"description": "<p>An assortment of small, variously-shaped tools needed to use the Pick Lock Skill without penalty.&nbsp;</p>"
+			"name": "Grimaldelli",
+			"description": "<p>Una serie di piccoli strumenti acuminati, necessari per usare l’Abilità Scassinare senza penalità.</p>"
 		},
 		{
 			"id": "Longbow",
-			"name": "Longbow",
+			"name": "Arco Lungo",
 			"description": ""
 		},
 		{
 			"id": "Mad Cap Mushrooms",
-			"name": "Mad Cap Mushrooms",
-			"description": "<p>These hallucinogenic mushrooms are eaten by Goblin fanatics before battle. They induce a berserker rage, adding +10 Strength, +4 Wounds, and the Frenzy Talent. When the effect wears off, the user loses 1d10 Wounds. Non-Greenskins must also pass a <strong>Challenging (+0) Endurance Test</strong> or contract a Minor Infection. <strong>Duration</strong>: Active when chewed plus an additional 2d10 minutes.</p>"
+			"name": "Fungo Cappello Matto",
+			"description": "<p>Questi funghi allucinogeni vengono mangiati dai Fanatici Goblin prima della battaglia e provocano una rabbia simile a quella del Berserker, che fornisce +10 Forza, +4 Ferite e il Talento Furia . Al termine dell’effetto il Personaggio perde 1d10 Ferite. Inoltre, se non è un Pelleverde, dovrà superare una Prova <strong>Impegnativa (+0) di Tempra</strong> per non contrarre un’Infezione Minore. <strong>Durata</strong>: Ha effetto mentre viene masticato e per i 2d10 minuti seguenti.</p>"
 		},
 		{
 			"id": "Mail Chausses",
-			"name": "Mail Chausses",
+			"name": "Gambali di Maglia",
 			"description": ""
 		},
 		{
 			"id": "Mail Coat",
-			"name": "Mail Coat",
+			"name": "Usbergo",
 			"description": ""
 		},
 		{
 			"id": "Mail Coif",
-			"name": "Mail Coif",
+			"name": "Camaglio",
 			"description": ""
 		},
 		{
 			"id": "Mail Shirt",
-			"name": "Mail Shirt",
+			"name": "Corpetto di Maglia",
 			"description": ""
 		},
 		{
 			"id": "Main Gauche",
-			"name": "Main Gauche",
+			"name": "Daga Mancina",
 			"description": ""
 		},
 		{
 			"id": "Manacles",
-			"name": "Manacles",
-			"description": "<p>Prisoners trying to break out of manacles suffer 1 Wound and must pass a Very Hard (-30) Strength Test.</p>"
+			"name": "Ceppi",
+			"description": "<p>Un prigioniero che tenti di liberarsi subisce 1 Ferita e deve superare una Prova Molto Ardua (-30) di Forza.</p>"
 		},
 		{
 			"id": "Mandrake Root",
-			"name": "Mandrake Root",
-			"description": "<p>This highly-addictive deliriant grows under gallows, and is chewed to keep an unquiet mind still. Users must pass a Willpower Test every Round to perform an Action or a Move (choose one); further, Movement is halved. However, Cool Tests receive a bonus of +20. <strong>Duration</strong>: Active when chewed plus an additional 1d10×10 minutes.</p>"
+			"name": "Radice di Mandragola",
+			"description": "<p>questa pianta cresce sotto le forche, provoca follia e una forte dipendenza. Chi ne fa uso deve superare una Prova di Volontà ogni Round per poter effettuare un’Azione o una Manovra (a sua scelta). Inoltre, ha Movimento dimezzato, ma +20 alle Prove di Freddezza. <strong>Durata</strong>: Ha effetto mentre viene masticata e per i 1d10×10 minuti seguenti.</p>"
 		},
 		{
 			"id": "Map",
-			"name": "Map",
+			"name": "Mappa",
 			"description": ""
 		},
 		{
 			"id": "Mask",
-			"name": "Mask",
+			"name": "Maschera",
 			"description": ""
 		},
 		{
 			"id": "Match",
-			"name": "Match",
+			"name": "Fiammifero",
 			"description": ""
 		},
 		{
 			"id": "Meal, inn",
-			"name": "Meal, inn",
+			"name": "Pasto, locanda",
 			"description": ""
 		},
 		{
 			"id": "Military Flail",
-			"name": "Military Flail",
+			"name": "Flagello Militare",
 			"description": ""
 		},
 		{
 			"id": "Monkey",
-			"name": "Monkey",
+			"name": "Scimmia",
 			"description": ""
 		},
 		{
 			"id": "Moonflower",
-			"name": "Moonflower",
-			"description": "<p>This tranquilizer is a dried moss which grows only on leaves in the Laurelorn forest. Elves use Moonﬂower to treat Black Plague, granting a bonus of +30 to any associated Tests for Elves to resist the disease, otherwise it has no effect on their species. Others can inhale vapors from boiling the moss and if they fail a <strong>Very Hard (–30) Willpower</strong> Test will gain an Unconscious Condition; if passed, they receive a bonus of +20 to Cool Tests and gain a Fatigued Condition. Moonﬂower is used by the most expensive Physicians as an anesthetic. <strong>Duration</strong>: 1d10+5 hours.</p>"
+			"name": "Fiore Lunare",
+			"description": "<p>E' un tranquillante, e si ricava facendo essiccare un muschio che cresce solo sulle foglie della Foresta di Laurelorn. Gli Elfi lo usano per trattare la Peste Nera, fornendo un bonus di +30 alle Prove per resistere alla malattia (purtroppo funziona solo sugli Elfi). Le altre Specie lo fanno bollire e ne inalano i vapori. Questo richiede una Prova Molto Ardua (-30) di Volontà per non cadere Privo di Sensi. Chi ha successo ottiene +20 alle Prove di Freddezza e 1 Affaticato. I medici più costosi lo usano come anestetico. <strong>Durata</strong>: 1d10+5 ore.</p>"
 		},
 		{
 			"id": "Mop",
-			"name": "Mop",
+			"name": "Redazza",
 			"description": ""
 		},
 		{
 			"id": "Mule",
-			"name": "Mule",
-			"description": "<p>Horse trained for war.</p>"
+			"name": "Mulo",
+			"description": ""
 		},
 		{
 			"id": "Nails",
-			"name": "Nails",
+			"name": "Chiodi",
 			"description": ""
 		},
 		{
 			"id": "Nightshade",
-			"name": "Nightshade",
-			"description": "<p>Consuming this herb causes the victim to fall into a deep sleep after 2-3 hours, unless an Endurance Test is passed. A Nightshade slumber lasts 1d10+4 hours. <strong>Dose</strong>: 1 per person.</p>"
+			"name": "Belladonna",
+			"description": "<p>Chi consuma quest’erba cade in un sonno profondo dopo 2-3 ore, a meno che superi una Prova di Tempra. L’effetto dura per 1d10+4 ore. <strong>Dosi</strong>: 1 a persona.</p>"
 		},
 		{
 			"id": "Paint Brush",
-			"name": "Paint Brush",
+			"name": "Pennello",
 			"description": ""
 		},
 		{
 			"id": "Pan",
-			"name": "Pan",
+			"name": "Padella",
 			"description": ""
 		},
 		{
 			"id": "Parchment/sheet",
-			"name": "Parchment/sheet",
+			"name": "Pergamena, foglio",
 			"description": ""
 		},
 		{
 			"id": "Perfume",
-			"name": "Perfume",
+			"name": "Profumo",
 			"description": ""
 		},
 		{
 			"id": "Pestle & Mortar",
-			"name": "Pestle & Mortar",
+			"name": "Mortaio & Pestello",
 			"description": ""
 		},
 		{
 			"id": "Pewter Stein",
-			"name": "Pewter Stein",
-			"description": "<p>Beer mug/tankard made of pewter</p>\n<p>&nbsp;</p>"
+			"name": "Boccale di Peltro",
+			"description": "<p>Boccale di birra fatto di peltro.</p>"
 		},
 		{
 			"id": "Pick",
-			"name": "Pick",
+			"name": "Piccone",
 			"description": ""
 		},
 		{
 			"id": "Pick",
-			"name": "Pick",
+			"name": "Piccone",
 			"description": null
 		},
 		{
 			"id": "Pike",
-			"name": "Pike",
+			"name": "Picca",
 			"description": ""
 		},
 		{
 			"id": "Pins",
-			"name": "Pins",
+			"name": "Forcine",
 			"description": ""
 		},
 		{
 			"id": "Pipe and Tobacco",
-			"name": "Pipe and Tobacco",
+			"name": "Pipa e Tabacco",
 			"description": ""
 		},
 		{
 			"id": "Pistol",
-			"name": "Pistol",
+			"name": "Pistola",
 			"description": ""
 		},
 		{
 			"id": "Placard",
-			"name": "Placard",
+			"name": "Cartello",
 			"description": ""
 		},
 		{
 			"id": "Plate",
-			"name": "Plate",
+			"name": "Piatto",
 			"description": ""
 		},
 		{
 			"id": "Plate Bracers",
-			"name": "Plate Bracers",
+			"name": "Bracciali",
 			"description": ""
 		},
 		{
 			"id": "Plate Breastplate",
-			"name": "Plate Breastplate",
+			"name": "Pettorale",
 			"description": ""
 		},
 		{
 			"id": "Plate Helm",
-			"name": "Plate Helm",
+			"name": "Elmo Chiuso",
 			"description": ""
 		},
 		{
 			"id": "Plate Leggings",
-			"name": "Plate Leggings",
+			"name": "Gambali",
 			"description": ""
 		},
 		{
 			"id": "Plate Open Helm",
-			"name": "Plate Open Helm",
+			"name": "Elmo Aperto",
 			"description": ""
 		},
 		{
 			"id": "Pole (3 yards)",
-			"name": "Pole (3 yards)",
-			"description": "<p>A long pole used for barging; counts as an @Compendium[wfrp4e-core.trappings.mRU10yAWWWs5WoKt]{Improvised Weapon}</p>"
+			"name": "Palo (3m)",
+			"description": "<p>Un lungo palo usato per governare le chiatte, conta come @Compendium[wfrp4e-core.trappings.mRU10yAWWWs5WoKt]{Arma Improvvisata}.</p>"
 		},
 		{
 			"id": "Pony",
@@ -898,372 +898,372 @@
 		},
 		{
 			"id": "Pouch",
-			"name": "Pouch",
+			"name": "Scarsella",
 			"description": ""
 		},
 		{
 			"id": "Quarterstaff",
-			"name": "Quarterstaff",
+			"name": "Bastone",
 			"description": ""
 		},
 		{
 			"id": "Quill Pen",
-			"name": "Quill Pen",
+			"name": "Penna d’Oca",
 			"description": ""
 		},
 		{
 			"id": "Rags",
-			"name": "Rags",
+			"name": "Stracci",
 			"description": ""
 		},
 		{
 			"id": "Rake",
-			"name": "Rake",
+			"name": "Rastrello",
 			"description": ""
 		},
 		{
 			"id": "Ranald's Delight",
-			"name": "Ranald's Delight",
-			"description": "<p>This highly-addictive stimulant is a synthetic compound made from sulphur, mercury and other elements. Inhaling the powder provides a bonus of +1 to Movement, and +10 to WS, S, T, and Agi. Tis last for 3 hours, after which the user suffers a penalty of –2 Movement and –20 on Weapon Skill, Strength, Toughness, and Agility. <strong>Duration</strong>: 1 day.</p>"
+			"name": "Delizia di Ranald",
+			"description": "<p>E' uno stimolante artificiale, che provoca forte dipendenza, composto di zolfo, mercurio e altri elementi. Inalare la polvere aggiunge +1 Movimento e +1 ad Abilità di Combattimento, Forza, Resistenza, e Agilità per 3 ore. Al termine dell’effetto si subisce -2 Movimento e -20 alla Caratteristiche indicate sopra. <strong>Durata</strong>: 1 giorno.</p>"
 		},
 		{
 			"id": "Rapier",
-			"name": "Rapier",
+			"name": "Stocco",
 			"description": ""
 		},
 		{
 			"id": "Rations, 1 day",
-			"name": "Rations, 1 day",
+			"name": "Razioni, 1 giorno",
 			"description": ""
 		},
 		{
 			"id": "Reading Lens",
-			"name": "Reading Lens",
-			"description": "<p>Glass lenses with handles provide a +20 bonus to Read/Write Tests for deciphering tiny or unintelligible writing. Perception Tests to search for fine details such as secret doors or compartments also receive a +20 bonus</p>"
+			"name": "Lenti da Lettura",
+			"description": "<p>Queste lenti di vetro forniscono +20 alle Prove di Linguaggio per decifrare caratteri piccoli o poco leggibili e a quelle di Percepire per individuare porte o scomparti segreti.</p>"
 		},
 		{
 			"id": "Religious Symbol",
-			"name": "Religious Symbol",
+			"name": "Simbolo Religioso",
 			"description": ""
 		},
 		{
 			"id": "Repeater Handgun",
-			"name": "Repeater Handgun",
+			"name": "Archibugio a Ripetizione",
 			"description": ""
 		},
 		{
 			"id": "Repeater Pistol",
-			"name": "Repeater Pistol",
+			"name": "Pistola a Ripetizione",
 			"description": ""
 		},
 		{
 			"id": "Riding Horse",
-			"name": "Riding Horse",
+			"name": "Cavallo da Galoppo",
 			"description": ""
 		},
 		{
 			"id": "River Barge",
-			"name": "River Barge",
-			"description": "<p>Three crew are standard.</p>"
+			"name": "Barcone da Fiume",
+			"description": "<p>Richiede un equipaggio di almeno 3 persone.</p>"
 		},
 		{
 			"id": "Robes",
-			"name": "Robes",
+			"name": "Tunica",
 			"description": ""
 		},
 		{
 			"id": "Rock",
-			"name": "Rock",
+			"name": "Sasso",
 			"description": ""
 		},
 		{
 			"id": "Room, common/night",
-			"name": "Room, common/night",
-			"description": "<p>Guests sleeping in common rooms should be wary of thieves.</p>"
+			"name": "Stanza comune, notte",
+			"description": "<p>Chi dorme in una stanza comune deve stare attento ai ladri.</p>"
 		},
 		{
 			"id": "Room, private/night",
-			"name": "Room, private/night",
-			"description": "<p>Accommodates 2 guests. Large rooms cost double the price and accommodate 4 guests.</p>"
+			"name": "Stanza privata, notte",
+			"description": "<p>Per due persone. Quelle grandi costano il doppio e hanno quattro letti.</p>"
 		},
 		{
 			"id": "Rope, 10 yards",
-			"name": "Rope, 10 yards",
+			"name": "Fune, 10 metri",
 			"description": ""
 		},
 		{
 			"id": "Row Boat",
-			"name": "Row Boat",
-			"description": "<p>One rower is standard.</p>"
+			"name": "Barca a Remi",
+			"description": "<p>Richiede almeno un rematore.</p>"
 		},
 		{
 			"id": "Sack",
-			"name": "Sack",
-			"description": "<p>Requires 1 hand to carry.</p>"
+			"name": "Sacco",
+			"description": "<p>Richiede una mano per essere trasportato.</p>"
 		},
 		{
 			"id": "Sack, Large",
-			"name": "Sack, Large",
-			"description": "<p>Requires 1 hand to carry (or 2 hands if full).</p>"
+			"name": "Sacco Grande",
+			"description": "<p>Richiede una mano per essere trasportato (due se pieno).</p>"
 		},
 		{
 			"id": "Saddle and Harness",
-			"name": "Saddle and Harness",
+			"name": "Sella e Briglie",
 			"description": ""
 		},
 		{
 			"id": "Saddlebags",
-			"name": "Saddlebags",
+			"name": "Borse da Sella",
 			"description": ""
 		},
 		{
 			"id": "Salwort",
-			"name": "Salwort",
-			"description": "<p>When held under someone’s nose, the aroma from a crushed sprig of this herb removes 1 Stunned&nbsp;Condition. <strong>Dose</strong>: 1 per encounter.</p>"
+			"name": "Salicornia",
+			"description": "<p>Mettendo sotto il naso di una persona un trito di quest’erba, il potente aroma rimuove 1 Stordito. <strong>Dosi</strong>: 1 per incontro.</p>"
 		},
 		{
 			"id": "Saw",
-			"name": "Saw",
+			"name": "Sega",
 			"description": ""
 		},
 		{
 			"id": "Scepter",
-			"name": "Scepter",
-			"description": "<p>The highest-ranking legal officials carry scepters to indicate their status.</p>"
+			"name": "Scettro",
+			"description": "<p>I funzionari di grado più alto lo portano per indicare la propria posizione.</p>"
 		},
 		{
 			"id": "Scroll Case",
-			"name": "Scroll Case",
-			"description": "<p>Counts as ‘worn’ when slung over your shoulder.</p>"
+			"name": "Custodia Pergamene",
+			"description": ""
 		},
 		{
 			"id": "Shield",
-			"name": "Shield",
+			"name": "Scudo",
 			"description": ""
 		},
 		{
 			"id": "Shield (Buckler)",
-			"name": "Shield (Buckler)",
+			"name": "Brocchiero",
 			"description": ""
 		},
 		{
 			"id": "Shield (Large)",
-			"name": "Shield (Large)",
+			"name": "Scudo Grande",
 			"description": ""
 		},
 		{
 			"id": "Shoes",
-			"name": "Shoes",
+			"name": "Scarpe",
 			"description": ""
 		},
 		{
 			"id": "Shortbow",
-			"name": "Shortbow",
+			"name": "Arco Corto",
 			"description": ""
 		},
 		{
 			"id": "Sickle",
-			"name": "Sickle",
+			"name": "Falce",
 			"description": ""
 		},
 		{
 			"id": "Signet Ring",
-			"name": "Signet Ring",
-			"description": "<p>&nbsp;</p>\n<p>Gold rings with engraved stamps are worn by nobles and guild officials, who use them to imprint heraldry or insignia into sealing wax.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+			"name": "Anello con Sigillo",
+			"description": "<p>Nobili e funzionari delle Gilde portano anelli d’oro incisi per imprimere il proprio sigillo nella ceralacca.</p>"
 		},
 		{
 			"id": "Silver Shilling",
-			"name": "Silver Shilling",
+			"name": "Scellino d'Argento",
 			"description": ""
 		},
 		{
 			"id": "Sling",
-			"name": "Sling",
+			"name": "Frombola",
 			"description": ""
 		},
 		{
 			"id": "Sling Bag",
-			"name": "Sling Bag",
-			"description": "<p>Counts as ‘worn’ when slung over your shoulder.</p>"
+			"name": "Borsa a Tracolla",
+			"description": "<p>Conta come ‘indossata’ se portata su una spalla.</p>"
 		},
 		{
 			"id": "Small shot and Powder",
-			"name": "Small shot and Powder",
+			"name": "Carica a Pallini e Polvere",
 			"description": ""
 		},
 		{
 			"id": "Spade",
-			"name": "Spade",
+			"name": "Pala",
 			"description": ""
 		},
 		{
 			"id": "Spear",
-			"name": "Spear",
+			"name": "Lancia",
 			"description": ""
 		},
 		{
 			"id": "Spike",
-			"name": "Spike",
+			"name": "Spuntone",
 			"description": ""
 		},
 		{
 			"id": "Spirits, pint",
-			"name": "Spirits, pint",
+			"name": "Distillato, pinta",
 			"description": ""
 		},
 		{
 			"id": "Spit",
-			"name": "Spit",
-			"description": "<p>Extracted from Chameleoleeches found in the marshes of the Empire, this extraordinarily powerful hallucinogen brings visions of something deeply desired, such as a lost lover, a dead friend, or a missing child. Called Spit on the streets, it’s popular with those lost to despair. Upon exposure, you must pass a <strong>Very Hard (–30) Toughness</strong> Test or be lost to a fully real fantasy, which is a matter for the GM to handle. <strong>Duration</strong>: 1d10 minutes.</p>"
+			"name": "Sputo",
+			"description": "<p>Questo allucinogeno, straordinariamente potente, viene estratto dalle Sanguisughe Camaleonte che infestano le paludi dell’Impero e provoca visioni dei propri desideri più intensi (come un amante perduto, un amico morto o un bambino scomparso). Il nome viene dalla strada, dove è popolare tra i disperati. Una volta consumato bisogna superare una Prova <strong>Molto Ardua (-30) di Resistenza</strong> per non perdersi in una fantasia molto realistica decisa dal GM. <strong>Durata</strong>: 1d10 minuti.</p>"
 		},
 		{
 			"id": "Stables/night",
-			"name": "Stables/night",
+			"name": "Stallaggio, notte",
 			"description": ""
 		},
 		{
 			"id": "Staff Sling",
-			"name": "Staff Sling",
+			"name": "Frombola a Palo",
 			"description": ""
 		},
 		{
 			"id": "Stamp, engraved",
-			"name": "Stamp, engraved",
+			"name": "Timbro, inciso",
 			"description": ""
 		},
 		{
 			"id": "Stone Bullet",
-			"name": "Stone Bullet",
+			"name": "Sassi",
 			"description": ""
 		},
 		{
 			"id": "Storm Lantern",
-			"name": "Storm Lantern",
-			"description": "<p>Shutters protect the ﬂame from wind, and also enable the light to be directed in a 90&deg; arc or darkened altogether. Provides illumination for 20 yards, or 30 when targeted.</p>"
+			"name": "Lanterna Schermata",
+			"description": "<p>Gli scuri proteggono la fiamma dal vento e permettono di direzionare la luce in un cono di 90° o oscurarla completamente. Illumina in un raggio di 20 metri, 30 se direzionata.</p>"
 		},
 		{
 			"id": "Swordbreaker",
-			"name": "Swordbreaker",
+			"name": "Spezzalama",
 			"description": ""
 		},
 		{
 			"id": "Tattoo",
-			"name": "Tattoo",
+			"name": "Tatuaggio",
 			"description": ""
 		},
 		{
 			"id": "Telescope",
-			"name": "Telescope",
+			"name": "Cannocchiale",
 			"description": ""
 		},
 		{
 			"id": "Tent",
-			"name": "Tent",
+			"name": "Tenda",
 			"description": ""
 		},
 		{
 			"id": "Throwing Axe",
-			"name": "Throwing Axe",
+			"name": "Ascia da Lancio",
 			"description": ""
 		},
 		{
 			"id": "Throwing Knife",
-			"name": "Throwing Knife",
+			"name": "Coltello da Lancio",
 			"description": ""
 		},
 		{
 			"id": "Tinderbox",
-			"name": "Tinderbox",
+			"name": "Acciarino",
 			"description": ""
 		},
 		{
 			"id": "Tongs, steel",
-			"name": "Tongs, steel",
+			"name": "Pinza, acciaio",
 			"description": ""
 		},
 		{
 			"id": "Trade Tools (Type)",
-			"name": "Trade Tools (Type)",
-			"description": "<p><strong>Apothecary</strong>: Tools include pestle and mortar, spoons, jars, and weights and scales. Workshops also include oil burners and shelves full of ingredients.</p>\n<p>&nbsp;</p>\n<p><strong>Artisan</strong>: The potential range of tools used by Artisans is wide.</p>\n<p>Sample packages include:</p>\n<ul type=\"disc\">\n<li><strong>Carpenter</strong>: Hammer and nails, saw, measuring rod, chalk, and plumb lines. Workshops also include lathes, planes, clamps, and a supply of lumber.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Engraver</strong>: Gravers, punches, wax, acid, hammer, and chisels. Workshops also include dies and presses.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Smith</strong>: Hammer, tongs, punches, swages, bits, and augers. Workshops also include an anvil, furnace, swage block, sledgehammers, and metal ingots.</li>\n</ul>\n<p>&nbsp;</p>\n<p>Other Artisans include: Armorer, Bowyer, Brewer, Candlemaker, Calligrapher, Cartographer, Cobbler, Cook, Cooper, Embalmer, Gem Cutter, Glassblower, Goldsmith, Gunsmith, Jeweler, Leatherworker, Mason, Painter, Potter, Shipwright, Stoneworker, Tailor, Tanner, Vintner, Weaver, Weaponsmith and Woodcarver.</p>\n<p>&nbsp;</p>\n<p><strong>Artist</strong>: Brushes and paints, hammer and chisels, rasps and files, and scrapers. Workshops also include easels or pedestals and supplies of canvas, parchment, vellum, wood, clay or uncut stone.</p>\n<p><strong>Engineer</strong>: Hourglass, measuring rod, fuse cord, drafting compass, and T-square. Workshops also include pulleys, ropes, and drafting tables.</p>\n<p><strong>Herbalist</strong>: Pestle and mortar, small knives, pruning shears, and gloves. Workshops also include drying racks, strainers, funnels, bowls, and jars.</p>\n<p><strong>Navigator</strong>: Quadrant, astrolabe, charts and compasses, hourglass, and sounding line.</p>\n<p><strong>Physician</strong>: Needles and sutures, bandages, scalpel, vinegar, forceps, and a speculum. Workshops also include anatomical drawings, assorted implements, and a surgery table.&nbsp;</p>"
+			"name": "Arnesi del Mestiere (Tipologia)",
+			"description": "<p><strong>Apotecario</strong>: gli Arnesi includono mortaio e pestello, cucchiai, vasi, bilancia e pesi. Un Laboratorio comprende bruciatori a olio e molti scaffali colmi di ingredienti.</p>\n<p>&nbsp;</p>\n<p><strong>Artigiano</strong>: ci sono diversi tipi di artigiano.</p>\n<p>Per esempio:</p>\n<ul type=\"disc\">\n<li><strong>Carpentiere</strong>: martello, chiodi, sega, metro, gesso e filo a piombo. Il Laboratorio comprende tornii, pialle, morse e una scorta di legname.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Fabbro</strong>: martello, molle, punzoni, chiodaia, punte e trapano. Nel Laboratorio si trovano incudine, fornace, blocco da chiodaia, maglio e lingotti di metallo.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Incisore</strong>: bulini, punzoni, cera, acquaforte, martello e scalpello. Nel Laboratorio si trovano inchiostro e torchio da stampa.</li>\n</ul>\n<p>&nbsp;</p>\n<p>Altri Artigiani includono: Armaioli, Birrai, Bottai, Calligrafi, Candelai, Cartografi, Ciabattini, Conciatori, Costruttori d’Archi, Costruttori di Barche, Cuochi, Filatori, Gioiellieri, Imbalsamatori, Imbianchini, Intagliatori del Legno, Muratori, Orafi, Pellettieri, Sarti, Scalpellini, Soffiatori di Vetro, Tagliatori di Gemme, Vasai e Vignaioli.</p>\n<p>&nbsp;</p>\n<p><strong>Artista</strong>: pennelli e pigmenti, martello e scalpello, lime e raspe. Il Laboratorio include piedistalli, una scorta di tele, legno, argilla o pietra grezza.</p>\n<p><strong>Erborista</strong>: mortaio e pestello, piccoli coltelli, cesoie e guanti. Il laboratorio comprende rastrelliere da essiccazione, filtri, alambicchi, tazze e vasi.</p>\n<p><strong>Ingegnere</strong>: clessidra, metro, miccia, compasso e riga a T. Nel laboratorio ci sono pulegge, funi e tavoli da disegno.</p>\n<p><strong>Medico</strong>: aghi, filo da sutura, bende, bisturi, aceto, forcipe e divaricatore. I Laboratori includono tavole anatomiche, altri strumenti assortiti e un tavolo operatorio.</p>\n<p><strong>Navigatore</strong>: quadrante, astrolabio, mappe, bussola, clessidra e scandaglio. Di solito non ci sono Laboratori.&nbsp;</p>"
 		},
 		{
 			"id": "Tweezers",
-			"name": "Tweezers",
+			"name": "Pinzette",
 			"description": ""
 		},
 		{
 			"id": "Unarmed",
-			"name": "Unarmed",
+			"name": "Mani Nude",
 			"description": ""
 		},
 		{
 			"id": "Uniform",
-			"name": "Uniform",
+			"name": "Uniforme",
 			"description": ""
 		},
 		{
 			"id": "Vitality Draught",
-			"name": "Vitality Draught",
-			"description": "<p>Drinking this draught instantly removes all Fatigued&nbsp;Conditions.</p>"
+			"name": "Infuso Vitale",
+			"description": "<p>Bere questo infuso rimuove tutte le Condizioni Affaticato</p>"
 		},
 		{
 			"id": "Wagon",
-			"name": "Wagon",
-			"description": "<p>One driver and two horses are standard .</p>"
+			"name": "Carro",
+			"description": "<p>Di solito ha un conducente e due cavalli.</p>"
 		},
 		{
 			"id": "Walking Cane",
-			"name": "Walking Cane",
-			"description": "<p>Polished wooden canes with metal caps are status symbols amongst wealthier townsfolk.</p>"
+			"name": "Bastone Passeggio",
+			"description": "<p>Bastoni di legno laccato con puntali metallici sono uno status-symbol tra i ricchi.</p>"
 		},
 		{
 			"id": "Warhammer",
-			"name": "Warhammer",
+			"name": "Martello da Guerra",
 			"description": ""
 		},
 		{
 			"id": "Waterskin",
-			"name": "Waterskin",
-			"description": "<p>Counts as ‘worn’ when slung over your shoulder.</p>"
+			"name": "Otre",
+			"description": "<p>Capacità 4,5 l.</p>"
 		},
 		{
 			"id": "Weirdroot",
-			"name": "Weirdroot",
-			"description": "<p>One of the most common street-drugs in the Empire, Weirdroot is chewed, bringing a sense of euphoria and pleasant hallucinations, which some suggest may be connected to the Winds of Magic. The drug gives a +10 bonus to Toughness and Willpower Tests, but a penalty of &ndash;10 to Agility, Initiative, and Intelligence Tests. <strong>Duration</strong>: Active when chewed plus an additional [[/r 1d10 * 10]] minutes.</p>"
+			"name": "Radice Stramba",
+			"description": "<p>E' una delle droghe più comuni nelle strade dell’Impero. Masticarla provoca un senso di euforia e allucinazioni piacevoli, secondo alcuni legate ai Venti della Magia. Fornisce +10 alle Prove di Resistenza e Volontà, ma -10 a quelle di Agilità, Iniziativa e Intelligenza. <strong>Durata</strong>: Ha effetto mentre viene masticata e per i [[/r 1d10 * 10]] minuti seguenti."
 		},
 		{
 			"id": "Whip",
-			"name": "Whip",
+			"name": "Frusta",
 			"description": ""
 		},
 		{
 			"id": "Wine & Spirits, drink",
-			"name": "Wine & Spirits, drink",
+			"name": "Vini & Liquori, bicchiere",
 			"description": ""
 		},
 		{
 			"id": "Wine, bottle",
-			"name": "Wine, bottle",
+			"name": "Vino, bottiglia",
 			"description": ""
 		},
 		{
 			"id": "Wooden Teeth",
-			"name": "Wooden Teeth",
-			"description": "<p>False Teeth are often beautifully carved and painted, and sometimes a significant improvement to the originals. You ignore all penalties for loss of teeth.</p>"
+			"name": "Denti di legno",
+			"description": "<p>I denti finti sono spesso magnificamente incisi e dipinti e, a volte, rappresentano un netto miglioramento rispetto agli originali. Il Personaggio ignora le penalità per la perdita dei denti.</p>"
 		},
 		{
 			"id": "Workshop (Type)",
-			"name": "Workshop (Type)",
-			"description": "<p><strong>Apothecary</strong>: Tools include pestle and mortar, spoons, jars, and weights and scales. Workshops also include oil burners and shelves full of ingredients.</p>\n<p>&nbsp;</p>\n<p><strong>Artisan</strong>: The potential range of tools used by Artisans is wide.</p>\n<p>Sample packages include:</p>\n<ul type=\"disc\">\n<li><strong>Carpenter</strong>: Hammer and nails, saw, measuring rod, chalk, and plumb lines. Workshops also include lathes, planes, clamps, and a supply of lumber.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Engraver</strong>: Gravers, punches, wax, acid, hammer, and chisels. Workshops also include dies and presses.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Smith</strong>: Hammer, tongs, punches, swages, bits, and augers. Workshops also include an anvil, furnace, swage block, sledgehammers, and metal ingots.</li>\n</ul>\n<p>&nbsp;</p>\n<p>Other Artisans include: Armorer, Bowyer, Brewer, Candlemaker, Calligrapher, Cartographer, Cobbler, Cook, Cooper, Embalmer, Gem Cutter, Glassblower, Goldsmith, Gunsmith, Jeweler, Leatherworker, Mason, Painter, Potter, Shipwright, Stoneworker, Tailor, Tanner, Vintner, Weaver, Weaponsmith and Woodcarver.</p>\n<p>&nbsp;</p>\n<p><strong>Artist</strong>: Brushes and paints, hammer and chisels, rasps and files, and scrapers. Workshops also include easels or pedestals and supplies of canvas, parchment, vellum, wood, clay or uncut stone.</p>\n<p><strong>Engineer</strong>: Hourglass, measuring rod, fuse cord, drafting compass, and T-square. Workshops also include pulleys, ropes, and drafting tables.</p>\n<p><strong>Herbalist</strong>: Pestle and mortar, small knives, pruning shears, and gloves. Workshops also include drying racks, strainers, funnels, bowls, and jars.</p>\n<p><strong>Navigator</strong>: Quadrant, astrolabe, charts and compasses, hourglass, and sounding line.</p>\n<p><strong>Physician</strong>: Needles and sutures, bandages, scalpel, vinegar, forceps, and a speculum. Workshops also include anatomical drawings, assorted implements, and a surgery table.&nbsp;</p>"
+			"name": "Laboratorio (Tipologia)",
+			"description": "<p><strong>Apotecario</strong>: gli Arnesi includono mortaio e pestello, cucchiai, vasi, bilancia e pesi. Un Laboratorio comprende bruciatori a olio e molti scaffali colmi di ingredienti.</p>\n<p>&nbsp;</p>\n<p><strong>Artigiano</strong>: ci sono diversi tipi di artigiano.</p>\n<p>Per esempio:</p>\n<ul type=\"disc\">\n<li><strong>Carpentiere</strong>: martello, chiodi, sega, metro, gesso e filo a piombo. Il Laboratorio comprende tornii, pialle, morse e una scorta di legname.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Fabbro</strong>: martello, molle, punzoni, chiodaia, punte e trapano. Nel Laboratorio si trovano incudine, fornace, blocco da chiodaia, maglio e lingotti di metallo.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Incisore</strong>: bulini, punzoni, cera, acquaforte, martello e scalpello. Nel Laboratorio si trovano inchiostro e torchio da stampa.</li>\n</ul>\n<p>&nbsp;</p>\n<p>Altri Artigiani includono: Armaioli, Birrai, Bottai, Calligrafi, Candelai, Cartografi, Ciabattini, Conciatori, Costruttori d’Archi, Costruttori di Barche, Cuochi, Filatori, Gioiellieri, Imbalsamatori, Imbianchini, Intagliatori del Legno, Muratori, Orafi, Pellettieri, Sarti, Scalpellini, Soffiatori di Vetro, Tagliatori di Gemme, Vasai e Vignaioli.</p>\n<p>&nbsp;</p>\n<p><strong>Artista</strong>: pennelli e pigmenti, martello e scalpello, lime e raspe. Il Laboratorio include piedistalli, una scorta di tele, legno, argilla o pietra grezza.</p>\n<p><strong>Erborista</strong>: mortaio e pestello, piccoli coltelli, cesoie e guanti. Il laboratorio comprende rastrelliere da essiccazione, filtri, alambicchi, tazze e vasi.</p>\n<p><strong>Ingegnere</strong>: clessidra, metro, miccia, compasso e riga a T. Nel laboratorio ci sono pulegge, funi e tavoli da disegno.</p>\n<p><strong>Medico</strong>: aghi, filo da sutura, bende, bisturi, aceto, forcipe e divaricatore. I Laboratori includono tavole anatomiche, altri strumenti assortiti e un tavolo operatorio.</p>\n<p><strong>Navigatore</strong>: quadrante, astrolabio, mappe, bussola, clessidra e scandaglio. Di solito non ci sono Laboratori.&nbsp;</p>"
 		},
 		{
 			"id": "Worms",
-			"name": "Worms",
+			"name": "Vermi",
 			"description": ""
 		},
 		{
 			"id": "Writing Kit",
-			"name": "Writing Kit",
+			"name": "Occor. per Scrivere",
 			"description": ""
 		},
 		{
