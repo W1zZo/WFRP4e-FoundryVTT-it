@@ -4,397 +4,397 @@
         {
             "id": "Death Mask",
             "name": "Maschera Mortuaria",
-            "description": "<p>Morr works through you, piercing the Portal to make his presence known to your foes. Your visage takes on a cadaverous mien, and you gain @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1}</p>"
+            "description": "<p>Tramite il suo fedele, Morr oltrepassa il Portale e rende nota la propria presenza. Il volto del Benedetto assume un aspetto cadaverico, che conferisce @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Paura 1}.</p>"
         },
         {
             "id": "Blessing of Hardiness",
             "name": "Benedizione della Resistenza",
-            "description": "<p>Your target gains +10 Toughness.</p>"
+            "description": "<p>Il bersaglio ottiene +10 Resistenza.</p>"
         },
         {
             "id": "Rhya's Touch",
             "name": "Tocco di Rhya",
-            "description": "<p>You lay hands upon an injured or diseased target as you sing your prayers. Choose one of the following effects:</p>\n<p>• Heal Fellowship Bonus wounds</p>\n<p>• Cure 1 naturally occurring disease</p>\n<p>For every + 2 SL, you may choose another effect, and may choose the same effect repeatedly. This Miracle is slow, with the effects taking at least 10 minutes to manifest. If interrupted, the Miracle will need to be attempted again.</p>"
+            "description": "<p>Imponendo le mani su un individuo ferito o malato, il Benedetto prega per ottenere uno dei seguenti effetti:</p>\n<p>• Guarire un numero di Ferite pari al proprio Bonus Socialità.</p>\n<p>• Curare una malattia naturale.</p>\n<p>Per ogni +2 LS può scegliere un ulteriore effetto (o anche lo stesso più volte). Questo miracolo è lento e occorrono almeno 10 minuti perché si manifesti. Se viene interrotto bisognerà ricominciare da capo.</p>"
         },
         {
             "id": "An Invitation",
             "name": "Un Invito",
-            "description": "<p>You spin one of Ranald’s riddles concerning portals, and whether they exist if closed. A door, window, or hatch you target has one method of securing it undone — a lock unlocks, a latch unlatches, a rope unties. For every +2 SL you may target another method of securing the door, window, or hatch.</p>"
+            "description": "<p>Il Benedetto narra uno degli indovinelli di Ranald, chiedendosi se i portali esistano anche da chiusi. Una delle chiusure di una porta, finestra o botola si apre (una serratura scatta, un paletto scivola, una fune di slega). Per ogni +2 LS un’altra chiusura si apre.</p>"
         },
         {
             "id": "Rhya's Shelter",
             "name": "Rifugio di Rhya",
-            "description": "<p>You sing one of Rhya's hymns concerning shelter and safety. You may only invoke this Miracle outdoors and outside settlements. You discover a perfect natural shelter. Some combination of earth, and trees has formed a perfect location to camp for the night. The spot is protected from all naturally occurring wind and rain, and lasts as long as you remain camped there. The shelter is large enough for 1 person. For every +2 SL it fts another individual. When you break camp, the shelter cannot be rediscovered, as though it only existed through your goddess's will.</p>"
+            "description": "<p>Il Benedetto canta un inno che parla di riparo e protezione e, così facendo trova un perfetto rifugio naturale (per esempio, una combinazione di alberi e terreno adatta ad accamparsi). Questo Miracolo può essere usato solo all’aperto e fuori da un insediamento. Il rifugio è protetto da vento e pioggia naturali, dura finché il Benedetto vi rimane e può ospitare una persona. Ogni +2 LS permette di aggiungere un’altra persona. Una volta smontato il campo il rifugio non potrà più essere ritrovato, come se fosse esistito solo per volere divino.</p>"
         },
         {
             "id": "Blessing of Righteousness",
             "name": "Benedizione della Rettitudine",
-            "description": "<p>Your target’s weapon counts as Magical.</p>"
+            "description": "<p>L’arma del bersaglio conta come Magica.</p>"
         },
         {
             "id": "Pelt of the Winter Wolf",
             "name": "Pelle del Lupo Invernale",
-            "description": "<p>Your bellowed prayers bring Ulric’s attention, allowing your targets to survive the bite of his realm. While targets still feel the pain and discomfort caused by cold and wintry weather, they suffer no mechanical penalties.</p>"
+            "description": "<p>Urlando questa preghiera, il Benedetto aiuta i suoi alleati a sopravvivere alla morsa del gelo. Il bersaglio sente ancora il dolore e il fastidio causato dal clima freddo, ma non subisce penalità.</p>"
         },
         {
             "id": "Soulfire",
             "name": "Fuoco dell'Anima",
-            "description": "<p>You call the power of Sigmar to smite the enemies of the Empire. A holy fire explodes from your body blasting outwards for Fellowship Bonus yards. All targets within range take 1d10 Wounds ignoring Toughness Bonus and APs. Targets with the <em>Undead</em> and <em>Daemon</em> Creature Traits also gain the <em>Ablaze</em> Condition. For every +2 SL, you may increase the area of effect by +Fellowship Bonus yards, or cause an extra +2 Damage to any Greenskins, Undead, or servants of the Ruinous Powers affected.</p>"
+            "description": "<p>Il Benedetto richiama il potere di Sigmar per distruggere i nemici dell’Impero. Un fuoco sacro esplode dal suo corpo per un raggio di metri pari al Bonus Socialità. Tutti i bersagli nell’area subiscono 1d10 Ferite, ignorando il Bonus Resistenza e l’Armatura. Chi ha il Tratto <em>Demone</em> o <em>Nonmorto</em> subisce anche 1 <em>In Fiamme</em>. Per ogni +2 LS si può estendere il raggio per un numero di metri pari al Bonus Socialità o causare +2 Danni a Pelleverde, Nonmorti o servi dei Poteri Perniciosi.</p>"
         },
         {
             "id": "Eagle's Eye",
             "name": "Occhio dell'Aquila",
-            "description": "<p>You call on Myrmidia to send a Divine Servant to grant you knowledge of your enemies. A spectral Eagle manifests, soaring into the sky above. The eagle looks like and has the capabilities of a normal eagle, but cannot physically affect the world, or be harmed in any way. While the Miracle is in effect, you can see through the eagle’s eyes and control its ﬂight, surveying the battlefield and spying upon your enemies. Your vision is acute, but you do not have access to any of your own sense-enhancing Talents such as Night Vision. While looking through the eagle’s eyes, you cannot see through your own eyes, leaving you potentially vulnerable.</p>"
+            "description": "<p>Il Benedetto implora Myrmidia di inviare un Emissario, che gli permetta di conoscere i propri nemici. Nel cielo appare un’aquila spettrale, che ha le stesse caratteristiche di una comune, ma non può essere danneggiata in alcun modo o influenzata dal mondo fisico. Per la durata dell’effetto, il Benedetto può vedere tramite gli occhi dell’aquila e controllarne il volo. Pur beneficiando di una vista acuta da rapace, il Benedetto non può usare i propri Talenti legati alla vista (come Vista Notturna ), né vedere tramite i propri occhi, restando potenzialmente vulnerabile.</p>"
         },
         {
             "id": "Balm to a Wounded Mind",
             "name": "Balsamo per la Mente Ferita",
-            "description": "<p>You call on Shallya to calm the troubled mind of your targets. All Psychology traits are removed for the duration, and afterwards the targets enter deep and restful slumbers that last until next sunrise, assuming they are not disturbed. Unwilling targets may make a <strong>Challenging (+0) Cool</strong> Test to resist sleeping.</p>"
+            "description": "<p>Il Benedetto invoca Shallya per calmare le menti in subbuglio. Per la durata dell’effetto, il bersaglio perde tutti i Tratti Psicologici, dopo di che cade in un sonno profondo e ristoratore fino all’alba successiva, se non viene disturbato. Un bersaglio non consenziente può effettuare una Prova <strong>Impegnativa (+0) di Freddezza</strong> per non addormentarsi.</p>"
         },
         {
             "id": "Howl of the Wolf",
             "name": "Ululato del Lupo",
-            "description": "<p>You howl for Ulric's aid, and he sends a minor Divine Servant in the form of a White Wolf. The wolf fights your enemies for the duration of the Miracle, before vanishing to Ulric's Hunting Grounds with a spectral, blood-chilling howl. The White Wolves have the statistics of a Wolf with the @Compendium[wfrp4e-core.traits.yRhhOlt18COq4e1q]{Frenzy}, @Compendium[wfrp4e-core.traits.mDgEMOoJpi8DkRYb]{Magical}, and @Compendium[wfrp4e-core.traits.8slW8CJ2oVTxeQ6q]{Size (Large)} Creature Traits.</p>"
+            "description": "<p>Il Benedetto ulula e Ulric invia un Emissario Divino nella forma di un Lupo Bianco. Per la durata dell’effetto, il lupo affronterà i nemici del Personaggio, prima di tornare ai Territori di Caccia di Ulric con un ululato spettrale. L’Emissario ha le stesse caratteristiche di un comune lupo (pag. 315) con i Tratti @Compendium[wfrp4e-core.traits.yRhhOlt18COq4e1q]{Furia}, @Compendium[wfrp4e-core.traits.mDgEMOoJpi8DkRYb]{Magico} e @Compendium[wfrp4e-core.traits.8slW8CJ2oVTxeQ6q]{Taglia (Grande)}.</p>"
         },
         {
             "id": "Spear of Myrmidia",
             "name": "Lancia di Myrmidia",
-            "description": "<p>If wielding a spear, it gains the <em>Impact</em> Quality, and counts as Magical.</p>"
+            "description": "<p>Se il Benedetto impugna una lancia, questa ottiene la Qualità <em>Impatto</em> ed è considerata Magica.</p>"
         },
         {
             "id": "Cat's Eyes",
             "name": "Occhi di Gatto",
-            "description": "<p>Does anything exist that cannot be seen? You riddle with Ranald, who sends a Divine Servant in the form of a cat as an answer. The cat looks like and has the capabilities of a normal cat, but cannot be harmed in any way. While the Miracle is in effect, you perceive everything the cat perceives — sight, sound, touch — and control its movement. Your senses are as sharp as a cat’s, but you do not have access to any of your own sense-enhancing Talents such as Night Vision. While the Miracle is in effect, you cannot perceive anything through your own senses, leaving you vulnerable.</p>"
+            "description": "<p>Esiste davvero ciò che non può essere visto? In risposta a questo enigma Ranald invia un Emissario sotto forma di gatto. Il gatto ha l’aspetto e le capacità di uno comune, ma non può essere danneggiato. Per la durata dell’effetto, il Benedetto percepisce tramite tutti i sensi del gatto e ne controlla i movimenti. Pur beneficiando dei sensi del gatto, il Benedetto non può usare i propri Talenti legati alla percezione (come Vista Notturna ), né i propri sensi, restando potenzialmente vulnerabile.</p>"
         },
         {
             "id": "Blessing of The Hunt",
             "name": "Benedizione della Caccia",
-            "description": "<p>Your target gains +10 Ballistic Skill.</p>"
+            "description": "<p>Il bersaglio ottiene +10 Abilità Balistica.</p>"
         },
         {
             "id": "Blessing of Healing",
             "name": "Benedizione della Guarigione",
-            "description": "<p>Your target heals +1 Wound.</p>"
+            "description": "<p>Il bersaglio guarisce 1 Ferita.</p>"
         },
         {
             "id": "Blessing of Courage",
             "name": "Benedizione del Coraggio",
-            "description": "<p>Your target gains +10 Willpower.</p>"
+            "description": "<p>Il bersaglio ottiene +10 Volontà.</p>"
         },
         {
             "id": "Truth Will Out",
             "name": "La Verità sarà Rivelata",
-            "description": "<p>You intone prayers of Verena’s ability to find any truth. You may<br>ask the targets a single question. It will be immediately answered<br>truthfully and fully. If desired, targets may attempt to resist, by<br>contesting your SL with a <strong>Average (+20) Cool</strong> Test. If successful,<br>they may stubbornly refuse to answer. If they achieve +2 SL they<br>may withhold minor information. +4 SL allows them to withhold<br>significant information while +6 SL allows them to lie outright.<br>You will know if they resist successfully, though you will lack<br>specific knowledge about their deceit, or proof of their dishonesty <br><br></p>"
+            "description": "<p>Il Benedetto intona una preghiera che parla dell’abilità di Verena di rivelare la verità. Potrà porre una domanda al bersaglio, che dovrà rispondere subito in modo completo e veritiero. Chi vuole resistere deve superare una Prova <strong>Media (+20) di Freddezza</strong>: Con +2 LS potrà omettere informazioni minori, con +4 LS informazioni maggiori, con +6 LS potrà mentire. Il Benedetto sarà consapevole di questa testarda resistenza, ma non dei dettagli specifici, né potrà provare tale disonestà.</p>"
         },
         {
             "id": "Beacon of Righteous Virtue",
             "name": "Faro di Giusta Virtù",
-            "description": "<p>As you bellow prayers in Sigmar's name, you become infused with holy fire of righteousness. All allies with Line of Sight to you instantaneously remove all Broken Conditions, and gain the @Compendium[wfrp4e-core.talents.8pVzgPkgWpTJvfhG]{Fearless} Talent while the Miracle is in effect and they remain in your Line of Sight. Any Greenskins with Line of Sight to you are subject to @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1}.</p>"
+            "description": "<p>Urlando una preghiera in nome di Sigmar, il Benedetto viene infuso dal sacro fuoco della giustizia. Tutti gli alleati in linea di vista rimuovono immediatamente ogni Condizione Atterrito e ottengono il Talento @Compendium[wfrp4e-core.talents.8pVzgPkgWpTJvfhG]{Temerario} finché il Miracolo è attivo e riescono a vedere il Benedetto. Tutti i Pelleverde in linea di vista subiscono @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Paura 1}.</p>"
         },
         {
             "id": "Blessing of Battle",
             "name": "Benedizione della Battaglia",
-            "description": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt; color: #231f20;\">Your target gains +10 WS.</p>"
+            "description": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt; color: #231f20;\">Il bersaglio ottiene +10 AC.</p>"
         },
         {
             "id": "Ulric's Fury",
             "name": "Furia di Ulric",
-            "description": "<p>You chant furious prayers, and Ulric's ferocity spreads. Targets gain the @Compendium[wfrp4e-core.psychologies.DrNUTPeodEgpWTnT]{Frenzy} psychology.</p>"
+            "description": "<p>Con un canto furioso, il Benedetto diffonde la ferocia di Ulric. Il bersaglio ottiene il Tratto Psicologico @Compendium[wfrp4e-core.psychologies.DrNUTPeodEgpWTnT]{Furia}.</p>"
         },
         {
             "id": "Blessing of Charisma",
             "name": "Benedizione del Carisma",
-            "description": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt; color: #231f20;\">Your target gains +10 Fellowship.</p>"
+            "description": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt; color: #231f20;\">Il bersaglio ottiene +10 Socialità.</p>"
         },
         {
             "id": "Blessing of Wisdom",
             "name": "Benedizione della Saggezza",
-            "description": "<p>Your target gains +10 Intelligence.</p>"
+            "description": "<p>Il bersaglio ottiene +10 Intelligenza.</p>"
         },
         {
             "id": "Stay Lucky",
             "name": "Buona Sorte",
-            "description": "<p>Crossing your fingers, you pose Ranald’s enigma and ask what, exactly, is luck? Gain +1 Fortune point. For every +2 SL you may gain an extra +1 Fortune point, which may take you beyond your normal maximum. You may not invoke this Miracle again until you reach 0 Fortune points.</p>"
+            "description": "<p>Incrociando le dita, il Benedetto pone a Ranald una domanda: cos’è davvero la fortuna? Così facendo ottiene +1 Punto Fortuna, e un altro per ogni +2 LS, anche oltre il normale massimale. Questo Miracolo non può essere invocato di nuovo finché non si arriva a Fortuna 0.</p>"
         },
         {
             "id": "Heed Not the Witch",
             "name": "Non Ascoltare la Strega",
-            "description": "<p>You call on Sigmar to protect those close to you from the fell inﬂuence of Chaos. Any spells that target anyone or anywhere within Fellowship Bonus yards suffer a penalty of –20 to Language (Magick) Tests, in addition to any other penalties. For every +2 SL, you may increase the area of effect by your Fellowship Bonus in yards.</p>"
+            "description": "<p>Il Benedetto invoca Sigmar per proteggere chi gli è vicino dalla maligna influenza del Caos. Ogni incantesimo diretto contro bersagli entro un raggio di metri pari al Bonus Socialità dal Personaggio subisce una penalità di -20 alla Prova di Linguaggio (Magico). Per ogni +2 LS si può aumentare il raggio di metri pari al Bonus Socialità.</p>"
         },
         {
             "id": "The Snow King's Judgement",
             "name": "Giudizio del Re delle Nevi",
-            "description": "<p>You call on Ulric to make manifest his disdain for the weak, the cowardly and the deceitful. The target suffers [[/r 1d10]] wounds ignoring Toughness Bonus and Armor Points. If the GM rules that the target is neither weak, cowardly, or deceitful, you suffer the effects instead.</p>"
+            "description": "<p>Il Benedetto implora Ulric di mostrare il suo disdegno per deboli, codardi e ingannatori. Il bersaglio subisce [[/r 1d10]] Ferite, ignorando il Bonus Resistenza e l’Armatura. Se il GM è convinto che il bersaglio non sia debole, vile o ingannatore, sarà il Benedetto a venire ferito.</p>"
         },
         {
             "id": "Becalm",
             "name": "Bonaccia",
-            "description": "<p>You steal the wind from the sails of a ship or boat. It is completely becalmed. Even in stormy weather an area of eerie calm and smooth waters surrounds the vessel while gales, lashing rains and towering crests surge and crash around it. This area of calm extends for Initiative yards from the vessel, and if the ship is propelled by some other method, such as oars, the area of calm travels with it.</p>"
+            "description": "<p>Il Benedetto ruba il vento dalle vele di una nave o barca lasciandola in balia della bonaccia. Persino durante una tempesta le acque saranno calme, mentre attorno si scatenano onde e pioggia. L’area di calma si estende per un numero di metri pari all’Iniziativa attorno al vascello e si sposta con esso, in caso venga spinto con altri mezzi, come i remi.</p>"
         },
         {
             "id": "Blessing of Tenacity",
             "name": "Benedizione della Tenacia",
-            "description": "<p>Your target may remove 1 condition.</p>"
+            "description": "<p>Il bersaglio può rimuovere una Condizione.</p>"
         },
         {
             "id": "Vanquish the Unrighteous",
             "name": "Sgominare l'Ingiusto",
-            "description": "<p>Your prayers instill your chosen allies with a furious disdain for the enemies of Sigmar. All allies affected receive the @Compendium[wfrp4e-core.psychologies.5hH73j2NgPdsLCZN]{Hatred} Psychology towards Greenskins, Undead, and any associated with Chaos</p>"
+            "description": "<p>Le preghiere del Benedetto instillano nei suoi alleati un odio furioso per i nemici di Sigmar. I bersagli ottengono il Tratto Psicologico @Compendium[wfrp4e-core.psychologies.5hH73j2NgPdsLCZN]{Odio} verso Pelleverde, Nonmorti e tutto ciò che è associato al Caos.</p>"
         },
         {
             "id": "Manann's Bounty",
             "name": "Dono di Manann",
-            "description": "<p>You implore Manann to provide you with sustenance. Reaching into a body of water you catch enough fish to feed 1 person; if you reach into the sea, you provide enough fish for 2 people. For every +2 SL, you may feed another person.</p>"
+            "description": "<p>Il Benedetto implora Manann di sfamarlo. Affondando la mano in uno specchio d’acqua potrà afferrare pesci sufficienti a nutrire una persona, se è nel mare per due persone. Per ogni +2 LS è possibile nutrire una persona in più.</p>"
         },
         {
             "id": "Blessing of Recuperation",
             "name": "Benedizione del Recupero",
-            "description": "<p>Your target may reduce the duration of 1 disease with which they are afflicted by 1 day. This prayer may only be attempted once per instance of a disease per person.</p>"
+            "description": "<p>Il bersaglio riduce di 1 giorno la durata di una malattia di cui soffre. Questo effetto può essere usato solo una volta per persona, per malattia.</p>"
         },
         {
             "id": "Lord of the Hunt",
             "name": "Signore della Caccia",
-            "description": "<p>You call on Taal to guide you in the hunt for your quarry, which must be an animal you have seen, or an individual you know (as limited by the GM). While the Miracle is in effect, you cannot lose your quarry’s trail save by supernatural means. Should your quarry enter a settlement, the trail ends there. You also receive +10 bonus to all Tests regarding your quarry while under the inﬂuence of the Miracle.</p>"
+            "description": "<p>Il Benedetto si appella a Taal, affinché lo guidi verso la preda. Questa deve essere un animale che è stato visto o un individuo conosciuto (a giudizio del GM). Per la durata dell’effetto, il Personaggio non può perdere le tracce eccetto che per interventi sovrannaturali o se la preda entra in un insediamento. Inoltre, ottiene +10 in tutte le Prove relative alla preda.</p>"
         },
         {
             "id": "Blessing of Protection",
             "name": "Benedizione della Protezione",
-            "description": "<p>Enemies must make an <strong>Average (+20) Willpower</strong> Test to attack your target as shame wells within for considering violence. If they fail, they must choose a different target, or a different Action</p>"
+            "description": "<p>I nemici provano senso di vergogna all’idea di attaccare il bersaglio e devono superare una Prova <strong>Media (+20) di Volontà</strong> per riuscirci. In caso di fallimento potranno cambiare avversario o Azione.</p>"
         },
         {
             "id": "Blessing of Might",
             "name": "Benedizione della Forza",
-            "description": "<p>Your target gains +10 Strength.</p>"
+            "description": "<p>Il bersaglio ottiene +10 Forza.</p>"
         },
         {
             "id": "Tanglefoot",
             "name": "Avviluppare",
-            "description": "<p>You call on Taal, chanting prayers to protect his wild places. Roots, vines, and creepers wrap themselves around your foes. All targets within Fellowship Bonus yards of the target point gain an @Condition[Entangled] Condition. For every +2 SL you may increase the area of effect by your Fellowship Bonus in yards, or inﬂict an extra @Condition[Entangled] Condition. Tanglefoot has a Strength equal to your Willpower for the purposes of breaking free.</p>"
+            "description": "<p>Il Benedetto si appella a Taal per proteggere le selve e, così facendo, radici, viticci e rovi avvolgono i suoi nemici. Tutti i bersagli in un raggio di un numero in metri pari al Bonus Socialità dal punto scelto subiscono 1 Afferrato . Per ogni +2 LS si può aumentare il raggio di un numero in metri pari al Bonus Socialità o causare un ulteriore @Condition[Entangled]. Questo effetto ha Forza pari alla Volontà del Benedetto per trattenere i bersagli.</p>"
         },
         {
             "id": "Rhya's Harvest",
             "name": "Raccolto di Rhya",
-            "description": "<p>You chant to Rhya, and life springs forth. Edible fruit, vegetables, and fungi grow at the point where you touch. For each round in which the Miracle is in effect, you cause enough food to feed 1 person to grow. The type of food depends on your location: in a cavern you may grow mushrooms, while outdoors you may cause many different fruits and vegetables to spring forth.</p>"
+            "description": "<p>Il Benedetto invoca Rhya, facendo sbocciare la vita. Ovunque tocchi spuntano frutta, verdura e funghi mangerecci. Per ogni Round in cui l’effetto è attivo può creare cibo sufficiente per una persona. Il tipo dipende dal terreno: in una caverna si avranno solo funghi, mentre all’aperto si possono far spuntare diversi tipi di vegetali.</p>"
         },
         {
             "id": "Blessing of Finesse",
             "name": "Benedizione della Delicatezza",
-            "description": "<p>Your target gains +10 Dexterity.</p>"
+            "description": "<p>Il bersaglio ottiene +10 Destrezza.</p>"
         },
         {
             "id": "Tooth and Claw",
             "name": "Zanne e Artigli",
-            "description": "<p>You call on Taal to grant you the ferocious might of his kingdom. Gain the @Compendium[wfrp4e-core.traits.pLW9SVX0TVTYPiPv]{Bite} (Strength Bonus+3) and @Compendium[wfrp4e-core.traits.AtpAudHA4ybXVlWM]{Weapon} (Strength Bonus+4) Creature Traits. These attacks are Magical.</p>"
+            "description": "<p>Il Benedetto chiede che Taal gli conceda la terribile forza del suo regno. Ottiene i Tratti @Compendium[wfrp4e-core.traits.pLW9SVX0TVTYPiPv]{Morso} (Bonus Forza+3) e @Compendium[wfrp4e-core.traits.AtpAudHA4ybXVlWM]{Arma} (Bonus Forza+4). Questi attacchi sono considerati Magici.</p>"
         },
         {
             "id": "Blazing Sun",
             "name": "Sole Splendente",
-            "description": "<p>You call on Myrmidia to scour the battlefield of dishonorable foes, and a blinding ﬂash of golden light bursts forth. All non-Myrmidians looking in your direction receive 1 @Condition[Blinded] Condition. For every +2 SL, they receive +1 @Condition[Blinded] Condition.</p>"
+            "description": "<p>Il Benedetto invoca Myrmidia affinché spazzi via dal campo di battaglia i nemici disonorevoli. Questo causa un lampo accecante di luce dorata, che acceca tutti i non-Myrmidiani che lo vedono, causando 1 @Condition[Blinded]. Per ogni +2 LS subiscono 1 @Condition[Blinded] in più.</p>"
         },
         {
             "id": "Rich Man, Poor Man, Beggar Man, Thief",
             "name": "Ricco, Povero, Mendicante, Ladro",
-            "description": "<p>You smile at Ranald as you cheekily ask others what, exactly, is wealth? For each target affected, choose one option:</p>\n<ul type=\"disc\">\n<li>the target’s purse appears empty</li>\n<li>the target’s purse appears full</li>\n<li>The target’s attire appears cheap and unremarkable</li>\n<li>The target’s attire appears rich and finely crafted</li>\n<li>A single valuable item is impossible to perceive</li>\n</ul>\n<p>For every +2 SL you may select an additional effect for one of your targets.</p>"
+            "description": "<p>Il Benedetto sorride, mentre chiede a Ranald cosa sia davvero la ricchezza. Per ogni bersaglio scegliere una delle seguenti opzioni:</p>\n<ul type=\"disc\">\n<li>La borsa del bersaglio appare vuota.</li>\n<li>La borsa del bersaglio appare piena.</li>\n<li>Gli abiti del bersaglio sembrano anonimi e di scarsa qualità.</li>\n<li>Gli abiti del bersaglio sembrano di grande qualità e valore.</li>\n<li>Un singolo oggetto di valore diventa impossibile da percepire.</li>\n</ul>\n<p>Per ogni +2 LS si può scegliere un effetto aggiuntivo per un bersaglio.</p>"
         },
         {
             "id": "Blind Justice",
             "name": "Giustizia Cieca",
-            "description": "<p>You articulate prayers concerning Verena’s acute perceptions, able pierce through to the truth of all things. You may make a Simple <strong>Challenging (+0) Perception</strong> Test to see through spells and Miracles of involving illusion or misdirection. You may also make a <strong>Average (+20) Intuition</strong> Test to tell whether a character speaking to you is lying. <strong>Note</strong>: this will only tell you if the character believes they speak the truth, it will not alert you if they are mistaken. <br><br></p>"
+            "description": "<p>Il Benedetto articola una preghiera sull’acume di Verena, capace di trovare la verità in tutte le cose. Potrà effettuare una Prova <strong>Impegnativa (+0) di Percepire</strong> per vedere oltre Incantesimi e Miracoli di illusione o inganno. Inoltre potrà effettuare una Prova <strong>Media (+20) di Intuire</strong> per capire se un altro gli sta mentendo. <strong>Nota</strong>: questo indica solo se chi parla è sincero, non se si sbaglia.</p>"
         },
         {
             "id": "Unblemished Innocence",
             "name": "Innocenza Senza Macchia",
-            "description": "<p>Laying hands on the afflicted, you beg Shallya to rid them of recently acquired corruption. The target loses 1 Corruption point, and can lose another per +2 SL scored. However, the Chaos Gods do not like to be so directly opposed. Should an attempt to invoke the Miracle Fumble, you and the target both gain [[/r 1d10]] Corruption points on top of any other effects. This Miracle must be enacted within an hour of the target gaining a Corruption point.</p>"
+            "description": "<p>Imponendo le mani su un afflitto, il Benedetto implora Shallya di purificarlo dalla corruzione. Il bersaglio cancella 1 Punto Corruzione, più un altro per +2 LS. Tuttavia, gli Dei del Caos non gradiscono un’opposizione tanto diretta. Se questo Miracolo è un Disastro, Benedetto e bersaglio accumulano [[/r 1d10]] Punti Corruzione in aggiunta a ogni altro effetto. Questo Miracolo deve essere invocato entro un’ora dopo aver acquisito un Punto Corruzione.</p>"
         },
         {
             "id": "Animal Instincts",
             "name": "Istinti Animali",
-            "description": "<p>You intone chants describing Taal's extraordinary senses, and calling upon him for aid. While the Miracle is in effect, you gain +1 @Compendium[wfrp4e-core.talents.9h82z72XGo9tfgQS]{Acute Sense (choose one)} Talent and, if you rest, you will automatically awaken should any threats come within Initiative yards.</p>"
+            "description": "<p>Il Benedetto intona un canto che esalta i sensi sopraffini di Taal e lo chiama in suo aiuto. Il bersaglio ottiene +1 al Talento @Compendium[wfrp4e-core.talents.9h82z72XGo9tfgQS]{Senso Acuto (a sua scelta)} e mentre riposa si sveglierà automaticamente se una minaccia si avvicina in un raggio pari alla sua Iniziativa in metri.</p>"
         },
         {
             "id": "Stay Morr's Hand",
             "name": "Fermare la Mano di Morr",
-            "description": "<p>You touch the eyes of someone close to death and request Morr guide the soul within, but not take it. The target must have 0 Wounds and be willing. For the duration of the Miracle, the target gains the @Condition[Unconscious]{Unconscious} Condition and will not deteriorate until the Miracle ends, staving off disease, ignoring critical wounds and poisons, and similar. This miracle comes to an end should appropriate healing be provided, or should you perform the last rights. If you do this, which takes about a minute, the target's soul will pass through Morr's portal upon death, and the resulting corpse may never be targeted by Necromancy</p>"
+            "description": "<p>Il Benedetto sfiora gli occhi di un moribondo, chiedendo a Morr di guidarlo, ma di non portarlo via. Il bersaglio deve avere 0 Ferite ed essere consenziente. Per la durata del Miracolo, il bersaglio sarà @Condition[Unconscious]{Privo di Sensi}, ma la sua condizione non potrà peggiorare, ignorerà malattie, veleni, ferite critiche e altri effetti. Il Miracolo avrà termine non appena saranno somministrate cure adeguate o l’estrema unzione. In quest’ultimo caso, che richiede circa 1 minuto, l’anima passerà per il Portale e il cadavere non potrà più essere usato per la Necromanzia.</p>"
         },
         {
             "id": "Blessing of Breath",
             "name": "Benedizione del Respiro",
-            "description": "<p>Your target does not need to breathe and ignores rules for suffocation.</p>"
+            "description": "<p>Il bersaglio non ha bisogno di respirare e ignora le regole del soffocamento.</p>"
         },
         {
             "id": "Bitter Catharsis",
             "name": "Amara Catarsi",
-            "description": "<p>In answer to your heartfelt prayers, Shallya draws a poison or disease into you and purges it, completely removing it from your target's system. For every +2 SL you may purge another disease or poison. For each poison removed or disease cured in this manner, you suffer Wounds equal to [[/r 1d10]] &ndash; your Fellowship Bonus, not modified for Toughness Bonus or Armor Points.</p>"
+            "description": "<p>In risposta alle accorate suppliche, Shallya rimuove un veleno o malattia dal bersaglio, trasferendolo nel Benedetto. Per ogni +2 LS è possibile trasferire un ulteriore veleno o malattia. Per ogni effetto così guarito, il Benedetto subisce [[/r 1d10]]-Bonus Socialità Ferite, non modificate dal Bonus Resistenza o dall’Armatura.</p>"
         },
         {
             "id": "Shield of Myrmidia",
             "name": "Scudo di Myrmidia",
-            "description": "<p>Your stalwart prayers incite Myrmidia to shield your allies in glittering, gossamer strands of light, warding enemy blows. All those affected gain +1 AP on all locations.</p>"
+            "description": "<p>Questa decisa preghiera spinge Myrmidia a proteggere gli alleati del Benedetto con scie di luce che deviano i colpi nemici. I bersagli ottengono +1 Punto Armatura in tutte le Locazioni.</p>"
         },
         {
             "id": "Sea Legs",
             "name": "Gambe da Marinaio",
-            "description": "<p>Your targets are immediately drenched in saltwater, and reel as if on the rolling deck of a tempest-tossed vessel. Their hair is whipped by spectral winds, and a torrent of spray lashes their skin. They gain one each of the <em>Blinded</em>, <em>Deafened</em>, and <em>Fatigued</em> Conditions, and must attempt an <strong>Average (+20) Agility</strong> Test to use their Move. If they fail, they also gain a <em>Prone</em> Condition.</p>"
+            "description": "<p>Il bersaglio viene inzuppato di acqua salmastra, si muove come se fosse sul ponte di una nave in tempesta, i suoi capelli sono scompigliati da venti spettrali e la pelle sferzata da onde. Subisce le seguenti Condizioni: 1 <em>Accecato</em>, 1 <em>Assordato</em> e 1 <em>Affaticato</em>. Inoltre deve superare una Prova <strong>Media (+20) di Agilità</strong> per Manovrare e, se fallisce, cade <em>Prono</em>.</p>"
         },
         {
             "id": "Sigmar's Fiery Hammer",
             "name": "Ardente Martello di Sigmar",
-            "description": "<p>You chant benedictions of Sigmar's might. If wielding a warhammer, it counts as Magical, deals +Fellowship Bonus Damage, and any target struck receives the @Condition[Ablaze]<em> </em>and @Condition[Prone]<em> </em>Conditions.</p>"
+            "description": "<p>Il Benedetto intona la benedizione della forza di Sigmar. Se impugna un martello da guerra questo conta come Magico, causa Danni aggiuntivi pari al proprio Bonus Socialità e chi viene colpito subisce 1 @Condition[Ablaze] e cade @Condition[Prone].</p>"
         },
         {
             "id": "Shallya's Tears",
             "name": "Lacrime di Shallya",
-            "description": "<p>You passionately appeal to Shallya to spare a poor, wounded soul as tears ﬂow freely down your cheeks. You pray for 10 – your Fellowship Bonus Rounds, at which point you heal the target of 1 Critical Wound. For every +2 SL you may heal another Critical Wound. If your prayer is interrupted, the target receives no benefit. This Miracle cannot reattach amputated body parts.</p>"
+            "description": "<p>Il Benedetto, con le lacrime che gli solcano le guance, si appella a Shallya, affinché protegga le povere anime ferite. Il Personaggio prega per 10-Bonus Socialità Round, al termine dei quali può guarire una Ferita Critica, più un’altra per ogni +2 LS. Se viene interrotto non si ottiene alcun beneficio. Questo Miracolo non può far ricrescere le parti amputate.</p>"
         },
         {
             "id": "Martyr",
             "name": "Martire",
-            "description": "<p>You intone prayers concerning Shallya’s need to take on the world’s pain. Any Damage taken by your targets are instead suffered by you. If you suffer any Damage because of this Miracle, your Toughness Bonus is doubled for the purposes of calculating the Wounds suffered from that Damage.</p>"
+            "description": "<p>Il Benedetto intona una preghiera su come Shallya si faccia carico del dolore del mondo. Tutto il Danno subito dal bersaglio viene ridiretto al Benedetto, che raddoppia il proprio Bonus Resistenza per calcolare le Ferite subite da questo effetto.</p>"
         },
         {
             "id": "Rhya's Union",
             "name": "Unione di Rhya",
-            "description": "<p>You bless and consecrate the union between two souls. While the Miracle is in effect, if biologically possible, the couple will conceive a child.</p>"
+            "description": "<p>Il Benedetto consacra l’unione tra due anime. Finché dura l’effetto, se biologicamente possibile, la coppia concepirà sicuramente un figlio.</p>"
         },
         {
             "id": "Blessing of Savagery",
             "name": "Benedizione della Ferocia",
-            "description": "<p>When your target next inﬂicts a Critical Wound, roll twice and choose the best result.</p>"
+            "description": "<p>La prossima volta che il bersaglio causerà una Ferita Critica tirerà due volte sulla tabella scegliendo il risultato migliore.</p>"
         },
         {
             "id": "Inspiring",
             "name": "Ispirare",
-            "description": "<p>Your rousing prayers inspire discipline and coordination within the ranks. Affected targets gain the +1 @Compendium[wfrp4e-core.talents.J9MK0AIaTbvd5oF6]{Drilled} Talent.</p>"
+            "description": "<p>Questa trionfale preghiera ispira disciplina e coordinazione tra i ranghi. I bersagli ottengono +1 al Talento @Compendium[wfrp4e-core.talents.J9MK0AIaTbvd5oF6]{Veterano}.</p>"
         },
         {
             "id": "You Ain’t Seen Me, Right?",
             "name": "Non Mi Hai Visto, Giusto?",
-            "description": "<p>You spin a complex conundrum concerning the reality of that which is unperceived. Targets affected by this Miracle may pass unnoticed and remarked, providing they do nothing to draw attention to themselves, such as touching, attacking, calling out to someone, casting a spell, or making a loud noise. You may only invoke this Miracle if no-one is looking directly at you.</p>"
+            "description": "<p>Il Benedetto crea un complesso enigma sulla reale esistenza di ciò che non è percepibile. Il bersaglio può passare inosservato finché non fa qualcosa per attrarre l’attenzione (come chiamare, lanciare un incantesimo o fare troppo rumore). Questo miracolo può essere invocato solo se nessuno sta guardando direttamente il Benedetto.</p>"
         },
         {
             "id": "Wisdom of the Owl",
             "name": "Saggezza del Gufo",
-            "description": "<p>You call on Verena to instil you with her wisdom and knowledge.<br />You gain a bonus of +20 on all Intelligence Tests while this<br />Miracle is in effect. Further, your pupils dilate widely, and your<br />gaze becomes piercing and unsettling: gain +1 @Compendium[wfrp4e-core.talents.0hn6UaKq8CoZP2zD]{Menacing} and<br />@Compendium[wfrp4e-core.talents.9h82z72XGo9tfgQS]{Acute Sense (Sight)} Talent. <br /><br /></p>"
+            "description": "<p>Il Benedetto implora Verena di infondergli la sua saggezza e conoscenza, ottenendo +20 a tutte le Prove d’Intelligenza. Inoltre, le sue pupille si dilatano, dandogli uno sguardo acuto e spaventoso: ottiene +1 ai Talenti @Compendium[wfrp4e-core.talents.0hn6UaKq8CoZP2zD]{Minaccioso} e @Compendium[wfrp4e-core.talents.9h82z72XGo9tfgQS]{Senso Acuto (Vista)}.</p>"
         },
         {
             "id": "Ranald's Grace",
             "name": "Grazia di Ranald",
-            "description": "<p>You call on Ranald to let your target negotiate the riddles of reality. Your target gains +10 Agility, +10 Stealth, and +1 @Compendium[wfrp4e-core.talents.g4Q6AtzZuo5iIvD4]{Catfall} Talent for the duration of the Miracle.</p>"
+            "description": "<p>Il Benedetto invoca Ranald per svelare l’enigma della realtà. Per la durata dell’effetto, il bersaglio ottiene +10 Agilità, +10 Nascondersi e +1 al Talento @Compendium[wfrp4e-core.talents.g4Q6AtzZuo5iIvD4]{Cadere in Piedi}.</p>"
         },
         {
             "id": "Drowned Man's Face",
             "name": "Volto dell'Annegato",
-            "description": "<p>You implore Manann to drown your foes. Your targets' lungs continuously fill with saltwater while the Miracle is active, and their hair ﬂoats around their head as if submerged. Your targets gains a @Condition[Fatigued] Condition, and are subject to the rules for @JournalEntry[Other Damage]{Drowning and Suffocation} while the Miracle is in effect. When the Miracle ends, your targets must attempt a <strong>Challenging (&ndash;20) Endurance</strong> Test. If a Failure is scored, also inﬂict a @Condition[Prone]{Prone} Condition.</p>"
+            "description": "<p>Il Benedetto implora Manann di affogare un nemico, i cui polmoni continueranno a riempirsi d’acqua salmastra mentre il miracolo è attivo, come se avesse la testa sott’acqua. Il bersaglio subisce 1 @Condition[Fatigued] ed è soggetto ad @JournalEntry[Other Damage]{Annegare e Soffocare} (pag. 181) mentre l’effetto è attivo. Al termine del miracolo dovrà superare una Prova <strong>Impegnativa (+0) di Tempra</strong> o cadere @Condition[Prone]{Prono}.</p>"
         },
         {
             "id": "Blessing of Fortune",
             "name": "Benedizione della Fortuna",
-            "description": "<p>Your target’s next failed test may be rerolled. The reroll must stand.</p>"
+            "description": "<p>Il bersaglio può tirare di nuovo la prossima Prova fallita. Deve usare il nuovo risultato.</p>"
         },
         {
             "id": "Waterwalk",
             "name": "Camminare sulle Acque",
-            "description": "<p>You call on Manann to allow you to cross a stretch of open water as if it were solid ground. Tis only works on larger bodies of water that are at least 10 yards wide. Anything smaller is too far removed from Manann’s domain for it to be noticed.</p>"
+            "description": "<p>Il Benedetto invoca Manann affinché gli permetta di attraversare le acque come se fossero un terreno solido. Questo funziona solo se lo specchio d’acqua è largo almeno 3m. Quelli più piccoli sono troppo lontani dal dominio di Manann per essere notati.</p>"
         },
         {
             "id": "Dooming",
             "name": "Predestinazione",
-            "description": "<p>Gazing deeply into your target's eyes while muttering a threnody to Morr, you are granted a vision of the target's Doom, a glimpse of what the future holds. Tis is almost always related to the target's death. This Miracle may only be performed on a character once, after which the @Compendium[wfrp4e-core.talents.fn8QNQQ1S2rh12Us]{Doomed} Talent may be purchased with XP as if it were in the target's Career.</p>"
+            "description": "<p>Mentre intona una trenodia di Morr, il Benedetto fissa negli occhi il bersaglio, mostrandogli una visione del proprio destino, quasi sempre legata alla sua morte. Questo Miracolo può essere usato solo una volta su ogni persona, la quale potrà acquistare il Talento @Compendium[wfrp4e-core.talents.fn8QNQQ1S2rh12Us]{Predestinato} pagandolo in PE se fosse parte della sua Carriera.</p>"
         },
         {
             "id": "As Verena is My Witness",
             "name": "Verena Mi Sia Testimone",
-            "description": "<p><span class=\"fontstyle0\">By calling Verena as your witness, the truth of your words shines out for all to see. For the duration of the Miracle, providing you speak only the truth, all listeners will believe you speak truly. This does not necessarily mean they will agree with your conclusions, of course</span> </p>"
+            "description": "<p>Invocando Verena come testimone, la veridicità delle parole del Benedetto diviene palese. Per la durata dell’effetto, finché il Personaggio dice la verità, tutti gli ascoltatori saranno certi della sua sincerità, ma ciò non significa che concorderanno con le sue conclusioni.</p>"
         },
         {
             "id": "Leaping Stag",
             "name": "Balzo del Cervo",
-            "description": "<p>You chant to Father Taal, and he grants you his favor, imbuing you with speed and agility. You gain +1 Movement and +1 @Compendium[wfrp4e-core.talents.CV9btQn09S9Fn8Jk]{Strong Legs}&nbsp;Talent. Further, you automatically pass all Athletics Tests to jump with at least +0 SL; should you score lower, increase the SL to 0.</p>"
+            "description": "<p>Il Benedetto prega Padre Taal di concedergli il suo favore, donandogli forza e agilità. Ottiene +1 Movimento e +1 al Talento @Compendium[wfrp4e-core.talents.CV9btQn09S9Fn8Jk]{Gambe Forti}. Inoltre supererà automaticamente, con un minimo di +0 LS, tutte la Prove di Atletica per saltare.</p>"
         },
         {
             "id": "Blessing of Grace",
             "name": "Benedizione della Grazia",
-            "description": "<p>Your target gains +10 Agility.</p>"
+            "description": "<p>Il bersaglio ottiene +10 Agilità.</p>"
         },
         {
             "id": "King of the Wild",
             "name": "Re delle Selve",
-            "description": "<p>You chant a low prayer, and Taal answers with a wild animal appropriate for the surrounding area, which will act according to your wishes for the duration of the Miracle. See The <strong>Beasts of the Reikland</strong> for sample animals that may be summoned.</p>"
+            "description": "<p>Il Benedetto mormora una preghiera e Taal risponde inviando un animale selvatico, adatto alla regione, che eseguirà i suoi ordini per la durata del Miracolo. Vedere <strong>Animali del Reikland</strong> a pag. 314 per alcuni esempi.</p>"
         },
         {
             "id": "Fair Winds",
             "name": "Venti Favorevoli",
-            "description": "<p>The target vessels’ sails fill with favorable winds, speeding them safely towards their destination. While this Miracle is active, the sailing vessel moves at top speed, no matter the prevailing wind, tide, or current, and all Tests made to steer the vessel gain a bonus of +10.</p>"
+            "description": "<p>Le vele del vascello si gonfiano con un vento favorevole che lo spinge verso la sua destinazione. Mentre questo Miracolo è attivo, la nave viaggia a velocità massima, ignorando altri venti, correnti e maree. Tutte le Prove per governarla hanno un bonus di +10.</p>"
         },
         {
             "id": "Fury's Call",
             "name": "Chiamata della Furia",
-            "description": "<p>Your passionate prayers instill your allies with a furious disdain for their foes. All allies affected receive the @Compendium[wfrp4e-core.psychologies.5hH73j2NgPdsLCZN]{Hatred}<em>&nbsp;</em>Psychology towards any engaging them in combat.</p>"
+            "description": "<p>Le appassionate preghiere del Benedetto riempiono gli alleati di terribile odio verso i propri nemici. Tutti i bersagli ricevono il Tratto Psicologico @Compendium[wfrp4e-core.psychologies.5hH73j2NgPdsLCZN]{Odio} nei confronti di chi stanno affrontando in combattimento.</p>"
         },
         {
             "id": "Sword of Justice",
             "name": "Spada della Giustizia",
-            "description": "<p>You pray to Verena to guide your blade to strike down the unjust.<br>If wielding a sword, it ignores APs, and counts as Magical.<br>Further, if struck opponents are criminals (as determined by the<br>GM), they must make an <strong>Average (+20) Endurance</strong> or suffer<br>an <em>Unconscious</em> Condition that lasts for at least Fellowship<br>Bonus Rounds. If any crime is perpetrated on the unconscious<br>opponents, you suffer +1 Sin point per crime. </p>"
+            "description": "<p>Il Benedetto implora Verena affinché guidi la sua lama contro gli ingiusti. Se impugna una spada questa ignorerà tutti i Punti Armatura e conterà come Magica. Inoltre, se il bersaglio è un criminale (a giudizio del GM), dovrà superare una Prova <strong>Media (+20) di Tempra</strong> o cadere <em>Privo di Sensi</em> per almeno un numero di Round pari al Bonus Socialità del Benedetto. Per ogni crimine che verrà perpetrato sull’avversario svenuto, il Benedetto accumulerà +1 Punto Peccato.</p>"
         },
         {
             "id": "Shackles of Truth",
             "name": "Catene della Verità",
-            "description": "<p>Your appeal to Verena, requesting her judgement concerning a<br>suspected criminal. If your target committed a crime and claims<br>they did not, while affected by this miracle they gain an <em>Entangled </em>Condition that cannot be removed for the duration. If you have Falsely accused the target, Verena is displeased with your lack of wisdom: you gain +1 Sin point and must immediately roll on The <strong>Wrath of the Gods</strong> table. </p>"
+            "description": "<p>Il Benedetto si appella a Verena, chiedendo che giudichi un sospetto criminale. Se il bersaglio ha commesso un crimine, ma si proclama innocente, subirà 1 <em>Afferrato</em> per la durata del Miracolo. Muovere una falsa accusa irriterà la dea: il Benedetto accumulerà +1 Punto Peccato e dovrà tirare immediatamente sulla Tabella dell’<strong>Ira degli Dei</strong>.</p>"
         },
         {
             "id": "Rhya's Succour",
             "name": "Soccorso di Rhya",
-            "description": "<p>You chant Rhya’s song of revitalization. All affected targets have 1 Condition removed. If this removes all suffered Conditions, the targets feel as refreshed as if they had just awoken from a good night’s sleep, and gain a bonus of +10 to any tests on their next Turn.</p>"
+            "description": "<p>Il Benedetto intona il canto rivitalizzante di Rhya. Tutti i bersagli rimuovono una Condizione; se così facendo non ne hanno più nessuna sono rinfrancati come se si fossero appena svegliati da una notte di sonno e ottengono un bonus di +10 a qualsiasi Prova tentino nel Turno seguente.</p>"
         },
         {
             "id": "Rhya's Children",
             "name": "Figli di Rhya",
-            "description": "<p>Laying hands on the earth, you chant a prayer to Rhya appealing for her aid in understanding her Realm. This Miracle may only be invoked outdoors, outside settlements. You sense the presence and passing of all sentient creatures within Fellowship yards. Each +2 SL extents the area of effect by +Fellowship yards.</p>"
+            "description": "<p>Poggiando le mani al suolo, il Benedetto intona un canto, implorando Rhya di aiutarlo a comprendere il suo Reame. Questo Miracolo può essere usato solo all’aperto e fuori da un insediamento. Il Benedetto percepisce tutte le creature senzienti in un raggio per un numero di metri pari alla Socialità. Ogni +2 LS incrementa il raggio per un numero di metri pari alla Socialità.</p>"
         },
         {
             "id": "Last Rites",
             "name": "Estrema Unzione",
-            "description": "<p>You chant a solemn requiem over a corpse. This miracle ensures that the soul is sent through the portal to Morr's realm, and guarantees the cadaver may not be targeted by any Necromantic spells. If the Miracle targets a foe with the <em>Undead</em> <strong>and </strong><em>Construct</em> Creature Traits, it will be destroyed.</p>"
+            "description": "<p>Il Benedetto intona un requiem solenne per un defunto, assicurando così che l’anima superi il Portale di Morr e il cadavere non possa essere vittima di Necromanzia. Usare questo Miracolo contro un nemico con i Tratti <em>Nonmorto</em> e <em>Costrutto</em> lo distrugge all’istante.</p>"
         },
         {
             "id": "Twin-tailed Comet",
             "name": "Cometa a Due Code",
-            "description": "<p>You invoke litanies to Sigmar, calling on him to smite his foes. A twin-tailed comet, blazing a trail of fire in its wake, plummets from the heavens to strike a point within Line of Sight and range. Everything within Fellowship Bonus yards of the point of impact suffers 1d10 + SL Damage, ignoring Toughness Bonus and Armor Points, and gains the @Condition[Ablaze] condition. The target location must be outdoors, and may only target those Sigmar would deem an enemy.</p>"
+            "description": "<p>Il Benedetto intona le litanie di Sigmar per colpire i propri nemici. Una cometa a due code cade dal cielo, lasciando una scia di fuoco, e colpisce un punto visibile entro la gittata. Tutto ciò che si trova entro un numero di metri pari al Bonus Socialità del punto d’impatto subisce 1d10+LS Danni – ignorando il Bonus Resistenza e l’Armatura – e 1 @Condition[Ablaze]. Il punto d’impatto deve essere all’aperto. Questo Miracolo può essere usato solo contro coloro che Sigmar considera nemici.</p>"
         },
         {
             "id": "Winter's Bite",
             "name": "Morso dell'Inverno",
-            "description": "<p>You roar prayers concerning Blitzbeil, Ulric's ever-thirsty axe. If wielding an axe, it counts as Magical, causes an additional + SL Damage, and any living targets struck must make a <strong>Challenging (+0) Endurance</strong> Test or gain a @Condition[Stunned] Condition. Further, struck targets lose any @Condition[Bleeding] Conditions as their blood freezes; similarly, attacks from your axe cannot cause any <em>Bleeding</em> Conditions.</p>"
+            "description": "Il Benedetto ruggisce una preghiera che parla di Blitzbeil, l’assetata ascia di Ulric. Se impugna un’ascia questa conterà come Magica e causerà +LS Danni. Ogni creatura vivente colpita, dovrà superare una Prova <strong>Impegnativa (+0) di Tempra</strong> o subire 1 @Condition[Stunned]. Inoltre, perderà tutti le Condizioni @Condition[Bleeding], mentre il suo sangue gela nelle vene. I colpi di quest’ascia non possono mai causare <em>Sanguinante</em>.</p>"
         },
         {
             "id": "Destroy Undead",
             "name": "Distruggere Nonmorti",
-            "description": "<p>You call the power of Morr to smite all Undead. A black fire ripples forth from your body in a perfect circle for Fellowship Bonus yards. All potential targets with the Undead Creature Trait lose 1d10 Wounds, ignoring Toughness Bonus and AP. Any Undead destroyed by this Miracle can never be raised with Necromancy again under normal conditions. For every +2 SL, you may increase the area of effect by +Fellowship Bonus yards.</p>"
+            "description": "<p>Il Benedetto invoca Morr per colpire i Nonmorti. Fiamme nere fuoriescono dal suo corpo in un cerchio perfetto con raggio di un numero di metri pari al Bonus Socialità. Tutte le creature nell’area con il Tratto Nonmorto subiscono 1d10 Ferite, ignorando il Bonus Resistenza e l’Armatura. Chi viene distrutto da questo Miracolo non potrà mai più essere riportato in vita usando la Necromanzia, in condizioni normali. Per ogni +2 LS si può incrementare il raggio dell’effetto di un numero di metri pari al Bonus Socialità.</p>"
         },
         {
             "id": "Blessing of Conscience",
             "name": "Benedizione della Coscienza",
-            "description": "<p>Your target must pass a <strong>Average (+20) Willpower</strong> Test to break any of the Strictures of your deity. If they fail, they are overcome with Shame and do not take the action.</p>"
+            "description": "<p>Il bersaglio deve superare una Prova <strong>Media (+20) di Volontà</strong> per infrangere i precetti del dio. In caso di fallimento sarà sopraffatto dalla vergogna e non tenterà l’azione.</p>"
         },
         {
             "id": "Blessing of Wit",
             "name": "Benedizione dell'Astuzia",
-            "description": "<p>Your target gains +10 Initiative.</p>"
+            "description": "<p>Il bersaglio ottiene +10 Iniziativa.</p>"
         },
         {
             "id": "Portal's Threshold",
             "name": "Soglia del Portale",
-            "description": "<p>You draw a line up to 8 yards long on the ground while incanting a dirge to Morr. Upon enacting the Miracle, an indistinct, shadowy portal seems to manifest to the hoarse croaking of ravens. Creatures with the <em>Undead</em> Creature Trait must pass a <strong>Challenging (+0) Willpower</strong> Test to cross the line. Creatures with both <em>Undead</em> and <em>Construct</em> simply cannot cross the line. The Miracle remains in effect until dawn.</p>"
+            "description": "<p>Il Benedetto traccia per terra una linea lunga fino a 8m, mentre intona un canto funebre. Quando il miracolo si attiva appare la sagoma indistinta di un portale e si ode un gracchiare di corvi. Le creature con il Tratto <em>Nonmorto</em> devono superare una Prova <strong>Impegnativa (+0) di Volontà</strong> per varcare la linea, se sono anche <em>Costrutti</em> non possono farlo. L’effetto continua fino all’alba successiva.</p>"
         },
         {
             "id": "Anchorite's Endurance",
             "name": "Resistenza dell'Anacoreta",
-            "description": "<p>Your earnest prayers appeal to Shallya to grant the target the strength to endure. The target feels no pain, and suffers no penalties caused by Conditions.</p>"
+            "description": "<p>Le oneste preghiere del Benedetto conferiscono la forza per resistere. Il bersaglio non prova alcun dolore e non subisce penalità dalle Condizioni.</p>"
         },
         {
             "id": "Hoarfrost's Chill",
             "name": "Brina Gelida",
-            "description": "<p>You scream angry prayers, and cold Ulric answers. Your eyes gain a steely blue glint and the air around you grows unnaturally cold. You cause @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Fear 1} in all enemies, and all within your Fellowship yards range lose &ndash;1 Advantage at the start of each Round, as they are chilled to the bone.</p>"
+            "description": "<p>Il Benedetto urla una preghiera rabbiosa e il gelo di Ulric gli risponde. Gli occhi del Personaggio diventano blu acciaio e l’aria attorno a lui innaturalmente fredda. Il Benedetto causa @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Paura 1} (vedere pag. 190) e tutti i nemici nel raggio di un numero in metri pari al Bonus Socialità sono gelati fino al midollo: perdono -1 Vantaggio all’inizio di ogni Round.</p>"
         }
     ]
 }
