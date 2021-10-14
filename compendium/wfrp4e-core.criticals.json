@@ -84,7 +84,7 @@
 		{
 			"id": "Concussive Blow",
 			"name": "Concussione",
-			"description": "<p>Il cervello rimbalza dentro la scatola cranica. Causa 1 @Condition[Assordato], 2 @Condition[Sanguinante] e @Roll[1d10] @Condition[Stordito], più un @Condition[Affaticato] che dura @Roll[1d10] giorni. Se si subisce un’altra ferita alla testa che provoca Affaticato, effettuare una Prova <strong>Media (+20) di Tempra</strong> per non cadere @Condition[Privo di Sensi].</p>"
+			"description": "<p>Il cervello rimbalza dentro la scatola cranica. Causa 1 @Condition[Assordato], 2 @Condition[Sanguinante 2] e @Roll[1d10] @Condition[Stordito], più un @Condition[Affaticato] che dura @Roll[1d10] giorni. Se si subisce un’altra ferita alla testa che provoca Affaticato, effettuare una Prova <strong>Media (+20) di Tempra</strong> per non cadere @Condition[Privo di Sensi 1].</p>"
 		},
 		{
 			"id": "Cracked Ribs",
