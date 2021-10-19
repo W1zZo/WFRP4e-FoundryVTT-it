@@ -169,7 +169,7 @@
         {
             "id": "Tanglefoot",
             "name": "Avviluppare",
-            "description": "<p>Il Benedetto si appella a Taal per proteggere le selve e, così facendo, radici, viticci e rovi avvolgono i suoi nemici. Tutti i bersagli in un raggio di un numero in metri pari al Bonus Socialità dal punto scelto subiscono 1 Afferrato . Per ogni +2 LS si può aumentare il raggio di un numero in metri pari al Bonus Socialità o causare un ulteriore @Condition[Entangled]. Questo effetto ha Forza pari alla Volontà del Benedetto per trattenere i bersagli.</p>"
+            "description": "<p>Il Benedetto si appella a Taal per proteggere le selve e, così facendo, radici, viticci e rovi avvolgono i suoi nemici. Tutti i bersagli in un raggio di un numero in metri pari al Bonus Socialità dal punto scelto subiscono 1 Afferrato . Per ogni +2 LS si può aumentare il raggio di un numero in metri pari al Bonus Socialità o causare un ulteriore @Condition[Afferrato]. Questo effetto ha Forza pari alla Volontà del Benedetto per trattenere i bersagli.</p>"
         },
         {
             "id": "Rhya's Harvest",
@@ -189,7 +189,7 @@
         {
             "id": "Blazing Sun",
             "name": "Sole Splendente",
-            "description": "<p>Il Benedetto invoca Myrmidia affinché spazzi via dal campo di battaglia i nemici disonorevoli. Questo causa un lampo accecante di luce dorata, che acceca tutti i non-Myrmidiani che lo vedono, causando 1 @Condition[Blinded]. Per ogni +2 LS subiscono 1 @Condition[Blinded] in più.</p>"
+            "description": "<p>Il Benedetto invoca Myrmidia affinché spazzi via dal campo di battaglia i nemici disonorevoli. Questo causa un lampo accecante di luce dorata, che acceca tutti i non-Myrmidiani che lo vedono, causando 1 @Condition[Accecato]. Per ogni +2 LS subiscono 1 @Condition[Accecato] in più.</p>"
         },
         {
             "id": "Rich Man, Poor Man, Beggar Man, Thief",
@@ -214,7 +214,7 @@
         {
             "id": "Stay Morr's Hand",
             "name": "Fermare la Mano di Morr",
-            "description": "<p>Il Benedetto sfiora gli occhi di un moribondo, chiedendo a Morr di guidarlo, ma di non portarlo via. Il bersaglio deve avere 0 Ferite ed essere consenziente. Per la durata del Miracolo, il bersaglio sarà @Condition[Unconscious]{Privo di Sensi}, ma la sua condizione non potrà peggiorare, ignorerà malattie, veleni, ferite critiche e altri effetti. Il Miracolo avrà termine non appena saranno somministrate cure adeguate o l’estrema unzione. In quest’ultimo caso, che richiede circa 1 minuto, l’anima passerà per il Portale e il cadavere non potrà più essere usato per la Necromanzia.</p>"
+            "description": "<p>Il Benedetto sfiora gli occhi di un moribondo, chiedendo a Morr di guidarlo, ma di non portarlo via. Il bersaglio deve avere 0 Ferite ed essere consenziente. Per la durata del Miracolo, il bersaglio sarà @Condition[Privo di Sensi]{Privo di Sensi}, ma la sua condizione non potrà peggiorare, ignorerà malattie, veleni, ferite critiche e altri effetti. Il Miracolo avrà termine non appena saranno somministrate cure adeguate o l’estrema unzione. In quest’ultimo caso, che richiede circa 1 minuto, l’anima passerà per il Portale e il cadavere non potrà più essere usato per la Necromanzia.</p>"
         },
         {
             "id": "Blessing of Breath",
@@ -239,7 +239,7 @@
         {
             "id": "Sigmar's Fiery Hammer",
             "name": "Ardente Martello di Sigmar",
-            "description": "<p>Il Benedetto intona la benedizione della forza di Sigmar. Se impugna un martello da guerra questo conta come Magico, causa Danni aggiuntivi pari al proprio Bonus Socialità e chi viene colpito subisce 1 @Condition[Ablaze] e cade @Condition[Prone].</p>"
+            "description": "<p>Il Benedetto intona la benedizione della forza di Sigmar. Se impugna un martello da guerra questo conta come Magico, causa Danni aggiuntivi pari al proprio Bonus Socialità e chi viene colpito subisce 1 @Condition[In Fiamme] e cade @Condition[Prono].</p>"
         },
         {
             "id": "Shallya's Tears",
@@ -284,7 +284,7 @@
         {
             "id": "Drowned Man's Face",
             "name": "Volto dell'Annegato",
-            "description": "<p>Il Benedetto implora Manann di affogare un nemico, i cui polmoni continueranno a riempirsi d’acqua salmastra mentre il miracolo è attivo, come se avesse la testa sott’acqua. Il bersaglio subisce 1 @Condition[Fatigued] ed è soggetto ad @JournalEntry[Other Damage]{Annegare e Soffocare} (pag. 181) mentre l’effetto è attivo. Al termine del miracolo dovrà superare una Prova <strong>Impegnativa (+0) di Tempra</strong> o cadere @Condition[Prone]{Prono}.</p>"
+            "description": "<p>Il Benedetto implora Manann di affogare un nemico, i cui polmoni continueranno a riempirsi d’acqua salmastra mentre il miracolo è attivo, come se avesse la testa sott’acqua. Il bersaglio subisce 1 @Condition[Affaticato] ed è soggetto ad @JournalEntry[Other Damage]{Annegare e Soffocare} (pag. 181) mentre l’effetto è attivo. Al termine del miracolo dovrà superare una Prova <strong>Impegnativa (+0) di Tempra</strong> o cadere @Condition[Prono]{Prono}.</p>"
         },
         {
             "id": "Blessing of Fortune",
@@ -359,12 +359,12 @@
         {
             "id": "Twin-tailed Comet",
             "name": "Cometa a Due Code",
-            "description": "<p>Il Benedetto intona le litanie di Sigmar per colpire i propri nemici. Una cometa a due code cade dal cielo, lasciando una scia di fuoco, e colpisce un punto visibile entro la gittata. Tutto ciò che si trova entro un numero di metri pari al Bonus Socialità del punto d’impatto subisce 1d10+LS Danni – ignorando il Bonus Resistenza e l’Armatura – e 1 @Condition[Ablaze]. Il punto d’impatto deve essere all’aperto. Questo Miracolo può essere usato solo contro coloro che Sigmar considera nemici.</p>"
+            "description": "<p>Il Benedetto intona le litanie di Sigmar per colpire i propri nemici. Una cometa a due code cade dal cielo, lasciando una scia di fuoco, e colpisce un punto visibile entro la gittata. Tutto ciò che si trova entro un numero di metri pari al Bonus Socialità del punto d’impatto subisce 1d10+LS Danni – ignorando il Bonus Resistenza e l’Armatura – e 1 @Condition[In Fiamme]. Il punto d’impatto deve essere all’aperto. Questo Miracolo può essere usato solo contro coloro che Sigmar considera nemici.</p>"
         },
         {
             "id": "Winter's Bite",
             "name": "Morso dell'Inverno",
-            "description": "Il Benedetto ruggisce una preghiera che parla di Blitzbeil, l’assetata ascia di Ulric. Se impugna un’ascia questa conterà come Magica e causerà +LS Danni. Ogni creatura vivente colpita, dovrà superare una Prova <strong>Impegnativa (+0) di Tempra</strong> o subire 1 @Condition[Stunned]. Inoltre, perderà tutti le Condizioni @Condition[Bleeding], mentre il suo sangue gela nelle vene. I colpi di quest’ascia non possono mai causare <em>Sanguinante</em>.</p>"
+            "description": "Il Benedetto ruggisce una preghiera che parla di Blitzbeil, l’assetata ascia di Ulric. Se impugna un’ascia questa conterà come Magica e causerà +LS Danni. Ogni creatura vivente colpita, dovrà superare una Prova <strong>Impegnativa (+0) di Tempra</strong> o subire 1 @Condition[Stordito]. Inoltre, perderà tutti le Condizioni @Condition[Sanguinante], mentre il suo sangue gela nelle vene. I colpi di quest’ascia non possono mai causare <em>Sanguinante</em>.</p>"
         },
         {
             "id": "Destroy Undead",

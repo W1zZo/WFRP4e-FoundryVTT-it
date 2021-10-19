@@ -49,7 +49,7 @@
         {
             "id": "Firewall",
             "name": "Muro di Fuoco",
-            "description": "<p>Incanalando un’ardente scia di Aqshy , il Mago crea un muro di fiamme della lunghezza in metri pari al suo Bonus Volontà e spessore 1m. Per ogni +2 LS può allungarlo un numero di metri pari al suo Bonus Volontà. Chiunque lo attraversi subisce 1 @Condition[Ablaze] e un numero di Danni pari al Bonus Volontà del Mago,gestiti come un proiettile magico.</p>"
+            "description": "<p>Incanalando un’ardente scia di Aqshy , il Mago crea un muro di fiamme della lunghezza in metri pari al suo Bonus Volontà e spessore 1m. Per ogni +2 LS può allungarlo un numero di metri pari al suo Bonus Volontà. Chiunque lo attraversi subisce 1 @Condition[In Fiamme] e un numero di Danni pari al Bonus Volontà del Mago,gestiti come un proiettile magico.</p>"
         },
         {
             "id": "Drop (Life)",
@@ -64,7 +64,7 @@
         {
             "id": "Comet of Casandora",
             "name": "Cometa di Cassandora",
-            "description": "<p>Il Mago riunisce tutto l’<em>Azyr</em> disponibile e richiama una cometa dai cieli per distruggere i propri nemici. Deve scegliere un punto entro la gittata e, alla fine del Round successivo, effettuare una Prova <strong>Media (+20) di Percepire</strong>. Ogni LS positivo permette al Mago di spostare l’impatto di un numero di metri pari al suo Bonus Iniziativa, mentre ogni LS negativo permette al GM di spostarlo di un numero di metri pari al suo Bonus Iniziativa in una direzione casuale. Dopo di che la cometa cade come un proiettile magico con Danno +12, colpendo tutti i bersagli nell’Area d’Effetto, che subiscono anche 1 @Condition[Ablaze] e cadono @Condition[Prone].</p>"
+            "description": "<p>Il Mago riunisce tutto l’<em>Azyr</em> disponibile e richiama una cometa dai cieli per distruggere i propri nemici. Deve scegliere un punto entro la gittata e, alla fine del Round successivo, effettuare una Prova <strong>Media (+20) di Percepire</strong>. Ogni LS positivo permette al Mago di spostare l’impatto di un numero di metri pari al suo Bonus Iniziativa, mentre ogni LS negativo permette al GM di spostarlo di un numero di metri pari al suo Bonus Iniziativa in una direzione casuale. Dopo di che la cometa cade come un proiettile magico con Danno +12, colpendo tutti i bersagli nell’Area d’Effetto, che subiscono anche 1 @Condition[In Fiamme] e cadono @Condition[Prono].</p>"
         },
         {
             "id": "Magic Shield (Daemonology)",
@@ -104,12 +104,12 @@
         {
             "id": "Net of Amyntok",
             "name": "Rete di Amyntok",
-            "description": "<p>Il Mago lancia una rete composta da sottili filamenti di <em>Hysh</em>, che sopraffà la mente del bersaglio con enigmi e domande, lasciandolo paralizzato per l’indecisione. Il bersaglio subisce 1 @Condition[Stunned] che non può essere rimosso prima della fine dell’Incantesimo e viene annullato tirando Intelligenza invece di Tempra. Le creature con il Tratto <em>Bestiale</em> sono immuni a questo effetto.</p>"
+            "description": "<p>Il Mago lancia una rete composta da sottili filamenti di <em>Hysh</em>, che sopraffà la mente del bersaglio con enigmi e domande, lasciandolo paralizzato per l’indecisione. Il bersaglio subisce 1 @Condition[Stordito] che non può essere rimosso prima della fine dell’Incantesimo e viene annullato tirando Intelligenza invece di Tempra. Le creature con il Tratto <em>Bestiale</em> sono immuni a questo effetto.</p>"
         },
         {
             "id": "Entangle (Necromancy)",
             "name": "Aggrovigliare (Necromanzia)",
-            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Entangled] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
+            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
         },
         {
             "id": "Bridge",
@@ -129,7 +129,7 @@
         {
             "id": "Push (Beasts)",
             "name": "Spinta (Bestie)",
-            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prone]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
+            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
         },
         {
             "id": "Fearsome (Heavens)",
@@ -169,7 +169,7 @@
         {
             "id": "Sleep",
             "name": "Sonno",
-            "description": "<p>Il Mago tocca un avversario facendolo addormentare. Se il bersaglio era già @Condition[Prone], cadrà @Condition[Unconscious] per la durata dell’effetto. Rumori forti, essere scosso o spostato lo faranno svegliare all’istante. Se, invece, il bersaglio era in piedi o seduto, si sveglierà e cadrà Prono , ma resterà cosciente. Un bersaglio consenziente e già stanco si addormenterà profondamente alla fine dell’effetto.</p>"
+            "description": "<p>Il Mago tocca un avversario facendolo addormentare. Se il bersaglio era già @Condition[Prono], cadrà @Condition[Privo di Sensi] per la durata dell’effetto. Rumori forti, essere scosso o spostato lo faranno svegliare all’istante. Se, invece, il bersaglio era in piedi o seduto, si sveglierà e cadrà Prono , ma resterà cosciente. Un bersaglio consenziente e già stanco si addormenterà profondamente alla fine dell’effetto.</p>"
         },
         {
             "id": "Ward (Death)",
@@ -234,7 +234,7 @@
         {
             "id": "Reanimate",
             "name": "Rianimare",
-            "description": "<p>Il Mago invia nel terreno di fronte a sé flussi striscianti di <em>Dhar</em>, che si insinuano nei cadaveri rianimandone un numero pari a Bonus Volontà + LS come Zombi o Scheletri (che entrano in gioco @Condition[Prone]). Questi esseri sono totalmente controllati dal Mago e possono eseguire ordini semplici. Se il Necromante viene ucciso o cade @Condition[Unconscious], l’Incantesimo ha termine e i morti collassano. Per ogni +2 LS è possibile evocare un numero di Zombi o Scheletri extra pari al LS.</p>"
+            "description": "<p>Il Mago invia nel terreno di fronte a sé flussi striscianti di <em>Dhar</em>, che si insinuano nei cadaveri rianimandone un numero pari a Bonus Volontà + LS come Zombi o Scheletri (che entrano in gioco @Condition[Prono]). Questi esseri sono totalmente controllati dal Mago e possono eseguire ordini semplici. Se il Necromante viene ucciso o cade @Condition[Privo di Sensi], l’Incantesimo ha termine e i morti collassano. Per ogni +2 LS è possibile evocare un numero di Zombi o Scheletri extra pari al LS.</p>"
         },
         {
             "id": "Distracting (Daemonology)",
@@ -254,7 +254,7 @@
         {
             "id": "Push (Daemonology)",
             "name": "Spinta (Demonologia)",
-            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prone]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
+            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
         },
         {
             "id": "Clarity of Thought",
@@ -274,7 +274,7 @@
         {
             "id": "Push (Fire)",
             "name": "Spinta (Fuoco)",
-            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prone]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
+            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
         },
         {
             "id": "Arrow Shield",
@@ -324,7 +324,7 @@
         {
             "id": "Push (Shadow)",
             "name": "Spinta (Ombre)",
-            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prone]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
+            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
         },
         {
             "id": "Chain Attack",
@@ -349,7 +349,7 @@
         {
             "id": "The Evil Eye",
             "name": "Malocchio",
-            "description": "<p>La Strega fissa negli occhi una persona ed effettua una Prova <strong>Contrapposta di Intimidire/Freddezza</strong>, sommando il LS della Prova di Lancio al proprio risultato. Se vince, l’avversario subisce un @Condition[Fatigued] per ogni 2 LS di differenza. Se la differenza è 6 LS o più la vittima subirà anche 1 @Condition[Broken].</p>"
+            "description": "<p>La Strega fissa negli occhi una persona ed effettua una Prova <strong>Contrapposta di Intimidire/Freddezza</strong>, sommando il LS della Prova di Lancio al proprio risultato. Se vince, l’avversario subisce un @Condition[Affaticato] per ogni 2 LS di differenza. Se la differenza è 6 LS o più la vittima subirà anche 1 @Condition[Atterrito].</p>"
         },
         {
             "id": "Lie of the Land",
@@ -384,7 +384,7 @@
         {
             "id": "Raise Dead",
             "name": "Resuscitare i Morti",
-            "description": "<p>Il Mago incanala nel suolo un potente flusso di <em>Dhar</em>, facendo sì che le vecchie ossa si riuniscano e risorgano. Al termine del Round, 1+LS Scheletri emergono nell’Area d’Effetto, disposti secondo i desideri del Mago, ma @Condition[Prone]. Questi esseri sono totalmente controllati dal Mago e possono eseguire ordini semplici. Se il Necromante viene ucciso o cade @Condition[Unconscious], l’Incantesimo ha termine e gli scheletri collassano. Per ogni +2 LS è possibile evocare un numero di Scheletri extra pari al LS.</p>"
+            "description": "<p>Il Mago incanala nel suolo un potente flusso di <em>Dhar</em>, facendo sì che le vecchie ossa si riuniscano e risorgano. Al termine del Round, 1+LS Scheletri emergono nell’Area d’Effetto, disposti secondo i desideri del Mago, ma @Condition[Prono]. Questi esseri sono totalmente controllati dal Mago e possono eseguire ordini semplici. Se il Necromante viene ucciso o cade @Condition[Privo di Sensi], l’Incantesimo ha termine e gli scheletri collassano. Per ogni +2 LS è possibile evocare un numero di Scheletri extra pari al LS.</p>"
         },
         {
             "id": "Beast Master",
@@ -404,7 +404,7 @@
         {
             "id": "Forest of Thorns",
             "name": "Foresta di Spine",
-            "description": "<p>Questo Incantesimo può essere usato solo su un pezzo di terra (anche molto piccolo) e vi fa spuntare un grosso roveto che si estende fino a coprire tutta l’Area d’Effetto. Finché questo è attivo, chi tenti di attraversare l’area, senza avere il Talento <em>Magia Arcana (Vita)</em> deve superare una Prova <strong>Ardua (-20) di Agilità</strong> o subire 1 @Condition[Bleeding] e 1 @Condition[Entangled], con Forza pari alla Volontà del Mago. Al termine della Durata il roveto rimane, ma perde le sue proprietà sovrannaturali.</p>"
+            "description": "<p>Questo Incantesimo può essere usato solo su un pezzo di terra (anche molto piccolo) e vi fa spuntare un grosso roveto che si estende fino a coprire tutta l’Area d’Effetto. Finché questo è attivo, chi tenti di attraversare l’area, senza avere il Talento <em>Magia Arcana (Vita)</em> deve superare una Prova <strong>Ardua (-20) di Agilità</strong> o subire 1 @Condition[Sanguinante] e 1 @Condition[Afferrato], con Forza pari alla Volontà del Mago. Al termine della Durata il roveto rimane, ma perde le sue proprietà sovrannaturali.</p>"
         },
         {
             "id": "Aethyric Armour (Metal)",
@@ -439,17 +439,17 @@
         {
             "id": "Great Fires of U'Zhul",
             "name": "Grandi Fuochi di U'Zhul",
-            "description": "<p>Il Mago scaglia una raffica di <em>Aqshy</em>, che esplode in mezzo ai nemici con la vampa furiosa di una forgia. È un proiettile magico che causa Danno +10 (ignorando i Punti Armatura) 2 @Condition[Ablaze] e @Condition[Prone] al bersaglio principale. Chi si trova nell’Area d’Effetto, invece, subisce Danno +5 (ignorando i Punti Armatura) e deve superare una Prova di Schivare per non subire 1 @Condition[Ablaze]. Dopo di che, l’Incantesimo non è più un proiettile magico, ma continua ad ardere nella zona fino al termine della Durata. Chiunque si trovi nell’Area d’Effetto all’inizio del Round subisce [[/r 1d10+6]] Danni, ignorando i Punti Armatura, e 1 @Condition[Ablaze].</p>"
+            "description": "<p>Il Mago scaglia una raffica di <em>Aqshy</em>, che esplode in mezzo ai nemici con la vampa furiosa di una forgia. È un proiettile magico che causa Danno +10 (ignorando i Punti Armatura) 2 @Condition[In Fiamme] e @Condition[Prono] al bersaglio principale. Chi si trova nell’Area d’Effetto, invece, subisce Danno +5 (ignorando i Punti Armatura) e deve superare una Prova di Schivare per non subire 1 @Condition[In Fiamme]. Dopo di che, l’Incantesimo non è più un proiettile magico, ma continua ad ardere nella zona fino al termine della Durata. Chiunque si trovi nell’Area d’Effetto all’inizio del Round subisce [[/r 1d10+6]] Danni, ignorando i Punti Armatura, e 1 @Condition[In Fiamme].</p>"
         },
         {
             "id": "Screaming Skull",
             "name": "Teschio Urlante",
-            "description": "<p>Il Mago sbraita la formula magica e un grande teschio nero ricoperto di fiamme verdi e purpuree appare di fronte a lui, ridendo e urlando. Il teschio si muove in linea retta fino alla Gittata massima, seguendo il terreno e oltrepassando gli ostacoli. È un proiettile magico che colpisce solo le creature prive del Tratto @Compendium[wfrp4e-core.traits.PFTD9gDvRWW9uh5g]{Nonmorto} causando Danni pari al Bonus Volontà del Mago. Chi subisce Ferite deve superare una Prova <strong>Impegnativa (+0) di Freddezza</strong> per non subire anche 1 @Condition[Broken].</p>"
+            "description": "<p>Il Mago sbraita la formula magica e un grande teschio nero ricoperto di fiamme verdi e purpuree appare di fronte a lui, ridendo e urlando. Il teschio si muove in linea retta fino alla Gittata massima, seguendo il terreno e oltrepassando gli ostacoli. È un proiettile magico che colpisce solo le creature prive del Tratto @Compendium[wfrp4e-core.traits.PFTD9gDvRWW9uh5g]{Nonmorto} causando Danni pari al Bonus Volontà del Mago. Chi subisce Ferite deve superare una Prova <strong>Impegnativa (+0) di Freddezza</strong> per non subire anche 1 @Condition[Atterrito].</p>"
         },
         {
             "id": "Dazzle",
             "name": "Abbagliare",
-            "description": "<p>Il bersaglio subisce 1 @Condition[Blinded] più un altro all’inizio di ogni Round per la durata dell’effetto.</p>"
+            "description": "<p>Il bersaglio subisce 1 @Condition[Accecato] più un altro all’inizio di ogni Round per la durata dell’effetto.</p>"
         },
         {
             "id": "Dome (Beasts)",
@@ -459,7 +459,7 @@
         {
             "id": "Entangle (Heavens)",
             "name": "Aggrovigliare (Empireo)",
-            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Entangled] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
+            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
         },
         {
             "id": "Bridge (Metal)",
@@ -479,7 +479,7 @@
         {
             "id": "Entangle (Shadow)",
             "name": "Aggrovigliare (Ombre)",
-            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Entangled] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
+            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
         },
         {
             "id": "Terrifying",
@@ -529,7 +529,7 @@
         {
             "id": "Push (Necromancy)",
             "name": "Spinta (Necromanzia)",
-            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prone]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
+            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
         },
         {
             "id": "Corrosive Blood (Life)",
@@ -674,7 +674,7 @@
         {
             "id": "Haunting Horror",
             "name": "Orrore Infestante",
-            "description": "<p>La Strega maledice un luogo, come una casa o un campo, facendo sì che chiunque vi entri soffra di sogni inquietanti e incubi a occhi aperti. Chi entra nel luogo sarà innervosito da strane sensazioni, ombre sfuggenti e sussurri appena udibili. A meno di possedere il Talento <em>Magia Arcana (Stregoneria)</em>, subirà 1 @Condition[Fatigued] e dovrà superare una Prova <strong>Impegnativa (+0) di Freddezza</strong> per non subire un altro Affaticato e 1 @Condition[Broken], che saranno rimossi solo abbandonando il luogo maledetto.</p>"
+            "description": "<p>La Strega maledice un luogo, come una casa o un campo, facendo sì che chiunque vi entri soffra di sogni inquietanti e incubi a occhi aperti. Chi entra nel luogo sarà innervosito da strane sensazioni, ombre sfuggenti e sussurri appena udibili. A meno di possedere il Talento <em>Magia Arcana (Stregoneria)</em>, subirà 1 @Condition[Affaticato] e dovrà superare una Prova <strong>Impegnativa (+0) di Freddezza</strong> per non subire un altro Affaticato e 1 @Condition[Atterrito], che saranno rimossi solo abbandonando il luogo maledetto.</p>"
         },
         {
             "id": "Magic Shield (Life)",
@@ -739,17 +739,17 @@
         {
             "id": "Entangle (Light)",
             "name": "Aggrovigliare (Luce)",
-            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Entangled] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
+            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
         },
         {
             "id": "Push (Life)",
             "name": "Spinta (Vita)",
-            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prone]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
+            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
         },
         {
             "id": "Purge",
             "name": "Epurare",
-            "description": "<p>Il Mago concentra una fiamma intensa per purificare la corruzione. Tutti gli oggetti infiammabili nell’Area d’Effetto si incendiano e le creature subiscono LS Condizioni @Condition[Ablaze]. Se nell’area sono presenti Influenze Corruttrici (come Dhar , Warpietra od oggetti toccati dal Caos) inizieranno ad annerire, fumare e bruciare. L’effetto può essere mantenuto nei Round successivi superando Prove <strong>Impegnative (+0) d’Incanalare</strong>. Il tempo necessario per eliminare un’Influenza Corruttrice dipende dal GM. In generale, una piccola quantità (meno di una ghianda) di Warpietra o un oggetto minore del Caos richiedono 10-Bonus Volontà Round (minimo 1). Quantità superiori di Warpietra – fino a un pugno – od oggetti maggiori richiedono il doppio. Per un potente artefatto ci possono volere delle ore… (vedere pag. 182 per informazioni sulle Influenze Corruttrici, @JournalEntry[Corruption]).</p>"
+            "description": "<p>Il Mago concentra una fiamma intensa per purificare la corruzione. Tutti gli oggetti infiammabili nell’Area d’Effetto si incendiano e le creature subiscono LS Condizioni @Condition[In Fiamme]. Se nell’area sono presenti Influenze Corruttrici (come Dhar , Warpietra od oggetti toccati dal Caos) inizieranno ad annerire, fumare e bruciare. L’effetto può essere mantenuto nei Round successivi superando Prove <strong>Impegnative (+0) d’Incanalare</strong>. Il tempo necessario per eliminare un’Influenza Corruttrice dipende dal GM. In generale, una piccola quantità (meno di una ghianda) di Warpietra o un oggetto minore del Caos richiedono 10-Bonus Volontà Round (minimo 1). Quantità superiori di Warpietra – fino a un pugno – od oggetti maggiori richiedono il doppio. Per un potente artefatto ci possono volere delle ore… (vedere pag. 182 per informazioni sulle Influenze Corruttrici, @JournalEntry[Corruption]).</p>"
         },
         {
             "id": "Purple Pall of Shyish",
@@ -764,7 +764,7 @@
         {
             "id": "Push (Death)",
             "name": "Spinta (Morte)",
-            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prone]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
+            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
         },
         {
             "id": "Corrosive Blood (Death)",
@@ -779,7 +779,7 @@
         {
             "id": "Push (Metal)",
             "name": "Spinta (Metallo)",
-            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prone]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
+            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
         },
         {
             "id": "Dome (Necromancy)",
@@ -834,7 +834,7 @@
         {
             "id": "Mystifying Miasma",
             "name": "Miasma Ingannatore",
-            "description": "<p>Il Mago evoca un banco vorticante di nebbia e ombre che obnubila i sensi. Chiunque si trovi all’interno e non possieda il Talento <em>Magia Arcana (Ombre)</em> subisce 1 @Condition[Blinded], 1 @Condition[Deafened] e 1 @Condition[Fatigued], che permangono sino alla fine dell’Incantesimo. Inoltre, chi viene colpito deve superare una Prova <strong>Impegnativa (+0) di Percepire</strong> o cadere @Condition[Prone]. Se l’effetto viene Disperso quando si trova già in gioco, chi ne è vittima deve superare una Prova <strong>Facile (+40) d’Iniziativa</strong> per non subire 1 @Condition[Stunned].</p>"
+            "description": "<p>Il Mago evoca un banco vorticante di nebbia e ombre che obnubila i sensi. Chiunque si trovi all’interno e non possieda il Talento <em>Magia Arcana (Ombre)</em> subisce 1 @Condition[Accecato], 1 @Condition[Assordato] e 1 @Condition[Affaticato], che permangono sino alla fine dell’Incantesimo. Inoltre, chi viene colpito deve superare una Prova <strong>Impegnativa (+0) di Percepire</strong> o cadere @Condition[Prono]. Se l’effetto viene Disperso quando si trova già in gioco, chi ne è vittima deve superare una Prova <strong>Facile (+40) d’Iniziativa</strong> per non subire 1 @Condition[Stordito].</p>"
         },
         {
             "id": "Flight (Heavens)",
@@ -879,7 +879,7 @@
         {
             "id": "Shadowstep",
             "name": "Passo d'Ombra",
-            "description": "<p>Il Mago crea un oscuro portale di Ulgu attraverso l’Aethyr. Attraversandolo, scompare e ricompare immediatamente entro un numero di metri pari alla sua Volontà. I nemici che vengono Ingaggiati quando riappare sono @Condition[Surprised].</p>"
+            "description": "<p>Il Mago crea un oscuro portale di Ulgu attraverso l’Aethyr. Attraversandolo, scompare e ricompare immediatamente entro un numero di metri pari alla sua Volontà. I nemici che vengono Ingaggiati quando riappare sono @Condition[Sorpreso].</p>"
         },
         {
             "id": "Bolt (Life)",
@@ -889,7 +889,7 @@
         {
             "id": "Push (Light)",
             "name": "Spinta (Luce)",
-            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prone]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
+            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
         },
         {
             "id": "Ward (Daemonology)",
@@ -909,7 +909,7 @@
         {
             "id": "Entangle",
             "name": "Aggrovigliare",
-            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Entangled] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
+            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
         },
         {
             "id": "Beast Form",
@@ -1014,7 +1014,7 @@
         {
             "id": "Entangle (Beasts)",
             "name": "Aggrovigliare (Bestie)",
-            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Entangled] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
+            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
         },
         {
             "id": "Corrosive Blood (Heavens)",
@@ -1074,7 +1074,7 @@
         {
             "id": "Entangle (Daemonology)",
             "name": "Aggrovigliare (Demonologia)",
-            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Entangled] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
+            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
         },
         {
             "id": "Arrow Shield (Beasts)",
@@ -1104,7 +1104,7 @@
         {
             "id": "Push (Heavens)",
             "name": "Spinta (Empireo)",
-            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prone]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
+            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
         },
         {
             "id": "Breath",
@@ -1119,7 +1119,7 @@
         {
             "id": "Entangle (Death)",
             "name": "Aggrovigliare (Morte)",
-            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Entangled] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
+            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
         },
         {
             "id": "Move Object (Life)",
@@ -1134,7 +1134,7 @@
         {
             "id": "Entangle (Metal)",
             "name": "Aggrovigliare (Metallo)",
-            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Entangled] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
+            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
         },
         {
             "id": "Mindslip",
@@ -1149,12 +1149,12 @@
         {
             "id": "Entangle (Life)",
             "name": "Aggrovigliare (Vita)",
-            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Entangled] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
+            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
         },
         {
             "id": "Phâ's Protection",
             "name": "Protezione di Phâ",
-            "description": "<p>Il Mago invoca un’aura protettiva di luce pura e santa. Gli esseri profani – ossia che hanno il Tratto @Compendium[wfrp4e-core.traits.PFTD9gDvRWW9uh5g]{Nonmorto} o @Compendium[wfrp4e-core.traits.v3uzEthcq0JRar0J]{Demoniaco}, mutazioni o più Punti Corruzione della somma dei propri Bonus Resistenza e Bonus Volontà – non possono entrare nell’Area d’Effetto. Se vi si trovano già subiscono 1 @Condition[Broken] finché non escono. Chi si trova nell’Area non può accumulare Punti Corruzione finché l’effetto è attivo.</p>"
+            "description": "<p>Il Mago invoca un’aura protettiva di luce pura e santa. Gli esseri profani – ossia che hanno il Tratto @Compendium[wfrp4e-core.traits.PFTD9gDvRWW9uh5g]{Nonmorto} o @Compendium[wfrp4e-core.traits.v3uzEthcq0JRar0J]{Demoniaco}, mutazioni o più Punti Corruzione della somma dei propri Bonus Resistenza e Bonus Volontà – non possono entrare nell’Area d’Effetto. Se vi si trovano già subiscono 1 @Condition[Atterrito] finché non escono. Chi si trova nell’Area non può accumulare Punti Corruzione finché l’effetto è attivo.</p>"
         },
         {
             "id": "Aethyric Arms (Shadow)",
@@ -1184,7 +1184,7 @@
         {
             "id": "Soul Vortex",
             "name": "Vortice d'Anime",
-            "description": "<p>Il Mago scaglia una sfera di Shyish che esplode in una fiammata purpurea, tra cui compaiono volti spettrali e bocche spalancate per il terrore. Chi si trova nell’Area d’Effetto subisce 1 @Condition[Broken]. Chi ha il Tratto Nonmorto, invece, considera questo Incantesimo un proiettile magico con Danno +10, che ignora il Bonus Resistenza e l’Armatura.</p>"
+            "description": "<p>Il Mago scaglia una sfera di Shyish che esplode in una fiammata purpurea, tra cui compaiono volti spettrali e bocche spalancate per il terrore. Chi si trova nell’Area d’Effetto subisce 1 @Condition[Atterrito]. Chi ha il Tratto Nonmorto, invece, considera questo Incantesimo un proiettile magico con Danno +10, che ignora il Bonus Resistenza e l’Armatura.</p>"
         },
         {
             "id": "Magic Shield (Necromancy)",
@@ -1269,7 +1269,7 @@
         {
             "id": "Entangle (Fire)",
             "name": "Aggrovigliare (Fuoco)",
-            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Entangled] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
+            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
         },
         {
             "id": "Bridge (Heavens)",
@@ -1279,7 +1279,7 @@
         {
             "id": "Shock",
             "name": "Shock",
-            "description": "<p>Il bersaglio subisce 1 @Condition[Stunned].</p>"
+            "description": "<p>Il bersaglio subisce 1 @Condition[Stordito].</p>"
         },
         {
             "id": "Bridge (Necromancy)",
@@ -1324,7 +1324,7 @@
         {
             "id": "Steal Life",
             "name": "Rubavita",
-            "description": "<p>Sottili fili di nebbia purpurea collegano per un attimo Mago e bersaglio, che inizia a deperire a vista d’occhio. È un proiettile magico con Danno +6, che ignora il Bonus Resistenza e l’Armatura, e causa 1 @Condition[Fatigued]. Inoltre, permette al Mago di rimuovere tutti gli Affaticato di cui soffre e un numero di ferite pari a metà di quelle inflitte (arrotondate per eccesso).</p>"
+            "description": "<p>Sottili fili di nebbia purpurea collegano per un attimo Mago e bersaglio, che inizia a deperire a vista d’occhio. È un proiettile magico con Danno +6, che ignora il Bonus Resistenza e l’Armatura, e causa 1 @Condition[Affaticato]. Inoltre, permette al Mago di rimuovere tutti gli Affaticato di cui soffre e un numero di ferite pari a metà di quelle inflitte (arrotondate per eccesso).</p>"
         },
         {
             "id": "Dying Words",
@@ -1379,7 +1379,7 @@
         {
             "id": "Push",
             "name": "Spinta",
-            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prone]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
+            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
         },
         {
             "id": "Sounds",
@@ -1444,7 +1444,7 @@
         {
             "id": "Flaming Hearts",
             "name": "Cuori Ardenti",
-            "description": "<p>La voce del Mago risuona della fiera passione dell’Aqshy. Gli alleati nell’Area rimuovono le Condizioni @Condition[Fatigued] e @Condition[Broken] e ottengono +1 ai Talenti @Compendium[wfrp4e-core.talents.J9MK0AIaTbvd5oF6]{Addestrato}, @Compendium[wfrp4e-core.talents.IogM5gnsoOX63w7j]{Cuore Impavido} e @Compendium[wfrp4e-core.talents.8pVzgPkgWpTJvfhG]{Temerario}.</p>"
+            "description": "<p>La voce del Mago risuona della fiera passione dell’Aqshy. Gli alleati nell’Area rimuovono le Condizioni @Condition[Affaticato] e @Condition[Atterrito] e ottengono +1 ai Talenti @Compendium[wfrp4e-core.talents.J9MK0AIaTbvd5oF6]{Addestrato}, @Compendium[wfrp4e-core.talents.IogM5gnsoOX63w7j]{Cuore Impavido} e @Compendium[wfrp4e-core.talents.8pVzgPkgWpTJvfhG]{Temerario}.</p>"
         },
         {
             "id": "Dome (Life)",
@@ -1574,7 +1574,7 @@
         {
             "id": "T'Essla's Arc",
             "name": "Arco di T'Essla",
-            "description": "<p>Il Mago lancia un fulmine crepitante dalle dita. È un <em>proiettile magico</em> con Danno +10 che causa 1 @Condition[Blinded].</p>"
+            "description": "<p>Il Mago lancia un fulmine crepitante dalle dita. È un <em>proiettile magico</em> con Danno +10 che causa 1 @Condition[Accecato].</p>"
         },
         {
             "id": "Drop (Daemonology)",
@@ -1799,7 +1799,7 @@
         {
             "id": "Flock of Doom",
             "name": "Stormo del Fato",
-            "description": "<p>Il Mago richiama corvi, o altri uccelli simili, contro i propri nemici. Lo stormo attacca con ferocia chiunque si trovi nell’Area d’Effetto e sia privo del Talento <em>Magia Arcana (Bestie)</em>, causando +7 Danni alla fine del Round. Lo stormo resta in gioco per la Durata e il Mago può effettuare una Prova <strong>Media (+20) di Domare Animali</strong> per spostarlo verso un altro bersaglio entro gittata. Chiunque si trovi nell’Area d’Effetto subisce 1 @Condition[Blinded].</p>"
+            "description": "<p>Il Mago richiama corvi, o altri uccelli simili, contro i propri nemici. Lo stormo attacca con ferocia chiunque si trovi nell’Area d’Effetto e sia privo del Talento <em>Magia Arcana (Bestie)</em>, causando +7 Danni alla fine del Round. Lo stormo resta in gioco per la Durata e il Mago può effettuare una Prova <strong>Media (+20) di Domare Animali</strong> per spostarlo verso un altro bersaglio entro gittata. Chiunque si trovi nell’Area d’Effetto subisce 1 @Condition[Accecato].</p>"
         },
         {
             "id": "Corrosive Blood (Necromancy)",

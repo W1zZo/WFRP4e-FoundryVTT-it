@@ -39,7 +39,7 @@
 		{
 			"id": "Bestial",
 			"name": "Bestiale",
-			"description": "<p>Queste creature sono prive di parola o capacità di pensiero razionale. Hanno paura del fuoco e subiscono 1 @Condition[Broken] se ne vengono colpite. Si difendono usando solo Schivare. Se perdono più di metà delle proprie Ferite fuggono, a meno che non stiano proteggendo i propri cuccioli, vengano messe all’angolo o abbiano il Tratto Territoriale. In questi casi entrano in Furia (vedere pag. 190). Sono prive di punteggio Socialità.</p>"
+			"description": "<p>Queste creature sono prive di parola o capacità di pensiero razionale. Hanno paura del fuoco e subiscono 1 @Condition[Atterrito] se ne vengono colpite. Si difendono usando solo Schivare. Se perdono più di metà delle proprie Ferite fuggono, a meno che non stiano proteggendo i propri cuccioli, vengano messe all’angolo o abbiano il Tratto Territoriale. In questi casi entrano in Furia (vedere pag. 190). Sono prive di punteggio Socialità.</p>"
 		},
 		{
 			"id": "Big",
@@ -169,7 +169,7 @@
 		{
 			"id": "Frenzy",
 			"name": "Furia",
-			"description": "<p>Superando una Prova di Volontà, il Personaggio può caricarsi di rabbia, ululando, mordendo lo scudo o in altri modi. Se ha successo diviene soggetto a Furia.</p>\n<p>Mentre è in Furia</p><ul><li>il Personaggio diventa immune a tutti gli altri Tratti Psicologici e non fuggirà né si ritirerà per alcun motivo,</li><li>anzi dovrà sempre muoversi alla massima velocità per attaccare l’avversario più vicino.</li><li>In genere, le uniche Azioni che può compiere sono Prove di Abilità di Combattimento o Atletica, per raggiungerlo più in fretta.</li><li>Nel corso di ogni Round potrà compiere una Prova di Mischia gratuita, dato che sta attaccando senza risparmiarsi.</li><li>Infine, ottiene +1 Bonus Forza grazie a tanta ferocia.</li></ul>\n<p>Rimane in Furia finché tutti i nemici visibili non sono resi innocui o finché non subisce la Condizione <em>@Condition[Stunned]</em> o <em>@Condition[Unconscious]</em>. Al termine della Furia subisce 1 <em>@Condition[Fatigued]</em>.</p>"
+			"description": "<p>Superando una Prova di Volontà, il Personaggio può caricarsi di rabbia, ululando, mordendo lo scudo o in altri modi. Se ha successo diviene soggetto a Furia.</p>\n<p>Mentre è in Furia</p><ul><li>il Personaggio diventa immune a tutti gli altri Tratti Psicologici e non fuggirà né si ritirerà per alcun motivo,</li><li>anzi dovrà sempre muoversi alla massima velocità per attaccare l’avversario più vicino.</li><li>In genere, le uniche Azioni che può compiere sono Prove di Abilità di Combattimento o Atletica, per raggiungerlo più in fretta.</li><li>Nel corso di ogni Round potrà compiere una Prova di Mischia gratuita, dato che sta attaccando senza risparmiarsi.</li><li>Infine, ottiene +1 Bonus Forza grazie a tanta ferocia.</li></ul>\n<p>Rimane in Furia finché tutti i nemici visibili non sono resi innocui o finché non subisce la Condizione <em>@Condition[Stordito]</em> o <em>@Condition[Privo di Sensi]</em>. Al termine della Furia subisce 1 <em>@Condition[Affaticato]</em>.</p>"
 		},
 		{
 			"id": "Fury",
@@ -189,7 +189,7 @@
 		{
 			"id": "Hatred",
 			"name": "Odio (Bersaglio)",
-			"description": "<p>Il Personaggio è consumato dall’Odio verso il Bersaglio, di solito gruppo, come ‘Hochlander’, ‘Piovre di Palude’ o ‘Schiavisti’, al punto che non potrà mai interagirvi in modo pacifico.</p><p>Quando lo incontra deve superare una Prova di Psicologia per trattenersi. Se fallisce sarà soggetto all’Odio, e alla fine di ogni Round seguente può ritentare la Prova per porvi un freno. Gli effetti hanno termine appena tutti i Bersagli visibili sono morti o fuggiti, oppure se cade <em>@Condition[Unconscious]</em>.</p>\n<p>Mentre è vittima dell’Odio, il Personaggio è costretto ad aggredire il Bersaglio senza risparmiarsi.</p>\n<ul>\n<li>Ottiene +1 LS in tutte le Prove di combattimento contro di esso</li>\n<li>è immune a @Compendium[wfrp4e-core.psychologies.Ib2YQYChktDFN93y]{Paura} o @Compendium[wfrp4e-core.skills.I0yPc4PH5erWJLmu]{Intimidire} provocati da questi nemici, ma non al @Compendium[wfrp4e-core.psychologies.meMkLEwdJIDLxM0B]{Terrore}.</li></ul>"
+			"description": "<p>Il Personaggio è consumato dall’Odio verso il Bersaglio, di solito gruppo, come ‘Hochlander’, ‘Piovre di Palude’ o ‘Schiavisti’, al punto che non potrà mai interagirvi in modo pacifico.</p><p>Quando lo incontra deve superare una Prova di Psicologia per trattenersi. Se fallisce sarà soggetto all’Odio, e alla fine di ogni Round seguente può ritentare la Prova per porvi un freno. Gli effetti hanno termine appena tutti i Bersagli visibili sono morti o fuggiti, oppure se cade <em>@Condition[Privo di Sensi]</em>.</p>\n<p>Mentre è vittima dell’Odio, il Personaggio è costretto ad aggredire il Bersaglio senza risparmiarsi.</p>\n<ul>\n<li>Ottiene +1 LS in tutte le Prove di combattimento contro di esso</li>\n<li>è immune a @Compendium[wfrp4e-core.psychologies.Ib2YQYChktDFN93y]{Paura} o @Compendium[wfrp4e-core.skills.I0yPc4PH5erWJLmu]{Intimidire} provocati da questi nemici, ma non al @Compendium[wfrp4e-core.psychologies.meMkLEwdJIDLxM0B]{Terrore}.</li></ul>"
 		},
 		{
 			"id": "Horns (Feature)",
@@ -269,7 +269,7 @@
 		{
 			"id": "Prejudice",
 			"name": "Pregiudizio (Bersaglio)",
-			"description": "<p>Il Personaggio detesta il Bersaglio, di solito un gruppo, come ‘Ostlander’, ‘Elfi’ o ‘Maghi’. Quando lo incontra deve effettuare una Prova di Psicologia. Se la supera potrebbe accigliarsi, ma agirà in modo normale, subendo solo -10 alle Prove di Socialità relative.</p><p>Se fallisce cede ai propri Pregiudizi. Alla fine di ogni Round seguente potrà tentare una prova per controllarsi. Se non lo fa, gli effetti hanno termine appena tutti i Bersagli visibili se ne sono andati, oppure se il Personaggio è <em>@Condition[Stunned]</em>, <em>@Condition[Unconscious]</em> o soggetto a un altro Tratto Psicologico.</p>\n<p>&nbsp;</p>\n<p>Chi è vittima di Pregiudizio deve insultare il Bersaglio. Subito. Ad alta voce.</p>"
+			"description": "<p>Il Personaggio detesta il Bersaglio, di solito un gruppo, come ‘Ostlander’, ‘Elfi’ o ‘Maghi’. Quando lo incontra deve effettuare una Prova di Psicologia. Se la supera potrebbe accigliarsi, ma agirà in modo normale, subendo solo -10 alle Prove di Socialità relative.</p><p>Se fallisce cede ai propri Pregiudizi. Alla fine di ogni Round seguente potrà tentare una prova per controllarsi. Se non lo fa, gli effetti hanno termine appena tutti i Bersagli visibili se ne sono andati, oppure se il Personaggio è <em>@Condition[Stordito]</em>, <em>@Condition[Privo di Sensi]</em> o soggetto a un altro Tratto Psicologico.</p>\n<p>&nbsp;</p>\n<p>Chi è vittima di Pregiudizio deve insultare il Bersaglio. Subito. Ad alta voce.</p>"
 		},
 		{
 			"id": "Ranged (Range)",
@@ -339,7 +339,7 @@
 		{
 			"id": "Terror",
 			"name": "Terrificante (Grado)",
-			"description": "<p>Alcune creature sono talmente spaventose da provocare un profondo <em>Terrore</em> nei nemici. Chi ne incontra una deve effettuare una Prova di Freddezza.<ul><li>Se la supera non ci sarà alcun effetto</li><li>se fallisce subisce un numero di <em>@Condition[Broken]</em> pari al Grado di <em>Terrore</em> più il numero di LS sotto 0.</li></ul></p>\n<p>Dopo aver risolto questa Prova di Psicologia, la creatura causerà @Compendium[wfrp4e-core.psychologies.Ib2YQYChktDFN93y]{Paura} con Grado pari a quello di <em>Terrore</em>.</p>"
+			"description": "<p>Alcune creature sono talmente spaventose da provocare un profondo <em>Terrore</em> nei nemici. Chi ne incontra una deve effettuare una Prova di Freddezza.<ul><li>Se la supera non ci sarà alcun effetto</li><li>se fallisce subisce un numero di <em>@Condition[Atterrito]</em> pari al Grado di <em>Terrore</em> più il numero di LS sotto 0.</li></ul></p>\n<p>Dopo aver risolto questa Prova di Psicologia, la creatura causerà @Compendium[wfrp4e-core.psychologies.Ib2YQYChktDFN93y]{Paura} con Grado pari a quello di <em>Terrore</em>.</p>"
 		},
 		{
 			"id": "Tongue Attack (Range)",

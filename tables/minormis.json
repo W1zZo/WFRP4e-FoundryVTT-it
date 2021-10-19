@@ -14,7 +14,7 @@
     "range": [11, 15]
   }, {
     "name": "Cerume",
-    "description": "Le orecchie del Mago si otturano di cerume. Subisce 1 @Condition[Deafened], che non può essere rimosso finché qualcuno non le ripulisce con una Prova di Guarire.",
+    "description": "Le orecchie del Mago si otturano di cerume. Subisce 1 @Condition[Assordato], che non può essere rimosso finché qualcuno non le ripulisce con una Prova di Guarire.",
     "range": [16, 20]
   }, {
     "name": "Luce Stregata",
@@ -26,11 +26,11 @@
     "range": [26, 30]
   }, {
     "name": "Sanguinamento",
-    "description": "Il Mago perde sangue da naso e orecchie, subisce [[1d10]] @Condition[Bleeding].",
+    "description": "Il Mago perde sangue da naso e orecchie, subisce [[1d10]] @Condition[Sanguinante].",
     "range": [31, 35]
   }, {
     "name": "Tremito nell’Anima",
-    "description": "Il Mago cade @Condition[Prone].",
+    "description": "Il Mago cade @Condition[Prono].",
     "range": [36, 40]
   }, {
     "name": "Slacciare",
@@ -38,7 +38,7 @@
     "range": [41, 45]
   }, {
     "name": "Abiti in Fuga",
-    "description": "Gli abiti del Mago si animano di vita propria, causandogli 1 @Condition[Entangled] con Forza pari a [[1d10*5]].",
+    "description": "Gli abiti del Mago si animano di vita propria, causandogli 1 @Condition[Afferrato] con Forza pari a [[1d10*5]].",
     "range": [46, 50]
   }, {
     "name": "Maledizione della Temperanza",
@@ -46,15 +46,15 @@
     "range": [51, 55]
   }, {
     "name": "Anima Prosciugata",
-    "description": "Il Mago subisce 1 @Condition[Fatigued] che dura [[1d10]] ore.",
+    "description": "Il Mago subisce 1 @Condition[Affaticato] che dura [[1d10]] ore.",
     "range": [56, 60]
   }, {
     "name": "Distrazione",
-    "description": "Se il Mago è in combattimento diventa @Condition[Surprised]; altrimenti è incapace di concentrarsi per alcuni secondi, mentre il cuore gli batte a mille.",
+    "description": "Se il Mago è in combattimento diventa @Condition[Sorpreso]; altrimenti è incapace di concentrarsi per alcuni secondi, mentre il cuore gli batte a mille.",
     "range": [61, 65]
   }, {
     "name": "Visioni Sacrileghe",
-    "description": "Il Mago è colpito da visioni di atti profani. Subisce 1 @Condition[Blinded] e deve superare una Prova <b>Impegnativa (+0) di Freddezza</b> per non subirne un secondo.",
+    "description": "Il Mago è colpito da visioni di atti profani. Subisce 1 @Condition[Accecato] e deve superare una Prova <b>Impegnativa (+0) di Freddezza</b> per non subirne un secondo.",
     "range": [66, 70]
   }, {
     "name": "Lingua Allappata",
@@ -62,7 +62,7 @@
     "range": [71, 75]
   }, {
     "name": "L’Orrore!",
-    "description": "Il Mago deve superare una Prova <b>Ardua (-20) di Freddezza</b> o subire 1 @Condition[Broken].",
+    "description": "Il Mago deve superare una Prova <b>Ardua (-20) di Freddezza</b> o subire 1 @Condition[Atterrito].",
     "range": [76, 80]
   }, {
     "name": "Corruzione",
