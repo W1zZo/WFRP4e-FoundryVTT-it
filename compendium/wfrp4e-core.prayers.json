@@ -1,5 +1,11 @@
 {
     "label": "Preghiere",
+    "mapping": {
+        "range": {
+            "path": "data.range.value",
+            "converter": "range"
+        }
+    },
     "entries": [
         {
             "id": "Death Mask",
@@ -214,7 +220,7 @@
         {
             "id": "Stay Morr's Hand",
             "name": "Fermare la Mano di Morr",
-            "description": "<p>Il Benedetto sfiora gli occhi di un moribondo, chiedendo a Morr di guidarlo, ma di non portarlo via. Il bersaglio deve avere 0 Ferite ed essere consenziente. Per la durata del Miracolo, il bersaglio sarà @Condition[Privo di Sensi]{Privo di Sensi}, ma la sua condizione non potrà peggiorare, ignorerà malattie, veleni, ferite critiche e altri effetti. Il Miracolo avrà termine non appena saranno somministrate cure adeguate o l’estrema unzione. In quest’ultimo caso, che richiede circa 1 minuto, l’anima passerà per il Portale e il cadavere non potrà più essere usato per la Necromanzia.</p>"
+            "description": "<p>Il Benedetto sfiora gli occhi di un moribondo, chiedendo a Morr di guidarlo, ma di non portarlo via. Il bersaglio deve avere 0 Ferite ed essere consenziente. Per la durata del Miracolo, il bersaglio sarà @Condition[Privo di Sensi], ma la sua condizione non potrà peggiorare, ignorerà malattie, veleni, ferite critiche e altri effetti. Il Miracolo avrà termine non appena saranno somministrate cure adeguate o l’estrema unzione. In quest’ultimo caso, che richiede circa 1 minuto, l’anima passerà per il Portale e il cadavere non potrà più essere usato per la Necromanzia.</p>"
         },
         {
             "id": "Blessing of Breath",

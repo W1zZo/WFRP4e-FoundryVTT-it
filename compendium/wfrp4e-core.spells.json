@@ -1,5 +1,11 @@
 {
     "label": "Incantesimi",
+    "mapping": {
+        "range": {
+            "path": "data.range.value",
+            "converter": "range"
+        }
+    },
     "entries": [
         {
             "id": "The First Portent of Amul",

@@ -1,5 +1,11 @@
  {
 	"label": "Averi",
+	"mapping": {
+        "range": {
+            "path": "data.range.value",
+            "converter": "range"
+        }
+    },
 	"entries": [
 		{
 			"id": "Abacus",
