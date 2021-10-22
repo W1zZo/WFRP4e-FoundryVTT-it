@@ -4,6 +4,10 @@
         "range": {
             "path": "data.range.value",
             "converter": "range"
+        },
+        "duration": {
+            "path": "data.duration.value",
+            "converter": "duration"
         }
     },
     "entries": [
