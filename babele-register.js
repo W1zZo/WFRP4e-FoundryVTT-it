@@ -45,7 +45,23 @@ var durations = {
     "willpower bonus rounds+":"Bonus Volontà Round+",
     "willpower days":"Volontà Giorni",
     "willpower minutes":"Volontà Minuti"
-}
+};
+
+var lores = {
+    "beasts":"Bestie",
+    "daemonology":"Demonologia",
+    "death":"Morte",
+    "fire":"Fuoco",
+    "heavens":"Empireo",
+    "hedgecraft":"Soglia",
+    "life":"Vita",
+    "light":"Luce",
+    "metal":"Metallo",
+    "necromancy":"Necromanzia",
+    "petty":"Minore",
+    "shadow":"Ombre",
+    "witchcraft":"Stregoneria"
+};
 
 
 Hooks.on("init", () => {
@@ -59,11 +75,14 @@ Hooks.on("init", () => {
 
         Babele.get().registerConverters({
             "range": (range) => {
-				return ranges[range.toLowerCase()] ? ranges[range.toLowerCase()] : range;
-			},
+                return ranges[range.toLowerCase()] ? ranges[range.toLowerCase()] : range;
+            },
             "duration": (duration) => {
-				return durations[duration.toLowerCase()] ? durations[duration.toLowerCase()] : duration;
-			}
+                return durations[duration.toLowerCase()] ? durations[duration.toLowerCase()] : duration;
+            },
+            "lore": (lore) => {
+                return lores[lore.toLowerCase()] ? lores[lore.toLowerCase()] : lore;
+            }
         });
     }
 });
