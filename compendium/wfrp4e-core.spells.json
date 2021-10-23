@@ -1,13 +1,17 @@
 {
     "label": "Incantesimi",
     "mapping": {
+        "duration": {
+            "path": "data.duration.value",
+            "converter": "duration"
+        },
         "range": {
             "path": "data.range.value",
             "converter": "range"
         },
-        "duration": {
-            "path": "data.duration.value",
-            "converter": "duration"
+        "target": {
+            "path": "data.target.value",
+            "converter": "target"
         },
         "lore": {
             "path": "data.lore.value",

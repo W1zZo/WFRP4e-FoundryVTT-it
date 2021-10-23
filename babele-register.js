@@ -1,3 +1,19 @@
+var lores = {
+    "beasts":"Bestie",
+    "daemonology":"Demonologia",
+    "death":"Morte",
+    "fire":"Fuoco",
+    "heavens":"Empireo",
+    "hedgecraft":"Soglia",
+    "life":"Vita",
+    "light":"Luce",
+    "metal":"Metallo",
+    "necromancy":"Necromanzia",
+    "petty":"Minore",
+    "shadow":"Ombre",
+    "witchcraft":"Stregoneria"
+};
+
 var ranges = {
     "1 yard":"1 metro",
     "6 yards":"6 metri",
@@ -47,20 +63,23 @@ var durations = {
     "willpower minutes":"Volontà Minuti"
 };
 
-var lores = {
-    "beasts":"Bestie",
-    "daemonology":"Demonologia",
-    "death":"Morte",
-    "fire":"Fuoco",
-    "heavens":"Empireo",
-    "hedgecraft":"Soglia",
-    "life":"Vita",
-    "light":"Luce",
-    "metal":"Metallo",
-    "necromancy":"Necromanzia",
-    "petty":"Minore",
-    "shadow":"Ombre",
-    "witchcraft":"Stregoneria"
+var targets = {
+    "1 sailing vessel within line of sight":"1 nave in linea di vista",
+    "8 yards":"8 metri",
+    "a single location":"un singolo luogo",
+    "fellowship bonus":"Bonus Socialità",
+    "fellowship bonus allies":"Bonus Socialità alleati",
+    "fellowship bonus yards":"Bonus Socialità metri",
+    "fellowship yards":"Socialità metri",
+    "initative bonus yards":"Bonus Iniziativa metri",
+    "initiative bonus yards":"Bonus Iniziativa metri",
+    "intelligence bonus allies":"Bonus Intelligenza alleati",
+    "line of sight":"linea di vista",
+    "see description":"Vedi Descrizione",
+    "special":"Speciale",
+    "willpower bonus yards":"Bonus Volontà metri",
+    "willpower bonus yards across maximum":"diametro massimo pari al Bonus Volontà in metri",
+    "you":"Sé Stessi"
 };
 
 
@@ -74,14 +93,17 @@ Hooks.on("init", () => {
         });
 
         Babele.get().registerConverters({
-            "range": (range) => {
-                return ranges[range.toLowerCase()] ? ranges[range.toLowerCase()] : range;
+            "lore": (lore) => {
+                return lores[lore.toLowerCase()] ? lores[lore.toLowerCase()] : lore;
             },
             "duration": (duration) => {
                 return durations[duration.toLowerCase()] ? durations[duration.toLowerCase()] : duration;
             },
-            "lore": (lore) => {
-                return lores[lore.toLowerCase()] ? lores[lore.toLowerCase()] : lore;
+            "range": (range) => {
+                return ranges[range.toLowerCase()] ? ranges[range.toLowerCase()] : range;
+            },
+            "target": (target) => {
+                return targets[target.toLowerCase()] ? targets[target.toLowerCase()] : target;
             }
         });
     }
