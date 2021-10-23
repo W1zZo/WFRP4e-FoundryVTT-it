@@ -16,6 +16,10 @@
         "lore": {
             "path": "data.lore.value",
             "converter": "lore"
+        },
+        "overcast": {
+            "path": "data.overcast.label",
+            "converter": "overcast"
         }
     },
     "entries": [

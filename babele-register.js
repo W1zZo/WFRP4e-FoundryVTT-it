@@ -82,6 +82,29 @@ var targets = {
     "you":"Sé Stessi"
 };
 
+var overcasts = {
+    "blinded":"Accecato",
+    "corruption points":"Punti Corruzione",
+    "critical wounds":"Ferite Critiche",
+    "diseases cured":"Malattie Curate",
+    "effects":"Effetti",
+    "entangled":"Afferrato",
+    "extra damage":"Danno Extra",
+    "fear":"Paura",
+    "fortune points":"Punti Fortuna",
+    "locks":"Chiusure",
+    "people":"Persone",
+    "range (yds.)":"Gittata (m)",
+    "reanimations":"Rianimazioni",
+    "skeletons":"Scheletri",
+    "targets":"Bersagli",
+    "test penalty":"Penalità Prova",
+    "yards":"Metri",
+    "yards moved":"Metri Movimento",
+    "yards pushed":"Metri Spinta",
+    "yards traveled":"Metri Percorsi"
+};
+
 
 Hooks.on("init", () => {
     if(typeof Babele !== "undefined") {
@@ -104,6 +127,9 @@ Hooks.on("init", () => {
             },
             "target": (target) => {
                 return targets[target.toLowerCase()] ? targets[target.toLowerCase()] : target;
+            },
+            "overcast": (overcast) => {
+                return overcasts[overcast.toLowerCase()] ? overcasts[overcast.toLowerCase()] : overcast;
             }
         });
     }

@@ -12,6 +12,10 @@
         "target": {
             "path": "data.target.value",
             "converter": "target"
+        },
+        "overcast": {
+            "path": "data.overcast.label",
+            "converter": "overcast"
         }
     },
     "entries": [
