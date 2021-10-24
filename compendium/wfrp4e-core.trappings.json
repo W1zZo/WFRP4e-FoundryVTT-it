@@ -4,6 +4,10 @@
         "range": {
             "path": "data.range.value",
             "converter": "range"
+        },
+        "effects": {
+            "path": "effects",
+            "converter": "effects"
         }
     },
 	"entries": [

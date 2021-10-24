@@ -1,5 +1,11 @@
 {
 	"label": "Malattie",
+	"mapping": {
+        "effects": {
+            "path": "effects",
+            "converter": "effects"
+        }
+    },
 	"entries": [
 		{
 			"id": "Blood Rot",

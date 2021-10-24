@@ -1,5 +1,11 @@
 {
 	"label": "Critici",
+	"mapping": {
+        "effects": {
+            "path": "effects",
+            "converter": "effects"
+        }
+    },
 	"entries": [
 		{
 			"id": "Arterial Damage",

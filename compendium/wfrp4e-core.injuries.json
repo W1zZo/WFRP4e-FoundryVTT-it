@@ -1,5 +1,11 @@
 {
 	"label": "Ferite",
+	"mapping": {
+        "effects": {
+            "path": "effects",
+            "converter": "effects"
+        }
+    },
 	"entries": [
 		{
 			"id": "Amputated Arm",

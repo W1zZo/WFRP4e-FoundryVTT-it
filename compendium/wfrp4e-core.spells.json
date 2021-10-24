@@ -20,6 +20,10 @@
         "overcast": {
             "path": "data.overcast.label",
             "converter": "overcast"
+        },
+        "effects": {
+            "path": "effects",
+            "converter": "effects"
         }
     },
     "entries": [

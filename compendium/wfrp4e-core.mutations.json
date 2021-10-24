@@ -1,5 +1,11 @@
 {
 	"label": "Mutazioni",
+	"mapping": {
+        "effects": {
+            "path": "effects",
+            "converter": "effects"
+        }
+    },
 	"entries": [
 		{
 			"id": "Animalistic Legs",
