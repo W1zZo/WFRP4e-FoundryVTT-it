@@ -1,5 +1,5 @@
 import { 
-    lores, ranges, durations, targets, overcasts, effects 
+    lores, ranges, durations, targets, overcasts, effects, symptoms
 } from "./translations.js"
 
 Hooks.on("init", () => {
@@ -46,5 +46,7 @@ Hooks.on("init", () => {
                 return effectsArray;
             }
         });
+
+        game.wfrp4e.config.symptoms = symptoms;
     }
 });

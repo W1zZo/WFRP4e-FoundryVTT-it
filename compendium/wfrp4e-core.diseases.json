@@ -1,6 +1,25 @@
 {
 	"label": "Malattie",
 	"mapping": {
+		"contraction": "data.contraction.value",
+		"symptoms": "data.symptoms.value",
+		"permanent": "data.contraction.value",
+		"duration_unit": {
+            "path": "data.duration.unit",
+            "converter": "duration"
+        },
+		"incubation_unit": {
+            "path": "data.incubation.unit",
+            "converter": "duration"
+        },
+		"duration_value": {
+            "path": "data.duration.value",
+            "converter": "duration"
+        },
+		"incubation_value": {
+            "path": "data.incubation.value",
+            "converter": "duration"
+        },
         "effects": {
             "path": "effects",
             "converter": "effects"
@@ -10,47 +29,74 @@
 		{
 			"id": "Blood Rot",
 			"name": "Sangue Marcio",
-			"description": "<p>Il sangue del Personaggio è infetto e il suo cuore invia il male in ogni angolo del corpo. La cura comune sono le sanguisughe, ma alcuni dottori preferiscono incisioni vicino al collo per far spurgare il sangue contaminato, mentre ne fanno bere grandi quantità per compensare. Che piaccia o no, senza una trattamento il Sangue Marcio è fatale e porta a una visita alla Gilda degli Afflitti e al Culto di Morr.</p>"
+			"description": "<p>Il sangue del Personaggio è infetto e il suo cuore invia il male in ogni angolo del corpo. La cura comune sono le sanguisughe, ma alcuni dottori preferiscono incisioni vicino al collo per far spurgare il sangue contaminato, mentre ne fanno bere grandi quantità per compensare. Che piaccia o no, senza una trattamento il Sangue Marcio è fatale e porta a una visita alla Gilda degli Afflitti e al Culto di Morr.</p>",
+			"contraction": "Conseguenza di altre malattie o di Ferite Critiche",
+			"symptoms": "Consunzione, Febbre (Severa), Malessere",
+			"permanent": ""
 		},
 		{
 			"id": "Festering Wound",
 			"name": "Ferite Purulente",
-			"description": "<p>Tagli e ferite infette sono comuni, quindi vengono tramandati numerosi rimedi popolari: unguenti prodotti da foglie e letame, pelli di rospo e piume di colomba, oppure strofinarle con terra benedetta da Sigmar. Molti medici ridono di tali idee e preferiscono cure più scientifiche, come mescolare la bile di un bue nero con tre cucchiai di urina del paziente e mezzo di sale marino. Il composto viene poi strofinato nella ferita purulenta. Le urla del paziente non sono che la prova della sua efficacia.</p>"
+			"description": "<p>Tagli e ferite infette sono comuni, quindi vengono tramandati numerosi rimedi popolari: unguenti prodotti da foglie e letame, pelli di rospo e piume di colomba, oppure strofinarle con terra benedetta da Sigmar. Molti medici ridono di tali idee e preferiscono cure più scientifiche, come mescolare la bile di un bue nero con tre cucchiai di urina del paziente e mezzo di sale marino. Il composto viene poi strofinato nella ferita purulenta. Le urla del paziente non sono che la prova della sua efficacia.</p>",
+			"contraction": "Fallire una Prova Facile (+40) di Tempra dopo aver combattuto con una creatura con il Tratto Infettiva. Può anche essere causato da una Infezione Minore.",
+			"symptoms": "Febbre, Lesioni, Malessere, Persistenza (Impegnativa)",
+			"permanent": ""
 		},
 		{
 			"id": "Galloping Trots",
 			"name": "Dissenteria Fulminante",
-			"description": "<p>Si dice che solo la cucina Halfling non provochi la Dissenteria, un male molto comune nell’Impero data la scarsa cura nella preparazione del cibo. Chi ha sofferto della ‘Vendetta di Rumster’ a causa delle torte a poco prezzo in vendita ad Altdorf avrebbe da ridire… se riuscisse a lasciare la latrina per più di un minuto.</p>"
+			"description": "<p>Si dice che solo la cucina Halfling non provochi la Dissenteria, un male molto comune nell’Impero data la scarsa cura nella preparazione del cibo. Chi ha sofferto della ‘Vendetta di Rumster’ a causa delle torte a poco prezzo in vendita ad Altdorf avrebbe da ridire… se riuscisse a lasciare la latrina per più di un minuto.</p>",
+			"contraction": "Fallire una Prova Facile (+40) di Tempra dopo aver mangiato alimenti infetti.",
+			"symptoms": "Diarrea (Moderata), Malessere, Nausea",
+			"permanent": ""
 		},
 		{
 			"id": "Itching Pox",
 			"name": "Vaiolo Pruriginoso",
-			"description": "<p>In molte città e villaggi, ogni anno appaiono focolai di questo male. La malattia provoca bolle pruriginose su tutto il corpo, ma è relativamente leggera e non ha gravi complicazioni, quindi se ne preoccupano solo genitori e nobili vanitosi. È talmente comune che molti templi di Shallya hanno a disposizione scorte di pomata bianca per ridurre il prurito.</p>"
+			"description": "<p>In molte città e villaggi, ogni anno appaiono focolai di questo male. La malattia provoca bolle pruriginose su tutto il corpo, ma è relativamente leggera e non ha gravi complicazioni, quindi se ne preoccupano solo genitori e nobili vanitosi. È talmente comune che molti templi di Shallya hanno a disposizione scorte di pomata bianca per ridurre il prurito.</p>",
+			"contraction": "Fallire una Prova Media (+20) di Tempra dopo essere entrati in contatto con un individuo infetto, o dopo che questi ha tossito o starnutito nelle vicinanze (massimo una Prova per ora).",
+			"symptoms": "Vescicole, Tosse e Starnuti",
+			"permanent": "Una volta contratta la malattia si diventa immuni."
 		},
 		{
 			"id": "Minor Infection",
 			"name": "Infezione Minore",
-			"description": "<p>Le infezioni minori – di solito ferite che non guariscono accompagnate da leggera febbre e rigonfiamenti– sono molto comuni. Molte si risolvono da sole, per cui pochi se ne preoccupano, finché non è troppo tardi e il Portale di Morr si apre.</p>"
+			"description": "<p>Le infezioni minori – di solito ferite che non guariscono accompagnate da leggera febbre e rigonfiamenti– sono molto comuni. Molte si risolvono da sole, per cui pochi se ne preoccupano, finché non è troppo tardi e il Portale di Morr si apre.</p>",
+			"contraction": "Fallire una Prova Molto Facile (+60) di Tempra alla fine di un combattimento dove si è subita una Ferita Critica.",
+			"symptoms": "Lesioni, Malessere, Persistenza (Facile)",
+			"permanent": ""
 		},
 		{
 			"id": "Packer's Pox",
 			"name": "Vaiolo del Conciatore",
-			"description": "<p>Questa infezione – comune tra cacciatori, conciatori e mercanti – è diffusa dal bestiame infetto, comprese le loro pelli o lana, e dai cadaveri della vittime. Si presenta come una brutta eruzione cutanea, che si trasforma in bolle rosa su tutto il corpo, specie sul torace e sulle braccia. Non è la peggior malattia dell’Impero, ma dura a lungo e, a volte, può risultare fatale.</p>"
+			"description": "<p>Questa infezione – comune tra cacciatori, conciatori e mercanti – è diffusa dal bestiame infetto, comprese le loro pelli o lana, e dai cadaveri della vittime. Si presenta come una brutta eruzione cutanea, che si trasforma in bolle rosa su tutto il corpo, specie sul torace e sulle braccia. Non è la peggior malattia dell’Impero, ma dura a lungo e, a volte, può risultare fatale.</p>",
+			"contraction": "Fallire una Prova Facile (+40) di Tempra dopo un contatto con animali, pelli o cadaveri infetti.",
+			"symptoms": "Persistenza (Impegnativa), Vescicole",
+			"permanent": ""
 		},
 		{
 			"id": "Ratte Fever",
 			"name": "Febbre dei Ratti",
-			"description": "<p>Causata da roditori infetti, la temuta Febbre dei Ratti causa infiammazioni e ulcere, poi febbre e spasmi. È raramente fatale, ma assai debilitante e ci vuole molto tempo a guarire, per cui le vittime sono pronte a tutto per alleviarne i sintomi. I rimedi variano dalle flagellazioni ad Altdorf – che pare diano effettivo sollievo dalle ulcere – allo spalmarsi di formaggio di capra mescolato a peperoni del ghiaccio kisleviti a Talabheim. Nelle città più grandi viene detta Febbre da Ripieno, a testimonianza di quanti usino ratti nel ripieno al posto di carni più costose.</p>"
+			"description": "<p>Causata da roditori infetti, la temuta Febbre dei Ratti causa infiammazioni e ulcere, poi febbre e spasmi. È raramente fatale, ma assai debilitante e ci vuole molto tempo a guarire, per cui le vittime sono pronte a tutto per alleviarne i sintomi. I rimedi variano dalle flagellazioni ad Altdorf – che pare diano effettivo sollievo dalle ulcere – allo spalmarsi di formaggio di capra mescolato a peperoni del ghiaccio kisleviti a Talabheim. Nelle città più grandi viene detta Febbre da Ripieno, a testimonianza di quanti usino ratti nel ripieno al posto di carni più costose.</p>",
+			"contraction": "Fallire una Prova Media (+20) di Tempra dopo essere stato ferito da un roditore (compresi gli Skaven) con il Tratto Infettivo, oppure una Prova Facile (+40) di Tempra dopo aver ingerito cibo infetto.",
+			"symptoms": "Convulsioni, Febbre, Lesioni, Malessere, Persistenza (Media), Vescicole",
+			"permanent": ""
 		},
 		{
 			"id": "The Black Plague",
 			"name": "Peste Nera",
-			"description": "<p>Gli storici sostengono che secoli fa i ratti sciamarono per l’Impero e la Peste Nera li seguì, uccidendo nove persone ogni dieci. Ancora oggi ci sono focolai inspiegabili di questo orrendo male. Le monache bianche del Culto di Shallya hanno giurato di fare tutto il possibile per sradicare questo male e, grazie ad antiche leggi, creano cordoni sanitari – marcati con corda bianca – per assicurarsi che nessuno possa andare o venire dalle zone di quarantena finché il focolaio non è contenuto e i cadaveri correttamente smaltiti.</p>"
+			"description": "<p>Gli storici sostengono che secoli fa i ratti sciamarono per l’Impero e la Peste Nera li seguì, uccidendo nove persone ogni dieci. Ancora oggi ci sono focolai inspiegabili di questo orrendo male. Le monache bianche del Culto di Shallya hanno giurato di fare tutto il possibile per sradicare questo male e, grazie ad antiche leggi, creano cordoni sanitari – marcati con corda bianca – per assicurarsi che nessuno possa andare o venire dalle zone di quarantena finché il focolaio non è contenuto e i cadaveri correttamente smaltiti.</p>",
+			"contraction": "Effettuare (e fallire) una Prova Media (+20) di Tempra per ogni ora trascorsa in un’area dove sono presenti pulci infette o in caso di contatto con liquidi infetti.",
+			"symptoms": "Bubboni, Cancrena, Consunzione (Moderata), Febbre, Malessere.",
+			"permanent": ""
 		},
 		{
 			"id": "The Bloody Flux",
 			"name": "Diarrea Rossa",
-			"description": "<p>La Diarrea Rossa è un problema persistente nell’Impero e considerato da molti la punizione divina per gli empi. Il paziente è costretto a evacuare in modo incontinente. Il male è endemico negli Eserciti Provinciali, dove pare faccia più vittime del nemico. Le cure più comuni includono mangiare del sanguinaccio per reintegrare gli umori persi, applicare dei ‘tappi’ o spalmare del grasso sulle parti interessate per ridurre il fastidio.</p>"
+			"description": "<p>La Diarrea Rossa è un problema persistente nell’Impero e considerato da molti la punizione divina per gli empi. Il paziente è costretto a evacuare in modo incontinente. Il male è endemico negli Eserciti Provinciali, dove pare faccia più vittime del nemico. Le cure più comuni includono mangiare del sanguinaccio per reintegrare gli umori persi, applicare dei ‘tappi’ o spalmare del grasso sulle parti interessate per ridurre il fastidio.</p>",
+			"contraction": "Fallire una Prova Facile (+40) di Tempra dopo aver ingoiato alimenti o liquidi infetti.",
+			"symptoms": "Diarrea (Severa), Febbre, Malessere, Nausea, Persistenza (Impegnativa)",
+			"permanent": ""
 		}
 	]
 }

@@ -38,16 +38,20 @@ const durations = {
     "1 hour":"1 Ora",
     "1 round":"1 Round",
     "6 rounds":"6 Round",
+    "1d10 days, or instantly if developed from another symptom.":"1d10 giorni o istantanea se legata ad altri sintomi.",
     "agility bonus rounds":"Bonus Agilità Round",
+    "days":"giorni",
     "fellowship bonus hours":"Bonus Socialità Ore",
     "fellowship bonus hours (special)":"Bonus Socialità Ore (Speciale)",
     "fellowship bonus minutes":"Bonus Socialità Minuti",
     "fellowship bonus rounds":"Bonus Socialità Round",
+    "hours":"ore",
     "initiative bonus minutes":"Bonus Iniziativa Minuti",
     "initiative bonus rounds":"Bonus Iniziativa Round",
     "instant":"Istantanea",
     "intelligence bonus minutes":"Bonus Intelligenza Minuti",
     "intelligence minutes":"Intelligenza Minuti",
+    "minutes":"minuti",
     "special":"Speciale",
     "target's intelligence bonus rounds":"Bonus Intelligenza del Bersaglio Round",
     "toughness bonus hours":"Bonus Resistenza Ore",
@@ -206,7 +210,7 @@ const effects = {
     "Corrosive Blood (Metal)": "Sangue Corrosivo (Metallo)",
     "Corrosive Blood (Necromancy)": "Sangue Corrosivo (Necromanzia)",
     "Corrosive Blood (Shadow)": "Sangue Corrosivo (Ombre)",
-    "Coughs and Sneezes": "Tosse e Raffreddore",
+    "Coughs and Sneezes": "Tosse e Starnuti",
     "Cracked Ribs": "Costole Incrinate",
     "Crawling Skin": "Pelle d'Oca",
     "Criminal": "Criminale",
@@ -475,7 +479,24 @@ const effects = {
     "Winded": "Fiato Mozzo",
     "Wisdom of the Owl": "Saggezza del Gufo",
     "Worried Jitters": "Tremiti Nervosi",
-    "Wounded": "Ferito"
+    "Wounded": "Lesioni"
 };
 
-export { lores, ranges, durations, targets, overcasts, effects };
+const symptoms = {
+    "blight": "Consunzione",
+    "buboes": "Bubboni",
+    "convulsions": "Convulsioni",
+    "coughsAndSneezes": "Tosse e Starnuti",
+    "fever": "Febbre",
+    "flux": "Diarrea",
+    "gangrene": "Cancrena",
+    "lingering": "Persistenza",
+    "malaise": "Malessere",
+    "nausea": "Nausea",
+    "pox": "Vescicole",
+    "wounded": "Lesioni",
+    "delirium": "Delirium",
+    "swelling": "Swelling"
+}
+
+export { lores, ranges, durations, targets, overcasts, effects, symptoms };
