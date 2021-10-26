@@ -39,20 +39,10 @@ Hooks.on("init", () => {
             },
             "effects": (effectsArray) => {
                 effectsArray.forEach(function(effect, index) {
-                    this[index].label = effects[effect.label.toLowerCase()] 
-                    ? effects[effect.label.toLowerCase()] 
+                    this[index].label = effects[effect.label] 
+                    ? effects[effect.label] 
                     : effect.label
                 }, effectsArray);
-                return effectsArray;
-            },
-            "effects_talents": (effectsArray) => {
-                console.log("EFFECTS PRE: ", effectsArray);
-                effectsArray.forEach(function(effect, index) {
-                    this[index].label = effects[effect.label.toLowerCase()] 
-                    ? effects[effect.label.toLowerCase()] 
-                    : effect.label
-                }, effectsArray);
-                console.log("EFFECTS POST: ", effectsArray);
                 return effectsArray;
             }
         });

@@ -4,7 +4,7 @@
         "tests": "data.tests.value",
         "effects": {
             "path": "effects",
-            "converter": "effects_talents"
+            "converter": "effects"
         }
     },
     "entries": [
