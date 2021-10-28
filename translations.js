@@ -497,6 +497,17 @@ const symptoms = {
     "wounded": "Lesioni",
     "delirium": "Delirium",
     "swelling": "Swelling"
-}
+};
 
-export { lores, ranges, durations, targets, overcasts, effects, symptoms };
+const classes = {
+    "academics":"Accademici",
+    "burgher":"Gente di Città",
+    "courtier":"Cortigiani",
+    "peasants":"Gente di Campagna",
+    "ranger":"Viandanti",
+    "riverfolk":"Gente di Fiume",
+    "rogues":"Furfanti",
+    "warrior":"Guerrieri"
+};
+
+export { lores, ranges, durations, targets, overcasts, effects, symptoms, classes };

@@ -1,5 +1,5 @@
 import { 
-    lores, ranges, durations, targets, overcasts, effects, symptoms
+    lores, ranges, durations, targets, overcasts, effects, symptoms, classes
 } from "./translations.js"
 
 Hooks.on("init", () => {
@@ -37,6 +37,11 @@ Hooks.on("init", () => {
                 ? overcasts[overcast.toLowerCase()] 
                 : overcast;
             },
+            "class": (className) => {
+                return classes[className.toLowerCase()] 
+                ? classes[className.toLowerCase()] 
+                : className;
+            },
             "effects": (effectsArray) => {
                 effectsArray.forEach(function(effect, index) {
                     this[index].label = effects[effect.label] 
@@ -46,7 +51,8 @@ Hooks.on("init", () => {
                 return effectsArray;
             }
         });
-
+        console.log("SINTOMI: ", game.wfrp4e.config.symptoms);
         game.wfrp4e.config.symptoms = symptoms;
+        console.log("SINTOMI AGGIORNATI: ", game.wfrp4e.config.symptoms);
     }
 });

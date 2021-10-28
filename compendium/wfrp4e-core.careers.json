@@ -2,13 +2,19 @@
     "label": "Carriere",
     "mapping": {
         "skills": "data.skills",
-        "talents": "data.talents"
+        "talents": "data.talents",
+        "careergroup": "data.careergroup.value",
+        "trappings": "data.trappings",
+        "class": {
+            "path": "data.class.value",
+            "converter": "class"
+        }
     },
     "entries": [
         {
             "id": "Clerk",
             "name": "Impiegato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.uqdZBoLtuLv0bHVV]{Townsman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.uqdZBoLtuLv0bHVV]{Borghese}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -24,12 +30,17 @@
                 "Insignificante",
                 "Etichetta (Servitori)",
                 "Vigoroso"
+            ],
+            "careergroup": "Borghese",
+            "trappings": [
+                "Alloggio",
+                "Stivali Robusti"
             ]
         },
         {
             "id": "Apothecary",
             "name": "Apotecario",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FW2VeYf0vUUFbVE6]{Apothecary}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FW2VeYf0vUUFbVE6]{Apotecario}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Guarire",
@@ -51,12 +62,17 @@
                 "Affarista",
                 "Etichetta (Gilde)",
                 "Farmacista"
+            ],
+            "careergroup": "Apotecario",
+            "trappings": [
+                "Licenza della Gilda",
+                "Arnesi del Mestiere"
             ]
         },
         {
             "id": "Brigand",
             "name": "Brigante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mOljt11dxZENtmoR]{Outlaw}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mOljt11dxZENtmoR]{Fuorilegge}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -72,12 +88,19 @@
                 "Criminale",
                 "Girovago",
                 "Fuga!"
+            ],
+            "careergroup": "Fuorilegge",
+            "trappings": [
+                "Giaciglio",
+                "Arma a Una Mano",
+                "Farsetto di Cuoio",
+                "Acciarino"
             ]
         },
         {
             "id": "Body Snatcher",
             "name": "Profanatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.W2Ovj3ec7eqZUuuv]{Grave Robber}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.W2Ovj3ec7eqZUuuv]{Tombarolo}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Freddezza",
@@ -93,12 +116,19 @@
                 "Criminale",
                 "Fuga!",
                 "Spalle Forti"
+            ],
+            "careergroup": "Tombarolo",
+            "trappings": [
+                "Piede di Porco",
+                "Carretto a Mano",
+                "Mantello con Cappuccio",
+                "Tela Cerata"
             ]
         },
         {
             "id": "Master Wizard",
             "name": "Maestro Mago",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.m6WuSnrrW7QllX63]{Wizard}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.m6WuSnrrW7QllX63]{Mago}</p>",
             "skills": [
                 "Incanalare (qualsiasi Colore)",
                 "Schivare",
@@ -124,12 +154,18 @@
                 "Dizione Istintiva",
                 "Senso Magico",
                 "Minaccioso"
+            ],
+            "careergroup": "Mago",
+            "trappings": [
+                "Apprendista",
+                "Cavallo da Guerra Leggero",
+                "Oggetto Magico"
             ]
         },
         {
             "id": "Watch Sergeant",
             "name": "Sergente della Milizia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Tt8DCpewqkmBq02v]{Watchman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Tt8DCpewqkmBq02v]{Miliziano}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -155,12 +191,18 @@
                 "Etichetta (Soldati)",
                 "Temerario (Criminali)",
                 "Fiutare Pericolo"
+            ],
+            "careergroup": "Miliziano",
+            "trappings": [
+                "Pettorale di Piastre",
+                "Elmo",
+                "Insegna di Grado"
             ]
         },
         {
             "id": "Landsman",
             "name": "Recluta del Mare",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.wu6aG1XPdzvpiLcR]{Seaman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.wu6aG1XPdzvpiLcR]{Marinaio}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -176,12 +218,18 @@
                 "Passo Lungo (Coste)",
                 "Spalle Forti",
                 "Nuotatore"
+            ],
+            "careergroup": "Marinaio",
+            "trappings": [
+                "Secchio",
+                "Spazzola",
+                "Spazzolone"
             ]
         },
         {
             "id": "Herb Gatherer",
             "name": "Raccoglitore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MYzcmrUrSKLmshwu]{Herbalist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MYzcmrUrSKLmshwu]{Erborista}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -197,12 +245,18 @@
                 "Senso dell’Orientamento",
                 "Girovago",
                 "Passo Lungo (qualsiasi)"
+            ],
+            "careergroup": "Erborista",
+            "trappings": [
+                "Stivali",
+                "Mantello",
+                "Borsa con un Assortimento di Erbe"
             ]
         },
         {
             "id": "Priest Captain",
             "name": "Prete Capitano",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.KG5lVereynSwOkxa]{Warrior Priest}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.KG5lVereynSwOkxa]{Prete Guerriero}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -230,12 +284,16 @@
                 "Assalto Furioso",
                 "Odio Sacro",
                 "Condottiero"
+            ],
+            "careergroup": "Prete Guerriero",
+            "trappings": [
+                "Reliquia Religiosa"
             ]
         },
         {
             "id": "Guildmaster",
-            "name": "Maestro della Gilda",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AlriWm9KtKnDAMw1]{Artisan}</p>",
+            "name": "Mastro della Gilda",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AlriWm9KtKnDAMw1]{Artigiano}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -263,12 +321,17 @@
                 "Magnum Opus",
                 "Oratore",
                 "Cospiratore"
+            ],
+            "careergroup": "Artigiano",
+            "trappings": [
+                "Gilda", 
+                "Abiti di Qualità"
             ]
         },
         {
             "id": "Trader",
             "name": "Venditore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FLqzxS5gxKflqDUk]{Merchant}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FLqzxS5gxKflqDUk]{Mercante}</p>",
             "skills": [
                 "Domare Animali",
                 "Corrompere",
@@ -284,12 +347,19 @@
                 "Affarista",
                 "Leggere/Scrivere",
                 "Cortese"
+            ],
+            "careergroup": "Mercante",
+            "trappings": [
+                "Abaco",
+                "Mulo e Carretto",
+                "Telone Cerato",
+                "3d10 scellini"
             ]
         },
         {
             "id": "Beggar King",
             "name": "Re dei Mendicanti",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.djOQaw7iRfec9UEj]{Beggar}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.djOQaw7iRfec9UEj]{Mendicante}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -317,12 +387,17 @@
                 "Temerario (Milizia)",
                 "Capoccia",
                 "Cortese"
+            ],
+            "careergroup": "Mendicante",
+            "trappings": [
+                "Covo",
+                "Grosso Gruppo di Seguaci Mendicanti"
             ]
         },
         {
             "id": "Hitman",
             "name": "Sicario",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mlLVNBKIUnonqka2]{Protagonist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mlLVNBKIUnonqka2]{Bravaccio}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -348,12 +423,19 @@
                 "Disarmare",
                 "Tiratore",
                 "Inesorabile"
+            ],
+            "careergroup": "Bravaccio",
+            "trappings": [
+                "Cappa",
+                "Garrota",
+                "Veleno",
+                "Coltelli da Lancio"
             ]
         },
         {
             "id": "Village Elder",
             "name": "Anziano del Villaggio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.btrs5XFk2OQsCtqj]{Villager}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.btrs5XFk2OQsCtqj]{Villico}</p>",
             "skills": [
                 "Domare Animali",
                 "Atletica",
@@ -381,12 +463,16 @@
                 "Dita Agili",
                 "Oratore",
                 "Genio (locale)"
+            ],
+            "careergroup": "Villico",
+            "trappings": [
+                "Il Rispetto del Villaggio"
             ]
         },
         {
             "id": "Master Pedlar",
             "name": "Mastro Venditore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.jAqbxNrHW35xiuOn]{Pedlar}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.jAqbxNrHW35xiuOn]{Venditore Ambulante}</p>",
             "skills": [
                 "Affascinare",
                 "Tempra",
@@ -412,12 +498,17 @@
                 "Vigoroso",
                 "Preparato",
                 "Saldo"
+            ],
+            "careergroup": "Venditore Ambulante",
+            "trappings": [
+                "Carretto",
+                "Beni per almeno 2d10 corone"
             ]
         },
         {
             "id": "Mine Foreman",
             "name": "Capomastro",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lWT9EiFL6a09w0h9]{Miner}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lWT9EiFL6a09w0h9]{Minatore}</p>",
             "skills": [
                 "Freddezza",
                 "Tempra",
@@ -445,12 +536,17 @@
                 "Risoluto",
                 "Intascare",
                 "Leggere/Scrivere"
+            ],
+            "careergroup": "Minatore",
+            "trappings": [
+                "Squadra di Minatori",
+                "Occorrente per Scrivere"
             ]
         },
         {
             "id": "Student Engineer",
             "name": "Studente d'Ingegneria",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.c2n86bcUngGrHyO4]{Engineer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.c2n86bcUngGrHyO4]{Ingegnere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -466,12 +562,17 @@
                 "Fuciliere",
                 "Leggere/Scrivere",
                 "Trafficone"
+            ],
+            "careergroup": "Ingegnere",
+            "trappings": [
+                "Libro (Ingegneria)", 
+                "Martello e Chiodi"
             ]
         },
         {
             "id": "Agent",
             "name": "Agente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.dWLxT0zRnDFbwTKZ]{Spy}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.dWLxT0zRnDFbwTKZ]{Spia}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -497,12 +598,19 @@
                 "Lingua di Gatto",
                 "Maestro del Travestimento",
                 "Imitatore"
+            ],
+            "careergroup": "Spia",
+            "trappings": [
+                "Libro (Crittografia)",
+                "Circolo di Spie e Informatori",
+                "Piccionaia con Piccioni Viaggiatori",
+                "Penna e Inchiostro"
             ]
         },
         {
             "id": "Toll Keeper",
             "name": "Gabelliere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8zowZP5UEKTM9ehU]{Road warden}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8zowZP5UEKTM9ehU]{Guardastrada}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -518,6 +626,11 @@
                 "Intascare",
                 "Tiratore",
                 "Numismatico"
+            ],
+            "careergroup": "",
+            "trappings": [
+                "Balestra con 10 Dardi",
+                "Giaco di Cuoio"
             ]
         },
         {
@@ -545,12 +658,17 @@
                 "Vista Notturna",
                 "Fiutare Pericolo",
                 "Viaggiatore Esperto"
+            ],
+            "careergroup": "Scout",
+            "trappings": [
+                "Arco con 10 Frecce",
+                "Corpetto di Maglia"
             ]
         },
         {
             "id": "Maestro",
             "name": "Maestro",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.rjUjdQrWHWazjkRC]{Artist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.rjUjdQrWHWazjkRC]{Artista}</p>",
             "skills": [
                 "Arte (qualsiasi)",
                 "Freddezza",
@@ -578,12 +696,18 @@
                 "Capoccia",
                 "Magnum Opus",
                 "Leggere/Scrivere"
+            ],
+            "careergroup": "Artista",
+            "trappings": [
+                "Laboratorio Grande (Artista)",
+                "Biblioteca (Arte)",
+                "3 Apprendisti"
             ]
         },
         {
             "id": "Master Thief",
             "name": "Mastro Ladro",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TgcyR0ZdG6bMOK9o]{Thief}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TgcyR0ZdG6bMOK9o]{Ladro}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -609,12 +733,16 @@
                 "Dita Agili",
                 "Farsi da Parte",
                 "Esperto in Trappole"
+            ],
+            "careergroup": "Ladro",
+            "trappings": [
+                "Balestrino con 10 Dardi"
             ]
         },
         {
             "id": "Mystic",
             "name": "Mistico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.M9NiEgE7qaCXmskM]{Mystic}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.M9NiEgE7qaCXmskM]{Mistico}</p>",
             "skills": [
                 "Affascinare",
                 "Intrattenere (Leggere la Sorte)",
@@ -636,12 +764,16 @@
                 "Visioni Mistiche",
                 "Sesto Senso",
                 "Preparato"
+            ],
+            "careergroup": "Mistico",
+            "trappings": [
+                "Serie di Amuleti"
             ]
         },
         {
             "id": "Racketeer",
             "name": "Malavitoso",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yGZN7bMjbGH7kCMK]{Racketeer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yGZN7bMjbGH7kCMK]{Malavitoso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -663,12 +795,18 @@
                 "Gioco Sporco",
                 "Colpo Stordente",
                 "Guerriero Nato"
+            ],
+            "careergroup": "Malavitoso",
+            "trappings": [
+                "Arma a Una Mano",
+                "Cappello",
+                "Corpetto di Maglia"
             ]
         },
         {
             "id": "Swindler",
             "name": "Truffatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.JTKAh4qCOCcPa2yN]{Charlatan}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.JTKAh4qCOCcPa2yN]{Ciarlatano}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -684,12 +822,19 @@
                 "Baro (Dadi)",
                 "Etichetta (qualsiasi)",
                 "Fortunato"
+            ],
+            "careergroup": "Ciarlatano",
+            "trappings": [
+                "Zaino",
+                "2 set di Abiti",
+                "Mazzo di Carte",
+                "Dadi"
             ]
         },
         {
             "id": "Menial",
             "name": "Domestico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.g12yhcU74qsRKxXX]{Servant}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.g12yhcU74qsRKxXX]{Servitore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -705,12 +850,16 @@
                 "Spalle Forti",
                 "Risoluto",
                 "Vigoroso"
+            ],
+            "careergroup": "Servitore",
+            "trappings": [
+                "Scopa"
             ]
         },
         {
             "id": "Bounty Hunter General",
             "name": "Generale dei Cacciatori di Taglie",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bsQN8B1mtZhl2WRu]{Bounty Hunter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bsQN8B1mtZhl2WRu]{Cacciatore di Taglie}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -738,12 +887,18 @@
                 "Temerario (Prede)",
                 "Gagliardo",
                 "Mira Sicura"
+            ],
+            "careergroup": "Cacciatore di Taglie",
+            "trappings": [
+                "Cavallo da Tiro e Carro",
+                "Corpetto di Maglia",
+                "4 paia di Ceppi"
             ]
         },
         {
             "id": "Priest Sergeant",
             "name": "Prete Sergente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.KG5lVereynSwOkxa]{Warrior Priest}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.KG5lVereynSwOkxa]{Prete Guerriero}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -769,12 +924,16 @@
                 "Visioni Mistiche",
                 "Anima Pura",
                 "Cuore Impavido"
+            ],
+            "careergroup": "Prete Guerriero",
+            "trappings": [
+                "Cavallo da Guerra Leggero con Sella e Briglie"
             ]
         },
         {
             "id": "River Elder",
             "name": "Anziana del Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9D0o0fbqscpgk0RK]{Riverwoman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9D0o0fbqscpgk0RK]{Donna del Fiume}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -802,12 +961,16 @@
                 "Oratore",
                 "Acuto",
                 "Risoluto"
+            ],
+            "careergroup": "Donna del Fiume",
+            "trappings": [
+                "Capanna o Barcone da Fiume"
             ]
         },
         {
             "id": "Hedge Witch",
-            "name": "Fattucchiere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.pxxGfn6ze45dwg4Y]{Hedge Witch}</p>",
+            "name": "Fattucchiere della Soglia",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.pxxGfn6ze45dwg4Y]{Fattucchiere}</p>",
             "skills": [
                 "Incanalare",
                 "Tempra",
@@ -829,12 +992,18 @@
                 "Affinità Animale",
                 "Magia Arcana (Sapere della Soglia)",
                 "Sesto Senso"
+            ],
+            "careergroup": "Fattucchiere",
+            "trappings": [
+                "Antitossina", 
+                "Unguento Guaritore", 
+                "Arnesi del Mestiere (Erborista)"
             ]
         },
         {
             "id": "Broker",
             "name": "Mediatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lbbddfm36XMb8SYg]{Fence}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lbbddfm36XMb8SYg]{Ricettatore}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -850,12 +1019,17 @@
                 "Baro (Carte)",
                 "Affarista",
                 "Amichevole"
+            ],
+            "careergroup": "Ricettatore",
+            "trappings": [
+                "Arma a Una Mano",
+                "Beni Rubati per 3d10 scellini"
             ]
         },
         {
             "id": "Physician",
             "name": "Medico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Ora8bmvHERjYWEQn]{Physician}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Ora8bmvHERjYWEQn]{Medico}</p>",
             "skills": [
                 "Corrompere",
                 "Freddezza",
@@ -877,12 +1051,18 @@
                 "Criminale",
                 "Etichetta (Gilde)",
                 "Chirurgia"
+            ],
+            "careergroup": "Medico",
+            "trappings": [
+                "Arnesi del Mestiere (Medicina)",
+                "Libro (Medicina)",
+                "Licenza della Gilda"
             ]
         },
         {
             "id": "Merchant Prince",
             "name": "Principe Mercante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FLqzxS5gxKflqDUk]{Merchant}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FLqzxS5gxKflqDUk]{Mercante}</p>",
             "skills": [
                 "Domare Animali",
                 "Corrompere",
@@ -910,12 +1090,20 @@
                 "Fortunato",
                 "Cospiratore",
                 "Ricco"
+            ],
+            "careergroup": "Mercante",
+            "trappings": [
+                "2 Barconi o 4 Carri",
+                "Vasta Tenuta",
+                "2 Magazzini",
+                "1000 corone",
+                "Abiti di Qualità"
             ]
         },
         {
             "id": "Courier-Captain",
             "name": "Capitano-Corriere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8pk2uCvAMUAXWbcP]{Messenger}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8pk2uCvAMUAXWbcP]{Messaggero}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -943,12 +1131,18 @@
                 "Odio (Eretici)",
                 "Capoccia",
                 "Saldo"
+            ],
+            "careergroup": "Messaggero",
+            "trappings": [
+                "Corrieri",
+                "Corpetto di Maglia",
+                "Occorrente per Scrivere"
             ]
         },
         {
             "id": "Sergeant",
             "name": "Sergente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.kT0ZI0LoHmIvhjPk]{Soldier}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.kT0ZI0LoHmIvhjPk]{Soldato}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -974,12 +1168,17 @@
                 "Lottatore da Vicolo",
                 "Nervi d’Acciaio",
                 "Condottiero"
+            ],
+            "careergroup": "Soldato",
+            "trappings": [
+                "Insegna di Grado",
+                "Unità di Truppe"
             ]
         },
         {
             "id": "Road Sergeant",
             "name": "Sergente Guardastrada",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8zowZP5UEKTM9ehU]{Road warden}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8zowZP5UEKTM9ehU]{Guardastrada}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -1005,12 +1204,19 @@
                 "Temerario (Fuorilegge)",
                 "Odio (qualsiasi)",
                 "Fiutare Pericolo"
+            ],
+            "careergroup": "",
+            "trappings": [
+                "Squadra di Guardastrada",
+                "Pistola con 10 Colpi",
+                "Scudo",
+                "Insegna di Grado"
             ]
         },
         {
             "id": "Outlaw",
             "name": "Fuorilegge",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mOljt11dxZENtmoR]{Outlaw}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mOljt11dxZENtmoR]{Fuorilegge}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -1032,12 +1238,18 @@
                 "Tiratore",
                 "Colpo Stordente",
                 "Esperto in Trappole"
+            ],
+            "careergroup": "Fuorilegge",
+            "trappings": [
+                "Arco con 10 Frecce",
+                "Scudo",
+                "Tenda"
             ]
         },
         {
             "id": "Dock Master",
             "name": "Capitano di Porto",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lDvbNLRfv9MsNyf6]{Stevedore}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lDvbNLRfv9MsNyf6]{Scaricatore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -1065,12 +1277,17 @@
                 "Minaccioso",
                 "Numismatico",
                 "Leggere/Scrivere"
+            ],
+            "careergroup": "Scaricatore",
+            "trappings": [
+                "Ufficio e Personale",
+                "Occorrente per Scrivere"
             ]
         },
         {
             "id": "Bailiff",
             "name": "Balivo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.WbjmnVlyJ9VP2nt4]{Bailiff}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.WbjmnVlyJ9VP2nt4]{Balivo}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -1092,12 +1309,17 @@
                 "Criminale",
                 "Oratore",
                 "Colpo Stordente"
+            ],
+            "careergroup": "Balivo",
+            "trappings": [
+                "Giaco di Cuoio",
+                "3 Esattori"
             ]
         },
         {
             "id": "Court Physician",
             "name": "Medico di Corte",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Ora8bmvHERjYWEQn]{Physician}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Ora8bmvHERjYWEQn]{Medico}</p>",
             "skills": [
                 "Corrompere",
                 "Freddezza",
@@ -1125,12 +1347,17 @@
                 "Dita Agili",
                 "Genio (Medicina)",
                 "Risoluto"
+            ],
+            "careergroup": "Medico",
+            "trappings": [
+                "Abito da Corte",
+                "Lettera d’Incarico"
             ]
         },
         {
             "id": "Guard",
             "name": "Guardia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guard}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guardia}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -1152,12 +1379,19 @@
                 "Ribaltamento",
                 "Esperto con lo Scudo",
                 "Colpo Poderoso"
+            ],
+            "careergroup": "Guardia",
+            "trappings": [
+                "Arco con 10 Frecce",
+                "Corpetto di Maglia",
+                "Scudo",
+                "Lancia"
             ]
         },
         {
             "id": "Master Artisan",
-            "name": "Maestro Artigiano",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AlriWm9KtKnDAMw1]{Artisan}</p>",
+            "name": "Mastro Artigiano",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AlriWm9KtKnDAMw1]{Artigiano}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -1183,12 +1417,17 @@
                 "Mastro Artigiano (qualsiasi)",
                 "Leggere/Scrivere",
                 "Trafficone"
+            ],
+            "careergroup": "Artigiano",
+            "trappings": [
+                "Apprendista", 
+                "Laboratorio"
             ]
         },
         {
             "id": "Apprentice Artisan",
             "name": "Apprendista",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AlriWm9KtKnDAMw1]{Artisan}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AlriWm9KtKnDAMw1]{Artigiano}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -1204,12 +1443,16 @@
                 "Artigiano (qualsiasi)",
                 "Spalle Forti",
                 "Forzuto"
+            ],
+            "careergroup": "Artigiano",
+            "trappings": [
+                "Penna d’Oca o Pennello o Scalpello"
             ]
         },
         {
             "id": "Riverwise",
             "name": "Saggia del Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9D0o0fbqscpgk0RK]{Riverwoman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9D0o0fbqscpgk0RK]{Donna del Fiume}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -1235,12 +1478,18 @@
                 "Cuore Impavido",
                 "Tenace",
                 "Forzuto"
+            ],
+            "careergroup": "Donna del Fiume",
+            "trappings": [
+                "Barca a Remi",
+                "Lanterna Schermata",
+                "Olio"
             ]
         },
         {
             "id": "Chartered Engineer",
             "name": "Dottore in Ingegneria",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.c2n86bcUngGrHyO4]{Engineer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.c2n86bcUngGrHyO4]{Ingegnere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -1268,12 +1517,19 @@
                 "Ricarica Rapida",
                 "Genio (Ingegneria)",
                 "Nervi d’Acciaio"
+            ],
+            "careergroup": "Ingegnere",
+            "trappings": [
+                "Licenza della Gilda",
+                "Biblioteca (Ingegneria)",
+                "Laboratorio Grande (Ingegneria)",
+                "Arnesi del Mestiere di Qualità (Ingegneria)"
             ]
         },
         {
             "id": "Sleuth",
             "name": "Segugio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.DAHJ4cu3WiGCdakE]{Investigator}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.DAHJ4cu3WiGCdakE]{Investigatore}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -1289,12 +1545,19 @@
                 "Insignificante",
                 "Leggere/Scrivere",
                 "Acuto"
+            ],
+            "careergroup": "Investigatore",
+            "trappings": [
+                "Diario",
+                "Lanterna",
+                "Olio",
+                "Penna e Inchiostro"
             ]
         },
         {
             "id": "Prowler",
             "name": "Ladruncolo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TgcyR0ZdG6bMOK9o]{Thief}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TgcyR0ZdG6bMOK9o]{Ladro}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -1310,12 +1573,18 @@
                 "Criminale",
                 "Fuga!",
                 "Colpo Stordente"
+            ],
+            "careergroup": "Ladro",
+            "trappings": [
+                "Piede di Porco",
+                "Farsetto di Cuoio",
+                "Sacco"
             ]
         },
         {
             "id": "Priest",
             "name": "Prete",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GNwQFkVKUs0JM6U5]{Priest}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GNwQFkVKUs0JM6U5]{Prete}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -1337,12 +1606,17 @@
                 "Topo di Biblioteca",
                 "Etichetta (Fedeli)",
                 "Invocazione (qualsiasi)"
+            ],
+            "careergroup": "Prete",
+            "trappings": [
+                "Libro (Religione)",
+                "Vesti Cerimoniali"
             ]
         },
         {
             "id": "Warlock",
             "name": "Stregone",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.5ITpDJoRHlIgbE0g]{Witch}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.5ITpDJoRHlIgbE0g]{Strega}</p>",
             "skills": [
                 "Incanalare",
                 "Freddezza",
@@ -1370,12 +1644,17 @@
                 "Fortunato",
                 "Risoluto",
                 "Saldo"
+            ],
+            "careergroup": "Strega",
+            "trappings": [
+                "Paramenti",
+                "Teschio"
             ]
         },
         {
             "id": "Procurer",
             "name": "Traffichino",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MY4aFbQL5T9znCUd]{Bawd}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MY4aFbQL5T9znCUd]{Ruffiano}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -1401,12 +1680,16 @@
                 "Intascare",
                 "Etichetta (qualsiasi)",
                 "Cortese"
+            ],
+            "careergroup": "Ruffiano",
+            "trappings": [
+                "Fiasca di Liquore"
             ]
         },
         {
             "id": "Scion",
             "name": "Erede",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.CMIowWLOafHKAhnB]{Noble}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.CMIowWLOafHKAhnB]{Nobile}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -1422,12 +1705,19 @@
                 "Fortunato",
                 "Sangue Blu",
                 "Leggere/Scrivere"
+            ],
+            "careergroup": "Nobile",
+            "trappings": [
+                "Abito da Corte",
+                "Fioretto o Specchietto",
+                "Gioielli del valore di 3d10 corone",
+                "Servitore Personale"
             ]
         },
         {
             "id": "Burgomeister",
             "name": "Borgomastro",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.uqdZBoLtuLv0bHVV]{Townsman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.uqdZBoLtuLv0bHVV]{Borghese}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -1455,12 +1745,19 @@
                 "Abile Oratore",
                 "Cospiratore",
                 "Cortese"
+            ],
+            "careergroup": "Borghese",
+            "trappings": [
+                "Catena Cerimoniale",
+                "Carrozza e Domestico",
+                "Abiti di Qualità",
+                "Grande Casa con Giardino e Servitori"
             ]
         },
         {
             "id": "Watch Recruit",
             "name": "Recluta della Milizia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Tt8DCpewqkmBq02v]{Watchman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Tt8DCpewqkmBq02v]{Miliziano}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -1476,12 +1773,18 @@
                 "Gagliardo",
                 "Colpo Stordente",
                 "Tenace"
+            ],
+            "careergroup": "Miliziano",
+            "trappings": [
+                "Arma a Una Mano",
+                "Giaco di Cuoio",
+                "Uniforme"
             ]
         },
         {
             "id": "Foreman",
             "name": "Caposquadra",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lDvbNLRfv9MsNyf6]{Stevedore}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lDvbNLRfv9MsNyf6]{Scaricatore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -1507,12 +1810,17 @@
                 "Intascare",
                 "Etichetta (Criminali)",
                 "Oratore"
+            ],
+            "careergroup": "Scaricatore",
+            "trappings": [
+                "Banda di Scaricatori",
+                "Fischietto"
             ]
         },
         {
             "id": "Wyrd",
             "name": "Indovina",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.5ITpDJoRHlIgbE0g]{Witch}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.5ITpDJoRHlIgbE0g]{Strega}</p>",
             "skills": [
                 "Incanalare",
                 "Freddezza",
@@ -1538,12 +1846,18 @@
                 "Mani Veloci",
                 "Spaventoso",
                 "Senso Magico"
+            ],
+            "careergroup": "Strega",
+            "trappings": [
+                "Zaino",
+                "Mantello con Molte Tasche",
+                "Portafortuna"
             ]
         },
         {
             "id": "Riverwarden",
             "name": "Guardafiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.EBpCBitHuWElKf3D]{Riverwarden}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.EBpCBitHuWElKf3D]{Guardafiume}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -1565,12 +1879,19 @@
                 "Fuciliere",
                 "Pescatore",
                 "Viaggiatore Esperto"
+            ],
+            "careergroup": "Guardafiume",
+            "trappings": [
+                "Lanterna",
+                "Olio",
+                "Pistola con 10 Colpi",
+                "Scudo"
             ]
         },
         {
             "id": "Hunter",
             "name": "Cacciatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.2RxWvPZCKW2ShY5a]{Hunter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.2RxWvPZCKW2ShY5a]{Cacciatore}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -1592,6 +1913,10 @@
                 "Tiro Rapido",
                 "Occhio del Cacciatore",
                 "Tiratore"
+            ],
+            "careergroup": "Cacciatore",
+            "trappings": [
+                "Arco con 10 Frecce"
             ]
         },
         {
@@ -1613,12 +1938,19 @@
                 "Girovago",
                 "Acuto",
                 "Passo Lungo (qualsiasi)"
+            ],
+            "careergroup": "Scout",
+            "trappings": [
+                "Arma a Una Mano",
+                "Giaco di Cuoio",
+                "Stivali e Mantello Robusti",
+                "Fune"
             ]
         },
         {
             "id": "Duelmaster",
             "name": "Maestro di Duello",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.RNcsFphKVYohTrS9]{Duellist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.RNcsFphKVYohTrS9]{Duellante}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -1644,12 +1976,19 @@
                 "Disarmare",
                 "Stile a Doppia Arma",
                 "Contrattacco"
+            ],
+            "careergroup": "Duellante",
+            "trappings": [
+                "Stocco di Qualità",
+                "Arma a Una Mano",
+                "Fidato Secondo",
+                "2 Spade di Legno da Allenamento"
             ]
         },
         {
             "id": "Envoy",
             "name": "Legato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.B0zxjP3KbZag5Y79]{Envoy}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.B0zxjP3KbZag5Y79]{Legato}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -1671,12 +2010,17 @@
                 "Lingua di Gatto",
                 "Etichetta (qualsiasi)",
                 "Viaggiatore Esperto"
+            ],
+            "careergroup": "Legato",
+            "trappings": [
+                "Penna e Inchiostro",
+                "10 fogli di pergamena"
             ]
         },
         {
             "id": "Warden",
             "name": "Gastaldo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.XUrZJ3f1xtarPihy]{Warden}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.XUrZJ3f1xtarPihy]{Gastaldo}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare Animali",
@@ -1698,12 +2042,18 @@
                 "Etichetta (Servitori)",
                 "Passo Lungo (qualsiasi)",
                 "Girovago"
+            ],
+            "careergroup": "Gastaldo",
+            "trappings": [
+                "Arma a Una Mano o Arco con 10 Frecce",
+                "Cavallo da Galoppo con Sella e Briglie",
+                "Giaco di Cuoio"
             ]
         },
         {
             "id": "Knight of the Inner Circle",
             "name": "Cavaliere della Cerchia Interna",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.n2VdkCPNNxdupjeQ]{Knight}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.n2VdkCPNNxdupjeQ]{Cavaliere}</p>",
             "skills": [
                 "Atletica",
                 "Domare Animali",
@@ -1731,12 +2081,18 @@
                 "Ispiratore",
                 "Volontà di Ferro",
                 "Colpo Crudele"
+            ],
+            "careergroup": "Cavaliere",
+            "trappings": [
+                "Grande Elmo piumato",
+                "Scudiero",
+                "Grande Unità di Cavalieri (o Molte Piccole Unità)"
             ]
         },
         {
             "id": "Messenger",
             "name": "Messaggero",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8pk2uCvAMUAXWbcP]{Messenger}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8pk2uCvAMUAXWbcP]{Messaggero}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -1758,12 +2114,18 @@
                 "Criminale",
                 "Senso dell’Orientamento",
                 "Viaggiatore Esperto"
+            ],
+            "careergroup": "Messaggero",
+            "trappings": [
+                "Arma a Una Mano",
+                "Giaco di Cuoio",
+                "Cavallo da Galoppo con Sella e Briglie"
             ]
         },
         {
             "id": "Inquisitor",
             "name": "Inquisitore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.3A56eFnkIYFmbRL1]{Witch Hunter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.3A56eFnkIYFmbRL1]{Cacciatore di Streghe}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -1789,12 +2151,17 @@
                 "Fiutare Pericolo",
                 "Inesorabile",
                 "Risoluto"
+            ],
+            "careergroup": "Cacciatore di Streghe",
+            "trappings": [
+                "Abiti di Qualità",
+                "Interrogatore Subordinato"
             ]
         },
         {
             "id": "Bawd",
             "name": "Ruffiano",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MY4aFbQL5T9znCUd]{Bawd}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MY4aFbQL5T9znCUd]{Ruffiano}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -1816,12 +2183,17 @@
                 "Beone",
                 "Criminale",
                 "Resistente (Malattie)"
+            ],
+            "careergroup": "Ruffiano",
+            "trappings": [
+                "Dose di Radice Stramba",
+                "Abiti di Qualità"
             ]
         },
         {
             "id": "Shipsword",
             "name": "Spada Nautica",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.EBpCBitHuWElKf3D]{Riverwarden}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.EBpCBitHuWElKf3D]{Guardafiume}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -1847,12 +2219,18 @@
                 "Odio (qualsiasi)",
                 "Timoniere",
                 "Gambe da Marinaio"
+            ],
+            "careergroup": "Guardafiume",
+            "trappings": [
+                "Rampino",
+                "Elmetto",
+                "Corpetto di Maglia"
             ]
         },
         {
             "id": "Tomb Robber",
             "name": "Ladro di Tombe",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.W2Ovj3ec7eqZUuuv]{Grave Robber}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.W2Ovj3ec7eqZUuuv]{Tombarolo}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Freddezza",
@@ -1878,12 +2256,20 @@
                 "Colpo Poderoso",
                 "Tenace",
                 "Topo di Fogna"
+            ],
+            "careergroup": "Tombarolo",
+            "trappings": [
+                "Arma a Una Mano (Piccozza)",
+                "Cavallo e Carretto",
+                "Giaco di Cuoio",
+                "Corda",
+                "Arnesi del Mestiere (Ladro)"
             ]
         },
         {
             "id": "Interrogator",
             "name": "Interrogatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.3A56eFnkIYFmbRL1]{Witch Hunter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.3A56eFnkIYFmbRL1]{Cacciatore di Streghe}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -1899,12 +2285,17 @@
                 "Minaccioso",
                 "Leggere/Scrivere",
                 "Determinato"
+            ],
+            "careergroup": "Cacciatore di Streghe",
+            "trappings": [
+                "Arma a Una Mano",
+                "Strumenti di Tortura"
             ]
         },
         {
             "id": "Soldier",
             "name": "Soldato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.kT0ZI0LoHmIvhjPk]{Soldier}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.kT0ZI0LoHmIvhjPk]{Soldato}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -1926,12 +2317,18 @@
                 "Etichetta (Soldati)",
                 "Ricarica Rapida",
                 "Esperto con lo Scudo"
+            ],
+            "careergroup": "Soldato",
+            "trappings": [
+                "Pettorale di Piastre",
+                "Elmetto",
+                "Arma (qualsiasi)"
             ]
         },
         {
             "id": "Knight",
             "name": "Cavaliere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.n2VdkCPNNxdupjeQ]{Knight}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.n2VdkCPNNxdupjeQ]{Cavaliere}</p>",
             "skills": [
                 "Atletica",
                 "Domare Animali",
@@ -1953,12 +2350,20 @@
                 "Viaggiatore Esperto",
                 "Esperto con lo Scudo",
                 "Colpo Poderoso"
+            ],
+            "careergroup": "Cavaliere",
+            "trappings": [
+                "Destriero con Sella e Briglie",
+                "Arma da Mischia (qualsiasi)",
+                "Lancia da Cavaliere",
+                "Armatura di Piastre",
+                "Elmo"
             ]
         },
         {
             "id": "Squire",
             "name": "Scudiero",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.n2VdkCPNNxdupjeQ]{Knight}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.n2VdkCPNNxdupjeQ]{Cavaliere}</p>",
             "skills": [
                 "Atletica",
                 "Domare Animali",
@@ -1974,12 +2379,20 @@
                 "Nato in Sella",
                 "Vigoroso",
                 "Guerriero Nato"
+            ],
+            "careergroup": "Cavaliere",
+            "trappings": [
+                " Giaco di Cuoio",
+                "Corpetto di Maglia",
+                "Cavallo da Galoppo con Sella e Briglie",
+                "Scudo",
+                "Arnesi del Mestiere (Maniscalco)"
             ]
         },
         {
             "id": "Route Master",
             "name": "Mastro delle Strade",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.BnA8KJuCw16zwOVC]{Coachman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.BnA8KJuCw16zwOVC]{Cocchiere}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -2007,12 +2420,17 @@
                 "Tiratore",
                 "Senso dell’Orientamento",
                 "Ricarica Rapida"
+            ],
+            "careergroup": "Cocchiere",
+            "trappings": [
+                "Flotta di Carrozze e Cavalli",
+                "Mappe"
             ]
         },
         {
             "id": "Counsellor",
             "name": "Precettore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.J8ejrXE0zWMjNsZd]{Advisor}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.J8ejrXE0zWMjNsZd]{Consigliere}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -2038,12 +2456,17 @@
                 "Corruttore",
                 "Beone",
                 "Lingua di Gatto"
+            ],
+            "careergroup": "Consigliere",
+            "trappings": [
+                "Abiti di Qualità",
+                "Attendente"
             ]
         },
         {
             "id": "First Knight",
             "name": "Primo Cavaliere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.n2VdkCPNNxdupjeQ]{Knight}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.n2VdkCPNNxdupjeQ]{Cavaliere}</p>",
             "skills": [
                 "Atletica",
                 "Domare Animali",
@@ -2069,12 +2492,17 @@
                 "Cuore Impavido",
                 "Nervi d’Acciaio",
                 "Condottiero"
+            ],
+            "careergroup": "Cavaliere",
+            "trappings": [
+                "Bardatura",
+                "Piccola Unità di Cavalieri"
             ]
         },
         {
             "id": "Postilion",
             "name": "Postiglione",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.BnA8KJuCw16zwOVC]{Coachman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.BnA8KJuCw16zwOVC]{Cocchiere}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -2090,12 +2518,17 @@
                 "Viaggiatore Esperto",
                 "Volteggio in Sella",
                 "Tenace"
+            ],
+            "careergroup": "Cocchiere",
+            "trappings": [
+                "Cappotto e Guanti Caldi",
+                "Frusta"
             ]
         },
         {
             "id": "Noble",
             "name": "Nobile",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.CMIowWLOafHKAhnB]{Noble}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.CMIowWLOafHKAhnB]{Nobile}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -2117,12 +2550,20 @@
                 "Corruttore",
                 "Beone",
                 "Cortese"
+            ],
+            "careergroup": "Nobile",
+            "trappings": [
+                "4 Servitori del Casato",
+                "Abito da Corte di Qualità",
+                "Abito da Corte",
+                "Cavallo da Galoppo con Sella e Briglia o Carrozza",
+                "Daga Mancina o Mantello di Qualità. Gioielli del valore di 50 corone"
             ]
         },
         {
             "id": "Town Councilor",
             "name": "Consigliere Cittadino",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.uqdZBoLtuLv0bHVV]{Townsman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.uqdZBoLtuLv0bHVV]{Borghese}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -2148,12 +2589,17 @@
                 "Oratore",
                 "Leggere/Scrivere",
                 "Solidale"
+            ],
+            "careergroup": "Borghese",
+            "trappings": [
+                "Carrozza e Cocchiere",
+                "Casa in Città"
             ]
         },
         {
             "id": "Huntsmaster",
             "name": "Capocaccia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.2RxWvPZCKW2ShY5a]{Hunter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.2RxWvPZCKW2ShY5a]{Cacciatore}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -2181,12 +2627,17 @@
                 "Robusto",
                 "Cecchino",
                 "Mira Sicura"
+            ],
+            "careergroup": "Cacciatore",
+            "trappings": [
+                "Cavallo da Galoppo con Sella e Briglie",
+                "Canile di Cani da Caccia"
             ]
         },
         {
             "id": "Master Fence",
             "name": "Mastro Ricettatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lbbddfm36XMb8SYg]{Fence}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lbbddfm36XMb8SYg]{Ricettatore}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -2212,12 +2663,16 @@
                 "Colpo Stordente",
                 "Cortese",
                 "Genio Matematico"
+            ],
+            "careergroup": "Ricettatore",
+            "trappings": [
+                "Banco di Pegni"
             ]
         },
         {
             "id": "Hustler",
             "name": "Magnaccia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MY4aFbQL5T9znCUd]{Bawd}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MY4aFbQL5T9znCUd]{Ruffiano}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -2233,12 +2688,16 @@
                 "Randagio",
                 "Blaterare",
                 "Amichevole"
+            ],
+            "careergroup": "Ruffiano",
+            "trappings": [
+                "Banda di Traffichini"
             ]
         },
         {
             "id": "Charlatan",
             "name": "Ciarlatano",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.JTKAh4qCOCcPa2yN]{Charlatan}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.JTKAh4qCOCcPa2yN]{Ciarlatano}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -2260,12 +2719,19 @@
                 "Criminale",
                 "Mani Veloci",
                 "Identità Segreta"
+            ],
+            "careergroup": "Ciarlatano",
+            "trappings": [
+                "1 Documento Falso",
+                "2 set di Abiti di Qualità",
+                "Selezione di Polveri e Acqua Colorata",
+                "Selezione di Gingilli e Amuleti"
             ]
         },
         {
             "id": "Assassin",
             "name": "Assassino",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mlLVNBKIUnonqka2]{Protagonist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mlLVNBKIUnonqka2]{Bravaccio}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -2293,12 +2759,17 @@
                 "Ambidestro",
                 "Assalto Furioso",
                 "Colpo Crudele"
+            ],
+            "careergroup": "Bravaccio",
+            "trappings": [
+                "Balestra con 10 Dardi",
+                "Arnesi da Camuffamento"
             ]
         },
         {
             "id": "Master Pilot",
             "name": "Mastro Timoniere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.LaTDWvLySPKGojiW]{Huffer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.LaTDWvLySPKGojiW]{Nocchiere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Pettegolezzo",
@@ -2326,12 +2797,17 @@
                 "Acuto",
                 "Nuotatore",
                 "Tenace"
+            ],
+            "careergroup": "Nocchiere",
+            "trappings": [
+                "Mozzo",
+                "Piccolo Barcone da Fiume"
             ]
         },
         {
             "id": "Professor",
             "name": "Professore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.cIBJfaY9DKJh5ZEM]{Scholar}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.cIBJfaY9DKJh5ZEM]{Studioso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Intrattenere (Cantastorie)",
@@ -2359,12 +2835,16 @@
                 "Abile Oratore",
                 "Genio (qualsiasi)",
                 "Acuto"
+            ],
+            "careergroup": "Studioso",
+            "trappings": [
+                "Studio"
             ]
         },
         {
             "id": "Engineer",
             "name": "Ingegnere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.c2n86bcUngGrHyO4]{Engineer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.c2n86bcUngGrHyO4]{Ingegnere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -2386,12 +2866,17 @@
                 "Etichetta (Gilde)",
                 "Tiratore",
                 "Senso dell’Orientamento"
+            ],
+            "careergroup": "Ingegnere",
+            "trappings": [
+                "Licenza della Gilda",
+                "Arnesi del Mestiere"
             ]
         },
         {
             "id": "Bounty Hunter",
             "name": "Cacciatore di Taglie",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bsQN8B1mtZhl2WRu]{Bounty Hunter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bsQN8B1mtZhl2WRu]{Cacciatore di Taglie}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -2413,12 +2898,20 @@
                 "Inesorabile",
                 "Viaggiatore Esperto",
                 "Spalle Forti"
+            ],
+            "careergroup": "Cacciatore di Taglie",
+            "trappings": [
+                "Balestra con 10 Dardi",
+                "Elmetto di Cuoio",
+                "Ceppi",
+                "Rete",
+                "Mandati di Cattura"
             ]
         },
         {
             "id": "Wizard",
             "name": "Mago",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.m6WuSnrrW7QllX63]{Wizard}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.m6WuSnrrW7QllX63]{Mago}</p>",
             "skills": [
                 "Incanalare (qualsiasi Colore)",
                 "Schivare",
@@ -2440,12 +2933,16 @@
                 "Percepire Artefatti",
                 "Mani Veloci",
                 "Sesto Senso"
+            ],
+            "careergroup": "Mago",
+            "trappings": [
+                "Licenza di Mago"
             ]
         },
         {
             "id": "Thief",
             "name": "Ladro",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TgcyR0ZdG6bMOK9o]{Thief}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TgcyR0ZdG6bMOK9o]{Ladro}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -2467,12 +2964,17 @@
                 "Etichetta (Criminali)",
                 "Mani Veloci",
                 "Ombra"
+            ],
+            "careergroup": "Ladro",
+            "trappings": [
+                "Arnesi del Mestiere (Ladro)",
+                "Fune"
             ]
         },
         {
             "id": "Pit Champion",
             "name": "Campione dell'Arena",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.15N8GauWXWfbYbEQ]{Pit Fighter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.15N8GauWXWfbYbEQ]{Gladiatore}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -2498,12 +3000,17 @@
                 "Disarmare",
                 "Minaccioso",
                 "Robusto"
+            ],
+            "careergroup": "Gladiatore",
+            "trappings": [
+                "Pettorale di Piastre", 
+                "Elmetto"
             ]
         },
         {
             "id": "Courier",
             "name": "Corriere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8pk2uCvAMUAXWbcP]{Messenger}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8pk2uCvAMUAXWbcP]{Messaggero}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -2529,12 +3036,18 @@
                 "Inesorabile",
                 "Tenace",
                 "Volteggio in Sella"
+            ],
+            "careergroup": "Messaggero",
+            "trappings": [
+                "Zaino",
+                "Borse da Sella",
+                "Scudo"
             ]
         },
         {
             "id": "Rabble Rouser",
             "name": "Sobillatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yDGBs92ko6rUyoTe]{Agitator}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yDGBs92ko6rUyoTe]{Agitatore}</p>",
             "skills": [
                 "Arte (Scrittura)",
                 "Corrompere",
@@ -2560,12 +3073,17 @@
                 "Gioco Sporco",
                 "Fuga!",
                 "Farsi da Parte"
+            ],
+            "careergroup": "Agitatore",
+            "trappings": [
+                "Arma a Una Mano",
+                "Libellista"
             ]
         },
         {
             "id": "Sage",
             "name": "Saggio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.M9NiEgE7qaCXmskM]{Mystic}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.M9NiEgE7qaCXmskM]{Mistico}</p>",
             "skills": [
                 "Affascinare",
                 "Intrattenere (Leggere la Sorte)",
@@ -2591,12 +3109,16 @@
                 "Magia Minore",
                 "Leggere/Scrivere",
                 "Strega!"
+            ],
+            "careergroup": "Mistico",
+            "trappings": [
+                "Arnesi del Mestiere (Scriba)"
             ]
         },
         {
             "id": "Trapper",
             "name": "Bracconiere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.2RxWvPZCKW2ShY5a]{Hunter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.2RxWvPZCKW2ShY5a]{Cacciatore}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -2612,12 +3134,19 @@
                 "Girovago",
                 "Passo Lungo (qualsiasi)",
                 "Esperto in Trappole"
+            ],
+            "careergroup": "Cacciatore",
+            "trappings": [
+                "Serie di Trappole per Animali",
+                "Arma a una Mano",
+                "Frombola con 10 Proiettili",
+                "Mantello e Stivali Robusti"
             ]
         },
         {
             "id": "Nun",
             "name": "Monaca",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bE8g67fjVAE6R7Wx]{Nun}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bE8g67fjVAE6R7Wx]{Monaca}</p>",
             "skills": [
                 "Arte (Calligrafia)",
                 "Freddezza",
@@ -2639,12 +3168,18 @@
                 "Pronto Soccorso",
                 "Visioni Mistiche",
                 "Invocazione (qualsiasi)"
+            ],
+            "careergroup": "Monaca",
+            "trappings": [
+                "Arnesi del Mestiere (qualsiasi)",
+                "Libro (Religione)",
+                "Reliquia"
             ]
         },
         {
             "id": "Watchman",
             "name": "Miliziano",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Tt8DCpewqkmBq02v]{Watchman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Tt8DCpewqkmBq02v]{Miliziano}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -2666,12 +3201,18 @@
                 "Criminale",
                 "Vista Notturna",
                 "Velocista"
+            ],
+            "careergroup": "Miliziano",
+            "trappings": [
+                "Palo e Lanterna",
+                "Olio",
+                "Distintivo di Rame"
             ]
         },
         {
             "id": "Boat-hand",
             "name": "Mozzo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.14nKRAT6nMCMGSUf]{Boatman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.14nKRAT6nMCMGSUf]{Barcaiolo}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Schivare",
@@ -2687,12 +3228,18 @@
                 "Pescatore",
                 "Spalle Forti",
                 "Nuotatore"
+            ],
+            "careergroup": "Barcaiolo",
+            "trappings": [
+                "Arma a Una Mano (Gaffa)",
+                "Giaco di Cuoio",
+                "Palo"
             ]
         },
         {
             "id": "Watch Captain",
             "name": "Capitano della Milizia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Tt8DCpewqkmBq02v]{Watchman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Tt8DCpewqkmBq02v]{Miliziano}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -2720,12 +3267,19 @@
                 "Robusto",
                 "Capoccia",
                 "Cospiratore"
+            ],
+            "careergroup": "Miliziano",
+            "trappings": [
+                "Cavallo da Galoppo con Sella e Briglie",
+                "Cappello di Qualità",
+                "Arma a Una Mano di Qualità",
+                "Insegna di Grado di Qualità"
             ]
         },
         {
             "id": "Hexer",
             "name": "Maliarda",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.5ITpDJoRHlIgbE0g]{Witch}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.5ITpDJoRHlIgbE0g]{Strega}</p>",
             "skills": [
                 "Incanalare",
                 "Freddezza",
@@ -2741,12 +3295,19 @@
                 "Dizione Istintiva",
                 "Minaccioso",
                 "Magia Minore"
+            ],
+            "careergroup": "Strega",
+            "trappings": [
+                "Candele",
+                "Gesso",
+                "Pupazzo",
+                "Spilli"
             ]
         },
         {
             "id": "Hedge Master",
             "name": "Maestro della Soglia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.pxxGfn6ze45dwg4Y]{Hedge Witch}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.pxxGfn6ze45dwg4Y]{Fattucchiere}</p>",
             "skills": [
                 "Incanalare",
                 "Tempra",
@@ -2772,12 +3333,17 @@
                 "Senso Magico",
                 "Anima Pura",
                 "Resistente (Malattie)"
+            ],
+            "careergroup": "Fattucchiere",
+            "trappings": [
+                "Capanna Isolata",
+                "Apprendista"
             ]
         },
         {
             "id": "Master Engineer",
             "name": "Mastro Ingegnere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.c2n86bcUngGrHyO4]{Engineer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.c2n86bcUngGrHyO4]{Ingegnere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -2803,12 +3369,16 @@
                 "Mastro Artigiano (Ingegneria)",
                 "Cecchino",
                 "Genio Matematico"
+            ],
+            "careergroup": "Ingegnere",
+            "trappings": [
+                "Laboratorio"
             ]
         },
         {
             "id": "Witch",
             "name": "Strega",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.5ITpDJoRHlIgbE0g]{Witch}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.5ITpDJoRHlIgbE0g]{Strega}</p>",
             "skills": [
                 "Incanalare",
                 "Freddezza",
@@ -2830,12 +3400,19 @@
                 "Attraente",
                 "Seconda Vista",
                 "Strega!"
+            ],
+            "careergroup": "Strega",
+            "trappings": [
+                "Bastone",
+                "Sacco",
+                "Selezione di Erbe",
+                "Arnesi del Mestiere (Erborista)"
             ]
         },
         {
             "id": "Gang Boss",
             "name": "Boss",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yGZN7bMjbGH7kCMK]{Racketeer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yGZN7bMjbGH7kCMK]{Malavitoso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -2861,12 +3438,18 @@
                 "Volontà di Ferro",
                 "Resistente (Veleni)",
                 "Robusto"
+            ],
+            "careergroup": "Malavitoso",
+            "trappings": [
+                "Balestrino con 10 Dardi",
+                "Banda di Teppisti e Malavitosi",
+                "Covo"
             ]
         },
         {
             "id": "Novitiate (Warrior Priest)",
             "name": "Professo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.KG5lVereynSwOkxa]{Warrior Priest}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.KG5lVereynSwOkxa]{Prete Guerriero}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -2882,12 +3465,20 @@
                 "Etichetta (Fedeli)",
                 "Leggere/Scrivere",
                 "Risoluto"
+            ],
+            "careergroup": "Prete Guerriero",
+            "trappings": [
+                "Libro (Religione)",
+                "Farsetto di Cuoio",
+                "Simbolo Religioso",
+                "Vesti",
+                "Arma (qualsiasi da mischia)"
             ]
         },
         {
             "id": "Pamphleteer",
             "name": "Libellista",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yDGBs92ko6rUyoTe]{Agitator}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yDGBs92ko6rUyoTe]{Agitatore}</p>",
             "skills": [
                 "Arte (Scrittura)",
                 "Corrompere",
@@ -2903,12 +3494,18 @@
                 "Amichevole",
                 "Mendicare",
                 "Leggere/Scrivere"
+            ],
+            "careergroup": "Agitatore",
+            "trappings": [
+                "Occorrente per Scrivere",
+                "Martello e Chiodi",
+                "Pila di Volantini"
             ]
         },
         {
             "id": "Ship's Master",
             "name": "Comandante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.wu6aG1XPdzvpiLcR]{Seaman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.wu6aG1XPdzvpiLcR]{Marinaio}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -2936,12 +3533,19 @@
                 "Timoniere",
                 "Oratore",
                 "Buon Senso"
+            ],
+            "careergroup": "Marinaio",
+            "trappings": [
+                "Mappe di Navigazione",
+                "Nave ed Equipaggio",
+                "Sestante",
+                "Cannocchiale Nautico"
             ]
         },
         {
             "id": "Pugilist",
             "name": "Pugile",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.15N8GauWXWfbYbEQ]{Pit Fighter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.15N8GauWXWfbYbEQ]{Gladiatore}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -2957,12 +3561,18 @@
                 "Gioco Stretto",
                 "Mascella di Ferro",
                 "Ribaltamento"
+            ],
+            "careergroup": "Gladiatore",
+            "trappings": [
+                "Bende",
+                "Tirapugni",
+                "Giaco di Cuoio"
             ]
         },
         {
             "id": "Pilot",
             "name": "Timoniere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.LaTDWvLySPKGojiW]{Huffer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.LaTDWvLySPKGojiW]{Nocchiere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Pettegolezzo",
@@ -2988,12 +3598,18 @@
                 "Timoniere",
                 "Gambe da Marinaio",
                 "Forzuto"
+            ],
+            "careergroup": "Nocchiere",
+            "trappings": [
+                "Palo",
+                "Lanterna Schermata",
+                "Olio"
             ]
         },
         {
             "id": "Student",
             "name": "Studente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.cIBJfaY9DKJh5ZEM]{Scholar}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.cIBJfaY9DKJh5ZEM]{Studioso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Intrattenere (Cantastorie)",
@@ -3009,12 +3625,19 @@
                 "Leggere/Scrivere",
                 "Buon Senso",
                 "Genio Matematico"
+            ],
+            "careergroup": "Studioso",
+            "trappings": [
+                "Alcolico",
+                "Libro",
+                "Occorrente per Scrivere",
+                "Opinioni"
             ]
         },
         {
             "id": "Agitator",
             "name": "Agitatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yDGBs92ko6rUyoTe]{Agitator}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yDGBs92ko6rUyoTe]{Agitatore}</p>",
             "skills": [
                 "Arte (Scrittura)",
                 "Corrompere",
@@ -3036,12 +3659,16 @@
                 "Polemico",
                 "Fervore",
                 "Oratore"
+            ],
+            "careergroup": "Agitatore",
+            "trappings": [
+                "Giaco di Cuoio"
             ]
         },
         {
             "id": "Ringleader",
             "name": "Caporione",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MY4aFbQL5T9znCUd]{Bawd}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MY4aFbQL5T9znCUd]{Ruffiano}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -3069,12 +3696,17 @@
                 "Capoccia",
                 "Numismatico",
                 "Buon Senso"
+            ],
+            "careergroup": "Ruffiano",
+            "trappings": [
+                "Casa in città con ingresso posteriore riservato",
+                "Banda di Ruffiani"
             ]
         },
         {
             "id": "Beggar",
             "name": "Mendicante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.djOQaw7iRfec9UEj]{Beggar}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.djOQaw7iRfec9UEj]{Mendicante}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -3096,12 +3728,17 @@
                 "Insignificante",
                 "Criminale",
                 "Etichetta (Criminali)"
+            ],
+            "careergroup": "Mendicante",
+            "trappings": [
+                "Scodella",
+                "Stampella"
             ]
         },
         {
             "id": "Master Smuggler",
             "name": "Mastro Contrabbandiere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TaOvUqKMJoPeuynD]{Smuggler}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TaOvUqKMJoPeuynD]{Contrabbandiere}</p>",
             "skills": [
                 "Atletica",
                 "Corrompere",
@@ -3127,12 +3764,17 @@
                 "Temerario (Guardafiume)",
                 "Timoniere",
                 "Nuotatore"
+            ],
+            "careergroup": "Contrabbandiere",
+            "trappings": [
+                "Corriere di Fiume",
+                "Barca da Fiume Veloce"
             ]
         },
         {
             "id": "Spy",
             "name": "Spia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.dWLxT0zRnDFbwTKZ]{Spy}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.dWLxT0zRnDFbwTKZ]{Spia}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -3154,12 +3796,20 @@
                 "Leggere le Labbra",
                 "Leggere/Scrivere",
                 "Identità Segreta"
+            ],
+            "careergroup": "Spia",
+            "trappings": [
+                "Informatore",
+                "Arma a Una Mano",
+                "Kit per Camuffamento",
+                "Circolo di Informatori",
+                "Cannocchiale"
             ]
         },
         {
             "id": "Pit Legend",
             "name": "Leggenda dell'Arena",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.15N8GauWXWfbYbEQ]{Pit Fighter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.15N8GauWXWfbYbEQ]{Gladiatore}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -3187,12 +3837,16 @@
                 "Assalto Furioso",
                 "Implacabile",
                 "Colpo Reattivo"
+            ],
+            "careergroup": "Gladiatore",
+            "trappings": [
+                "Elmetto di Qualità"
             ]
         },
         {
             "id": "Hedge Apprentice",
             "name": "Apprendista della Soglia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.pxxGfn6ze45dwg4Y]{Hedge Witch}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.pxxGfn6ze45dwg4Y]{Fattucchiere}</p>",
             "skills": [
                 "Incanalare",
                 "Tempra",
@@ -3208,12 +3862,18 @@
                 "Magia Minore",
                 "Girovago",
                 "Passo Lungo (Boschi)"
+            ],
+            "careergroup": "Fattucchiere",
+            "trappings": [
+                "1d10 Portafortuna",
+                "Bastone",
+                "Zaino"
             ]
         },
         {
             "id": "Attendant",
             "name": "Valletto",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.g12yhcU74qsRKxXX]{Servant}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.g12yhcU74qsRKxXX]{Servitore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -3239,6 +3899,13 @@
                 "Resistente (Veleni)",
                 "Cortese",
                 "Solidale"
+            ],
+            "careergroup": "Servitore",
+            "trappings": [
+                "Acciarino",
+                "Lanterna Schermata",
+                "Livrea di Qualità",
+                "Olio"
             ]
         },
         {
@@ -3272,12 +3939,17 @@
                 "Linguista",
                 "Genio (locale)",
                 "Tenace"
+            ],
+            "careergroup": "Scout",
+            "trappings": [
+                "Selezione di Mappe",
+                "Arnesi del Mestiere (Cartografo)"
             ]
         },
         {
             "id": "Cavalryman",
             "name": "Cavalleggero",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.h9LHCAdlP4o55QvD]{Cavalryman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.h9LHCAdlP4o55QvD]{Cavalleggero}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -3299,12 +3971,20 @@
                 "Fuciliere",
                 "Viaggiatore Esperto",
                 "Volteggio in Sella"
+            ],
+            "careergroup": "Cavalleggero",
+            "trappings": [
+                "Pettorale di Piastre",
+                "Elmetto",
+                "Cavallo da Guerra Leggero con Sella e Briglie",
+                "Pistola con 10 Pallottole e Polvere",
+                "Scudo"
             ]
         },
         {
             "id": "Con Artist",
             "name": "Artista della Truffa",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.JTKAh4qCOCcPa2yN]{Charlatan}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.JTKAh4qCOCcPa2yN]{Ciarlatano}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -3330,12 +4010,18 @@
                 "Lingua di Gatto",
                 "Affarista",
                 "Leggere/Scrivere"
+            ],
+            "careergroup": "Ciarlatano",
+            "trappings": [
+                "Arnesi da Camuffamento",
+                "Grimaldelli",
+                "Diversi Documenti Falsi"
             ]
         },
         {
             "id": "Officer",
             "name": "Ufficiale",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.kT0ZI0LoHmIvhjPk]{Soldier}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.kT0ZI0LoHmIvhjPk]{Soldato}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -3363,12 +4049,22 @@
                 "Oratore",
                 "Viaggiatore Esperto",
                 "Cuore Impavido"
+            ],
+            "careergroup": "Soldato",
+            "trappings": [
+                "Lettera d’Incarico",
+                "Cavallo da Guerra Leggero con Sella e Briglie",
+                "Mappa",
+                "Ordini",
+                "Unità di Soldati",
+                "Uniforme di Qualità",
+                "Insegna di Grado"
             ]
         },
         {
             "id": "River Recruit",
             "name": "Recluta del Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.EBpCBitHuWElKf3D]{Riverwarden}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.EBpCBitHuWElKf3D]{Guardafiume}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -3384,12 +4080,18 @@
                 "Spalle Forti",
                 "Forzuto",
                 "Lupo di Mare"
+            ],
+            "careergroup": "Guardafiume",
+            "trappings": [
+                "Arma a Una Mano (Spada)",
+                "Giaco di Cuoio",
+                "Uniforme"
             ]
         },
         {
             "id": "Barge Master",
             "name": "Padrone Fluviale",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.14nKRAT6nMCMGSUf]{Boatman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.14nKRAT6nMCMGSUf]{Barcaiolo}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Schivare",
@@ -3417,12 +4119,17 @@
                 "Senso dell’Orientamento",
                 "Timoniere",
                 "Oratore"
+            ],
+            "careergroup": "Barcaiolo",
+            "trappings": [
+                "Cappello",
+                "Barcone da Fiume ed Equipaggio"
             ]
         },
         {
             "id": "Artist",
             "name": "Artista",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.rjUjdQrWHWazjkRC]{Artist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.rjUjdQrWHWazjkRC]{Artista}</p>",
             "skills": [
                 "Arte (qualsiasi)",
                 "Freddezza",
@@ -3444,12 +4151,16 @@
                 "Criminale",
                 "Amichevole",
                 "Dita Agili"
+            ],
+            "careergroup": "Artista",
+            "trappings": [
+                "Borsa con Arnesi del Mestiere (Artista)"
             ]
         },
         {
             "id": "Servant",
             "name": "Servitore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.g12yhcU74qsRKxXX]{Servant}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.g12yhcU74qsRKxXX]{Servitore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -3471,12 +4182,16 @@
                 "Ombra",
                 "Tenace",
                 "Preparato"
+            ],
+            "careergroup": "Servitore",
+            "trappings": [
+                "Livrea"
             ]
         },
         {
             "id": "Chancellor",
             "name": "Cancelliere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.J8ejrXE0zWMjNsZd]{Advisor}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.J8ejrXE0zWMjNsZd]{Consigliere}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -3504,12 +4219,18 @@
                 "Intascare",
                 "Capoccia",
                 "Cortese"
+            ],
+            "careergroup": "Consigliere",
+            "trappings": [
+                "Cavallo da Galoppo con Sella e Briglie",
+                "Abiti da Corte di Qualità",
+                "Staff di Consiglieri e Attendenti"
             ]
         },
         {
             "id": "Wrecker",
             "name": "Naufragatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AnW8kwDb9koFgMPx]{Wrecker}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AnW8kwDb9koFgMPx]{Naufragatore}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -3531,12 +4252,19 @@
                 "Girovago",
                 "Nuotatore",
                 "Esperto in Trappole"
+            ],
+            "careergroup": "Naufragatore",
+            "trappings": [
+                "Arma a Una Mano (Gaffa)",
+                "Giaco di Cuoio",
+                "Lanterna Schermata",
+                "Olio"
             ]
         },
         {
             "id": "Apothecary's Apprentice",
             "name": "Apprendista Apotecario",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FW2VeYf0vUUFbVE6]{Apothecary}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FW2VeYf0vUUFbVE6]{Apotecario}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Guarire",
@@ -3552,12 +4280,19 @@
                 "Artigiano (Apotecario)",
                 "Etichetta (Accademici)",
                 "Leggere/Scrivere"
+            ],
+            "careergroup": "Apotecario",
+            "trappings": [
+                "Farsetto di Cuoio",
+                "Infuso Guaritore",
+                "Libro (in bianco)",
+                "Mortaio e Pestello"
             ]
         },
         {
             "id": "Crime Lord",
             "name": "Signore del Crimine",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yGZN7bMjbGH7kCMK]{Racketeer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yGZN7bMjbGH7kCMK]{Malavitoso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -3585,12 +4320,18 @@
                 "Capoccia",
                 "Spaventoso",
                 "Ricco"
+            ],
+            "careergroup": "Malavitoso",
+            "trappings": [
+                "Rete d’Informatori",
+                "Abiti e Cappello di Qualità",
+                "Boss Subordinati"
             ]
         },
         {
             "id": "Abbess",
             "name": "Badessa",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bE8g67fjVAE6R7Wx]{Nun}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bE8g67fjVAE6R7Wx]{Monaca}</p>",
             "skills": [
                 "Arte (Calligrafia)",
                 "Freddezza",
@@ -3616,12 +4357,17 @@
                 "Robusto",
                 "Genio (Teologia)",
                 "Cuore Impavido"
+            ],
+            "careergroup": "Monaca",
+            "trappings": [
+                "Abbazia",
+                "Biblioteca (Teologia)"
             ]
         },
         {
             "id": "Advisor",
             "name": "Consigliere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.J8ejrXE0zWMjNsZd]{Advisor}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.J8ejrXE0zWMjNsZd]{Consigliere}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -3643,12 +4389,16 @@
                 "Criminale",
                 "Cospiratore",
                 "Solidale"
+            ],
+            "careergroup": "Consigliere",
+            "trappings": [
+                "Livrea"
             ]
         },
         {
             "id": "Villager",
             "name": "Villico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.btrs5XFk2OQsCtqj]{Villager}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.btrs5XFk2OQsCtqj]{Villico}</p>",
             "skills": [
                 "Domare Animali",
                 "Atletica",
@@ -3670,12 +4420,18 @@
                 "Gagliardo",
                 "Tenace",
                 "Forzuto"
+            ],
+            "careergroup": "Villico",
+            "trappings": [
+                "Farsetto di Cuoio",
+                "Arma a Una Mano (Ascia)",
+                "Arnesi del Mestiere (come appropriato)"
             ]
         },
         {
             "id": "Fencer",
             "name": "Spadaccino",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.RNcsFphKVYohTrS9]{Duellist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.RNcsFphKVYohTrS9]{Duellante}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -3691,12 +4447,17 @@
                 "Distrarre",
                 "Finta",
                 "Farsi da Parte"
+            ],
+            "careergroup": "Duellante",
+            "trappings": [
+                "Arma a Una Mano o Stocco",
+                "Borsa con Abiti e 1d10 Bende"
             ]
         },
         {
             "id": "Herbalist",
             "name": "Erborista",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MYzcmrUrSKLmshwu]{Herbalist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MYzcmrUrSKLmshwu]{Erborista}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -3718,12 +4479,18 @@
                 "Dita Agili",
                 "Acuto",
                 "Vigoroso"
+            ],
+            "careergroup": "Erborista",
+            "trappings": [
+                "Arma a Una Mano (Falcetto)",
+                "Unguento Guaritore",
+                "Arnesi del Mestiere (Erborista)"
             ]
         },
         {
             "id": "Zealot",
             "name": "Zelota",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Vtice54Y7PV95Dkp]{Flagellant}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Vtice54Y7PV95Dkp]{Flagellante}</p>",
             "skills": [
                 "Schivare",
                 "Tempra",
@@ -3739,12 +4506,17 @@
                 "Furia",
                 "Leggere/Scrivere",
                 "Zuppa di Sasso"
+            ],
+            "careergroup": "Flagellante",
+            "trappings": [
+                "Flagello",
+                "Abiti Stracciati"
             ]
         },
         {
             "id": "Magistrate",
             "name": "Magistrato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.WbjmnVlyJ9VP2nt4]{Bailiff}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.WbjmnVlyJ9VP2nt4]{Balivo}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -3772,12 +4544,18 @@
                 "Volontà di Ferro",
                 "Buon Senso",
                 "Cospiratore"
+            ],
+            "careergroup": "Balivo",
+            "trappings": [
+                "Biblioteca (Legge)",
+                "Veste di Qualità",
+                "Simbolo d’Ufficio"
             ]
         },
         {
             "id": "Lector",
             "name": "Lector",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GNwQFkVKUs0JM6U5]{Priest}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GNwQFkVKUs0JM6U5]{Prete}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -3805,12 +4583,17 @@
                 "Anima Pura",
                 "Resistente (qualsiasi)",
                 "Genio (Teologia)"
+            ],
+            "careergroup": "Prete",
+            "trappings": [
+                "Alto Sacerdote Subordinato",
+                "Biblioteca (Teologia)"
             ]
         },
         {
             "id": "Shipsword Master",
             "name": "Comandante delle Spade Nautiche",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.EBpCBitHuWElKf3D]{Riverwarden}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.EBpCBitHuWElKf3D]{Guardafiume}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -3838,12 +4621,17 @@
                 "Capoccia",
                 "Minaccioso",
                 "Senso dell’Orientamento"
+            ],
+            "careergroup": "Guardafiume",
+            "trappings": [
+                "Barche di Pattuglia ed Equipaggi",
+                "Insegna di Grado"
             ]
         },
         {
             "id": "Thug",
             "name": "Sgherro",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yGZN7bMjbGH7kCMK]{Racketeer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yGZN7bMjbGH7kCMK]{Malavitoso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -3859,12 +4647,17 @@
                 "Etichetta (Criminali)",
                 "Minaccioso",
                 "Colpo Poderoso"
+            ],
+            "careergroup": "Malavitoso",
+            "trappings": [
+                "Tirapugni",
+                "Giaco di Cuoio"
             ]
         },
         {
             "id": "Master Artist",
             "name": "Mastro di Bottega",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.rjUjdQrWHWazjkRC]{Artist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.rjUjdQrWHWazjkRC]{Artista}</p>",
             "skills": [
                 "Arte (qualsiasi)",
                 "Freddezza",
@@ -3890,12 +4683,18 @@
                 "Affarista",
                 "Etichetta (qualsiasi)",
                 "Fiutare Pericolo"
+            ],
+            "careergroup": "Artista",
+            "trappings": [
+                "Apprendista",
+                "Mecenate",
+                "Laboratorio (Artista)"
             ]
         },
         {
             "id": "Aide",
             "name": "Attendente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.J8ejrXE0zWMjNsZd]{Advisor}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.J8ejrXE0zWMjNsZd]{Consigliere}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -3911,12 +4710,16 @@
                 "Etichetta (qualsiasi)",
                 "Amichevole",
                 "Leggere/Scrivere"
+            ],
+            "careergroup": "Consigliere",
+            "trappings": [
+                "Occorrente per Scrivere"
             ]
         },
         {
             "id": "Magnate",
             "name": "Magnate",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.CMIowWLOafHKAhnB]{Noble}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.CMIowWLOafHKAhnB]{Nobile}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -3942,12 +4745,20 @@
                 "Affarista",
                 "Oratore",
                 "Cospiratore"
+            ],
+            "careergroup": "Nobile",
+            "trappings": [
+                "2 Abiti da Corte di Qualità",
+                "200 corone",
+                "Anello con Sigillo",
+                "Feudo",
+                "Gioielli del valore di 200 corone"
             ]
         },
         {
             "id": "Steward",
             "name": "Amministratore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.g12yhcU74qsRKxXX]{Servant}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.g12yhcU74qsRKxXX]{Servitore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -3975,12 +4786,18 @@
                 "Numismatico",
                 "Leggere/Scrivere",
                 "Buon Senso"
+            ],
+            "careergroup": "Servitore",
+            "trappings": [
+                "Abiti Eleganti",
+                "Arma a Una Mano",
+                "Servitore"
             ]
         },
         {
             "id": "Cargo Scavenger",
             "name": "Avvoltoio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AnW8kwDb9koFgMPx]{Wrecker}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AnW8kwDb9koFgMPx]{Naufragatore}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -3996,12 +4813,18 @@
                 "Criminale",
                 "Pescatore",
                 "Spalle Forti"
+            ],
+            "careergroup": "Naufragatore",
+            "trappings": [
+                "Piede di Porco",
+                "Grosso Sacco",
+                "Guanti di Cuoio"
             ]
         },
         {
             "id": "Wizard's Apprentice",
             "name": "Apprendista Mago",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.m6WuSnrrW7QllX63]{Wizard}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.m6WuSnrrW7QllX63]{Mago}</p>",
             "skills": [
                 "Incanalare (qualsiasi Colore)",
                 "Schivare",
@@ -4017,12 +4840,17 @@
                 "Magia Minore",
                 "Leggere/Scrivere",
                 "Seconda Vista"
+            ],
+            "careergroup": "Mago",
+            "trappings": [
+                "Bastone",
+                "Grimorio"
             ]
         },
         {
             "id": "Diplomat",
             "name": "Diplomatico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.B0zxjP3KbZag5Y79]{Envoy}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.B0zxjP3KbZag5Y79]{Legato}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -4048,12 +4876,18 @@
                 "Affarista",
                 "Amichevole",
                 "Cospiratore"
+            ],
+            "careergroup": "Legato",
+            "trappings": [
+                "Abiti di Qualità",
+                "Attendente",
+                "Mappa"
             ]
         },
         {
             "id": "Townsman",
             "name": "Borghese",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.uqdZBoLtuLv0bHVV]{Townsman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.uqdZBoLtuLv0bHVV]{Borghese}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -4075,12 +4909,18 @@
                 "Intascare",
                 "Etichetta (qualsiasi)",
                 "Amichevole"
+            ],
+            "careergroup": "Borghese",
+            "trappings": [
+                "Casa Modesta",
+                "Servitore",
+                "Penna e Inchiostro"
             ]
         },
         {
             "id": "Custodian",
             "name": "Custode",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.XUrZJ3f1xtarPihy]{Warden}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.XUrZJ3f1xtarPihy]{Gastaldo}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare Animali",
@@ -4096,12 +4936,19 @@
                 "Vista Notturna",
                 "Acuto",
                 "Colpo Stordente"
+            ],
+            "careergroup": "Gastaldo",
+            "trappings": [
+                "Chiavi",
+                "Lanterna",
+                "Livrea",
+                "Olio"
             ]
         },
         {
             "id": "Smuggler King",
             "name": "Re dei Contrabbandieri",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TaOvUqKMJoPeuynD]{Smuggler}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TaOvUqKMJoPeuynD]{Contrabbandiere}</p>",
             "skills": [
                 "Atletica",
                 "Corrompere",
@@ -4129,12 +4976,17 @@
                 "Buon Senso",
                 "Passo Lungo (Coste)",
                 "Gambe da Marinaio"
+            ],
+            "careergroup": "Contrabbandiere",
+            "trappings": [
+                "Arnesi da Camuffamento",
+                "Piccola Flotta di Barche da Fiume"
             ]
         },
         {
             "id": "Road Captain",
             "name": "Capitano Guardastrada",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8zowZP5UEKTM9ehU]{Road warden}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8zowZP5UEKTM9ehU]{Guardastrada}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -4162,12 +5014,19 @@
                 "Presenza Maestosa",
                 "Capoccia",
                 "Oratore"
+            ],
+            "careergroup": "",
+            "trappings": [
+                "Cavallo da Guerra Leggero",
+                "Pistola con 10 Colpi",
+                "Cappello e Mantello di Qualità",
+                "Unità di Guardastrada"
             ]
         },
         {
             "id": "Apprentice Artist",
             "name": "Apprendista",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.rjUjdQrWHWazjkRC]{Artist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.rjUjdQrWHWazjkRC]{Artista}</p>",
             "skills": [
                 "Arte (qualsiasi)",
                 "Freddezza",
@@ -4183,12 +5042,16 @@
                 "Acuto",
                 "Spalle Forti",
                 "Tenace"
+            ],
+            "careergroup": "Artista",
+            "trappings": [
+                "Penna d’Oca o Pennello o Scalpello"
             ]
         },
         {
             "id": "Pedlar",
             "name": "Venditore Ambulante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.jAqbxNrHW35xiuOn]{Pedlar}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.jAqbxNrHW35xiuOn]{Venditore Ambulante}</p>",
             "skills": [
                 "Affascinare",
                 "Tempra",
@@ -4210,12 +5073,19 @@
                 "Senso dell’Orientamento",
                 "Viaggiatore Esperto",
                 "Spalle Forti"
+            ],
+            "careergroup": "Venditore Ambulante",
+            "trappings": [
+                "Mulo e Sacche da Sella",
+                "Selezione di Pentole e Padelle",
+                "Arnesi del Mestiere (Stagnino)",
+                "Beni per 2d10 scellini"
             ]
         },
         {
             "id": "Horseman",
             "name": "Cavallerizzo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.h9LHCAdlP4o55QvD]{Cavalryman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.h9LHCAdlP4o55QvD]{Cavalleggero}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -4231,12 +5101,17 @@
                 "Schiocco di Frusta",
                 "Riflessi Fulminei",
                 "Nato in Sella"
+            ],
+            "careergroup": "Cavalleggero",
+            "trappings": [
+                "Giaco di Cuoio",
+                "Cavallo da Galoppo con Sella e Briglie"
             ]
         },
         {
             "id": "Riverguide",
             "name": "Guida del Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.LaTDWvLySPKGojiW]{Huffer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.LaTDWvLySPKGojiW]{Nocchiere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Pettegolezzo",
@@ -4252,12 +5127,18 @@
                 "Vista Notturna",
                 "Senso dell’Orientamento",
                 "Lupo di Mare"
+            ],
+            "careergroup": "Nocchiere",
+            "trappings": [
+                "Arma a Una Mano (Gaffa)",
+                "Lanterna Schermata",
+                "Olio"
             ]
         },
         {
             "id": "Judicial Champion",
             "name": "Campione Giudiziario",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.RNcsFphKVYohTrS9]{Duellist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.RNcsFphKVYohTrS9]{Duellante}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -4285,12 +5166,16 @@
                 "Minaccioso",
                 "Colpo Reattivo",
                 "Colpo Crudele"
+            ],
+            "careergroup": "Duellante",
+            "trappings": [
+                "2 Armi di Qualità"
             ]
         },
         {
             "id": "Student Lawyer",
             "name": "Studente di Legge",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GhqPa2iwEdc4Dokc]{Lawyer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GhqPa2iwEdc4Dokc]{Avvocato}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -4306,12 +5191,17 @@
                 "Etichetta (Accademici)",
                 "Leggere/Scrivere",
                 "Lettura Veloce"
+            ],
+            "careergroup": "Avvocato",
+            "trappings": [
+                "Libro (Legge)",
+                "Lente d’Ingrandimento"
             ]
         },
         {
             "id": "Novitiate (Nun)",
-            "name": "Novizia (Monaca)",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bE8g67fjVAE6R7Wx]{Nun}</p>",
+            "name": "Novizia",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bE8g67fjVAE6R7Wx]{Monaca}</p>",
             "skills": [
                 "Arte (Calligrafia)",
                 "Freddezza",
@@ -4327,12 +5217,17 @@
                 "Zuppa di Sasso",
                 "Mendicare",
                 "Leggere/Scrivere"
+            ],
+            "careergroup": "Monaca",
+            "trappings": [
+                "Simbolo Religioso", 
+                "Tonaca"
             ]
         },
         {
             "id": "Protagonist",
             "name": "Bravaccio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mlLVNBKIUnonqka2]{Protagonist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mlLVNBKIUnonqka2]{Bravaccio}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -4354,12 +5249,19 @@
                 "Criminale",
                 "Ribaltamento",
                 "Colpo Stordente"
+            ],
+            "careergroup": "Bravaccio",
+            "trappings": [
+                "Arma a Una Mano",
+                "Corpetto di Maglia",
+                "Cavallo da Galoppo con Sella e Briglie",
+                "Scudo"
             ]
         },
         {
             "id": "Investigator",
             "name": "Investigatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.DAHJ4cu3WiGCdakE]{Investigator}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.DAHJ4cu3WiGCdakE]{Investigatore}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -4381,12 +5283,19 @@
                 "Buon Senso",
                 "Ombra",
                 "Tenace"
+            ],
+            "careergroup": "Investigatore",
+            "trappings": [
+                "Giaco di Cuoio",
+                "Arma a Una Mano",
+                "Lente d’Ingrandimento",
+                "Grimaldello"
             ]
         },
         {
             "id": "Informer",
             "name": "Informatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.dWLxT0zRnDFbwTKZ]{Spy}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.dWLxT0zRnDFbwTKZ]{Spia}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -4402,12 +5311,17 @@
                 "Beone",
                 "Amichevole",
                 "Ombra"
+            ],
+            "careergroup": "Spia",
+            "trappings": [
+                "Carboncino",
+                "Borsa con 2 tipi di Abiti e Mantello con Cappuccio"
             ]
         },
         {
             "id": "Rat Hunter",
             "name": "Cacciatore di Ratti",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.0DuRRCYdahOKxDPF]{Rat Catcher}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.0DuRRCYdahOKxDPF]{Acchiappatopi}</p>",
             "skills": [
                 "Atletica",
                 "Addestrare (Cane)",
@@ -4423,12 +5337,18 @@
                 "Resistente (Malattie)",
                 "Colpo Poderoso",
                 "Colpo Stordente"
+            ],
+            "careergroup": "Acchiappatopi",
+            "trappings": [
+                "Frombola con Munizioni",
+                "Sacco",
+                "Cane Piccolo ma Feroce"
             ]
         },
         {
             "id": "Reeve",
             "name": "Sovrintendente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.WbjmnVlyJ9VP2nt4]{Bailiff}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.WbjmnVlyJ9VP2nt4]{Balivo}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -4454,12 +5374,18 @@
                 "Minaccioso",
                 "Fiutare Pericolo",
                 "Leggere/Scrivere"
+            ],
+            "careergroup": "Balivo",
+            "trappings": [
+                "Cavallo con Sella e Briglie",
+                "Pettorale di Piastre",
+                "Balivo"
             ]
         },
         {
             "id": "Troubadour",
             "name": "Trovatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.b96g5MZr3rk5zYAo]{Entertainer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.b96g5MZr3rk5zYAo]{Intrattenitore}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -4485,12 +5411,17 @@
                 "Maestro del Travestimento",
                 "Tono Perfetto",
                 "Leggere/Scrivere"
+            ],
+            "careergroup": "Intrattenitore",
+            "trappings": [
+                "Animale Ammaestrato",
+                "Occorrente per Scrivere"
             ]
         },
         {
             "id": "Black Marketeer",
             "name": "Trafficante del Mercato Nero",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lbbddfm36XMb8SYg]{Fence}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lbbddfm36XMb8SYg]{Ricettatore}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -4518,12 +5449,18 @@
                 "Volontà di Ferro",
                 "Minaccioso",
                 "Corruttore"
+            ],
+            "careergroup": "Ricettatore",
+            "trappings": [
+                "Gorilla",
+                "Rete di Informatori",
+                "Magazzino"
             ]
         },
         {
             "id": "Wizard Lord",
             "name": "Signore della Magia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.m6WuSnrrW7QllX63]{Wizard}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.m6WuSnrrW7QllX63]{Mago}</p>",
             "skills": [
                 "Incanalare (qualsiasi Colore)",
                 "Schivare",
@@ -4551,12 +5488,18 @@
                 "Spaventoso",
                 "Volontà di Ferro",
                 "Mago da Guerra"
+            ],
+            "careergroup": "Mago",
+            "trappings": [
+                "Apprendista",
+                "Biblioteca (Magia)",
+                "Laboratorio (Magia)"
             ]
         },
         {
             "id": "Doktor",
             "name": "Dottore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Ora8bmvHERjYWEQn]{Physician}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Ora8bmvHERjYWEQn]{Medico}</p>",
             "skills": [
                 "Corrompere",
                 "Freddezza",
@@ -4582,12 +5525,17 @@
                 "Resistente (Malattie)",
                 "Buon Senso",
                 "Colpo Crudele"
+            ],
+            "careergroup": "Medico",
+            "trappings": [
+                "Apprendista",
+                "Laboratorio (Medicina)"
             ]
         },
         {
             "id": "Greenfish",
             "name": "Pesce Piccolo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9D0o0fbqscpgk0RK]{Riverwoman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9D0o0fbqscpgk0RK]{Donna del Fiume}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -4603,12 +5551,18 @@
                 "Amichevole",
                 "Passo Lungo (Paludi)",
                 "Nuotatore"
+            ],
+            "careergroup": "Donna del Fiume",
+            "trappings": [
+                "Secchio",
+                "Canna da Pesca ed Esca",
+                "Gambali di Cuoio"
             ]
         },
         {
             "id": "Spymaster",
             "name": "Maestro delle Spie",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.dWLxT0zRnDFbwTKZ]{Spy}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.dWLxT0zRnDFbwTKZ]{Spia}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -4636,12 +5590,18 @@
                 "Cospiratore",
                 "Cortese",
                 "Torre di Memorie"
+            ],
+            "careergroup": "Spia",
+            "trappings": [
+                "Ufficio con Personale",
+                "Grande Circolo di Agenti",
+                "Spie e Informatori"
             ]
         },
         {
             "id": "Lawyer",
             "name": "Avvocato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GhqPa2iwEdc4Dokc]{Lawyer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GhqPa2iwEdc4Dokc]{Avvocato}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -4663,12 +5623,18 @@
                 "Criminale",
                 "Etichetta (Gilde)",
                 "Cortese"
+            ],
+            "careergroup": "Avvocato",
+            "trappings": [
+                "Licenza della Gilda",
+                "Occorrente per Scrivere",
+                "Toga da Corte"
             ]
         },
         {
             "id": "Giant Slayer",
             "name": "Sventragiganti",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9p3DaFU5hMFP1C3v]{Slayer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9p3DaFU5hMFP1C3v]{Sventratore}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -4690,12 +5656,18 @@
                 "Implacabile",
                 "Minaccioso",
                 "Ribaltamento"
+            ],
+            "careergroup": "",
+            "trappings": [
+                "Ascia Grande",
+                "Gioielli",
+                "Testa di Troll"
             ]
         },
         {
             "id": "Troupe Leader",
             "name": "Capocomico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.b96g5MZr3rk5zYAo]{Entertainer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.b96g5MZr3rk5zYAo]{Intrattenitore}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -4723,12 +5695,18 @@
                 "Etichetta (qualsiasi)",
                 "Viaggiatore Esperto",
                 "Acuto"
+            ],
+            "careergroup": "Intrattenitore",
+            "trappings": [
+                "Cavallo da Tiro e Carro (con Palco)",
+                "Guardaroba di Costumi e Arnesi di Scena",
+                "Troupe di Intrattenitori"
             ]
         },
         {
             "id": "Herb Master",
             "name": "Maestro delle Erbe",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MYzcmrUrSKLmshwu]{Herbalist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MYzcmrUrSKLmshwu]{Erborista}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -4754,12 +5732,19 @@
                 "Pronto Soccorso",
                 "Gagliardo",
                 "Buon Senso"
+            ],
+            "careergroup": "Erborista",
+            "trappings": [
+                "Raccoglitore",
+                "3 Unguenti Guaritori",
+                "Infuso Guaritore",
+                "Laboratorio (Erborista)"
             ]
         },
         {
             "id": "Merchant",
             "name": "Mercante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FLqzxS5gxKflqDUk]{Merchant}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FLqzxS5gxKflqDUk]{Mercante}</p>",
             "skills": [
                 "Domare Animali",
                 "Corrompere",
@@ -4781,12 +5766,18 @@
                 "Intascare",
                 "Etichetta (Gilde)",
                 "Buon Senso"
+            ],
+            "careergroup": "Mercante",
+            "trappings": [
+                "Barca da Fiume o 2 Carri",
+                "Licenza della Gilda",
+                "20 corone"
             ]
         },
         {
             "id": "Grave Robber",
             "name": "Tombarolo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.W2Ovj3ec7eqZUuuv]{Grave Robber}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.W2Ovj3ec7eqZUuuv]{Tombarolo}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Freddezza",
@@ -4808,12 +5799,20 @@
                 "Vista Notturna",
                 "Resistente (Malattie)",
                 "Forzuto"
+            ],
+            "careergroup": "Tombarolo",
+            "trappings": [
+                "Zaino",
+                "Arma a Una Mano",
+                "Pala",
+                "Lanterna Schermata",
+                "Olio"
             ]
         },
         {
             "id": "Daemon Slayer",
             "name": "Sventrademoni",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9p3DaFU5hMFP1C3v]{Slayer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9p3DaFU5hMFP1C3v]{Sventratore}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -4841,12 +5840,16 @@
                 "Spaventoso",
                 "Colpo Poderoso",
                 "Forzuto"
+            ],
+            "careergroup": "",
+            "trappings": [
+                "Testa di Drago"
             ]
         },
         {
             "id": "Vagabond",
             "name": "Vagabondo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.jAqbxNrHW35xiuOn]{Pedlar}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.jAqbxNrHW35xiuOn]{Venditore Ambulante}</p>",
             "skills": [
                 "Affascinare",
                 "Tempra",
@@ -4862,12 +5865,19 @@
                 "Fuga!",
                 "Girovago",
                 "Trafficone"
+            ],
+            "careergroup": "Venditore Ambulante",
+            "trappings": [
+                "Zaino",
+                "Giaciglio",
+                "Tenda",
+                "Beni per 2d10 penny"
             ]
         },
         {
             "id": "Sewer Jack",
             "name": "Fognaiolo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.0DuRRCYdahOKxDPF]{Rat Catcher}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.0DuRRCYdahOKxDPF]{Acchiappatopi}</p>",
             "skills": [
                 "Atletica",
                 "Addestrare (Cane)",
@@ -4893,12 +5903,18 @@
                 "Cuore Impavido",
                 "Gambe Forti",
                 "Topo di Fogna"
+            ],
+            "careergroup": "Acchiappatopi",
+            "trappings": [
+                "Lanterna Davrich",
+                "Arma a Una Mano",
+                "Giaco di Cuoio"
             ]
         },
         {
             "id": "Hedgewise",
             "name": "Saggio della Soglia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.pxxGfn6ze45dwg4Y]{Hedge Witch}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.pxxGfn6ze45dwg4Y]{Fattucchiere}</p>",
             "skills": [
                 "Incanalare",
                 "Tempra",
@@ -4926,12 +5942,17 @@
                 "Mastro Artigiano (Erborista)",
                 "Vista Notturna",
                 "Risoluto"
+            ],
+            "careergroup": "Fattucchiere",
+            "trappings": [
+                "Assortimento di Teschi di Animali",
+                "Mantello e Ghirlanda Cerimoniali"
             ]
         },
         {
             "id": "Detective",
             "name": "Detective",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.DAHJ4cu3WiGCdakE]{Investigator}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.DAHJ4cu3WiGCdakE]{Investigatore}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -4959,12 +5980,17 @@
                 "Genio (qualsiasi)",
                 "Lettura Veloce",
                 "Torre di Memorie"
+            ],
+            "careergroup": "Investigatore",
+            "trappings": [
+                "Rete di Informatori",
+                "Cannocchiale"
             ]
         },
         {
             "id": "Witch Hunter",
             "name": "Cacciatore di Streghe",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.3A56eFnkIYFmbRL1]{Witch Hunter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.3A56eFnkIYFmbRL1]{Cacciatore di Streghe}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -4986,12 +6012,21 @@
                 "Tiratore",
                 "Viaggiatore Esperto",
                 "Ombra"
+            ],
+            "careergroup": "Cacciatore di Streghe",
+            "trappings": [
+                "Balestrino o Pistola",
+                "Cappello (Henin)",
+                "Giaco di Cuoio",
+                "Cavallo da Galoppo con Sella e Briglie",
+                "Fune",
+                "Spada Argentata"
             ]
         },
         {
             "id": "Road Warden",
             "name": "Guardastrada",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8zowZP5UEKTM9ehU]{Road warden}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8zowZP5UEKTM9ehU]{Guardastrada}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -5013,12 +6048,19 @@
                 "Criminale",
                 "Nato in Sella",
                 "Viaggiatore Esperto"
+            ],
+            "careergroup": "",
+            "trappings": [
+                "Arma a Una Mano",
+                "Corpetto di Maglia",
+                "Cavallo da Galoppo con Sella e Briglie",
+                "Fune"
             ]
         },
         {
             "id": "Bandit King",
             "name": "Re dei Banditi",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mOljt11dxZENtmoR]{Outlaw}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mOljt11dxZENtmoR]{Fuorilegge}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -5046,12 +6088,17 @@
                 "Temerario (Guardastrada)",
                 "Volontà di Ferro",
                 "Robusto"
+            ],
+            "careergroup": "Fuorilegge",
+            "trappings": [
+                "‘Feudo’ di Capibanda",
+                "Covo"
             ]
         },
         {
             "id": "Coach Master",
             "name": "Mastro della Carrozza",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.BnA8KJuCw16zwOVC]{Coachman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.BnA8KJuCw16zwOVC]{Cocchiere}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -5077,12 +6124,18 @@
                 "Affarista",
                 "Temerario (Fuorilegge)",
                 "Fiutare Pericolo"
+            ],
+            "careergroup": "Cocchiere",
+            "trappings": [
+                "Corpetto di Maglia",
+                "Pistola",
+                "Mantello di Qualità"
             ]
         },
         {
             "id": "Sentry",
             "name": "Sentinella",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guard}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guardia}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -5098,12 +6151,19 @@
                 "Etichetta (Servitori)",
                 "Colpo Stordente",
                 "Tenace"
+            ],
+            "careergroup": "Guardia",
+            "trappings": [
+                "Brocchiero",
+                "Farsetto di Cuoio",
+                "Lanterna Schermata",
+                "Olio"
             ]
         },
         {
             "id": "Governor",
             "name": "Governatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.XUrZJ3f1xtarPihy]{Warden}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.XUrZJ3f1xtarPihy]{Gastaldo}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare Animali",
@@ -5131,12 +6191,18 @@
                 "Etichetta (qualsiasi)",
                 "Genio (locale)",
                 "Cortese"
+            ],
+            "careergroup": "Gastaldo",
+            "trappings": [
+                "Attendente",
+                "Residenza",
+                "Servitore"
             ]
         },
         {
             "id": "Councilor",
             "name": "Consigliere del Villaggio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.btrs5XFk2OQsCtqj]{Villager}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.btrs5XFk2OQsCtqj]{Villico}</p>",
             "skills": [
                 "Domare Animali",
                 "Atletica",
@@ -5162,12 +6228,17 @@
                 "Affarista",
                 "Cuore Impavido",
                 "Saldo"
+            ],
+            "careergroup": "Villico",
+            "trappings": [
+                "Mulo e Carretto",
+                "Casa e Laboratorio nel villaggio"
             ]
         },
         {
             "id": "Riverwoman",
             "name": "Donna del Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9D0o0fbqscpgk0RK]{Riverwoman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9D0o0fbqscpgk0RK]{Donna del Fiume}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -5189,12 +6260,19 @@
                 "Girovago",
                 "Spalle Forti",
                 "Lupo di Mare"
+            ],
+            "careergroup": "Donna del Fiume",
+            "trappings": [
+                "Nassa per Anguille",
+                "Farsetto di Cuoio",
+                "Rete",
+                "Lancia"
             ]
         },
         {
             "id": "Master Miner",
-            "name": "Maestro Minatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lWT9EiFL6a09w0h9]{Miner}</p>",
+            "name": "Mastro Minatore",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lWT9EiFL6a09w0h9]{Minatore}</p>",
             "skills": [
                 "Freddezza",
                 "Tempra",
@@ -5220,12 +6298,18 @@
                 "Artigiano (Esplosivi)",
                 "Trafficone",
                 "Topo di Fogna"
+            ],
+            "careergroup": "Minatore",
+            "trappings": [
+                "Arma Grande (Piccone)", 
+                "Elmetto", 
+                "Arnesi del Mestiere (Ingegnere)"
             ]
         },
         {
             "id": "Wrecker Captain",
             "name": "Capitano Naufragatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AnW8kwDb9koFgMPx]{Wrecker}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AnW8kwDb9koFgMPx]{Naufragatore}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -5253,12 +6337,19 @@
                 "Gioco Stretto",
                 "Timoniere",
                 "Guerriero Nato"
+            ],
+            "careergroup": "Naufragatore",
+            "trappings": [
+                "Flotta di Barche",
+                "Equipaggio di Naufragatori",
+                "Botticella di Birra",
+                "Ceppi"
             ]
         },
         {
             "id": "Noble Lord",
             "name": "Lord",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.CMIowWLOafHKAhnB]{Noble}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.CMIowWLOafHKAhnB]{Nobile}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -5286,12 +6377,20 @@
                 "Volontà di Ferro",
                 "Condottiero",
                 "Ricco"
+            ],
+            "careergroup": "Nobile",
+            "trappings": [
+                "4 Abiti da Corte di Massima Qualità",
+                "Fioretto di Qualità o Specchietto di Qualità",
+                "500 corone",
+                "Gioielli del valore di 500 corone",
+                "Provincia"
             ]
         },
         {
             "id": "Demagogue",
             "name": "Demagogo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yDGBs92ko6rUyoTe]{Agitator}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yDGBs92ko6rUyoTe]{Agitatore}</p>",
             "skills": [
                 "Arte (Scrittura)",
                 "Corrompere",
@@ -5319,12 +6418,19 @@
                 "Abile Oratore",
                 "Cospiratore",
                 "Cortese"
+            ],
+            "careergroup": "Agitatore",
+            "trappings": [
+                "3 Libelli",
+                "Mecenate",
+                "Torchio da Stampa",
+                "Cappello Spettacolare"
             ]
         },
         {
             "id": "Flagellant",
             "name": "Flagellante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Vtice54Y7PV95Dkp]{Flagellant}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Vtice54Y7PV95Dkp]{Flagellante}</p>",
             "skills": [
                 "Schivare",
                 "Tempra",
@@ -5346,12 +6452,18 @@
                 "Odio (Fuorilegge)",
                 "Flagellante",
                 "Implacabile"
+            ],
+            "careergroup": "Flagellante",
+            "trappings": [
+                "Cartello",
+                "Simbolo Religioso",
+                "Frombola"
             ]
         },
         {
             "id": "Master Investigator",
             "name": "Mastro Investigatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.DAHJ4cu3WiGCdakE]{Investigator}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.DAHJ4cu3WiGCdakE]{Investigatore}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -5377,12 +6489,17 @@
                 "Sfondare",
                 "Sesto Senso",
                 "Cortese"
+            ],
+            "careergroup": "Investigatore",
+            "trappings": [
+                "Assistente",
+                "Ufficio"
             ]
         },
         {
             "id": "Fortune Teller",
             "name": "Chiromante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.M9NiEgE7qaCXmskM]{Mystic}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.M9NiEgE7qaCXmskM]{Mistico}</p>",
             "skills": [
                 "Affascinare",
                 "Intrattenere (Leggere la Sorte)",
@@ -5398,12 +6515,17 @@
                 "Fortunato",
                 "Seconda Vista",
                 "Cortese"
+            ],
+            "careergroup": "Mistico",
+            "trappings": [
+                "Mazzo di Carte o Dadi",
+                "Bigiotteria"
             ]
         },
         {
             "id": "Tax Collector",
             "name": "Esattore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.WbjmnVlyJ9VP2nt4]{Bailiff}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.WbjmnVlyJ9VP2nt4]{Balivo}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -5419,12 +6541,17 @@
                 "Numismatico",
                 "Spalle Forti",
                 "Tenace"
+            ],
+            "careergroup": "Balivo",
+            "trappings": [
+                "Arma a Una Mano",
+                "Piccolo Scrigno"
             ]
         },
         {
             "id": "High Priest",
             "name": "Alto Sacerdote",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GNwQFkVKUs0JM6U5]{Priest}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GNwQFkVKUs0JM6U5]{Prete}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -5450,12 +6577,19 @@
                 "Odio (qualsiasi)",
                 "Fervore",
                 "Risoluto"
+            ],
+            "careergroup": "Prete",
+            "trappings": [
+                "Preti Subordinati",
+                "Reliquia",
+                "Tempio",
+                "Tonaca di Qualità"
             ]
         },
         {
             "id": "Herald",
             "name": "Araldo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.B0zxjP3KbZag5Y79]{Envoy}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.B0zxjP3KbZag5Y79]{Legato}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -5471,12 +6605,18 @@
                 "Etichetta (Nobiltà)",
                 "Leggere/Scrivere",
                 "Cortese"
+            ],
+            "careergroup": "Legato",
+            "trappings": [
+                "Custodia per Pergamene",
+                "Giaco di Cuoio",
+                "Livrea"
             ]
         },
         {
             "id": "Troll Slayer",
             "name": "Sventratroll",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9p3DaFU5hMFP1C3v]{Slayer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9p3DaFU5hMFP1C3v]{Sventratore}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -5492,12 +6632,19 @@
                 "Temerario (Tutto)",
                 "Furia",
                 "Sventratore"
+            ],
+            "careergroup": "",
+            "trappings": [
+                "Ascia",
+                "Fiasca di Alcolico",
+                "Tatuaggi",
+                "Disonore"
             ]
         },
         {
             "id": "Seneschal",
             "name": "Siniscalco",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.XUrZJ3f1xtarPihy]{Warden}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.XUrZJ3f1xtarPihy]{Gastaldo}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare Animali",
@@ -5523,12 +6670,18 @@
                 "Numismatico",
                 "Leggere/Scrivere",
                 "Solidale"
+            ],
+            "careergroup": "Gastaldo",
+            "trappings": [
+                "Bastone Cerimoniale",
+                "Pettorale di Piastre",
+                "Staff di Custodi e Gastaldi"
             ]
         },
         {
             "id": "Master Merchant",
             "name": "Mastro Mercante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FLqzxS5gxKflqDUk]{Merchant}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FLqzxS5gxKflqDUk]{Mercante}</p>",
             "skills": [
                 "Domare Animali",
                 "Corrompere",
@@ -5554,12 +6707,18 @@
                 "Etichetta (qualsiasi)",
                 "Numismatico",
                 "Acuto"
+            ],
+            "careergroup": "Mercante",
+            "trappings": [
+                "Residenza con Servitori",
+                "Magazzino",
+                "100 corone"
             ]
         },
         {
             "id": "Light Cavalry Officer",
             "name": "Ufficiale di Cavalleria",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.h9LHCAdlP4o55QvD]{Cavalryman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.h9LHCAdlP4o55QvD]{Cavalleggero}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -5587,12 +6746,17 @@
                 "Ispiratore",
                 "Colpo Reattivo",
                 "Robusto"
+            ],
+            "careergroup": "Cavalleggero",
+            "trappings": [
+                "Mazzo di Carte",
+                "Abiti di Qualità"
             ]
         },
         {
             "id": "Tracker",
             "name": "Battitore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.2RxWvPZCKW2ShY5a]{Hunter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.2RxWvPZCKW2ShY5a]{Cacciatore}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -5618,6 +6782,12 @@
                 "Mira Letale",
                 "Temerario (Animali)",
                 "Tiratore Scelto"
+            ],
+            "careergroup": "Cacciatore",
+            "trappings": [
+                "Giaciglio",
+                "Tenda",
+                "Zaino"
             ]
         },
         {
@@ -5649,12 +6819,19 @@
                 "Sesto Senso",
                 "Gambe Forti",
                 "Saldo"
+            ],
+            "careergroup": "Scout",
+            "trappings": [
+                "Mappa",
+                "Cavallo da Galoppo con Sella e Briglie",
+                "Borse da Sella con 2 ottimane di Razioni",
+                "Tenda"
             ]
         },
         {
             "id": "Dragon Slayer",
             "name": "Sventradraghi",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9p3DaFU5hMFP1C3v]{Slayer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9p3DaFU5hMFP1C3v]{Sventratore}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -5680,12 +6857,17 @@
                 "Assalto Furioso",
                 "Inesorabile",
                 "Robusto"
+            ],
+            "careergroup": "",
+            "trappings": [
+                "Asce da Lancio",
+                "Testa di Gigante"
             ]
         },
         {
             "id": "Duellist",
             "name": "Duellante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.RNcsFphKVYohTrS9]{Duellist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.RNcsFphKVYohTrS9]{Duellante}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -5707,12 +6889,17 @@
                 "Etichetta (qualsiasi)",
                 "Tiro Rapido",
                 "Ribaltamento"
+            ],
+            "careergroup": "Duellante",
+            "trappings": [
+                "Daga Mancina o Spezzalama",
+                "Pistola con Polvere e Pallottole"
             ]
         },
         {
             "id": "Master Apothecary",
             "name": "Mastro Apotecario",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FW2VeYf0vUUFbVE6]{Apothecary}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FW2VeYf0vUUFbVE6]{Apotecario}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Guarire",
@@ -5738,12 +6925,18 @@
                 "Mastro Artigiano (Apotecario)",
                 "Resistente (Veleni)",
                 "Buon Senso"
+            ],
+            "careergroup": "Apotecario",
+            "trappings": [
+                "Apprendista",
+                "Laboratorio",
+                "Libro (Apotecario)"
             ]
         },
         {
             "id": "Miner",
             "name": "Minatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lWT9EiFL6a09w0h9]{Miner}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lWT9EiFL6a09w0h9]{Minatore}</p>",
             "skills": [
                 "Freddezza",
                 "Tempra",
@@ -5765,12 +6958,19 @@
                 "Colpo Poderoso",
                 "Spalle Forti",
                 "Forzuto"
+            ],
+            "careergroup": "Minatore",
+            "trappings": [
+                "Lampada Davrich",
+                "Olio",
+                "Arma a Una Mano (Piccozza)",
+                "Giaco di Cuoio"
             ]
         },
         {
             "id": "Stevedore",
             "name": "Scaricatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lDvbNLRfv9MsNyf6]{Stevedore}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lDvbNLRfv9MsNyf6]{Scaricatore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -5792,12 +6992,19 @@
                 "Etichetta (Gilde)",
                 "Gambe Forti",
                 "Tenace"
+            ],
+            "careergroup": "Scaricatore",
+            "trappings": [
+                "Licenza della Gilda",
+                "Farsetto di Cuoio",
+                "Pipa e Tabacco",
+                "Cappello da Portatore"
             ]
         },
         {
             "id": "Dockhand",
             "name": "Portuale",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lDvbNLRfv9MsNyf6]{Stevedore}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lDvbNLRfv9MsNyf6]{Scaricatore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -5813,12 +7020,17 @@
                 "Spalle Forti",
                 "Vigoroso",
                 "Forzuto"
+            ],
+            "careergroup": "Scaricatore",
+            "trappings": [
+                "Arma a Una Mano (Gaffa)",
+                "Guanti di Cuoio"
             ]
         },
         {
             "id": "Ambassador",
             "name": "Ambasciatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.B0zxjP3KbZag5Y79]{Envoy}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.B0zxjP3KbZag5Y79]{Legato}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -5846,12 +7058,19 @@
                 "Presenza Maestosa",
                 "Sangue Blu",
                 "Buon Senso"
+            ],
+            "careergroup": "Legato",
+            "trappings": [
+                "Abiti da Corte di Qualità Massima",
+                "Araldo",
+                "Attendente",
+                "Staff di Diplomatici"
             ]
         },
         {
             "id": "Honor Guard",
             "name": "Guardia d'Onore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guard}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guardia}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -5877,12 +7096,18 @@
                 "Colpo di Reni",
                 "Cuore Impavido",
                 "Nervi d’Acciaio"
+            ],
+            "careergroup": "Guardia",
+            "trappings": [
+                "Arma Grande o Alabarda", 
+                "Elmetto", 
+                "Uniforme"
             ]
         },
         {
             "id": "Smuggler",
             "name": "Contrabbandiere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TaOvUqKMJoPeuynD]{Smuggler}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TaOvUqKMJoPeuynD]{Contrabbandiere}</p>",
             "skills": [
                 "Atletica",
                 "Corrompere",
@@ -5904,12 +7129,19 @@
                 "Etichetta (Criminali)",
                 "Lupo di Mare",
                 "Forzuto"
+            ],
+            "careergroup": "Contrabbandiere",
+            "trappings": [
+                "2 Barili",
+                "Arma a Una Mano",
+                "Giaco di Cuoio",
+                "Barca a Remi"
             ]
         },
         {
             "id": "Entertainer",
             "name": "Intrattenitore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.b96g5MZr3rk5zYAo]{Entertainer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.b96g5MZr3rk5zYAo]{Intrattenitore}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -5931,12 +7163,19 @@
                 "Colpo di Reni",
                 "Tiratore Scelto",
                 "Volteggio in Sella"
+            ],
+            "careergroup": "Intrattenitore",
+            "trappings": [
+                "Costume",
+                "Strumento Musicale",
+                "Selezione di Copioni (che non sa ancora leggere)",
+                "Armi da Lancio"
             ]
         },
         {
             "id": "Prioress General",
             "name": "Priore Generale",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bE8g67fjVAE6R7Wx]{Nun}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bE8g67fjVAE6R7Wx]{Monaca}</p>",
             "skills": [
                 "Arte (Calligrafia)",
                 "Freddezza",
@@ -5964,12 +7203,16 @@
                 "Volontà di Ferro",
                 "Anima Pura",
                 "Risoluto"
+            ],
+            "careergroup": "Monaca",
+            "trappings": [
+                "Ordine Religioso"
             ]
         },
         {
             "id": "Barrister",
             "name": "Giureconsulto",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GhqPa2iwEdc4Dokc]{Lawyer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GhqPa2iwEdc4Dokc]{Avvocato}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -5995,12 +7238,17 @@
                 "Lingua di Gatto",
                 "Fervore",
                 "Buon Senso"
+            ],
+            "careergroup": "Avvocato",
+            "trappings": [
+                "Assistente (Studente o Servo)",
+                "Ufficio"
             ]
         },
         {
             "id": "River Pirate",
             "name": "Pirata di Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AnW8kwDb9koFgMPx]{Wrecker}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AnW8kwDb9koFgMPx]{Naufragatore}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -6026,12 +7274,18 @@
                 "Etichetta (Criminali)",
                 "Minaccioso",
                 "Lupo di Mare"
+            ],
+            "careergroup": "Naufragatore",
+            "trappings": [
+                "Balestra con 10 Dardi",
+                "Fune e Rampino",
+                "Barca da Fiume"
             ]
         },
         {
             "id": "Braggart",
             "name": "Spaccone",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mlLVNBKIUnonqka2]{Protagonist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mlLVNBKIUnonqka2]{Bravaccio}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -6047,12 +7301,18 @@
                 "Gioco Sporco",
                 "Minaccioso",
                 "Guerriero Nato"
+            ],
+            "careergroup": "Bravaccio",
+            "trappings": [
+                "Cappuccio o Maschera",
+                "Tirapugni",
+                "Giaco di Cuoio"
             ]
         },
         {
             "id": "Outlaw Chief",
             "name": "Capobanda",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mOljt11dxZENtmoR]{Outlaw}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mOljt11dxZENtmoR]{Fuorilegge}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -6078,12 +7338,19 @@
                 "Nato in Sella",
                 "Minaccioso",
                 "Saldo"
+            ],
+            "careergroup": "Fuorilegge",
+            "trappings": [
+                "Elmetto",
+                "Cavallo da Galoppo con Sella e Briglie",
+                "Corpetto di Maglia",
+                "Banda di Fuorilegge"
             ]
         },
         {
             "id": "Physician's Apprentice",
             "name": "Apprendista Medico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Ora8bmvHERjYWEQn]{Physician}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Ora8bmvHERjYWEQn]{Medico}</p>",
             "skills": [
                 "Corrompere",
                 "Freddezza",
@@ -6099,12 +7366,17 @@
                 "Pronto Soccorso",
                 "Leggere/Scrivere",
                 "Colpo Stordente"
+            ],
+            "careergroup": "Medico",
+            "trappings": [
+                "Bende",
+                "Infuso Guaritore"
             ]
         },
         {
             "id": "Guard Officer",
             "name": "Ufficiale della Guardia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guard}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guardia}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -6132,12 +7404,16 @@
                 "Assalto Furioso",
                 "Volontà di Ferro",
                 "Robusto"
+            ],
+            "careergroup": "Guardia",
+            "trappings": [
+                "Pettorale di Piastre"
             ]
         },
         {
             "id": "Pit Fighter",
             "name": "Gladiatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.15N8GauWXWfbYbEQ]{Pit Fighter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.15N8GauWXWfbYbEQ]{Gladiatore}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -6159,12 +7435,19 @@
                 "Riflessi da Combattimento",
                 "Stile a Doppia Arma",
                 "Esperto con lo Scudo"
+            ],
+            "careergroup": "Gladiatore",
+            "trappings": [
+                "Flagello o Arma Grande",
+                "Arma a Una Mano",
+                "Rete o Frusta",
+                "Scudo o Brocchiero"
             ]
         },
         {
             "id": "Boatman",
             "name": "Barcaiolo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.14nKRAT6nMCMGSUf]{Boatman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.14nKRAT6nMCMGSUf]{Barcaiolo}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Schivare",
@@ -6186,12 +7469,17 @@
                 "Viaggiatore Esperto",
                 "Forzuto",
                 "Lupo di Mare"
+            ],
+            "careergroup": "Barcaiolo",
+            "trappings": [
+                "Fune",
+                "Barca a Remi"
             ]
         },
         {
             "id": "Rat Catcher",
             "name": "Acchiappatopi",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.0DuRRCYdahOKxDPF]{Rat Catcher}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.0DuRRCYdahOKxDPF]{Acchiappatopi}</p>",
             "skills": [
                 "Atletica",
                 "Addestrare (Cane)",
@@ -6213,12 +7501,17 @@
                 "Etichetta (Gilde)",
                 "Temerario (Ratti)",
                 "Saldo"
+            ],
+            "careergroup": "Acchiappatopi",
+            "trappings": [
+                "Trappole per Animali",
+                "Palo con Ratti Morti"
             ]
         },
         {
             "id": "Pauper",
             "name": "Accattone",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.djOQaw7iRfec9UEj]{Beggar}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.djOQaw7iRfec9UEj]{Mendicante}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -6234,12 +7527,17 @@
                 "Resistente (Malattie)",
                 "Zuppa di Sasso",
                 "Saldo"
+            ],
+            "careergroup": "Mendicante",
+            "trappings": [
+                "Coperta di Bassa Qualità",
+                "Tazza"
             ]
         },
         {
             "id": "Cat Burglar",
             "name": "Scassinatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TgcyR0ZdG6bMOK9o]{Thief}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TgcyR0ZdG6bMOK9o]{Ladro}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -6267,12 +7565,18 @@
                 "Scalatore",
                 "Gambe Forti",
                 "Ricco"
+            ],
+            "careergroup": "Ladro",
+            "trappings": [
+                "Abiti Scuri",
+                "Rampino",
+                "Maschera o Sciarpa"
             ]
         },
         {
             "id": "Thief-taker",
             "name": "Acciuffaladri",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bsQN8B1mtZhl2WRu]{Bounty Hunter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bsQN8B1mtZhl2WRu]{Cacciatore di Taglie}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -6288,12 +7592,18 @@
                 "Ombra",
                 "Colpo Stordente",
                 "Cortese"
+            ],
+            "careergroup": "Cacciatore di Taglie",
+            "trappings": [
+                "Arma a Una Mano",
+                "Farsetto di Cuoio",
+                "Fune"
             ]
         },
         {
             "id": "Runner",
             "name": "Corridore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8pk2uCvAMUAXWbcP]{Messenger}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8pk2uCvAMUAXWbcP]{Messaggero}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -6309,12 +7619,16 @@
                 "Piè Veloce",
                 "Velocista",
                 "Farsi da Parte"
+            ],
+            "careergroup": "Messaggero",
+            "trappings": [
+                "Custodia per Pergamene"
             ]
         },
         {
             "id": "Prospector",
             "name": "Prospettore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lWT9EiFL6a09w0h9]{Miner}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lWT9EiFL6a09w0h9]{Minatore}</p>",
             "skills": [
                 "Freddezza",
                 "Tempra",
@@ -6330,12 +7644,19 @@
                 "Passo Lungo (Roccioso)",
                 "Vigoroso",
                 "Tenace"
+            ],
+            "careergroup": "Minatore",
+            "trappings": [
+                "Carboncino",
+                "Mappa Rozza",
+                "Padella",
+                "Pala"
             ]
         },
         {
             "id": "Master Bounty Hunter",
             "name": "Mastro Cacciatore di Taglie",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bsQN8B1mtZhl2WRu]{Bounty Hunter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bsQN8B1mtZhl2WRu]{Cacciatore di Taglie}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -6361,12 +7682,17 @@
                 "Colpo Misurato",
                 "Stile a Doppia Arma",
                 "Velocista"
+            ],
+            "careergroup": "Cacciatore di Taglie",
+            "trappings": [
+                "Corpetto di Maglia",
+                "Cavallo da Galoppo e Sella"
             ]
         },
         {
             "id": "Fellow",
             "name": "Associato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.cIBJfaY9DKJh5ZEM]{Scholar}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.cIBJfaY9DKJh5ZEM]{Studioso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Intrattenere (Cantastorie)",
@@ -6392,12 +7718,17 @@
                 "Oratore",
                 "Genio (qualsiasi)",
                 "Torre di Memorie"
+            ],
+            "careergroup": "Studioso",
+            "trappings": [
+                "Tocco",
+                "Vesti"
             ]
         },
         {
             "id": "Initiate",
             "name": "Iniziato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GNwQFkVKUs0JM6U5]{Priest}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GNwQFkVKUs0JM6U5]{Prete}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -6413,12 +7744,17 @@
                 "Visioni Mistiche",
                 "Leggere/Scrivere",
                 "Cortese"
+            ],
+            "careergroup": "Prete",
+            "trappings": [
+                "Simbolo Religioso",
+                "Tonaca"
             ]
         },
         {
             "id": "Fence",
             "name": "Ricettatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lbbddfm36XMb8SYg]{Fence}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lbbddfm36XMb8SYg]{Ricettatore}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -6440,12 +7776,18 @@
                 "Etichetta (Criminali)",
                 "Numismatico",
                 "Buon Senso"
+            ],
+            "careergroup": "Ricettatore",
+            "trappings": [
+                "Lente da Gioielliere",
+                "Arnesi del Mestiere (Incisore)",
+                "Occorrente per Scrivere"
             ]
         },
         {
             "id": "Treasure Hunter",
             "name": "Cacciatore di Tesori",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.W2Ovj3ec7eqZUuuv]{Grave Robber}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.W2Ovj3ec7eqZUuuv]{Tombarolo}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Freddezza",
@@ -6473,12 +7815,20 @@
                 "Sesto Senso",
                 "Risoluto",
                 "Esperto in Trappole"
+            ],
+            "careergroup": "Tombarolo",
+            "trappings": [
+                "Giaciglio",
+                "Mappe",
+                "Tenda",
+                "Arnesi del Mestiere (Ingegnere)",
+                "Occorrente per Scrivere"
             ]
         },
         {
             "id": "Herbwise",
             "name": "Saggio delle Erbe",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MYzcmrUrSKLmshwu]{Herbalist}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MYzcmrUrSKLmshwu]{Erborista}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -6506,12 +7856,16 @@
                 "Mastro Artigiano (Erborista)",
                 "Resistente (Veleni)",
                 "Genio (Erbe)"
+            ],
+            "careergroup": "Erborista",
+            "trappings": [
+                "Pony e Carretto"
             ]
         },
         {
             "id": "River Runner",
             "name": "Corriere di Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TaOvUqKMJoPeuynD]{Smuggler}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TaOvUqKMJoPeuynD]{Contrabbandiere}</p>",
             "skills": [
                 "Atletica",
                 "Corrompere",
@@ -6527,12 +7881,20 @@
                 "Pescatore",
                 "Passo Lungo (Paludi)",
                 "Spalle Forti"
+            ],
+            "careergroup": "Contrabbandiere",
+            "trappings": [
+                "Grosso Sacco",
+                "Maschera o Sciarpa",
+                "Acciarino",
+                "Lanterna Schermata",
+                "Olio"
             ]
         },
         {
             "id": "Exterminator",
             "name": "Sterminatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.0DuRRCYdahOKxDPF]{Rat Catcher}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.0DuRRCYdahOKxDPF]{Acchiappatopi}</p>",
             "skills": [
                 "Atletica",
                 "Addestrare (Cane)",
@@ -6560,12 +7922,18 @@
                 "Minaccioso",
                 "Robusto",
                 "Risoluto"
+            ],
+            "careergroup": "Acchiappatopi",
+            "trappings": [
+                "Assistente",
+                "Cane Grosso e Feroce",
+                "Sacco di Esche Avvelenate (10 dosi di Ammazzacuore)"
             ]
         },
         {
             "id": "Judge",
             "name": "Giudice",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GhqPa2iwEdc4Dokc]{Lawyer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GhqPa2iwEdc4Dokc]{Avvocato}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -6593,12 +7961,17 @@
                 "Capoccia",
                 "Genio (Legge)",
                 "Ricco"
+            ],
+            "careergroup": "Avvocato",
+            "trappings": [
+                "Martelletto", 
+                "Parrucca Ostentata"
             ]
         },
         {
             "id": "Huffer",
             "name": "Nocchiere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.LaTDWvLySPKGojiW]{Huffer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.LaTDWvLySPKGojiW]{Nocchiere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Pettegolezzo",
@@ -6620,12 +7993,18 @@
                 "Etichetta (Gilde)",
                 "Fiutare Pericolo",
                 "Pilota Fluviale"
+            ],
+            "careergroup": "Nocchiere",
+            "trappings": [
+                "Farsetto di Cuoio",
+                "Fune",
+                "Barca a Remi"
             ]
         },
         {
             "id": "Wandering Trader",
             "name": "Commerciante Girovago",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.jAqbxNrHW35xiuOn]{Pedlar}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.jAqbxNrHW35xiuOn]{Venditore Ambulante}</p>",
             "skills": [
                 "Affascinare",
                 "Tempra",
@@ -6653,12 +8032,18 @@
                 "Risoluto",
                 "Cortese",
                 "Tenace"
+            ],
+            "careergroup": "Venditore Ambulante",
+            "trappings": [
+                "Cavallo da Tiro e Carro",
+                "50 scellini in moneta",
+                "Beni per almeno 5d10 corone"
             ]
         },
         {
             "id": "Busker",
             "name": "Artista di Strada",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.b96g5MZr3rk5zYAo]{Entertainer}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.b96g5MZr3rk5zYAo]{Intrattenitore}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -6674,12 +8059,17 @@
                 "Imitatore",
                 "Oratore",
                 "Cortese"
+            ],
+            "careergroup": "Intrattenitore",
+            "trappings": [
+                "Ciotola",
+                "Strumento Musicale"
             ]
         },
         {
             "id": "Witchfinder General",
             "name": "Generale Inquisitore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.3A56eFnkIYFmbRL1]{Witch Hunter}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.3A56eFnkIYFmbRL1]{Cacciatore di Streghe}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -6707,12 +8097,17 @@
                 "Volontà di Ferro",
                 "Senso Magico",
                 "Anima Pura"
+            ],
+            "careergroup": "Cacciatore di Streghe",
+            "trappings": [
+                "Abiti da Corte di Qualità Massima",
+                "Cacciatori di Streghe Subordinati"
             ]
         },
         {
             "id": "Seaman",
             "name": "Marinaio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.wu6aG1XPdzvpiLcR]{Seaman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.wu6aG1XPdzvpiLcR]{Marinaio}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -6734,12 +8129,17 @@
                 "Gambe da Marinaio",
                 "Viaggiatore Esperto",
                 "Gambe Forti"
+            ],
+            "careergroup": "Marinaio",
+            "trappings": [
+                "Arma a Una Mano (Gaffa)",
+                "Farsetto di Cuoio"
             ]
         },
         {
             "id": "Light Cavalry Sergeant",
             "name": "Sergente di Cavalleria",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.h9LHCAdlP4o55QvD]{Cavalryman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.h9LHCAdlP4o55QvD]{Cavalleggero}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -6765,12 +8165,16 @@
                 "Tiro Rapido",
                 "Odio (qualsiasi)",
                 "Condottiero"
+            ],
+            "careergroup": "Cavalleggero",
+            "trappings": [
+                "Fusciacca"
             ]
         },
         {
             "id": "Recruit",
             "name": "Recluta",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.kT0ZI0LoHmIvhjPk]{Soldier}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.kT0ZI0LoHmIvhjPk]{Soldato}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -6786,12 +8190,18 @@
                 "Tiratore",
                 "Spalle Forti",
                 "Guerriero Nato"
+            ],
+            "careergroup": "Soldato",
+            "trappings": [
+                "Pugnale",
+                "Pettorale di Cuoio Bollito",
+                "Uniforme"
             ]
         },
         {
             "id": "Peasant",
             "name": "Campagnolo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.btrs5XFk2OQsCtqj]{Villager}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.btrs5XFk2OQsCtqj]{Villico}</p>",
             "skills": [
                 "Domare Animali",
                 "Atletica",
@@ -6807,12 +8217,16 @@
                 "Spalle Forti",
                 "Risoluto",
                 "Zuppa di Sasso"
+            ],
+            "careergroup": "Villico",
+            "trappings": [
+                "Nulla"
             ]
         },
         {
             "id": "Artisan",
             "name": "Artigiano",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AlriWm9KtKnDAMw1]{Artisan}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AlriWm9KtKnDAMw1]{Artigiano}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -6834,12 +8248,17 @@
                 "Etichetta (Gilde)",
                 "Dita Agili",
                 "Vigoroso"
+            ],
+            "careergroup": "Artigiano",
+            "trappings": [
+                "Licenza della Gilda",
+                "Arnesi del Mestiere"
             ]
         },
         {
             "id": "Coachman",
             "name": "Cocchiere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.BnA8KJuCw16zwOVC]{Coachman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.BnA8KJuCw16zwOVC]{Cocchiere}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -6861,12 +8280,19 @@
                 "Schiocco di Frusta",
                 "Fuciliere",
                 "Risoluto"
+            ],
+            "careergroup": "Cocchiere",
+            "trappings": [
+                "Archibugio con 10 Colpi",
+                "Corno",
+                "Giaco di Cuoio",
+                "Cappello"
             ]
         },
         {
             "id": "Master Beggar",
             "name": "Mastro Mendicante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.djOQaw7iRfec9UEj]{Beggar}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.djOQaw7iRfec9UEj]{Mendicante}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -6892,12 +8318,18 @@
                 "Gioco Sporco",
                 "Gagliardo",
                 "Farsi da Parte"
+            ],
+            "careergroup": "Mendicante",
+            "trappings": [
+                "Kit da Camuffamento",
+                "Rifugio Nascosto",
+                "Seguace Accattone"
             ]
         },
         {
             "id": "Apothecary-General",
             "name": "Apotecario-Generale",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FW2VeYf0vUUFbVE6]{Apothecary}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FW2VeYf0vUUFbVE6]{Apotecario}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Guarire",
@@ -6925,12 +8357,17 @@
                 "Razionale",
                 "Mastro Artigiano (Avvelenatore)",
                 "Genio (Apotecario)"
+            ],
+            "careergroup": "Apotecario",
+            "trappings": [
+                "Laboratorio Grande",
+                "Lettere d’Incarico"
             ]
         },
         {
             "id": "Warrior Priest",
             "name": "Prete Guerriero",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.KG5lVereynSwOkxa]{Warrior Priest}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.KG5lVereynSwOkxa]{Prete Guerriero}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -6952,12 +8389,17 @@
                 "Ispiratore",
                 "Invocazione (qualsiasi)",
                 "Viaggiatore Esperto"
+            ],
+            "careergroup": "Prete Guerriero",
+            "trappings": [
+                "Pettorale di Piastre",
+                "Arma (qualsiasi)"
             ]
         },
         {
             "id": "Scoundrel",
             "name": "Filibustiere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.JTKAh4qCOCcPa2yN]{Charlatan}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.JTKAh4qCOCcPa2yN]{Ciarlatano}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -6985,12 +8427,17 @@
                 "Maestro del Travestimento",
                 "Fiutare Pericolo",
                 "Cortese"
+            ],
+            "careergroup": "Ciarlatano",
+            "trappings": [
+                "Sigillo Falso",
+                "Occorrente per Scrivere"
             ]
         },
         {
             "id": "Bargeswain",
             "name": "Nostromo di Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.14nKRAT6nMCMGSUf]{Boatman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.14nKRAT6nMCMGSUf]{Barcaiolo}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Schivare",
@@ -7016,12 +8463,17 @@
                 "Intascare",
                 "Fiutare Pericolo",
                 "Colpo Poderoso"
+            ],
+            "careergroup": "Barcaiolo",
+            "trappings": [
+                "Zaino",
+                "Arnesi del Mestiere (Carpentiere)"
             ]
         },
         {
             "id": "Prophet of Doom",
             "name": "Profeta del Fato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Vtice54Y7PV95Dkp]{Flagellant}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Vtice54Y7PV95Dkp]{Flagellante}</p>",
             "skills": [
                 "Schivare",
                 "Tempra",
@@ -7049,12 +8501,18 @@
                 "Temerario (Eretici)",
                 "Spaventoso",
                 "Fervore"
+            ],
+            "careergroup": "Flagellante",
+            "trappings": [
+                "Libro (Religione)",
+                "Seguaci (Penitenti",
+                "Flagellanti e Zeloti)"
             ]
         },
         {
             "id": "Boatswain",
             "name": "Nostromo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.wu6aG1XPdzvpiLcR]{Seaman}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.wu6aG1XPdzvpiLcR]{Marinaio}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -7080,12 +8538,16 @@
                 "Colpo Poderoso",
                 "Tenace",
                 "Forzuto"
+            ],
+            "careergroup": "Marinaio",
+            "trappings": [
+                "Arnesi del Mestiere (Carpentiere)"
             ]
         },
         {
             "id": "Seer",
             "name": "Veggente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.M9NiEgE7qaCXmskM]{Mystic}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.M9NiEgE7qaCXmskM]{Mistico}</p>",
             "skills": [
                 "Affascinare",
                 "Intrattenere (Leggere la Sorte)",
@@ -7113,12 +8575,16 @@
                 "Senso Magico",
                 "Minaccioso",
                 "Risoluto"
+            ],
+            "careergroup": "Mistico",
+            "trappings": [
+                "Arnesi del Mestiere (Astrologo)"
             ]
         },
         {
             "id": "Penitent",
             "name": "Penitente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Vtice54Y7PV95Dkp]{Flagellant}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Vtice54Y7PV95Dkp]{Flagellante}</p>",
             "skills": [
                 "Schivare",
                 "Tempra",
@@ -7144,12 +8610,16 @@
                 "Assalto Furioso",
                 "Minaccioso",
                 "Viaggiatore Esperto"
+            ],
+            "careergroup": "Flagellante",
+            "trappings": [
+                "Reliquia Religiosa"
             ]
         },
         {
             "id": "Scholar",
             "name": "Studioso",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.cIBJfaY9DKJh5ZEM]{Scholar}</p>",
+            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.cIBJfaY9DKJh5ZEM]{Studioso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Intrattenere (Cantastorie)",
@@ -7171,6 +8641,11 @@
                 "Etichetta (Accademici)",
                 "Lettura Veloce",
                 "Cortese"
+            ],
+            "careergroup": "Studioso",
+            "trappings": [
+                "Accesso a una Biblioteca",
+                "Laurea"
             ]
         }
     ]
