@@ -1,5 +1,14 @@
 import { 
-    lores, ranges, durations, targets, overcasts, effects, symptoms, classes
+    lores, 
+    ranges, 
+    durations, 
+    targets, 
+    overcasts, 
+    effects, 
+    symptoms, 
+    classes, 
+    locations,
+    penalties
 } from "./translations.js"
 
 Hooks.on("init", () => {
@@ -32,6 +41,11 @@ Hooks.on("init", () => {
                 ? targets[target.toLowerCase()] 
                 : target;
             },
+            "location": (location) => {
+                return locations[location.toLowerCase()] 
+                ? locations[location.toLowerCase()] 
+                : location;
+            },
             "overcast": (overcast) => {
                 return overcasts[overcast.toLowerCase()] 
                 ? overcasts[overcast.toLowerCase()] 
@@ -49,10 +63,12 @@ Hooks.on("init", () => {
                     : effect.label
                 }, effectsArray);
                 return effectsArray;
-            }
+            },
+            "penalty": (penalty) => {
+                return penalties[penalty.toLowerCase()] 
+                ? penalties[penalty.toLowerCase()] 
+                : penalty;
+            },
         });
-        console.log("SINTOMI: ", game.wfrp4e.config.symptoms);
-        game.wfrp4e.config.symptoms = symptoms;
-        console.log("SINTOMI AGGIORNATI: ", game.wfrp4e.config.symptoms);
     }
 });

@@ -4,6 +4,10 @@
         "effects": {
             "path": "effects",
             "converter": "effects"
+        },
+		"location": {
+            "path": "data.location.value",
+            "converter": "location"
         }
     },
 	"entries": [

@@ -16,10 +16,10 @@ const lores = {
 const ranges = {
     "1 yard":"1 metro",
     "6 yards":"6 metri",
-    "as weapon":"Come l’arma",
+    "as weapon":"As Weapon",
     "fellowship bonus yards":"Bonus Socialità metri",
     "fellowship yards":"Socialità metri",
-    "half weapon":"Metà dell’arma",
+    "half weapon":"Half Weapon",
     "initiative bonus miles":"Bonus Iniziativa × 1,5km",
     "initiative yards":"Iniziativa metri",
     "intelligence bonus yards":"Bonus Intelligenza metri",
@@ -37,6 +37,8 @@ const ranges = {
 const durations = {
     "1 hour":"1 Ora",
     "1 round":"1 Round",
+    "30 - TB days":"30 - BR giorni",
+    "30 - TB":"30 - BR",
     "6 rounds":"6 Round",
     "1d10 days, or instantly if developed from another symptom.":"1d10 giorni o istantanea se legata ad altri sintomi.",
     "agility bonus rounds":"Bonus Agilità Round",
@@ -377,7 +379,7 @@ const effects = {
     "Plate Helm": "Elmo Chiuso",
     "Plate Leggings": "Gambali",
     "Plate Open Helm": "Elmo Aperto",
-    "Pox": "Vaiolo",
+    "Pox": "Vescicole",
     "Primary Target": "Bersaglio Primario",
     "Profane Urgency": "Bisogno Profano",
     "Prone": "Prono",
@@ -510,4 +512,48 @@ const classes = {
     "warrior":"Guerrieri"
 };
 
-export { lores, ranges, durations, targets, overcasts, effects, symptoms, classes };
+const locations = {
+    "arm":"Braccio",
+    "body":"Torso",
+    "ear":"Orecchio",
+    "eye":"Occhio",
+    "finger":"Dito della Mano",
+    "foot":"Piede",
+    "hand":"Mano",
+    "head":"Testa",
+    "leg":"Gamba",
+    "nose":"Naso",
+    "teeth":"Denti",
+    "toes":"Dita dei Piedi",
+    "tongue":"Lingua"
+};
+
+const penalties = {
+    "-10 to tests involving (specific) arm":"-10 alle Prove che coinvolgono il Braccio (specifico)",
+    "-10 to tests involving (specific) leg":"-10 alle Prove che coinvolgono la Gamba (specifica)",
+    "-20 fellowship, -30 to smell tests":"-20 alle Prove di Socialità, -30 alle Prove basate sull'olfatto",
+    "-20 to mobility tests, cannot use dodge, half move":"-20 alle Prove che richiedono mobilità, non si può Schivare, Movimento dimezzato",
+    "-20 to mobility tests, half move":"-20 alle Prove che richiedono mobilità, Movimento dimezzato",
+    "-20 to tests involving (specific) arm":"-20 alle Prove che coinvolgono il Braccio (specifico)",
+    "-20 to tests involving the body":"-20 alle Prove che coinvolgono il Torso",
+    "-20 to tests involving the head":"-20 alle Prove che coinvolgono la Testa",
+    "-20 when relying on two hands":"-20 alle Prove che richiedono entrambe le Mani",
+    "-30 to all language tests.":"-30 alle Prove di Linguaggio.",
+    "-30 to s and ag, half your move.":"-30 a Forza e Agilità, Movimento dimezzato.",
+    "-5 fellowship":"-5 alle Prove di Socialità",
+    "-5 using <specific hand>":"-5 alle Prove che coinvolgono la <mano specifica>",
+    "fail all language tests":"Fallimento di tutte le Prove di Linguaggio"
+};
+
+export { 
+    lores, 
+    ranges, 
+    durations, 
+    targets, 
+    overcasts, 
+    effects, 
+    symptoms, 
+    classes, 
+    locations,
+    penalties
+};
