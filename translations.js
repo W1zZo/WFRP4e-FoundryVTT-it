@@ -545,6 +545,13 @@ const penalties = {
     "fail all language tests":"Fallimento di tutte le Prove di Linguaggio"
 };
 
+const specials = {
+    "An Incendiary gives every affected target 1+SL Ablaze Conditions.":"La Bomba Incendiaria causa 1+LS Condizioni In Fiamme.",
+    "Blunderbusses are the only weapons listed that use the Small shot or Improvised shot ammunition. All other Blackpowder and engineering weapons use bullets.":"Il trombone è l’unica arma che usa le Cariche a Pallini o Improvvisate. Tutte le altre Armi da Fuoco o Sperimentali impiegano le normali Pallottole.",
+    "Entangling weapons have no range bands, just the listed range.":"Le Armi Intralcianti non hanno categorie di gittata, solo quella indicata.",
+    "Lances count as Improvised Weapons if used on a round where you have not Charged":"Le lance da cavaliere contano come Armi Improvvisate nei Round in cui il Personaggio non Carica."
+};
+
 export { 
     lores, 
     ranges, 
@@ -555,5 +562,6 @@ export {
     symptoms, 
     classes, 
     locations,
-    penalties
+    penalties,
+    specials
 };

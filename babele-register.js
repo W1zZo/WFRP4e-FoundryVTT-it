@@ -8,7 +8,8 @@ import {
     symptoms, 
     classes, 
     locations,
-    penalties
+    penalties,
+    specials
 } from "./translations.js"
 
 Hooks.on("init", () => {
@@ -69,6 +70,11 @@ Hooks.on("init", () => {
                 ? penalties[penalty.toLowerCase()] 
                 : penalty;
             },
+            "special": (special) => {
+                return specials[special] 
+                ? specials[special] 
+                : special;
+            }
         });
     }
 });

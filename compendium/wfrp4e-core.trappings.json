@@ -5,6 +5,10 @@
             "path": "data.range.value",
             "converter": "range"
         },
+		"special": {
+            "path": "data.special.value",
+            "converter": "special"
+        },
         "effects": {
             "path": "effects",
             "converter": "effects"
