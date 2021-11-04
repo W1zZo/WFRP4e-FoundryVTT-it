@@ -1,3 +1,23 @@
+const types = {
+    "ammunition":"munizione",
+    "armour":"armatura",
+    "career":"carriera",
+    "container":"contenitore",
+    "critical":"critico",
+    "disease":"malattia",
+    "injury":"ferita",
+    "money":"moneta",
+    "mutation":"mutazione",
+    "prayer":"preghiera",
+    "psychology":"psicologia",
+    "skill":"abilità",
+    "spell":"incantesimo",
+    "talent":"talento",
+    "trait":"tratto",
+    "trapping":"avere",
+    "weapon":"arma"
+};
+
 const lores = {
     "beasts":"Bestie",
     "daemonology":"Demonologia",
@@ -553,6 +573,7 @@ const specials = {
 };
 
 export { 
+    types,
     lores, 
     ranges, 
     durations, 

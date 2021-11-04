@@ -1,5 +1,11 @@
 {
 	"label": "Psicologia",
+	"mapping": {
+        "type": {
+            "path": "type",
+            "converter": "type"
+        }
+    },
 	"entries": [
 		{
 			"id": "Animosity (Target)",

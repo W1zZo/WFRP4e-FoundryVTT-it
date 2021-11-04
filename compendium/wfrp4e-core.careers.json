@@ -5,6 +5,10 @@
         "talents": "data.talents",
         "careergroup": "data.careergroup.value",
         "trappings": "data.trappings",
+        "type": {
+            "path": "type",
+            "converter": "type"
+        },
         "class": {
             "path": "data.class.value",
             "converter": "class"

@@ -1,5 +1,11 @@
 {
     "label": "Abilità",
+    "mapping": {
+        "type": {
+            "path": "type",
+            "converter": "type"
+        }
+    },
     "entries": [
         {
             "id": "Animal Training",

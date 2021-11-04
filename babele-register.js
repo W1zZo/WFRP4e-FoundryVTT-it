@@ -1,4 +1,5 @@
 import { 
+    types,
     lores, 
     ranges, 
     durations, 
@@ -22,6 +23,11 @@ Hooks.on("init", () => {
         });
 
         Babele.get().registerConverters({
+            "type": (type) => {
+                return types[type] 
+                ? types[type] 
+                : type;
+            },
             "lore": (lore) => {
                 return lores[lore.toLowerCase()] 
                 ? lores[lore.toLowerCase()] 

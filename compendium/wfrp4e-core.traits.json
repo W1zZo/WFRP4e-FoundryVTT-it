@@ -1,5 +1,11 @@
 {
 	"label": "Tratti",
+	"mapping": {
+		"type": {
+            "path": "type",
+            "converter": "type"
+        }
+	},
 	"entries": [
 		{
 			"id": "# Tentacles",

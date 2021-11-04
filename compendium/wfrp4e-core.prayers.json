@@ -1,6 +1,10 @@
 {
     "label": "Preghiere",
     "mapping": {
+        "type": {
+            "path": "type",
+            "converter": "type"
+        },
         "duration": {
             "path": "data.duration.value",
             "converter": "duration"
