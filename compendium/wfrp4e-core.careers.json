@@ -12,6 +12,10 @@
         "class": {
             "path": "data.class.value",
             "converter": "class"
+        },
+        "effects": {
+            "path": "effects",
+            "converter": "effects"
         }
     },
     "entries": [

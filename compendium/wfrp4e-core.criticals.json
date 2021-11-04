@@ -5,13 +5,13 @@
             "path": "type",
             "converter": "type"
         },
-        "effects": {
-            "path": "effects",
-            "converter": "effects"
-        },
 		"location": {
             "path": "data.location.value",
             "converter": "location"
+        },
+        "effects": {
+            "path": "effects",
+            "converter": "effects"
         }
     },
 	"entries": [
