@@ -23,10 +23,12 @@ Hooks.on("init", () => {
         });
 
         Babele.get().registerConverters({
+            // types can't be translated for now
             "type": (type) => {
-                return types[type] 
+                /*return types[type] 
                 ? types[type] 
-                : type;
+                : type;*/
+                return type;
             },
             "lore": (lore) => {
                 return lores[lore.toLowerCase()] 
