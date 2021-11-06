@@ -3,10 +3,6 @@
 	"mapping": {
 		"contraction": "data.contraction.value",
 		"permanent": "data.contraction.value",
-		"type": {
-            "path": "type",
-            "converter": "type"
-        },
 		"duration_unit": {
             "path": "data.duration.unit",
             "converter": "duration"

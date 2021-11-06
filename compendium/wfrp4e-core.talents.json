@@ -2,10 +2,6 @@
     "label": "Talenti",
     "mapping": {
         "tests": "data.tests.value",
-        "type": {
-            "path": "type",
-            "converter": "type"
-        },
         "effects": {
             "path": "effects",
             "converter": "effects"

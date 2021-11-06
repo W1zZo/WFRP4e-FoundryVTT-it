@@ -1,23 +1,3 @@
-const types = {
-    "ammunition":"munizione",
-    "armour":"armatura",
-    "career":"carriera",
-    "container":"contenitore",
-    "critical":"critico",
-    "disease":"malattia",
-    "injury":"ferita",
-    "money":"moneta",
-    "mutation":"mutazione",
-    "prayer":"preghiera",
-    "psychology":"psicologia",
-    "skill":"abilità",
-    "spell":"incantesimo",
-    "talent":"talento",
-    "trait":"tratto",
-    "trapping":"avere",
-    "weapon":"arma"
-};
-
 const lores = {
     "beasts":"Bestie",
     "daemonology":"Demonologia",
@@ -595,8 +575,7 @@ const specials = {
     "Lances count as Improvised Weapons if used on a round where you have not Charged":"Le lance da cavaliere contano come Armi Improvvisate nei Round in cui il Personaggio non Carica."
 };
 
-export { 
-    types,
+export {
     lores, 
     ranges, 
     durations, 

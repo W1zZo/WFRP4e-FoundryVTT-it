@@ -1,10 +1,6 @@
 {
 	"label": "Tratti",
 	"mapping": {
-		"type": {
-            "path": "type",
-            "converter": "type"
-        },
         "effects": {
             "path": "effects",
             "converter": "effects"

@@ -1,12 +1,10 @@
-import { 
-    types,
+import {
     lores, 
     ranges, 
     durations, 
     targets, 
     overcasts, 
-    effects, 
-    symptoms, 
+    effects,
     classes, 
     locations,
     penalties,
@@ -23,13 +21,6 @@ Hooks.on("init", () => {
         });
 
         Babele.get().registerConverters({
-            // types can't be translated for now
-            "type": (type) => {
-                /*return types[type] 
-                ? types[type] 
-                : type;*/
-                return type;
-            },
             "lore": (lore) => {
                 return lores[lore.toLowerCase()] 
                 ? lores[lore.toLowerCase()] 

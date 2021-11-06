@@ -1,10 +1,6 @@
  {
 	"label": "Averi",
 	"mapping": {
-		"type": {
-            "path": "type",
-            "converter": "type"
-        },
         "range": {
             "path": "data.range.value",
             "converter": "range"
