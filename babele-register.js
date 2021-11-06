@@ -1,5 +1,4 @@
 import {
-    lores, 
     ranges, 
     durations, 
     targets, 
@@ -21,11 +20,6 @@ Hooks.on("init", () => {
         });
 
         Babele.get().registerConverters({
-            "lore": (lore) => {
-                return lores[lore.toLowerCase()] 
-                ? lores[lore.toLowerCase()] 
-                : lore;
-            },
             "duration": (duration) => {
                 return durations[duration.toLowerCase()] 
                 ? durations[duration.toLowerCase()] 

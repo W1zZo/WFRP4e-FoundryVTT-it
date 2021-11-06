@@ -1,18 +1,3 @@
-const lores = {
-    "beasts":"Bestie",
-    "daemonology":"Demonologia",
-    "death":"Morte",
-    "fire":"Fuoco",
-    "heavens":"Empireo",
-    "hedgecraft":"Soglia",
-    "life":"Vita",
-    "light":"Luce",
-    "metal":"Metallo",
-    "necromancy":"Necromanzia",
-    "shadow":"Ombre",
-    "witchcraft":"Stregoneria"
-};
-
 const ranges = {
     "1 yard":"1 metro",
     "6 yards":"6 metri",
@@ -575,8 +560,7 @@ const specials = {
     "Lances count as Improvised Weapons if used on a round where you have not Charged":"Le lance da cavaliere contano come Armi Improvvisate nei Round in cui il Personaggio non Carica."
 };
 
-export {
-    lores, 
+export { 
     ranges, 
     durations, 
     targets, 
