@@ -137,7 +137,7 @@
     "SHEET.Configure": "Configura Scheda",
     "SHEET.Token": "Configura Token",
     "SHEET.Import": "Importa",
-    "SHEET.Post": "Pubblica per chattare",
+    "SHEET.Post": "Pubblica nella Chat",
     
     "SHEET.NestedWarning": "Non è possibile aggiungere il contenitore oltre il 4° contenitore annidato.",
     "SHEET.LocationWarning": "Rimuovere il contenitore prima di cambiare la sua posizione",
