@@ -1,3 +1,18 @@
+const lores = {
+    "beasts":"Bestie",
+    "daemonology":"Demonologia",
+    "death":"Morte",
+    "fire":"Fuoco",
+    "heavens":"Empireo",
+    "hedgecraft":"Soglia",
+    "life":"Vita",
+    "light":"Luce",
+    "metal":"Metallo",
+    "necromancy":"Necromanzia",
+    "shadow":"Ombre",
+    "witchcraft":"Stregoneria"
+};
+
 const ranges = {
     "1 yard":"1 metro",
     "6 yards":"6 metri",
@@ -561,6 +576,7 @@ const specials = {
 };
 
 export { 
+    lores,
     ranges, 
     durations, 
     targets, 
