@@ -2,7 +2,7 @@
 	"label": "Malattie",
 	"mapping": {
 		"contraction": "data.contraction.value",
-		"permanent": "data.contraction.value",
+		"permanent": "data.permanent.value",
 		"duration_unit": {
             "path": "data.duration.unit",
             "converter": "duration"
