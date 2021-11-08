@@ -64,8 +64,8 @@ Hooks.on("init", () => {
                 : penalty;
             },
             "special": (special) => {
-                return specials[special] 
-                ? specials[special] 
+                return specials[special.toLowerCase()] 
+                ? specials[special.toLowerCase()] 
                 : special;
             }
         });
