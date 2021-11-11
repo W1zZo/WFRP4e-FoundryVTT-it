@@ -1,206 +1,246 @@
 {
 	"label": "Mutazioni",
 	"mapping": {
+		"modifier": "data.modifier.value",
         "effects": {
             "path": "effects",
             "converter": "effects"
         }
     },
 	"entries": [
-		{
-			"id": "Animalistic Legs",
-			"name": "Gambe Animalesche",
-			"description": ""
-		},
-		{
-			"id": "Awful Cravings",
-			"name": "Orride Voglie",
-			"description": ""
-		},
-		{
-			"id": "Beast Within",
-			"name": "Bestia Interiore",
-			"description": ""
-		},
-		{
-			"id": "Chaotic Dreams",
-			"name": "Sogni Caotici",
-			"description": "<p>Gain the Fatigued Condition for the first two hours of every day</p>"
-		},
-		{
-			"id": "Corpulent",
-			"name": "Corpulento",
-			"description": ""
-		},
-		{
-			"id": "Crawling Skin",
-			"name": "Pelle d’Oca",
-			"description": ""
-		},
-		{
-			"id": "Distended Digits",
-			"name": "Falangi Allungate",
-			"description": ""
-		},
-		{
-			"id": "Emaciated",
-			"name": "Emaciato",
-			"description": ""
-		},
-		{
-			"id": "Enormous Eye",
-			"name": "Occhio Enorme",
-			"description": ""
-		},
-		{
-			"id": "Erratic Fantasist",
-			"name": "Fantasie Errabonde",
-			"description": ""
-		},
-		{
-			"id": "Extra Leg Joints",
-			"name": "Articolazione Aggiuntiva alle Gambe",
-			"description": ""
-		},
-		{
-			"id": "Extra Mouth",
-			"name": "Bocca Aggiuntiva",
-			"description": "<p>Tirare sulla tabella @Table[hitloc]{Locazione} per determinarla.</p>"
-		},
-		{
-			"id": "Fearful Concern",
-			"name": "Terribili Timori",
-			"description": ""
-		},
-		{
-			"id": "Fleshy Tentacle",
-			"name": "Tentacoli Carnosi",
-			"description": "<p>Si ottiene il Tratto @Compendium[wfrp4e-core.traits.4xF7M6ylIiGntekh]{Tentacoli} (vedere pag. 343).</p>"
-		},
-		{
-			"id": "Glowing Skin",
-			"name": "Pelle Luminosa",
-			"description": "<p>Luce pari a una candela</p>"
-		},
-		{
-			"id": "Hateful Impulses",
-			"name": "Impulsi d’Odio",
-			"description": "<p>Animosità (vedere Psicologia) verso ogni altra specie.</p>"
-		},
-		{
-			"id": "Hollow Heart",
-			"name": "Cuore Gelido",
-			"description": ""
-		},
-		{
-			"id": "Inhuman Beauty",
-			"name": "Bellezza Inumana",
-			"description": ""
-		},
-		{
-			"id": "Inverted Face",
-			"name": "Volto Rovesciato",
-			"description": ""
-		},
-		{
-			"id": "Iron Skin",
-			"name": "Pelle di Ferro",
-			"description": ""
-		},
-		{
-			"id": "Jealous Thoughts",
-			"name": "Gelosia",
-			"description": ""
-		},
-		{
-			"id": "Lolling Tongue",
-			"name": "Lingua Pigra",
-			"description": ""
-		},
-		{
-			"id": "Lonely Spirit",
-			"name": "Spirito Melanconico",
-			"description": ""
-		},
-		{
-			"id": "Mental Blocks",
-			"name": "Blocco Mentale",
-			"description": ""
-		},
-		{
-			"id": "Patchy Feathers",
-			"name": "Chiazze di Piume",
-			"description": "<p>Tirare sulla tabella @Table[hitloc]{Locazione} per determinarla.</p>"
-		},
-		{
-			"id": "Profane Urgency",
-			"name": "Bisogno Profano",
-			"description": ""
-		},
-		{
-			"id": "Shaky Morale",
-			"name": "Spirito Debole",
-			"description": ""
-		},
-		{
-			"id": "Short Legs",
-			"name": "Gambe Corte",
-			"description": ""
-		},
-		{
-			"id": "Suspicious Mind",
-			"name": "Sospettoso",
-			"description": ""
-		},
-		{
-			"id": "Thorny Scales",
-			"name": "Scaglie Cornee",
-			"description": ""
-		},
-		{
-			"id": "Thrill Hunter",
-			"name": "Ricerca del Brivido",
-			"description": ""
-		},
-		{
-			"id": "Tortured Visions",
-			"name": "Visioni Terribili",
-			"description": ""
-		},
-		{
-			"id": "Totally Unhinged",
-			"name": "Follia Totale",
-			"description": ""
-		},
-		{
-			"id": "Unending Malice",
-			"name": "Malizia Infinita",
-			"description": ""
-		},
-		{
-			"id": "Uneven Horns",
-			"name": "Corna Irregolari",
-			"description": "<p>Conta come un’Arma Naturale con Danno pari al BF (vedere pag. 338).</p>"
-		},
-		{
-			"id": "Unholy Rage",
-			"name": "Rabbia Sacrilega",
-			"description": ""
-		},
-		{
-			"id": "Weeping Pus",
-			"name": "Pustola Suppurante",
-			"description": "<p>Tirare sulla tabella @Table[hitloc]{Locazione} per determinarla.</p>"
-		},
-		{
-			"id": "Whiskered Snout",
-			"name": "Naso Peloso",
-			"description": ""
-		},
-		{
-			"id": "Worried Jitters",
-			"name": "Tremiti Nervosi",
-			"description": ""
-		}
-	]
+        {
+            "id": "Animalistic Legs",
+            "name": "Gambe Animalesche",
+            "description": "",
+            "modifier": "+1 Movimento"
+        },
+        {
+            "id": "Awful Cravings",
+            "name": "Orride Voglie",
+            "description": "",
+            "modifier": "-5 Socialità, -5 Volontà"
+        },
+        {
+            "id": "Beast Within",
+            "name": "Bestia Interiore",
+            "description": "",
+            "modifier": "+10 Volontà, -5 Socialità, -5 Intelligenza"
+        },
+        {
+            "id": "Chaotic Dreams",
+            "name": "Sogni Caotici",
+            "description": "<p>Ogni giorno, per le prime 2 ore dopo il risveglio, si subisce 1 @Condition[Affaticato]</p>",
+            "modifier": ""
+        },
+        {
+            "id": "Corpulent",
+            "name": "Corpulento",
+            "description": "",
+            "modifier": "-1 Movimento, +5 Forza, +5 Resistenza"
+        },
+        {
+            "id": "Crawling Skin",
+            "name": "Pelle d’Oca",
+            "description": "",
+            "modifier": "-5 Iniziativa, -5 Destrezza"
+        },
+        {
+            "id": "Distended Digits",
+            "name": "Falangi Allungate",
+            "description": "",
+            "modifier": "+10 Destrezza"
+        },
+        {
+            "id": "Emaciated",
+            "name": "Emaciato",
+            "description": "",
+            "modifier": "-10 Forza, +5 Agilità"
+        },
+        {
+            "id": "Enormous Eye",
+            "name": "Occhio Enorme",
+            "description": "",
+            "modifier": "+10 alle Prove di Percepire basate sulla vista"
+        },
+        {
+            "id": "Erratic Fantasist",
+            "name": "Fantasie Errabonde",
+            "description": "",
+            "modifier": "-5 Iniziativa, -5 Volontà"
+        },
+        {
+            "id": "Extra Leg Joints",
+            "name": "Articolazione Aggiuntiva alle Gambe",
+            "description": "",
+            "modifier": "+5 Agilità"
+        },
+        {
+            "id": "Extra Mouth",
+            "name": "Bocca Aggiuntiva",
+            "description": "<p>Tirare sulla tabella @Table[hitloc]{Locazione} per determinarla.</p>",
+            "modifier": ""
+        },
+        {
+            "id": "Fearful Concern",
+            "name": "Terribili Timori",
+            "description": "",
+            "modifier": "-10 Volontà"
+        },
+        {
+            "id": "Fleshy Tentacle",
+            "name": "Tentacoli Carnosi",
+            "description": "<p>Si ottiene il Tratto @Compendium[wfrp4e-core.traits.4xF7M6ylIiGntekh]{Tentacoli} (vedere pag. 343).</p>",
+            "modifier": ""
+        },
+        {
+            "id": "Glowing Skin",
+            "name": "Pelle Luminosa",
+            "description": "<p>Luce pari a una candela</p>",
+            "modifier": "Luce pari a una candela"
+        },
+        {
+            "id": "Hateful Impulses",
+            "name": "Impulsi d’Odio",
+            "description": "<p>Animosità (vedere Psicologia) verso ogni altra specie.</p>",
+            "modifier": ""
+        },
+        {
+            "id": "Hollow Heart",
+            "name": "Cuore Gelido",
+            "description": "",
+            "modifier": "+10 Volontà, -10 Socialità"
+        },
+        {
+            "id": "Inhuman Beauty",
+            "name": "Bellezza Inumana",
+            "description": "",
+            "modifier": "+10 Socialità; nessuna cicatrice"
+        },
+        {
+            "id": "Inverted Face",
+            "name": "Volto Rovesciato",
+            "description": "",
+            "modifier": "-20 in tutte le Prove di Socialità"
+        },
+        {
+            "id": "Iron Skin",
+            "name": "Pelle di Ferro",
+            "description": "",
+            "modifier": "+2 Punti Armatura a tutte le Locazioni, -10 Agilità"
+        },
+        {
+            "id": "Jealous Thoughts",
+            "name": "Gelosia",
+            "description": "",
+            "modifier": "-10 Socialità"
+        },
+        {
+            "id": "Lolling Tongue",
+            "name": "Lingua Pigra",
+            "description": "",
+            "modifier": "-10 in tutte le Prove di Linguaggio parlato"
+        },
+        {
+            "id": "Lonely Spirit",
+            "name": "Spirito Melanconico",
+            "description": "",
+            "modifier": "-10 in tutte le Prove se lasciato solo"
+        },
+        {
+            "id": "Mental Blocks",
+            "name": "Blocco Mentale",
+            "description": "",
+            "modifier": "-10 Intelligenza"
+        },
+        {
+            "id": "Patchy Feathers",
+            "name": "Chiazze di Piume",
+            "description": "<p>Tirare sulla tabella @Table[hitloc]{Locazione} per determinarla.</p>",
+            "modifier": ""
+        },
+        {
+            "id": "Profane Urgency",
+            "name": "Bisogno Profano",
+            "description": "",
+            "modifier": "-10 Volontà, +10 Agilità"
+        },
+        {
+            "id": "Shaky Morale",
+            "name": "Spirito Debole",
+            "description": "",
+            "modifier": "Se fallisce una Prova basata su Volontà subisce 1 Atterrito"
+        },
+        {
+            "id": "Short Legs",
+            "name": "Gambe Corte",
+            "description": "",
+            "modifier": "-1 Movimento"
+        },
+        {
+            "id": "Suspicious Mind",
+            "name": "Sospettoso",
+            "description": "",
+            "modifier": "-5 Iniziativa, -5 Intelligenza"
+        },
+        {
+            "id": "Thorny Scales",
+            "name": "Scaglie Cornee",
+            "description": "",
+            "modifier": "+1 Punto Armatura a tutte le Locazioni"
+        },
+        {
+            "id": "Thrill Hunter",
+            "name": "Ricerca del Brivido",
+            "description": "",
+            "modifier": "+10 Volontà, -10 Iniziativa"
+        },
+        {
+            "id": "Tortured Visions",
+            "name": "Visioni Terribili",
+            "description": "",
+            "modifier": "-10 Iniziativa"
+        },
+        {
+            "id": "Totally Unhinged",
+            "name": "Follia Totale",
+            "description": "",
+            "modifier": "-20 Socialità, +10 Volontà"
+        },
+        {
+            "id": "Unending Malice",
+            "name": "Malizia Infinita",
+            "description": "",
+            "modifier": "-10 alle Prove che non danneggiano il prossimo, +10 a quelle che causano danno"
+        },
+        {
+            "id": "Uneven Horns",
+            "name": "Corna Irregolari",
+            "description": "<p>Conta come un’Arma Naturale con Danno pari al BF (vedere pag. 338).</p>",
+            "modifier": "+1 Punto Armatura alla Testa"
+        },
+        {
+            "id": "Unholy Rage",
+            "name": "Rabbia Sacrilega",
+            "description": "",
+            "modifier": "Furia, +10 Abilità di Combattimento"
+        },
+        {
+            "id": "Weeping Pus",
+            "name": "Pustola Suppurante",
+            "description": "<p>Tirare sulla tabella @Table[hitloc]{Locazione} per determinarla.</p>",
+            "modifier": ""
+        },
+        {
+            "id": "Whiskered Snout",
+            "name": "Naso Peloso",
+            "description": "",
+            "modifier": "+10 Seguire Tracce"
+        },
+        {
+            "id": "Worried Jitters",
+            "name": "Tremiti Nervosi",
+            "description": "",
+            "modifier": "+5 Agilità, -5 Socialità"
+        }
+    ]
 }
