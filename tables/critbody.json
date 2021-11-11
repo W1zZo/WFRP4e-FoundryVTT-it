@@ -1,0 +1,105 @@
+{
+  "name": "Colpi Critici - Body",
+  "die": "1d100",
+  "rows": [{
+    "name": "Un Graffietto!",
+    "wounds": "1",
+    "description": "Causa 1 Sanguinante.",
+    "range": [1, 10]
+  }, {
+    "name": "Colpo al Ventre",
+    "wounds": "1",
+    "description": "Causa 1 Stordito. Superare una Prova Facile (+40) di Tempra per non vomitare e finire Prono.",
+    "range": [11, 20]
+  }, {
+    "name": "Colpo Basso!",
+    "wounds": "1",
+    "description": "Superare una Prova Ardua (-20) di Tempra per non subire 3 Stordito.",
+    "range": [21, 25]
+  }, {
+    "name": "Torsione della Schiena",
+    "wounds": "1",
+    "description": "Causa uno Strappo Muscolare (Minore).",
+    "range": [26, 30]
+  }, {
+    "name": "Fiato Mozzo",
+    "wounds": "2",
+    "description": "Causa 1 Stordito. Superare una Prova Media (+20) di Tempra per non cadere Prono. Movimento dimezzato per @Roll[1d10] Round, mentre si riprende fiato.",
+    "range": [31, 35]
+  }, {
+    "name": "Livido alle Costole",
+    "wounds": "2",
+    "description": "Penalità di -10 in tutte le Prove basate su Agilità per @Roll[1d10] giorni.",
+    "range": [36, 40]
+  }, {
+    "name": "Clavicola Lussata",
+    "wounds": "2",
+    "description": "Un braccio scelto a caso lascia cadere ciò che si impugna ed è inutilizzabile per @Roll[1d10] Round (vedere Amputazioni).",
+    "range": [41, 45]
+  }, {
+    "name": "Lacerazione",
+    "wounds": "2",
+    "description": "Causa 2 Sanguinante.",
+    "range": [46, 50]
+  }, {
+    "name": "Costole Incrinate",
+    "wounds": "3",
+    "description": "Il colpo incrina una o più costole. Causa 1 Stordito e Osso Rotto (Minore).",
+    "range": [51, 55]
+  }, {
+    "name": "Ferita Aperta",
+    "wounds": "3",
+    "description": "Causa 3 Sanguinante. Senza una Chirurgia ogni ulteriore colpo al torso la riaprirà causando 1 Sanguinante.",
+    "range": [56, 60]
+  }, {
+    "name": "Taglio Doloroso",
+    "wounds": "3",
+    "description": "Causa 2 Sanguinante e 1 Stordito . Superare una Prova Ardua (-20) di Tempra per non cadere Privo di Sensi a causa del dolore. Con meno di +4 LS si urlerà per la sofferenza.",
+    "range": [61, 65]
+  }, {
+    "name": "Arteria Danneggiata",
+    "wounds": "3",
+    "description": "Causa 4 Sanguinante. Senza una Chirurgia ogni ulteriore colpo al braccio causerà 2 Sanguinante.",
+    "range": [66, 70]
+  }, {
+    "name": "Strappo alla Schiena",
+    "wounds": "4",
+    "description": "Il dolore alla schiena è accecante. Causa uno Strappo Muscolare (Maggiore).",
+    "range": [71, 75]
+  }, {
+    "name": "Anca Fratturata",
+    "wounds": "4",
+    "description": "Causa 1 Stordito e Osso Rotto (Minore). Superare una Prova Impegnativa (+0) di Tempra per non cadere Prono.",
+    "range": [76, 80]
+  }, {
+    "name": "Ferita Grave al Petto",
+    "wounds": "4",
+    "description": "Un colpo grave al petto stacca pelle e carne dalle ossa. Causa 4 Sanguinante. Senza una Chirurgia ogni ulteriore colpo al torso causerà 2 Sanguinante.",
+    "range": [81, 85]
+  }, {
+    "name": "Ferita all’Addome",
+    "wounds": "4",
+    "description": "Causa un Ferita Infetta (vedere Malattie e Infezioni) e 2 Sanguinante.",
+    "range": [86, 90]
+  }, {
+    "name": "Cassa Toracica Frantumata",
+    "wounds": "5",
+    "description": "Causa 1 Stordito, che può essere rimosso solo con cure mediche, e un Osso Rotto (Maggiore).",
+    "range": [91, 93]
+  }, {
+    "name": "Clavicola Spezzata",
+    "wounds": "5",
+    "description": "Causa Privo di Sensi, che può essere rimosso solo con Cure Mediche, e un Osso Rotto (Maggiore).",
+    "range": [94, 96]
+  }, {
+    "name": "Ferita Interna",
+    "wounds": "5",
+    "description": "Causa 1 Sanguinante, che può essere rimosso solo con Cure Mediche, e Sangue Marcio (vedere Malattie e Infezioni).",
+    "range": [97, 99]
+  }, {
+    "name": "Smembrato",
+    "wounds": "Morte",
+    "description": "Il Personaggio viene tagliato in due. La metà superiore vola in una direzione casuale e tutti coloro che si trovano entro 2m vengono ricoperti di sangue.",
+    "range": [100, 100]
+  }]
+}

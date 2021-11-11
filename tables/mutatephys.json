@@ -1,0 +1,85 @@
+{
+  "name": "Corruzione Fisica",
+  "die": "1d100",
+  "rows": [{
+    "name": "Gambe Animalesche",
+    "description": "+1 Movimento",
+    "range": [1, 5]
+  }, {
+    "name": "Corpulento",
+    "description": "-1 Movimento, +5 Forza, +5 Resistenza",
+    "range": [6, 10]
+  }, {
+    "name": "Falangi Allungate",
+    "description": "+10 Destrezza",
+    "range": [11, 15]
+  }, {
+    "name": "Emaciato",
+    "description": "-10 Forza, +5 Agilità",
+    "range": [16, 20]
+  }, {
+    "name": "Occhio Enorme",
+    "description": "+10 alle Prove di Percepire basate sulla vista",
+    "range": [21, 25]
+  }, {
+    "name": "Articolazione Aggiuntiva alle Gambe",
+    "description": "+5 Agilità",
+    "range": [26, 30]
+  }, {
+    "name": "Bocca Aggiuntiva",
+    "description": "Tirare per determinarne la Locazione",
+    "range": [31, 35]
+  }, {
+    "name": "Tentacoli Carnosi",
+    "description": "Si ottiene il Tratto Tentacoli",
+    "range": [36, 40]
+  }, {
+    "name": "Pelle Luminosa",
+    "description": "Luce pari a una candela",
+    "range": [41, 45]
+  }, {
+    "name": "Bellezza Inumana",
+    "description": "+10 Socialità; nessuna cicatrice",
+    "range": [46, 50]
+  }, {
+    "name": "Volto Rovesciato",
+    "description": "-20 in tutte le Prove di Socialità",
+    "range": [51, 55]
+  }, {
+    "name": "Pelle di Ferro",
+    "description": "+2 Punti Armatura a tutte le Locazioni, -10 Agilità",
+    "range": [56, 60]
+  }, {
+    "name": "Lingua Pigra",
+    "description": "-10 in tutte le Prove di Linguaggio parlato",
+    "range": [61, 65]
+  }, {
+    "name": "Chiazze di Piume",
+    "description": "Tirare per determinarne la Locazione",
+    "range": [66, 70]
+  }, {
+    "name": "Gambe Corte",
+    "description": "-1 Movimento",
+    "range": [71, 75]
+  }, {
+    "name": "Scaglie Cornee",
+    "description": "+1 Punto Armatura a tutte le Locazioni",
+    "range": [76, 80]
+  }, {
+    "name": "Corna Irregolari",
+    "description": "+1 Punto Armatura alla Testa; conta come un’Arma Naturale con Danno pari al BF",
+    "range": [81, 85]
+  }, {
+    "name": "Pustola Suppurante",
+    "description": "Tirare per determinarne la Locazione",
+    "range": [86, 90]
+  }, {
+    "name": "Naso Peloso",
+    "description": "+10 Seguire Tracce",
+    "range": [91, 95]
+  }, {
+    "name": "A Scelta del GM",
+    "description": "Il GM assegna una Mutazione o Tratto delle Creature",
+    "range": [96, 100]
+  }]
+}

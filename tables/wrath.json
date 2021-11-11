@@ -1,0 +1,129 @@
+{
+  "name": "Tabella dell'Ira degli Dei",
+  "die": "1d100",
+  "rows": [{
+    "name": "Visioni Mistiche",
+    "description": "Il Personaggio è colpito da visioni del proprio dio. Effettuare una Prova <b>Media (+20) di Tempra</b> per non subire 1 @Condition[Stordito]. Il GM definisce la natura delle visioni.",
+    "range": [1, 5]
+  }, {
+    "name": "Pensa ai Tuoi Atti",
+    "description": "Per l’ottimana seguente, nessuna Prova di Preghiera del Personaggio può superare +0 LS.",
+    "range": [6, 10]
+  }, {
+    "name": "Ascolta il Mio Insegnamento",
+    "description": "Il Personaggio subisce -10 a Preghiera per [[1d10]]+Punti Peccato Round.",
+    "range": [11, 15]
+  }, {
+    "name": "Prova la Tua Devozione",
+    "description": "Il Personaggio cade @Condition[Prono]. Questa Condizione permane finché non supera una Prova <b>Media (+20) di Pregare</b>.",
+    "range": [16, 20]
+  }, {
+    "name": "Metti alla Prova la Mia Pazienza",
+    "description": "Il Personaggio non può effettuare Prove di Preghiera per [[1d10]] Round.",
+    "range": [21, 25]
+  }, {
+    "name": "Non Comprendi il Mio Intento",
+    "description": "Il Personaggio subisce -10 a tutte le Abilità legate al suo dio (decise dal GM) per [[1d10]]+Punti Peccato ore.",
+    "range": [26, 30]
+  }, {
+    "name": "Trovo Insopportabile la Tua Mancanza di Fede",
+    "description": "Il Personaggio non può effettuare Prove di Preghiera per [[1d10]]+Punti Peccato Round.",
+    "range": [31, 35]
+  }, {
+    "name": "Condividi il Mio Dolore",
+    "description": "Il Personaggio subisce 1+Punti Peccato Ferite, ignorando il Bonus Resistenza e l’Armatura. Inoltre deve superare una Prova <b>Media (+20) di Tempra</b> o subire 1 @Condition[Stordito].",
+    "range": [36, 40]
+  }, {
+    "name": "La Tua Causa è Indegna",
+    "description": "I bersagli dell’effetto cadono @Condition[Prono]{Proni} e ogni Benedizione o Miracolo della divinità lanciato su di loro fallirà automaticamente per [[1d10]]+Punti Peccato giorni.",
+    "range": [41, 45]
+  }, {
+    "name": "Smetti di Blaterare",
+    "description": "Il Personaggio non può effettuare Prove di Preghiera per [[2d10]]+Punti Peccato Round.",
+    "range": [46, 50]
+  }, {
+    "name": "Prova la Mia Furia",
+    "description": "Il Personaggio subisce [[1d10]]+Punti Peccato Ferite, ignorando il Bonus Resistenza e l’Armatura. Inoltre deve superare una Prova <b>Impegnativa (+0) di Tempra</b> o subire 1 @Condition[Stordito].",
+    "range": [51, 55]
+  }, {
+    "name": "Non Ti aiuterò",
+    "description": "Il Personaggio subisce -10 a tutte le Abilità legate al suo dio (decise dal GM) per [[1d10]]+Punti Peccato giorni.",
+    "range": [56, 60]
+  }, {
+    "name": "Stigmate",
+    "description": "Il Personaggio subisce 1+Punti Peccato @Condition[Sanguinante].",
+    "range": [61, 65]
+  }, {
+    "name": "Cecità",
+    "description": "Il Personaggio cade @Condition[Prono] e subisce 1+Punti Peccato @Condition[Accecato], che possono essere rimossi solo con Prove <b>Impegnative (+0) di Pregare</b>, al ritmo di 1 + LS per successo.",
+    "range": [66, 70]
+  }, {
+    "name": "Cosa Sei Pronto a Sacrificare?",
+    "description": "Il Personaggio subisce [[1d10]]+Punti Peccato Ferite, ignorando il Bonus Resistenza e l’Armatura. Inoltre deve superare una Prova <b>Difficile (-10) di Tempra</b> o subire 1 @Condition[Stordito].",
+    "range": [71, 75]
+  }, {
+    "name": "Hai Peccato Contro di Me",
+    "description": "Il dio è molto irritato e costringe il Personaggio a eseguire Prove di Pregare per [[1d10]]+Punti Peccato Round come penitenza.",
+    "range": [76, 80]
+  }, {
+    "name": "Purifica la Carne",
+    "description": "Il Personaggio subisce [[2d10]]+Punti Peccato Ferite, ignorando il Bonus Resistenza e l’Armatura. Inoltre deve superare una Prova <b>Ardua (-20) di Tempra</b> o subire 1 @Condition[Stordito]. Se fallisce di -4 LS o peggio cadrà @Condition[Privo di Sensi] per almeno [[1d10]] Round.",
+    "range": [81, 87]
+  }, {
+    "name": "Interferenza Demoniaca",
+    "description": "Uno degli Dei Oscuri risponde alla preghiera. [[1d10]] Demoni Minori appaiono entro [[2d10]] m dal Personaggio e attaccano il bersaglio più vicino.",
+    "range": [88, 88]
+  }, {
+    "name": "Temi la Mia Ira",
+    "description": "Il Personaggio subisce 1+Punti Peccato @Condition[Atterrito].",
+    "range": [89, 95]
+  }, {
+    "name": "Penitenza",
+    "description": "Il Personaggio deve eseguire una Penitenza.",
+    "range": [96, 100]
+  }, {
+    "name": "Castigo",
+    "description": "Il Personaggio viene portato a 0 Ferite e cade @Condition[Privo di Sensi]. La Condizione non potrà essere rimossa finché non recupera almeno 1 Ferita.",
+    "range": [101, 105]
+  }, {
+    "name": "Non Pronunciare il Mio Nome Invano",
+    "description": "Il Personaggio perde i Talenti Benedizione e Invocazione per [[1d10]]+Punti Peccato giorni.",
+    "range": [106, 110]
+  }, {
+    "name": "Non Affidarti agli Idoli",
+    "description": "Tutti gli Averi del Personaggio svaniscono, lasciandolo nudo. Per ogni Penitenza che completa recupererà un Oggetto Magico sottratto, se ne aveva.",
+    "range": [111, 115]
+  }, {
+    "name": "Abusi della Mia Pazienza",
+    "description": "Il Personaggio perde i Talenti Benedizione e Invocazione per [[2d10]]+Punti Peccato giorni.",
+    "range": [116, 120]
+  }, {
+    "name": "Osserva la Tua Malvagità",
+    "description": "Il Personaggio ha terribili visioni dei propri fallimenti, che sembrano durare un’eternità, ma sono solo un istante. Giocatore e GM possono ideare un Tratto Psicologico (pag. 190, @JournalEntry[Psychology]) su misura per riflettere come il trauma cambia il Personaggio.",
+    "range": [121, 125]
+  }, {
+    "name": "Tuoni e Fulmini",
+    "description": "Il dio folgora il Personaggio, che va a 0 Ferite e subisce 1 @Condition[In Fiamme].",
+    "range": [126, 130]
+  }, {
+    "name": "Soffri come Io Ho Sofferto",
+    "description": "Ogni mattina, finché non completa una Penitenza, il Personaggio subisce 1+Punti Peccato @Condition[Sanguinante].",
+    "range": [131, 135]
+  }, {
+    "name": "Scomunica",
+    "description": "Il Personaggio perde i Talenti Benedizione e Invocazione finché non completa 2 Penitenze. La prima gli restituisce Benedizione , la seconda Invocazione . Tutti i fedeli del suo dio saranno automaticamente consapevoli dell’accaduto e le Prove sociali nei loro confronti Molto Ardue (-30) senza possibili modificatori positivi.",
+    "range": [136, 140]
+  }, {
+    "name": "Dimostra il Tuo Valore",
+    "description": "Un Emissario Divino appare entro [[1d100]] m dal Personaggio e lo attacca, insulta o interviene a seconda della natura del dio e dell’offesa.",
+    "range": [141, 145]
+  }, {
+    "name": "Bandito",
+    "description": "Il dio abbandona il Personaggio, che perde per sempre i Talenti Benedizione e Invocazione . Tutti i fedeli saranno automaticamente consapevoli dell’accaduto e le Prove sociali nei loro confronti <b>Molto Ardue (-30)</b> senza possibili modificatori positivi.",
+    "range": [146, 150]
+  }, {
+    "name": "Rendere Conto",
+    "description": "Il Personaggio è convocato di fronte al proprio dio per essere giudicato. Non farà ritorno a meno di spendere un Punto Fato. Se lo fa tornerà in un luogo a scelta del GM e subirà gli effetti di Bandito.",
+    "range": [151, 151]
+  }]
+}

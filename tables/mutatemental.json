@@ -1,0 +1,85 @@
+{
+  "name": "Corruzione Mentale",
+  "die": "1d100",
+  "rows": [{
+    "name": "Orride Voglie",
+    "description": "-5 Socialità, -5 Volontà",
+    "range": [1, 5]
+  }, {
+    "name": "Bestia Interiore",
+    "description": "+10 Volontà, -5 Socialità, -5 Intelligenza",
+    "range": [6, 10]
+  }, {
+    "name": "Sogni Caotici",
+    "description": "Ogni giorno, per le prime 2 ore dopo il risveglio, si subisce 1 Affaticato",
+    "range": [11, 15]
+  }, {
+    "name": "Pelle d’Oca",
+    "description": "-5 Iniziativa, -5 Destrezza",
+    "range": [16, 20]
+  }, {
+    "name": "Fantasie Errabonde",
+    "description": "-5 Iniziativa, -5 Volontà",
+    "range": [21, 25]
+  }, {
+    "name": "Terribili Timori",
+    "description": "-10 Volontà",
+    "range": [26, 30]
+  }, {
+    "name": "Impulsi d’Odio",
+    "description": "Animosità verso ogni altra specie.",
+    "range": [31, 35]
+  }, {
+    "name": "Cuore Gelido",
+    "description": "+10 Volontà, -10 Socialità",
+    "range": [36, 40]
+  }, {
+    "name": "Gelosia",
+    "description": "-10 Socialità",
+    "range": [41, 45]
+  }, {
+    "name": "Spirito Melanconico",
+    "description": "-10 in tutte le Prove se lasciato solo",
+    "range": [46, 50]
+  }, {
+    "name": "Blocco Mentale",
+    "description": "-10 Intelligenza",
+    "range": [51, 55]
+  }, {
+    "name": "Bisogno Profano",
+    "description": "-10 Volontà, +10 Agilità",
+    "range": [56, 60]
+  }, {
+    "name": "Spirito Debole",
+    "description": "Se fallisce una Prova basata su Volontà subisce 1 Atterrito",
+    "range": [61, 65]
+  }, {
+    "name": "Sospettoso",
+    "description": "-5 Iniziativa, -5 Intelligenza",
+    "range": [66, 70]
+  }, {
+    "name": "Ricerca del Brivido",
+    "description": "+10 Volontà, -10 Iniziativa",
+    "range": [71, 75]
+  }, {
+    "name": "Visioni Terribili",
+    "description": "-10 Iniziativa",
+    "range": [76, 80]
+  }, {
+    "name": "Follia Totale",
+    "description": "-20 Socialità, +10 Volontà",
+    "range": [81, 85]
+  }, {
+    "name": "Malizia Infinita",
+    "description": "-10 alle Prove che non danneggiano il prossimo, +10 a quelle che causano danno",
+    "range": [86, 90]
+  }, {
+    "name": "Rabbia Sacrilega",
+    "description": "Furia, +10 Abilità di Combattimento",
+    "range": [91, 95]
+  }, {
+    "name": "Tremiti Nervosi",
+    "description": "+5 Agilità, -5 Socialità",
+    "range": [96, 100]
+  }]
+}
