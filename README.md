@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 3. Click the Manage Modules button
 4. Find the newly installed module and place a checkmark next to the name, then click Update Modules at the bottom of the list to activate it
 
-To have Core FoundryVTT translations, don't forget to install [FoundryVTT Core Italian Translations]{https://gitlab.com/riccisi/foundryvtt-lang-it-it} Module.
+To have Core FoundryVTT translations, don't forget to install [FoundryVTT Core Italian Translations](https://gitlab.com/riccisi/foundryvtt-lang-it-it) Module.
 Finally, make sure to change FoundryVTT Language to `Italian` on the Game Settings tab.
 
 ## Contributing to `WFRP4e FoundryVTT Italian Translation`
