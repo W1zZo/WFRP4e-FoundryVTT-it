@@ -1,8 +1,16 @@
 # WFRP4e FoundryVTT Italian Translation
 
-This FoundryVTT module is based on the FoundryVTT system of [WFRP4e](https://github.com/moo-man/WFRP4e-FoundryVTT).
+![GitHub repo size](https://img.shields.io/github/repo-size/W1zZo/WFRP4e-FoundryVTT-it)
+![GitHub contributors](https://img.shields.io/github/contributors/W1zZo/WFRP4e-FoundryVTT-it)
 
-## Module Installation
+WFRP4e FoundryVTT Italian Translation is a FoundryVTT module that allows users to play with the Italian translations for the FoundryVTT system of [WFRP4e](https://github.com/moo-man/WFRP4e-FoundryVTT).
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+* You have installed [Babele](https://gitlab.com/riccisi/foundryvtt-babele).
+
+## Installing `WFRP4e FoundryVTT Italian Translation`
 
 ### Manifest
 1. Open the Foundry setup page
@@ -15,21 +23,17 @@ This FoundryVTT module is based on the FoundryVTT system of [WFRP4e](https://git
 
 1. Place the module files under Data/modules/WFRP4e-FoundryVTT-it inside your Foundry VTT user data folder
 2. Restart the Foundry VTT server
-3. Log back into Foundry VTT as the GameMaster
-4. Open the Game Settings tab
-5. Click the Manage Modules button
-6. Find the newly installed module and place a checkmark next to the name, then click Update Modules at the bottom of the list to activate it
 
-## Babele Dependency Installation
+## Using `WFRP4e FoundryVTT Italian Translation`
 
-To install, follow these instructions:
+1. Log in into Foundry VTT as the GameMaster
+2. Open the Game Settings tab
+3. Click the Manage Modules button
+4. Find the newly installed module and place a checkmark next to the name, then click Update Modules at the bottom of the list to activate it
 
-1. Inside Foundry, select the Game Modules tab in the Configuration and Setup menu.
-2. Click the Install Module button and enter the following URL: https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json
-3. Click Install and wait for installation to complete.
+To have Core FoundryVTT translations, don't forget to install [FoundryVTT Core Italian Translations]{https://gitlab.com/riccisi/foundryvtt-lang-it-it} Module.
+Finally, make sure to change FoundryVTT Language to `Italian` on the Game Settings tab.
 
-## TODO
-- [x] Initial Google Basic Translation
-- [x] Translation Refinement using Italian Core RuleBook
-- [ ] Add Compendium Packs Translations [WIP]
-- [ ] Final Refinement
+## Contributing to `WFRP4e FoundryVTT Italian Translation`
+
+To contribute to `WFRP4e FoundryVTT Italian Translation` see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
