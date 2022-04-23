@@ -1223,7 +1223,7 @@
         {
             "id": "Fearless",
             "name": "Temerario",
-            "description": "<p>You are either brave enough or crazy enough that fear of certain enemies has become a distant memory. With a single <strong>Average (+20) Cool</strong> Test, you may ignore any Intimidate, Fear, or Terror effects from the specified enemy when encountered. Typical enemies include Beastmen, Greenskins, Outlaws, Vampires, Watchmen, and Witches.</p>",
+            "description": "<p>Che sia coraggio o follia, il Personaggio non teme più un certo nemico. Con una singola Prova <strong>Media (+20) di Freddezza</strong> può ignorarne Intimidire, Paura e Terrore . Alcuni possibili nemici includono: Uominibestia, Pelleverde, Fuorilegge, Vampiri, Miliziani e Streghe.</p>",
             "tests": "Freddezza per resistere a Intimidire, Paura e Terrore causati dal nemico scelto"
         },
         {
