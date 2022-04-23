@@ -3,9 +3,9 @@
   "title": "WFRP4e Italian Translation",
   "description": "Add Italian language to WFRP4e system for FoundryVTT.",
   "author": "WizZo",
-  "version": "0.5.2",
-  "minimumCoreVersion" : "0.8.4",
-  "compatibleCoreVersion" : "0.8.9",
+  "version": "0.5.3",
+  "minimumCoreVersion" : "9",
+  "compatibleCoreVersion" : "9",
   "dependencies": [
     {
       "name": "babele",
