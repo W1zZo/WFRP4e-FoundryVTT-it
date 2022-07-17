@@ -459,7 +459,7 @@
             "description": "<p>Il Mago incanala la magia in un’esplosione. È un proiettile magico con Danno +3 che colpisce tutto nella propria Area d’Effetto.</p>"
         },
         {
-            "id": "Great Fires of U'Zhul",
+            "id": "Great Fires of U’Zhul",
             "name": "Grandi Fuochi di U'Zhul",
             "description": "<p>Il Mago scaglia una raffica di <em>Aqshy</em>, che esplode in mezzo ai nemici con la vampa furiosa di una forgia. È un proiettile magico che causa Danno +10 (ignorando i Punti Armatura) 2 @Condition[In Fiamme] e @Condition[Prono] al bersaglio principale. Chi si trova nell’Area d’Effetto, invece, subisce Danno +5 (ignorando i Punti Armatura) e deve superare una Prova di Schivare per non subire 1 @Condition[In Fiamme]. Dopo di che, l’Incantesimo non è più un proiettile magico, ma continua ad ardere nella zona fino al termine della Durata. Chiunque si trovi nell’Area d’Effetto all’inizio del Round subisce [[/r 1d10+6]] Danni, ignorando i Punti Armatura, e 1 @Condition[In Fiamme].</p>"
         },
@@ -894,7 +894,7 @@
             "description": "<p>Il Mago crea un ponte di energia magica, con lunghezza e larghezza massime pari al suo Bonus Volontà in metri. Per ogni +2 LS può incrementare una delle due dimensioni di un valore in metri pari al Bonus Volontà.</p>"
         },
         {
-            "id": "Aqshy's Aegis",
+            "id": "Aqshy’s Aegis",
             "name": "Egida dell'Aqshy",
             "description": "<p>Il Mago si stringe in un manto ardente di <em>Aqshy</em>, che incanala lingue di fiamme. Così facendo diviene completamente immune al Danno dei fuochi non magici, compreso il Soffio dei mostri, ignora gli In Fiamme ricevuti e ottiene il Tratto @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Protezione (9+)} (pag. 340) contro il fuoco magico, compresi altri Incantesimi di questo Sapere.</p>"
         },
