@@ -2,11 +2,11 @@
     "label": "Ferite",
     "mapping": {
         "duration": {
-            "path": "data.duration.value",
+            "path": "system.duration.value",
             "converter": "duration"
         },
         "location": {
-            "path": "data.location.value",
+            "path": "system.location.value",
             "converter": "location"
         },
         "effects": {

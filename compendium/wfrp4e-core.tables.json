@@ -1124,6 +1124,27 @@
                 "80-89": "Gamba Sinistra",
                 "90-100": "Gamba Destra"
             }
+        },
+        {
+            "id": "Beyond the Social Norm",
+            "name": "Beyond the Social Norm",
+            "description": "",
+            "results": {
+                "1-2": "<b>Defies Status.</b> The character defies conven-tion concerning Status and ignores its effects.",
+                "3-8": "<b>Standard Reactions</b>: The character follows the Status rules as normal.",
+                "9-10": "<b>Extreme Views</b>: The character holds extreme views. Modify all Tests influenced by Status by a further +/–10, as appropriate."
+            }
+        },
+        {
+            "id": "Drive Failure",
+            "name": "Drive Failure",
+            "description": "",
+            "results": {
+                "1-2": "<b>Snapped Harness</b>: One horse (or equivalent) breaks free; reduce speed accordingly.",
+                "3-5": "<b>Jolted Carriage</b>: Passengers suffer 1 Wound and fragile cargos might be damaged.",
+                "6-8": "<b>Broken Wheel</b>: Pass a Drive Test every round to avoid Crashing. Two-wheeled vehicles with a Broken Wheel Crash automatically.",
+                "9-10": "<b>Broken Axle</b>: The vehicle goes out of control and Crashes."
+            }
         }
     ]
 }

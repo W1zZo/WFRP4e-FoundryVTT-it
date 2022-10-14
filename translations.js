@@ -9,6 +9,7 @@ const lores = {
     "light":"Luce",
     "metal":"Metallo",
     "necromancy":"Necromanzia",
+    "petty":"Minore",
     "shadow":"Ombre",
     "witchcraft":"Stregoneria"
 };

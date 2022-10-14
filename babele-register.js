@@ -7,7 +7,8 @@ import {
     classes, 
     locations,
     penalties,
-    specials
+    specials,
+    lores
 } from "./translations.js"
 
 Hooks.on("init", () => {
@@ -67,7 +68,12 @@ Hooks.on("init", () => {
                 return specials[special.toLowerCase()] 
                 ? specials[special.toLowerCase()] 
                 : special;
-            }
+            },
+            "lore": (lore) => {
+                return lores[lore.toLowerCase()] 
+                ? lores[lore.toLowerCase()] 
+                : lore;
+            },
         });
     }
 });

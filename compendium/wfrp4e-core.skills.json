@@ -93,7 +93,7 @@
             "description": "<p>Il Personaggio è capace di creare opere d’arte di un certo genere. Non disporre degli Arnesi del Mestiere appropriati causa una penalità alle Prove di Arte. Il LS determina la qualità dell’opera. Opere grandi o complesse possono richiedere Prove Prolungate. Arte ha scarso valore in combattimento, ma un busto di marmo è una magnifica arma impropria.</p>\n<p>&nbsp;</p>\n<p><span style=\"font-weight: bold;\">Specializations: </span>Cartografia, Incisore, Mosaico, Pittura, Scultura, Tatuaggi, Tessitura.</p>\n<p>&nbsp;</p>\n<p><strong>Esempio</strong>: <em>A Irina è stato commissionato un ritratto di un nobile locale, di cui il gruppo cerca il favore. Il GM decide che servirà una Prova Prolungata di Arte con 10 LS, ogni tiro rappresenta un’ottimana di lavoro.</em></p>"
         },
         {
-            "id": "Art (Cartogrpahy)",
+            "id": "Art (Cartography)",
             "name": "Arte (Cartografia)",
             "description": "<p>Il Personaggio è capace di creare opere d’arte di un certo genere. Non disporre degli Arnesi del Mestiere appropriati causa una penalità alle Prove di Arte. Il LS determina la qualità dell’opera. Opere grandi o complesse possono richiedere Prove Prolungate. Arte ha scarso valore in combattimento, ma un busto di marmo è una magnifica arma impropria.</p>\n<p>&nbsp;</p>\n<p><span style=\"font-weight: bold;\">Specializations: </span>Cartografia, Incisore, Mosaico, Pittura, Scultura, Tatuaggi, Tessitura.</p>\n<p>&nbsp;</p>\n<p><strong>Esempio</strong>: <em>A Irina è stato commissionato un ritratto di un nobile locale, di cui il gruppo cerca il favore. Il GM decide che servirà una Prova Prolungata di Arte con 10 LS, ogni tiro rappresenta un’ottimana di lavoro.</em></p>"
         },
@@ -713,7 +713,7 @@
             "description": "<p>Questa Abilità permette di parlare altre lingue. Si immagina che tutti i Personaggi siano capaci di esprimersi in ‘Reikspiel’ – la lingua dell’Impero – e nella propria lingua madre senza bisogno di Prove. Se la partita non è ambientata nell’Impero, il Reikspiel viene sostituito con un dialetto locale.</p>\n<p>&nbsp;</p>\n<p>Chi possiede questa Abilità è in grado di farsi capire e comprendere concetti semplici. Una Prova diventa necessaria in caso si vogliano comunicare idee complesse o usare vocaboli e dialetti oscuri.</p>\n<p>&nbsp;</p>\n<p><strong>Contradano: </strong>Parlato dalle genti della Contrada, la grande provincia imperiale degli Halfling. È una lingua sconosciuta fuori da questi confini.</p>"
         },
         {
-            "id": "Language (Eltharin)",
+            "id": "Language (Elthárin)",
             "name": "Linguaggio (Eltharin)",
             "description": "<p>Questa Abilità permette di parlare altre lingue. Si immagina che tutti i Personaggi siano capaci di esprimersi in ‘Reikspiel’ – la lingua dell’Impero – e nella propria lingua madre senza bisogno di Prove. Se la partita non è ambientata nell’Impero, il Reikspiel viene sostituito con un dialetto locale.</p>\n<p>&nbsp;</p>\n<p>Chi possiede questa Abilità è in grado di farsi capire e comprendere concetti semplici. Una Prova diventa necessaria in caso si vogliano comunicare idee complesse o usare vocaboli e dialetti oscuri.</p>\n<p>&nbsp;</p>\n<p><strong>Eltharin: </strong>Parlato dagli Elfi di Athel Loren, Laurelorn e dai mercanti dell’Ulthuan. È una lingua tonale con numerosi dialetti, notoriamente difficile da apprendere per i non-Elfi.</p>"
         },

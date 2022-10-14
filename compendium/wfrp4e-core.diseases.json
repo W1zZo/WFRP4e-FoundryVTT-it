@@ -1,22 +1,22 @@
 {
 	"label": "Malattie",
 	"mapping": {
-		"contraction": "data.contraction.value",
-		"permanent": "data.permanent.value",
+		"contraction": "system.contraction.value",
+		"permanent": "system.permanent.value",
 		"duration_unit": {
-            "path": "data.duration.unit",
+            "path": "system.duration.unit",
             "converter": "duration"
         },
 		"incubation_unit": {
-            "path": "data.incubation.unit",
+            "path": "system.incubation.unit",
             "converter": "duration"
         },
 		"duration_value": {
-            "path": "data.duration.value",
+            "path": "system.duration.value",
             "converter": "duration"
         },
 		"incubation_value": {
-            "path": "data.incubation.value",
+            "path": "system.incubation.value",
             "converter": "duration"
         },
         "effects": {

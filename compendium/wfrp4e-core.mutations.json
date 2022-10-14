@@ -1,7 +1,7 @@
 {
 	"label": "Mutazioni",
 	"mapping": {
-		"modifier": "data.modifier.value",
+		"modifier": "system.modifier.value",
         "effects": {
             "path": "effects",
             "converter": "effects"

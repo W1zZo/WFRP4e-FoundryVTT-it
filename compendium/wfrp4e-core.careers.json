@@ -1,12 +1,12 @@
 {
     "label": "Carriere",
     "mapping": {
-        "skills": "data.skills",
-        "talents": "data.talents",
-        "careergroup": "data.careergroup.value",
-        "trappings": "data.trappings",
+        "skills": "system.skills",
+        "talents": "system.talents",
+        "careergroup": "system.careergroup.value",
+        "trappings": "system.trappings",
         "class": {
-            "path": "data.class.value",
+            "path": "system.class.value",
             "converter": "class"
         },
         "effects": {
@@ -7072,7 +7072,7 @@
             ]
         },
         {
-            "id": "Honor Guard",
+            "id": "Honour Guard",
             "name": "Guardia d'Onore",
             "description": "<p>@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guardia}</p>",
             "skills": [

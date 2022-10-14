@@ -2,7 +2,7 @@
 	"label": "Critici",
 	"mapping": {
 		"location": {
-            "path": "data.location.value",
+            "path": "system.location.value",
             "converter": "location"
         },
         "effects": {

@@ -2,19 +2,19 @@
     "label": "Preghiere",
     "mapping": {
         "duration": {
-            "path": "data.duration.value",
+            "path": "system.duration.value",
             "converter": "duration"
         },
         "range": {
-            "path": "data.range.value",
+            "path": "system.range.value",
             "converter": "range"
         },
         "target": {
-            "path": "data.target.value",
+            "path": "system.target.value",
             "converter": "target"
         },
         "overcast": {
-            "path": "data.overcast.label",
+            "path": "system.overcast.label",
             "converter": "overcast"
         },
         "effects": {

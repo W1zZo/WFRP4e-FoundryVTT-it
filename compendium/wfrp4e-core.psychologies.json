@@ -51,6 +51,11 @@
 			"id": "Trauma",
 			"name": "Trauma",
 			"description": "<p>La vita di molti Reiklander è breve e brutale, ancor di più per gli avventurieri, che spesso subiscono dei Traumi. </p>\n<p>&nbsp;</p>\n<p>Ognuno, in base al proprio carattere, reagisce a un Trauma in modo diverso: incubi, abuso di sostanze, flashback, @Compendium[wfrp4e-core.psychologies.Q2MCUrG2HppMcvN0]{Animosità} o @Compendium[wfrp4e-core.psychologies.5hH73j2NgPdsLCZN]{Odio} verso certi gruppi, oppure una @Compendium[wfrp4e-core.psychologies.Mu5dU4IcP58LBQwi]{Fobia}. Si possono anche sviluppare effetti diversi nel corso del tempo.</p>\n<p>&nbsp;</p>\n<p><strong>Esempio:</strong> <em>il villaggio dove viveva Horst fu distrutto da un terribile incendio e nei suoi sogni sente ancora le urla. Quando vede un altro Personaggio In Fiamme deve superare una Prova </em><strong>Impegnativa (+0) di Freddezza</strong><em>. Se fallisce subisce 1 @Condition[Stordito], più uno @Condition[Stordito] per LS sotto 0. Inoltre, ogni notte deve superare una Prova Facile (+40) di Freddezza per non avere incubi e subire 1 @Condition[Affaticato].</em></p>"
+		},
+		{
+			"id": "Love",
+			"name": "Amore",
+			"description": "<p>I poeti scrivono dell’amore e ogni menestrello del Reikland conosce dozzine di canzoni sulla sua potenza. Il Tratto Amore verso una o più persone riflette un profondo legame. Questo può essere il sentimento romantico verso il proprio compagno o amante, quello familiare verso genitori e figli, oppure una grande amicizia.&nbsp;</p>\n<p>Se il Bersaglio è minacciato fisicamente o socialmente, il Personaggio dovrà correre in suo aiuto. Mentre lo difende sarà immune alla Paura e otterrà +1 LS in tutte le Prove relative. </p>\n<p><strong>Esempio</strong>: <em>Rilla è una barcaiola che viaggia per il Reik con la sua famiglia. Ha Amore (Figlio), Amore (Fratello) e Amore (Genitori). Chi tocca la sua famiglia se la dovrà vedere con lei!</em></p>"
 		}
 	]
 }

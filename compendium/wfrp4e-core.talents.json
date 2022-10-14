@@ -1,7 +1,7 @@
 {
     "label": "Talenti",
     "mapping": {
-        "tests": "data.tests.value",
+        "tests": "system.tests.value",
         "effects": {
             "path": "effects",
             "converter": "effects"
@@ -945,7 +945,7 @@
             "tests": "Atletica per attraversare il terreno scelto"
         },
         {
-            "id": "Detect Artifact",
+            "id": "Detect Artefact",
             "name": "Percepire Artefatti",
             "description": "Il Personaggio è in grado di percepire la magia all’interno degli artefatti. Quando ne tocca uno può effettuare una Prova di Intuire. Un successo gli permette di percepirne il potere e ogni LS darà informazioni su eventuali regole speciali. Di solito, questa prova può essere eseguita solo una volta per artefatto.",
             "tests": "Intuire per localizzare artefatti magici"

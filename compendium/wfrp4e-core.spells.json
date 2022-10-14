@@ -2,24 +2,28 @@
     "label": "Incantesimi",
     "mapping": {
         "duration": {
-            "path": "data.duration.value",
+            "path": "system.duration.value",
             "converter": "duration"
         },
         "range": {
-            "path": "data.range.value",
+            "path": "system.range.value",
             "converter": "range"
         },
         "target": {
-            "path": "data.target.value",
+            "path": "system.target.value",
             "converter": "target"
         },
         "overcast": {
-            "path": "data.overcast.label",
+            "path": "system.overcast.label",
             "converter": "overcast"
         },
         "effects": {
             "path": "effects",
             "converter": "effects"
+        },
+        "lore": {
+            "path": "system.lore.value",
+            "converter": "lore"
         }
     },
     "entries": [
@@ -91,6 +95,16 @@
         {
             "id": "Magic Shield (Daemonology)",
             "name": "Scudo Magico (Demonologia)",
+            "description": "<p>Il Mago si protegge con bande d’energia. Per la durata dell’effetto, somma il proprio Bonus Volontà al LS di ogni tentativo di Dispersione che compie.</p>"
+        },
+        {
+            "id": "Magic Shield (Hedgecraft)",
+            "name": "Scudo Magico (Soglia)",
+            "description": "<p>Il Mago si protegge con bande d’energia. Per la durata dell’effetto, somma il proprio Bonus Volontà al LS di ogni tentativo di Dispersione che compie.</p>"
+        },
+        {
+            "id": "Magic Shield (Witchcraft)",
+            "name": "Scudo Magico (Stregoneria)",
             "description": "<p>Il Mago si protegge con bande d’energia. Per la durata dell’effetto, somma il proprio Bonus Volontà al LS di ogni tentativo di Dispersione che compie.</p>"
         },
         {
@@ -171,6 +185,16 @@
         {
             "id": "Blast (Daemonology)",
             "name": "Scoppio (Demonologia)",
+            "description": "<p>Il Mago incanala la magia in un’esplosione. È un proiettile magico con Danno +3 che colpisce tutto nella propria Area d’Effetto.</p>"
+        },
+        {
+            "id": "Blast (Hedgecraft)",
+            "name": "Scoppio (Soglia)",
+            "description": "<p>Il Mago incanala la magia in un’esplosione. È un proiettile magico con Danno +3 che colpisce tutto nella propria Area d’Effetto.</p>"
+        },
+        {
+            "id": "Blast (Witchcraft)",
+            "name": "Scoppio (Stregoneria)",
             "description": "<p>Il Mago incanala la magia in un’esplosione. È un proiettile magico con Danno +3 che colpisce tutto nella propria Area d’Effetto.</p>"
         },
         {
@@ -264,6 +288,16 @@
             "description": "<p>Il Mago si ricopre di magia, che vortica distraendo i nemici. Ottiene il Tratto @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distraente} (pag. 339).</p>"
         },
         {
+            "id": "Distracting (Hedgecraft)",
+            "name": "Distrazione (Soglia)",
+            "description": "<p>Il Mago si ricopre di magia, che vortica distraendo i nemici. Ottiene il Tratto @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distraente} (pag. 339).</p>"
+        },
+        {
+            "id": "Distracting (Witchcraft)",
+            "name": "Distrazione (Stregoneria)",
+            "description": "<p>Il Mago si ricopre di magia, che vortica distraendo i nemici. Ottiene il Tratto @Compendium[wfrp4e-core.traits.MVI0lXcg6vvtooAF]{Distraente} (pag. 339).</p>"
+        },
+        {
             "id": "Corrosive Blood (Light)",
             "name": "Sangue Corrosivo (Luce)",
             "description": "<p>Il Mago infonde magia in se stesso, dando temibili proprietà al proprio sangue. Ottiene il Tratto @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Sangue Corrosivo} (pag. 341).</p>"
@@ -276,6 +310,16 @@
         {
             "id": "Push (Daemonology)",
             "name": "Spinta (Demonologia)",
+            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
+        },
+        {
+            "id": "Push (Hedgecraft)",
+            "name": "Spinta (Soglia)",
+            "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
+        },
+        {
+            "id": "Push (Witchcraft)",
+            "name": "Spinta (Stregoneria)",
             "description": "<p>Tutte le creature viventi in un raggio pari al Bonus Volontà in metri dal Mago vengono respinte di Bonus Volontà metri e cadono @Condition[Prono]. Se sbattono contro ostacoli grandi, come un muro, subiscono Danni pari alla distanza percorsa in metri. Ogni +2 LS è possibile respingere le creature di ulteriori Bonus Volontà metri.</p>"
         },
         {
@@ -499,6 +543,16 @@
             "description": "<p>Il Mago ottiene il Tratto @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terrificante (1)} (pag. 190).</p>"
         },
         {
+            "id": "Terrifying (Hedgecraft)",
+            "name": "Terrificante (Soglia)",
+            "description": "<p>Il Mago ottiene il Tratto @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terrificante (1)} (pag. 190).</p>"
+        },
+        {
+            "id": "Terrifying (Witchcraft)",
+            "name": "Terrificante (Stregoneria)",
+            "description": "<p>Il Mago ottiene il Tratto @Compendium[wfrp4e-core.traits.kJNAY1YRaCy9IgmT]{Terrificante (1)} (pag. 190).</p>"
+        },
+        {
             "id": "Entangle (Shadow)",
             "name": "Aggrovigliare (Ombre)",
             "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
@@ -659,6 +713,16 @@
             "description": "<p>Il Mago crea un ponte di energia magica, con lunghezza e larghezza massime pari al suo Bonus Volontà in metri. Per ogni +2 LS può incrementare una delle due dimensioni di un valore in metri pari al Bonus Volontà.</p>"
         },
         {
+            "id": "Bridge (Hedgecraft)",
+            "name": "Ponte (Soglia)",
+            "description": "<p>Il Mago crea un ponte di energia magica, con lunghezza e larghezza massime pari al suo Bonus Volontà in metri. Per ogni +2 LS può incrementare una delle due dimensioni di un valore in metri pari al Bonus Volontà.</p>"
+        },
+        {
+            "id": "Bridge (Witchcraft)",
+            "name": "Ponte (Stregoneria)",
+            "description": "<p>Il Mago crea un ponte di energia magica, con lunghezza e larghezza massime pari al suo Bonus Volontà in metri. Per ogni +2 LS può incrementare una delle due dimensioni di un valore in metri pari al Bonus Volontà.</p>"
+        },
+        {
             "id": "Aethyric Arms",
             "name": "Arma Aethyrica",
             "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p>"
@@ -781,6 +845,16 @@
         {
             "id": "Bolt (Daemonology)",
             "name": "Strale (Demonologia)",
+            "description": "<p>Il Mago concentra la magia in un dardo fatato. È un proiettile magico con Danno +4.</p>"
+        },
+        {
+            "id": "Bolt (Hedgecraft)",
+            "name": "Strale (Soglia)",
+            "description": "<p>Il Mago concentra la magia in un dardo fatato. È un proiettile magico con Danno +4.</p>"
+        },
+        {
+            "id": "Bolt (Witchcraft)",
+            "name": "Strale (Stregoneria)",
             "description": "<p>Il Mago concentra la magia in un dardo fatato. È un proiettile magico con Danno +4.</p>"
         },
         {
@@ -919,6 +993,16 @@
             "description": "<p>Il Mago si avvolge in un Incantesimo difensivo. Ottiene il Tratto @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Protezione (9+)} (pag. 340).</p>"
         },
         {
+            "id": "Ward (Hedgecraft)",
+            "name": "Protezione (Soglia)",
+            "description": "<p>Il Mago si avvolge in un Incantesimo difensivo. Ottiene il Tratto @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Protezione (9+)} (pag. 340).</p>"
+        },
+        {
+            "id": "Ward (Witchcraft)",
+            "name": "Protezione (Stregoneria)",
+            "description": "<p>Il Mago si avvolge in un Incantesimo difensivo. Ottiene il Tratto @Compendium[wfrp4e-core.traits.Bvd2aZ0gQUXHfCTh]{Protezione (9+)} (pag. 340).</p>"
+        },
+        {
             "id": "Bolt (Light)",
             "name": "Strale (Luce)",
             "description": "<p>Il Mago concentra la magia in un dardo fatato. È un proiettile magico con Danno +4.</p>"
@@ -961,6 +1045,16 @@
         {
             "id": "Breath (Daemonology)",
             "name": "Soffio (Demonologia)",
+            "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Soffio} (pag. 341). È un proiettile magico con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento Magia Arcana dell’incantatore.</p>"
+        },
+        {
+            "id": "Breath (Hedgecraft)",
+            "name": "Soffio (Soglia)",
+            "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Soffio} (pag. 341). È un proiettile magico con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento Magia Arcana dell’incantatore.</p>"
+        },
+        {
+            "id": "Breath (Witchcraft)",
+            "name": "Soffio (Stregoneria)",
             "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Soffio} (pag. 341). È un proiettile magico con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento Magia Arcana dell’incantatore.</p>"
         },
         {
@@ -1029,6 +1123,16 @@
             "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p>"
         },
         {
+            "id": "Aethyric Arms (Hedgecraft)",
+            "name": "Arma Aethyrica (Soglia)",
+            "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p>"
+        },
+        {
+            "id": "Aethyric Arms (Witchcraft)",
+            "name": "Arma Aethyrica (Stregoneria)",
+            "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p>"
+        },
+        {
             "id": "Breath (Metal)",
             "name": "Soffio (Metallo)",
             "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.traits.uqGxFOEqeurwkAO3]{Soffio} (pag. 341). È un proiettile magico con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento Magia Arcana dell’incantatore.</p>"
@@ -1056,6 +1160,16 @@
         {
             "id": "Mundane Aura (Daemonology)",
             "name": "Aura Mondana (Demonologia)",
+            "description": "<p>Il Mago rimuove tutti i Venti della Magia da sé e dai proprio oggetti, cancellandone l’aura magica. Per la durata dell’effetto la sua natura sovrannaturale sarà impercettibile al Talento Senso Magico e altri effetti simili. Tuttavia, sarà anche privato dei propri poteri e non potrà usare Incantesimi. Questo effetto ha termine se il Mago compie una Prova d’Incanalare.</p>"
+        },
+        {
+            "id": "Mundane Aura (Hedgecraft)",
+            "name": "Aura Mondana (Soglia)",
+            "description": "<p>Il Mago rimuove tutti i Venti della Magia da sé e dai proprio oggetti, cancellandone l’aura magica. Per la durata dell’effetto la sua natura sovrannaturale sarà impercettibile al Talento Senso Magico e altri effetti simili. Tuttavia, sarà anche privato dei propri poteri e non potrà usare Incantesimi. Questo effetto ha termine se il Mago compie una Prova d’Incanalare.</p>"
+        },
+        {
+            "id": "Mundane Aura (Witchcraft)",
+            "name": "Aura Mondana (Stregoneria)",
             "description": "<p>Il Mago rimuove tutti i Venti della Magia da sé e dai proprio oggetti, cancellandone l’aura magica. Per la durata dell’effetto la sua natura sovrannaturale sarà impercettibile al Talento Senso Magico e altri effetti simili. Tuttavia, sarà anche privato dei propri poteri e non potrà usare Incantesimi. Questo effetto ha termine se il Mago compie una Prova d’Incanalare.</p>"
         },
         {
@@ -1096,6 +1210,16 @@
         {
             "id": "Entangle (Daemonology)",
             "name": "Aggrovigliare (Demonologia)",
+            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
+        },
+        {
+            "id": "Entangle (Hedgecraft)",
+            "name": "Aggrovigliare (Soglia)",
+            "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
+        },
+        {
+            "id": "Entangle (Witchcraft)",
+            "name": "Aggrovigliare (Stregoneria)",
             "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
         },
         {
@@ -1154,6 +1278,16 @@
             "description": "<p>Il Mago sposta un oggetto non senziente – non più grande di sé – usando solo la propria mente (che ha Forza pari alla Volontà). È possibile muoverlo di un numero di metri pari al Bonus Volontà e chiunque tenti di ostacolarlo dovrà superare una Prova <strong>Contrapposta Volontà/Forza</strong>. Per ogni +2 LS è possibile incrementare la distanza di movimento di un numero di metri pari al Bonus Volontà.</p>"
         },
         {
+            "id": "Move Object (Hedgecraft)",
+            "name": "Muovere Oggetto (Soglia)",
+            "description": "<p>Il Mago sposta un oggetto non senziente – non più grande di sé – usando solo la propria mente (che ha Forza pari alla Volontà). È possibile muoverlo di un numero di metri pari al Bonus Volontà e chiunque tenti di ostacolarlo dovrà superare una Prova <strong>Contrapposta Volontà/Forza</strong>. Per ogni +2 LS è possibile incrementare la distanza di movimento di un numero di metri pari al Bonus Volontà.</p>"
+        },
+        {
+            "id": "Move Object (Witchcraft)",
+            "name": "Muovere Oggetto (Stregoneria)",
+            "description": "<p>Il Mago sposta un oggetto non senziente – non più grande di sé – usando solo la propria mente (che ha Forza pari alla Volontà). È possibile muoverlo di un numero di metri pari al Bonus Volontà e chiunque tenti di ostacolarlo dovrà superare una Prova <strong>Contrapposta Volontà/Forza</strong>. Per ogni +2 LS è possibile incrementare la distanza di movimento di un numero di metri pari al Bonus Volontà.</p>"
+        },
+        {
             "id": "Entangle (Metal)",
             "name": "Aggrovigliare (Metallo)",
             "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
@@ -1174,7 +1308,7 @@
             "description": "<p>Il Mago intrappola il bersaglio in una sostanza appropriata al proprio Sapere: viticci, ombre, i suoi stessi abiti, ecc. Il bersaglio subisce 1 @Condition[Afferrato] con Forza pari all’Intelligenza del Mago. Per ogni +2 LS si può applicare un ulteriore <em>Afferrato</em>. L’effetto dura finché le Condizioni non vengono rimosse.</p>"
         },
         {
-            "id": "Phâ's Protection",
+            "id": "Phâ’s Protection",
             "name": "Protezione di Phâ",
             "description": "<p>Il Mago invoca un’aura protettiva di luce pura e santa. Gli esseri profani – ossia che hanno il Tratto @Compendium[wfrp4e-core.traits.PFTD9gDvRWW9uh5g]{Nonmorto} o @Compendium[wfrp4e-core.traits.v3uzEthcq0JRar0J]{Demoniaco}, mutazioni o più Punti Corruzione della somma dei propri Bonus Resistenza e Bonus Volontà – non possono entrare nell’Area d’Effetto. Se vi si trovano già subiscono 1 @Condition[Atterrito] finché non escono. Chi si trova nell’Area non può accumulare Punti Corruzione finché l’effetto è attivo.</p>"
         },
@@ -1189,7 +1323,7 @@
             "description": "<p>Il Mago altera le proprietà di un oggetto metallico, aggiungendo una Qualità o rimuovendo un Difetto. Per ogni +2 LS può aggiungere un’altra Qualità o rimuovere un altro Difetto.</p>"
         },
         {
-            "id": "Fool's Gold",
+            "id": "Fool’s Gold",
             "name": "Oro degli Sciocchi",
             "description": "<p>Il Mago intesse <em>Chamon</em> in un oggetto non magico di metallo, alterandone la natura alchemica. Le parti metalliche diventano d’oro. Non si tratta di un’illusione, è realmente oro, ma al termine dell’effetto ritornerà come prima. Questo Incantesimo può rovinare le armi, rendere le armature troppo pesanti da portare e trasformare monete di piombo. I dettagli degli effetti sono lasciati al GM.</p>"
         },
@@ -1246,6 +1380,16 @@
         {
             "id": "Chain Attack (Daemonology)",
             "name": "Attacco Concatenato (Demonologia)",
+            "description": "<p>Il Mago incanala un germoglio di magia – un proiettile magico con Danno +4 – verso il bersaglio. Se questo Incantesimo riduce il bersaglio a 0 Ferite, balzerà verso un altro che si trovi nel raggio di un numero di metri pari al Bonus Volontà ed entro la Gittata iniziale, causando lo stesso Danno. L’effetto può rimbalzare un numero di volte pari al Bonus Volontà del Mago. Per ogni +2 LS può essere aggiunto un ulteriore rimbalzo.</p>"
+        },
+        {
+            "id": "Chain Attack (Hedgecraft)",
+            "name": "Attacco Concatenato (Soglia)",
+            "description": "<p>Il Mago incanala un germoglio di magia – un proiettile magico con Danno +4 – verso il bersaglio. Se questo Incantesimo riduce il bersaglio a 0 Ferite, balzerà verso un altro che si trovi nel raggio di un numero di metri pari al Bonus Volontà ed entro la Gittata iniziale, causando lo stesso Danno. L’effetto può rimbalzare un numero di volte pari al Bonus Volontà del Mago. Per ogni +2 LS può essere aggiunto un ulteriore rimbalzo.</p>"
+        },
+        {
+            "id": "Chain Attack (Witchcraft)",
+            "name": "Attacco Concatenato (Stregoneria)",
             "description": "<p>Il Mago incanala un germoglio di magia – un proiettile magico con Danno +4 – verso il bersaglio. Se questo Incantesimo riduce il bersaglio a 0 Ferite, balzerà verso un altro che si trovi nel raggio di un numero di metri pari al Bonus Volontà ed entro la Gittata iniziale, causando lo stesso Danno. L’effetto può rimbalzare un numero di volte pari al Bonus Volontà del Mago. Per ogni +2 LS può essere aggiunto un ulteriore rimbalzo.</p>"
         },
         {
@@ -1329,6 +1473,16 @@
             "description": "<p><span style=\"color: #231f20;\">Che si faccia spuntare delle ali o sollevare da una colonna di luce, il Mago può volare. Ottiene il Tratto @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Volante (Agilità)} (pag. 343).</span></p>"
         },
         {
+            "id": "Flight (Hedgecraft)",
+            "name": "Volo (Soglia)",
+            "description": "<p><span style=\"color: #231f20;\">Che si faccia spuntare delle ali o sollevare da una colonna di luce, il Mago può volare. Ottiene il Tratto @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Volante (Agilità)} (pag. 343).</span></p>"
+        },
+        {
+            "id": "Flight (Witchcraft)",
+            "name": "Volo (Stregoneria)",
+            "description": "<p><span style=\"color: #231f20;\">Che si faccia spuntare delle ali o sollevare da una colonna di luce, il Mago può volare. Ottiene il Tratto @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Volante (Agilità)} (pag. 343).</span></p>"
+        },
+        {
             "id": "Arrow Shield (Necromancy)",
             "name": "Riparo dalle Frecce (Necromanzia)",
             "description": "<p>Ogni proiettile contenente materiale organico (come le aste in legno delle frecce), quando attraversa l’area d’effetto, viene automaticamente distrutto e non causa alcun danno. Proiettili di materiale inorganico (come coltelli da lancio o pallottole) non vengono influenzati.</p>"
@@ -1341,6 +1495,16 @@
         {
             "id": "Corrosive Blood (Daemonology)",
             "name": "Sangue Corrosivo (Demonologia)",
+            "description": "<p>Il Mago infonde magia in se stesso, dando temibili proprietà al proprio sangue. Ottiene il Tratto @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Sangue Corrosivo} (pag. 341).</p>"
+        },
+        {
+            "id": "Corrosive Blood (Hedgecraft)",
+            "name": "Sangue Corrosivo (Soglia)",
+            "description": "<p>Il Mago infonde magia in se stesso, dando temibili proprietà al proprio sangue. Ottiene il Tratto @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Sangue Corrosivo} (pag. 341).</p>"
+        },
+        {
+            "id": "Corrosive Blood (Witchcraft)",
+            "name": "Sangue Corrosivo (Stregoneria)",
             "description": "<p>Il Mago infonde magia in se stesso, dando temibili proprietà al proprio sangue. Ottiene il Tratto @Compendium[wfrp4e-core.traits.M5QSWOYt2Rbv2yxW]{Sangue Corrosivo} (pag. 341).</p>"
         },
         {
@@ -1419,7 +1583,7 @@
             "description": "<p><span style=\"color: #231f20;\">Che si faccia spuntare delle ali o sollevare da una colonna di luce, il Mago può volare. Ottiene il Tratto @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Volante (Agilità)} (pag. 343).</span></p>"
         },
         {
-            "id": "Fate's Fickle Fingers",
+            "id": "Fate’s Fickle Fingers",
             "name": "Dita Capricciose del Fato",
             "description": "<p>Tutti gli alleati nell’Area d’effetto, eccetto chi possiede il Talento <em>Magia Arcana (Cieli)</em>, sommano i propri Punti Fortuna in un’unica riserva da cui possono attingere. Chi primo arriva meglio alloggia. Al termine dell’effetto i punti rimanenti sono divisi il più equamente possibile.</p>"
         },
@@ -1431,6 +1595,16 @@
         {
             "id": "Dome (Daemonology)",
             "name": "Cupola (Demonologia)",
+            "description": "<p>Il Mago crea una cupola di energia magica che blocca gli attacchi in arrivo. Chiunque si trovi sotto di essa ottiene il Tratto Protezione (6+) (pag. 340) contro gli attacchi magici o a distanza in arrivo dall’esterno. Gli attacchi dall’interno funzionano normalmente e la cupola non impedisce il movimento.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Forse grazie a una magia, a un talismano o alla pura fortuna, alcuni colpi sembrano mancare la creatura. Ogni volta che subisce un colpo tirerà [[/r 1d10]]; se ottiene un valore pari o superiore al Grado, l’attacco viene ignorato, anche se si tratta di un Critico.</p>\n</blockquote>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Dome (Hedgecraft)",
+            "name": "Cupola (Soglia)",
+            "description": "<p>Il Mago crea una cupola di energia magica che blocca gli attacchi in arrivo. Chiunque si trovi sotto di essa ottiene il Tratto Protezione (6+) (pag. 340) contro gli attacchi magici o a distanza in arrivo dall’esterno. Gli attacchi dall’interno funzionano normalmente e la cupola non impedisce il movimento.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Forse grazie a una magia, a un talismano o alla pura fortuna, alcuni colpi sembrano mancare la creatura. Ogni volta che subisce un colpo tirerà [[/r 1d10]]; se ottiene un valore pari o superiore al Grado, l’attacco viene ignorato, anche se si tratta di un Critico.</p>\n</blockquote>\n<p>&nbsp;</p>"
+        },
+        {
+            "id": "Dome (Witchcraft)",
+            "name": "Cupola (Stregoneria)",
             "description": "<p>Il Mago crea una cupola di energia magica che blocca gli attacchi in arrivo. Chiunque si trovi sotto di essa ottiene il Tratto Protezione (6+) (pag. 340) contro gli attacchi magici o a distanza in arrivo dall’esterno. Gli attacchi dall’interno funzionano normalmente e la cupola non impedisce il movimento.</p>\n<p>&nbsp;</p>\n<blockquote>\n<p>Forse grazie a una magia, a un talismano o alla pura fortuna, alcuni colpi sembrano mancare la creatura. Ogni volta che subisce un colpo tirerà [[/r 1d10]]; se ottiene un valore pari o superiore al Grado, l’attacco viene ignorato, anche se si tratta di un Critico.</p>\n</blockquote>\n<p>&nbsp;</p>"
         },
         {
@@ -1529,6 +1703,16 @@
             "description": "<p>Il Mago potenzia la propria Seconda Vista per aiutare i normali sensi. Ottiene il Tratto @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Vista Oscura} (pag. 343).</p>"
         },
         {
+            "id": "Dark Vision (Hedgecraft)",
+            "name": "Vista Oscura (Soglia)",
+            "description": "<p>Il Mago potenzia la propria Seconda Vista per aiutare i normali sensi. Ottiene il Tratto @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Vista Oscura} (pag. 343).</p>"
+        },
+        {
+            "id": "Dark Vision (Witchcraft)",
+            "name": "Vista Oscura (Stregoneria)",
+            "description": "<p>Il Mago potenzia la propria Seconda Vista per aiutare i normali sensi. Ottiene il Tratto @Compendium[wfrp4e-core.traits.JQa5DLnTs2SEzRrc]{Vista Oscura} (pag. 343).</p>"
+        },
+        {
             "id": "Murmured Whisper",
             "name": "Sussurro",
             "description": "<p>Il Mago può proiettare la propria voce in un punto entro un numero di metri pari alla Volontà, a prescindere dalla linea di vista. Tutti coloro che si trovano a portata di udito lo sentiranno come se fosse lì.</p>"
@@ -1544,6 +1728,16 @@
             "description": "<p>Ammantandosi di magia, il Mago diviene temibile. Ottiene il Tratto @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Spaventoso (1)}. Per ogni +3 LS è possibile aumentare questo valore di 1.</p>"
         },
         {
+            "id": "Fearsome (Hedgecraft)",
+            "name": "Temibile (Soglia)",
+            "description": "<p>Ammantandosi di magia, il Mago diviene temibile. Ottiene il Tratto @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Spaventoso (1)}. Per ogni +3 LS è possibile aumentare questo valore di 1.</p>"
+        },
+        {
+            "id": "Fearsome (Witchcraft)",
+            "name": "Temibile (Stregoneria)",
+            "description": "<p>Ammantandosi di magia, il Mago diviene temibile. Ottiene il Tratto @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Spaventoso (1)}. Per ogni +3 LS è possibile aumentare questo valore di 1.</p>"
+        },
+        {
             "id": "Fearsome (Light)",
             "name": "Temibile (Luce)",
             "description": "<p>Ammantandosi di magia, il Mago diviene temibile. Ottiene il Tratto @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Spaventoso (1)}. Per ogni +3 LS è possibile aumentare questo valore di 1.</p>"
@@ -1551,6 +1745,16 @@
         {
             "id": "Aethyric Armour (Daemonology)",
             "name": "Armatura Aethyrica (Demonologia)",
+            "description": "<p>Il Mago si ammanta di magia protettiva e ottiene +1 Punto Armatura in tutte le Locazioni.</p>"
+        },
+        {
+            "id": "Aethyric Armour (Hedgecraft)",
+            "name": "Armatura Aethyrica (Soglia)",
+            "description": "<p>Il Mago si ammanta di magia protettiva e ottiene +1 Punto Armatura in tutte le Locazioni.</p>"
+        },
+        {
+            "id": "Aethyric Armour (Witchcraft)",
+            "name": "Armatura Aethyrica (Stregoneria)",
             "description": "<p>Il Mago si ammanta di magia protettiva e ottiene +1 Punto Armatura in tutte le Locazioni.</p>"
         },
         {
@@ -1601,6 +1805,16 @@
         {
             "id": "Drop (Daemonology)",
             "name": "Gettare (Demonologia)",
+            "description": "<p>Il Mago incanala la magia in un oggetto impugnato da un altro (come un’arma, una fune o la stessa mano altrui). A meno che il bersaglio non superi una Prova <strong>Impegnativa (+0) di Destrezza</strong> lascerà la presa. Per ogni +2 LS si può imporre una penalità di -10 alla Prova di Destrezza.</p>"
+        },
+        {
+            "id": "Drop (Hedgecraft)",
+            "name": "Gettare (Soglia)",
+            "description": "<p>Il Mago incanala la magia in un oggetto impugnato da un altro (come un’arma, una fune o la stessa mano altrui). A meno che il bersaglio non superi una Prova <strong>Impegnativa (+0) di Destrezza</strong> lascerà la presa. Per ogni +2 LS si può imporre una penalità di -10 alla Prova di Destrezza.</p>"
+        },
+        {
+            "id": "Drop (Witchcraft)",
+            "name": "Gettare (Stregoneria)",
             "description": "<p>Il Mago incanala la magia in un oggetto impugnato da un altro (come un’arma, una fune o la stessa mano altrui). A meno che il bersaglio non superi una Prova <strong>Impegnativa (+0) di Destrezza</strong> lascerà la presa. Per ogni +2 LS si può imporre una penalità di -10 alla Prova di Destrezza.</p>"
         },
         {
@@ -1674,7 +1888,7 @@
             "description": "<p><span style=\"color: #231f20;\">Che si faccia spuntare delle ali o sollevare da una colonna di luce, il Mago può volare. Ottiene il Tratto @Compendium[wfrp4e-core.traits.EO05HX7jql0g605A]{Volante (Agilità)} (pag. 343).</span></p>"
         },
         {
-            "id": "Wyssan's Wildform",
+            "id": "Wyssan’s Wildform",
             "name": "Forma Selvaggia di Wyssan",
             "description": "<p>Il Mago invoca dentro di sé la potenza di Ghur, abbandonandosi ai piaceri più selvaggi. Ottiene i seguenti Tratti: @Compendium[wfrp4e-core.traits.rOV2s6PQBBrhpMOv]{Arboreo}, @Compendium[wfrp4e-core.traits.AtpAudHA4ybXVlWM]{Arma (Bonus Forza+2)}, @Compendium[wfrp4e-core.traits.GbDyBCu8ZjDp6dkj]{Bellicoso}, @Compendium[wfrp4e-core.traits.VUJUZVN3VYhOaPjj]{Corazzato (2)}, @Compendium[wfrp4e-core.traits.fjd1u9VAgiYzhBRp]{Furia}, @Compendium[wfrp4e-core.traits.a8MC97PLzl10WocT]{Grande}, @Compendium[wfrp4e-core.traits.mDgEMOoJpi8DkRYb]{Magico}, @Compendium[wfrp4e-core.traits.pLW9SVX0TVTYPiPv]{Morso (Bonus Forza+1)}, @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Spaventoso (1)}. Per la durata dell’effetto non potrà usare le Abilità di Conoscenza o Linguaggio.</p>"
         },
@@ -1774,6 +1988,16 @@
             "description": "<p>Ogni proiettile contenente materiale organico (come le aste in legno delle frecce), quando attraversa l’area d’effetto, viene automaticamente distrutto e non causa alcun danno. Proiettili di materiale inorganico (come coltelli da lancio o pallottole) non vengono influenzati.</p>"
         },
         {
+            "id": "Arrow Shield (Hedgecraft)",
+            "name": "Riparo dalle Frecce (Soglia)",
+            "description": "<p>Ogni proiettile contenente materiale organico (come le aste in legno delle frecce), quando attraversa l’area d’effetto, viene automaticamente distrutto e non causa alcun danno. Proiettili di materiale inorganico (come coltelli da lancio o pallottole) non vengono influenzati.</p>"
+        },
+        {
+            "id": "Arrow Shield (Witchcraft)",
+            "name": "Riparo dalle Frecce (Stregoneria)",
+            "description": "<p>Ogni proiettile contenente materiale organico (come le aste in legno delle frecce), quando attraversa l’area d’effetto, viene automaticamente distrutto e non causa alcun danno. Proiettili di materiale inorganico (come coltelli da lancio o pallottole) non vengono influenzati.</p>"
+        },
+        {
             "id": "Light",
             "name": "Luce",
             "description": "<p>Il Mago crea una piccola luce, all’incirca potente quanto una torcia, nella mano, sul proprio bastone o da un’altra parte della sua persona. Per la durata, può effettuare una Prova <strong>Media (+20) d’Incanalare</strong> per aumentarne la luminosità a quella di una lanterna o ridurla a quella di una candela.</p>"
@@ -1811,6 +2035,16 @@
         {
             "id": "Teleport (Daemonology)",
             "name": "Teletrasporto (Demonologia)",
+            "description": "<p>Grazie alla magia, il Mago si teletrasporta fino a ad un numero di metri pari al suo Bonus Volontà, superando fosse, ostacoli e altri pericoli. Per ogni +2 LS è possibile aumentare la distanza di un numero di metri pari al suo Bonus Volontà.</p>"
+        },
+        {
+            "id": "Teleport (Hedgecraft)",
+            "name": "Teletrasporto (Soglia)",
+            "description": "<p>Grazie alla magia, il Mago si teletrasporta fino a ad un numero di metri pari al suo Bonus Volontà, superando fosse, ostacoli e altri pericoli. Per ogni +2 LS è possibile aumentare la distanza di un numero di metri pari al suo Bonus Volontà.</p>"
+        },
+        {
+            "id": "Teleport (Witchcraft)",
+            "name": "Teletrasporto (Stregoneria)",
             "description": "<p>Grazie alla magia, il Mago si teletrasporta fino a ad un numero di metri pari al suo Bonus Volontà, superando fosse, ostacoli e altri pericoli. Per ogni +2 LS è possibile aumentare la distanza di un numero di metri pari al suo Bonus Volontà.</p>"
         },
         {

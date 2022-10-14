@@ -2,11 +2,11 @@
 	"label": "Averi",
 	"mapping": {
         "range": {
-            "path": "data.range.value",
+            "path": "system.range.value",
             "converter": "range"
         },
 		"special": {
-            "path": "data.special.value",
+            "path": "system.special.value",
             "converter": "special"
         },
         "effects": {
@@ -611,7 +611,7 @@
 			"description": ""
 		},
 		{
-			"id": "Jewellry",
+			"id": "Jewellery",
 			"name": "Gioielli",
 			"description": "<p>Il prezzo dipende dalla fattura e dai materiali impiegati. Di solito un semplice anello metallico senza gemme costa 10 monete del tipo corrispondente (ottone, argento od oro), mentre le collane ne costano 20.</p>"
 		},
