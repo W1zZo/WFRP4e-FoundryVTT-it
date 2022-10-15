@@ -8,7 +8,10 @@ import {
     locations,
     penalties,
     specials,
-    lores
+    lores,
+    items,
+    specs,
+    damages
 } from "./translations.js"
 
 Hooks.on("init", () => {
@@ -74,6 +77,24 @@ Hooks.on("init", () => {
                 ? lores[lore.toLowerCase()] 
                 : lore;
             },
+            "items": (itemsArray) => {
+                itemsArray.forEach(function(item, index) {
+                    this[index].name = items[item.name] 
+                    ? items[item.name] 
+                    : item.name
+                }, itemsArray);
+                return itemsArray;
+            },
+            "spec": (spec) => {
+                return specs[spec] 
+                ? specs[spec] 
+                : spec;
+            },
+            "damage": (damage) => {
+                return damages[damage.toLowerCase()] 
+                ? damages[damage.toLowerCase()] 
+                : damage;
+            }
         });
     }
 });

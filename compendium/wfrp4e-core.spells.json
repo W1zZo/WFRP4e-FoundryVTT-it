@@ -24,6 +24,10 @@
         "lore": {
             "path": "system.lore.value",
             "converter": "lore"
+        },
+        "damage": {
+            "path": "system.damage.value",
+            "converter": "damage"
         }
     },
     "entries": [
