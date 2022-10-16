@@ -1062,7 +1062,7 @@
                 "36-40": "<b>Tremito nell’Anima</b>: Il Mago cade @Condition[Prono].",
                 "41-45": "<b>Ago Aethyrico</b>: Perdi 1 Ferita: [[1d5]] unghie anneriscono e cadono, una piccola ferita appare nella forma di un simbolo eretico, mordi le tue labbra o la lingua per lo shock mistico, ecc.",
                 "46-50": "<b>Abiti in Fuga</b>: Gli abiti del Mago si animano di vita propria, causandogli 1 @Condition[Afferrato] con Forza pari a [[1d10*5]].",
-                "51-55": "<b>Congrega strisciante</b>: Insetti riempono l'area attorno a te, ronzando e strisciando. Se in combattimento, tira una <b>Prova Impegnativa (+0) di Freddezza</b> o subisci la condizione @Condition[Surprised].",
+                "51-55": "<b>Congrega strisciante</b>: Insetti riempono l'area attorno a te, ronzando e strisciando. Se in combattimento, tira una <b>Prova Impegnativa (+0) di Freddezza</b> o subisci la condizione @Condition[Sorpreso].",
                 "56-60": "<b>Anima Prosciugata</b>: Il Mago subisce 1 @Condition[Affaticato] che dura [[1d10]] ore.",
                 "61-65": "<b>Rigurgito</b>: Il Mago rigetta in maniera incontrollata più vomito puzzolente di quanto il suo corpo potrebbe contenere. Subisce 1 Condizione @Condition[Stordito].",
                 "66-70": "<b>Visioni Sacrileghe</b>: Il Mago è colpito da visioni di atti profani. Subisce 1 @Condition[Accecato] e deve superare una Prova <b>Impegnativa (+0) di Freddezza</b> per non subirne un secondo.",
