@@ -81,14 +81,12 @@ Hooks.on("init", () => {
                 itemsArray.forEach(function(item, index) {
                     this[index].name = items[item.name] 
                     ? items[item.name] 
-                    : item.name
+                    : item.name;
+                    this[index].system.specification.value = specs[item.system.specification.value] 
+                    ? specs[item.system.specification.value] 
+                    : item.system.specification.value;
                 }, itemsArray);
                 return itemsArray;
-            },
-            "spec": (spec) => {
-                return specs[spec] 
-                ? specs[spec] 
-                : spec;
             },
             "damage": (damage) => {
                 return damages[damage.toLowerCase()] 

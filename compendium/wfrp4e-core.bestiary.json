@@ -9,10 +9,6 @@
         "items": {
             "path": "items",
             "converter": "items"
-        },
-        "spec": {
-            "path": "items.system.specification.value",
-            "converter": "spec"
         }
     },
     "entries": [
