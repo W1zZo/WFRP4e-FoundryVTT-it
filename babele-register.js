@@ -82,9 +82,11 @@ Hooks.on("init", () => {
                     this[index].name = items[item.name] 
                     ? items[item.name] 
                     : item.name;
-                    this[index].system.specification.value = specs[item.system.specification.value] 
-                    ? specs[item.system.specification.value] 
-                    : item.system.specification.value;
+                    if (item.system.specification.value !== undefined) {
+                        this[index].system.specification.value = specs[item.system.specification.value] 
+                        ? specs[item.system.specification.value] 
+                        : item.system.specification.value;
+                    }
                 }, itemsArray);
                 return itemsArray;
             },
