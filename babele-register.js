@@ -82,7 +82,7 @@ Hooks.on("init", () => {
                     this[index].name = items[item.name] 
                     ? items[item.name] 
                     : item.name;
-                    if (item.system.specification.value !== undefined) {
+                    if (item.system.specification !== undefined) {
                         this[index].system.specification.value = specs[item.system.specification.value] 
                         ? specs[item.system.specification.value] 
                         : item.system.specification.value;
