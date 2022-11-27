@@ -18,7 +18,7 @@ Hooks.on("init", () => {
     if(typeof Babele !== "undefined") {
 
         Babele.get().register({
-            module: "WFRP4e-FoundryVTT-it",
+            module: "wfrp4e-foundryvtt-it",
             lang: "it",
             dir: "compendium"
         });
