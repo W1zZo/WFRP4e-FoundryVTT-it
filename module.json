@@ -2,19 +2,25 @@
   "id": "wfrp4e-foundryvtt-it",
   "title": "WFRP4e Italian Translation",
   "description": "Add Italian language to WFRP4e system for FoundryVTT.",
-  "author": "WizZo",
-  "version": "0.6.5",
+  "authors": [{
+    "name": "WizZo"
+  }],
+  "version": "0.6.6",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
     "maximum": "10"
   },
-  "dependencies": [
-    {
-      "name": "babele",
+  "relationships": {
+    "systems": [{
+      "id": "wfrp4e",
+      "type": "system"
+    }],
+    "requires": [{
+      "id": "babele",
       "type": "module"
-    }
-  ],
+    }]
+  },
   "esmodules": ["babele-register.js"],
   "languages": [
     {
@@ -23,7 +29,6 @@
       "path": "lang/it.json"
     }
   ],
-  "systems": ["wfrp4e"],
   "url": "https://github.com/W1zZo/WFRP4e-FoundryVTT-it",
   "manifest": "https://raw.githubusercontent.com/W1zZo/WFRP4e-FoundryVTT-it/master/module.json",
   "download": "https://github.com/W1zZo/WFRP4e-FoundryVTT-it/archive/master.zip"

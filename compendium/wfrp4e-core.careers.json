@@ -18,7 +18,7 @@
         {
             "id": "Clerk",
             "name": "Impiegato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.uqdZBoLtuLv0bHVV]{Borghese}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.XHYgf5oEwIeCEVNM]{Borghese}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -44,7 +44,7 @@
         {
             "id": "Apothecary",
             "name": "Apotecario",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FW2VeYf0vUUFbVE6]{Apotecario}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.86gkaanqt19xYCRa]{Apotecario}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Guarire",
@@ -76,7 +76,7 @@
         {
             "id": "Brigand",
             "name": "Brigante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mOljt11dxZENtmoR]{Fuorilegge}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.SrqxyWytyki4WYgC]{Fuorilegge}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -104,7 +104,7 @@
         {
             "id": "Body Snatcher",
             "name": "Profanatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.W2Ovj3ec7eqZUuuv]{Tombarolo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.bDoNOzzUiMdKqpps]{Tombarolo}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Freddezza",
@@ -132,7 +132,7 @@
         {
             "id": "Master Wizard",
             "name": "Maestro Mago",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.m6WuSnrrW7QllX63]{Mago}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.PKm1L6yjZ4PH0JJG]{Mago}</p>",
             "skills": [
                 "Incanalare (qualsiasi Colore)",
                 "Schivare",
@@ -169,7 +169,7 @@
         {
             "id": "Watch Sergeant",
             "name": "Sergente della Milizia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Tt8DCpewqkmBq02v]{Miliziano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.N02cjJdNWPdc4PUS]{Miliziano}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -206,7 +206,7 @@
         {
             "id": "Landsman",
             "name": "Recluta del Mare",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.wu6aG1XPdzvpiLcR]{Marinaio}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.XyM54Ue5w1WuCaBD]{Marinaio}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -233,7 +233,7 @@
         {
             "id": "Herb Gatherer",
             "name": "Raccoglitore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MYzcmrUrSKLmshwu]{Erborista}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.fTqkgehpmxk7kVT6]{Erborista}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -260,7 +260,7 @@
         {
             "id": "Priest Captain",
             "name": "Prete Capitano",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.KG5lVereynSwOkxa]{Prete Guerriero}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.iYVpqJ6bz8fokdmf]{Prete Guerriero}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -297,7 +297,7 @@
         {
             "id": "Guildmaster",
             "name": "Mastro della Gilda",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AlriWm9KtKnDAMw1]{Artigiano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.GWrZq3xoRSsDnQe0]{Artigiano}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -328,14 +328,14 @@
             ],
             "careergroup": "Artigiano",
             "trappings": [
-                "Gilda", 
+                "Gilda",
                 "Abiti di Qualità"
             ]
         },
         {
             "id": "Trader",
             "name": "Venditore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FLqzxS5gxKflqDUk]{Mercante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.h7GdfctKdjWL0Ejp]{Mercante}</p>",
             "skills": [
                 "Domare Animali",
                 "Corrompere",
@@ -363,7 +363,7 @@
         {
             "id": "Beggar King",
             "name": "Re dei Mendicanti",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.djOQaw7iRfec9UEj]{Mendicante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.1l2m7D1LHIz2q9qv]{Mendicante}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -401,7 +401,7 @@
         {
             "id": "Hitman",
             "name": "Sicario",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mlLVNBKIUnonqka2]{Bravaccio}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.cXOl6phkTrPcUmwC]{Bravaccio}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -439,7 +439,7 @@
         {
             "id": "Village Elder",
             "name": "Anziano del Villaggio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.btrs5XFk2OQsCtqj]{Villico}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.EYkvtokq0FXlFaPa]{Villico}</p>",
             "skills": [
                 "Domare Animali",
                 "Atletica",
@@ -476,7 +476,7 @@
         {
             "id": "Master Pedlar",
             "name": "Mastro Venditore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.jAqbxNrHW35xiuOn]{Venditore Ambulante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.FdlybSv02jjXG1qW]{Venditore Ambulante}</p>",
             "skills": [
                 "Affascinare",
                 "Tempra",
@@ -512,7 +512,7 @@
         {
             "id": "Mine Foreman",
             "name": "Capomastro",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lWT9EiFL6a09w0h9]{Minatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Nu2diwbUfo786wYt]{Minatore}</p>",
             "skills": [
                 "Freddezza",
                 "Tempra",
@@ -550,7 +550,7 @@
         {
             "id": "Student Engineer",
             "name": "Studente d'Ingegneria",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.c2n86bcUngGrHyO4]{Ingegnere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.hVKMI3xwuUpO3P6c]{Ingegnere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -569,14 +569,14 @@
             ],
             "careergroup": "Ingegnere",
             "trappings": [
-                "Libro (Ingegneria)", 
+                "Libro (Ingegneria)",
                 "Martello e Chiodi"
             ]
         },
         {
             "id": "Agent",
             "name": "Agente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.dWLxT0zRnDFbwTKZ]{Spia}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ssJHG82vEHHRoAUF]{Spia}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -614,7 +614,7 @@
         {
             "id": "Toll Keeper",
             "name": "Gabelliere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8zowZP5UEKTM9ehU]{Guardastrada}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.dN2K3ZBMu4rvGGpW]{Guardastrada}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -640,7 +640,7 @@
         {
             "id": "Scout",
             "name": "Scout",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Xl9yyv67BB8a8XFo]{Scout}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.HSoeyY2cbQAndBFk]{Scout}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -672,7 +672,7 @@
         {
             "id": "Maestro",
             "name": "Maestro",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.rjUjdQrWHWazjkRC]{Artista}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.u9sso2ox8BNznmy4]{Artista}</p>",
             "skills": [
                 "Arte (qualsiasi)",
                 "Freddezza",
@@ -711,7 +711,7 @@
         {
             "id": "Master Thief",
             "name": "Mastro Ladro",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TgcyR0ZdG6bMOK9o]{Ladro}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.mBtIPoWNpXwAS5Yl]{Ladro}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -746,7 +746,7 @@
         {
             "id": "Mystic",
             "name": "Mistico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.M9NiEgE7qaCXmskM]{Mistico}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.CzebTXk5dirMAZ6p]{Mistico}</p>",
             "skills": [
                 "Affascinare",
                 "Intrattenere (Leggere la Sorte)",
@@ -777,7 +777,7 @@
         {
             "id": "Racketeer",
             "name": "Malavitoso",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yGZN7bMjbGH7kCMK]{Malavitoso}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Z5QPZbUR3h422ozo]{Malavitoso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -810,7 +810,7 @@
         {
             "id": "Swindler",
             "name": "Truffatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.JTKAh4qCOCcPa2yN]{Ciarlatano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Eg5D2UI3U4SAHnuU]{Ciarlatano}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -838,7 +838,7 @@
         {
             "id": "Menial",
             "name": "Domestico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.g12yhcU74qsRKxXX]{Servitore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.iYnopOFkz5L6hljq]{Servitore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -863,7 +863,7 @@
         {
             "id": "Bounty Hunter General",
             "name": "Generale dei Cacciatori di Taglie",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bsQN8B1mtZhl2WRu]{Cacciatore di Taglie}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.orZTfdJCm6OnUktl]{Cacciatore di Taglie}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -902,7 +902,7 @@
         {
             "id": "Priest Sergeant",
             "name": "Prete Sergente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.KG5lVereynSwOkxa]{Prete Guerriero}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.iYVpqJ6bz8fokdmf]{Prete Guerriero}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -937,7 +937,7 @@
         {
             "id": "River Elder",
             "name": "Anziana del Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9D0o0fbqscpgk0RK]{Donna del Fiume}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.c8JYF7Lvaaezt9RS]{Donna del Fiume}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -974,7 +974,7 @@
         {
             "id": "Hedge Witch",
             "name": "Fattucchiere della Soglia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.pxxGfn6ze45dwg4Y]{Fattucchiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.03Nnub5GHNRCU9kg]{Fattucchiere}</p>",
             "skills": [
                 "Incanalare",
                 "Tempra",
@@ -999,15 +999,15 @@
             ],
             "careergroup": "Fattucchiere",
             "trappings": [
-                "Antitossina", 
-                "Unguento Guaritore", 
+                "Antitossina",
+                "Unguento Guaritore",
                 "Arnesi del Mestiere (Erborista)"
             ]
         },
         {
             "id": "Broker",
             "name": "Mediatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lbbddfm36XMb8SYg]{Ricettatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.VzMDRJtha7epNzuX]{Ricettatore}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -1033,7 +1033,7 @@
         {
             "id": "Physician",
             "name": "Medico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Ora8bmvHERjYWEQn]{Medico}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Mn7w0SSGfN7cu7gQ]{Medico}</p>",
             "skills": [
                 "Corrompere",
                 "Freddezza",
@@ -1066,7 +1066,7 @@
         {
             "id": "Merchant Prince",
             "name": "Principe Mercante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FLqzxS5gxKflqDUk]{Mercante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.h7GdfctKdjWL0Ejp]{Mercante}</p>",
             "skills": [
                 "Domare Animali",
                 "Corrompere",
@@ -1107,7 +1107,7 @@
         {
             "id": "Courier-Captain",
             "name": "Capitano-Corriere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8pk2uCvAMUAXWbcP]{Messaggero}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.9XoJinyH6CsOcJ1h]{Messaggero}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -1146,7 +1146,7 @@
         {
             "id": "Sergeant",
             "name": "Sergente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.kT0ZI0LoHmIvhjPk]{Soldato}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.1OTZ386bMWJ6wfzX]{Soldato}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -1182,7 +1182,7 @@
         {
             "id": "Road Sergeant",
             "name": "Sergente Guardastrada",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8zowZP5UEKTM9ehU]{Guardastrada}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.dN2K3ZBMu4rvGGpW]{Guardastrada}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -1220,7 +1220,7 @@
         {
             "id": "Outlaw",
             "name": "Fuorilegge",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mOljt11dxZENtmoR]{Fuorilegge}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.SrqxyWytyki4WYgC]{Fuorilegge}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -1253,7 +1253,7 @@
         {
             "id": "Dock Master",
             "name": "Capitano di Porto",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lDvbNLRfv9MsNyf6]{Scaricatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.KslqDlYmY4trmf6S]{Scaricatore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -1291,7 +1291,7 @@
         {
             "id": "Bailiff",
             "name": "Balivo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.WbjmnVlyJ9VP2nt4]{Balivo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.UhdhIWaofKgwFKEr]{Balivo}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -1323,7 +1323,7 @@
         {
             "id": "Court Physician",
             "name": "Medico di Corte",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Ora8bmvHERjYWEQn]{Medico}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Mn7w0SSGfN7cu7gQ]{Medico}</p>",
             "skills": [
                 "Corrompere",
                 "Freddezza",
@@ -1361,7 +1361,7 @@
         {
             "id": "Guard",
             "name": "Guardia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guardia}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.HndWncfaHb0nzNUq]{Guardia}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -1395,7 +1395,7 @@
         {
             "id": "Master Artisan",
             "name": "Mastro Artigiano",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AlriWm9KtKnDAMw1]{Artigiano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.GWrZq3xoRSsDnQe0]{Artigiano}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -1424,14 +1424,14 @@
             ],
             "careergroup": "Artigiano",
             "trappings": [
-                "Apprendista", 
+                "Apprendista",
                 "Laboratorio"
             ]
         },
         {
             "id": "Apprentice Artisan",
             "name": "Apprendista",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AlriWm9KtKnDAMw1]{Artigiano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.GWrZq3xoRSsDnQe0]{Artigiano}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -1456,7 +1456,7 @@
         {
             "id": "Riverwise",
             "name": "Saggia del Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9D0o0fbqscpgk0RK]{Donna del Fiume}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.c8JYF7Lvaaezt9RS]{Donna del Fiume}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -1493,7 +1493,7 @@
         {
             "id": "Chartered Engineer",
             "name": "Dottore in Ingegneria",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.c2n86bcUngGrHyO4]{Ingegnere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.hVKMI3xwuUpO3P6c]{Ingegnere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -1533,7 +1533,7 @@
         {
             "id": "Sleuth",
             "name": "Segugio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.DAHJ4cu3WiGCdakE]{Investigatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.zLWmjUbUdAOfiV3F]{Investigatore}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -1561,7 +1561,7 @@
         {
             "id": "Prowler",
             "name": "Ladruncolo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TgcyR0ZdG6bMOK9o]{Ladro}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.mBtIPoWNpXwAS5Yl]{Ladro}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -1588,7 +1588,7 @@
         {
             "id": "Priest",
             "name": "Prete",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GNwQFkVKUs0JM6U5]{Prete}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.h1l9jvaIxsb92wtM]{Prete}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -1620,7 +1620,7 @@
         {
             "id": "Warlock",
             "name": "Stregone",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.5ITpDJoRHlIgbE0g]{Strega}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.7lNzR0hDPl98NrcX]{Strega}</p>",
             "skills": [
                 "Incanalare",
                 "Freddezza",
@@ -1658,7 +1658,7 @@
         {
             "id": "Procurer",
             "name": "Traffichino",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MY4aFbQL5T9znCUd]{Ruffiano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.WmXiUhsOHIJia8OM]{Ruffiano}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -1693,7 +1693,7 @@
         {
             "id": "Scion",
             "name": "Erede",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.CMIowWLOafHKAhnB]{Nobile}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.t41abSTLeMAdLiWS]{Nobile}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -1721,7 +1721,7 @@
         {
             "id": "Burgomeister",
             "name": "Borgomastro",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.uqdZBoLtuLv0bHVV]{Borghese}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.XHYgf5oEwIeCEVNM]{Borghese}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -1761,7 +1761,7 @@
         {
             "id": "Watch Recruit",
             "name": "Recluta della Milizia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Tt8DCpewqkmBq02v]{Miliziano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.N02cjJdNWPdc4PUS]{Miliziano}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -1788,7 +1788,7 @@
         {
             "id": "Foreman",
             "name": "Caposquadra",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lDvbNLRfv9MsNyf6]{Scaricatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.KslqDlYmY4trmf6S]{Scaricatore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -1824,7 +1824,7 @@
         {
             "id": "Wyrd",
             "name": "Indovina",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.5ITpDJoRHlIgbE0g]{Strega}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.7lNzR0hDPl98NrcX]{Strega}</p>",
             "skills": [
                 "Incanalare",
                 "Freddezza",
@@ -1861,7 +1861,7 @@
         {
             "id": "Riverwarden",
             "name": "Guardafiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.EBpCBitHuWElKf3D]{Guardafiume}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ADHp81MC8050ngjm]{Guardafiume}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -1895,7 +1895,7 @@
         {
             "id": "Hunter",
             "name": "Cacciatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.2RxWvPZCKW2ShY5a]{Cacciatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.T6c9MttfG0Fj4nDm]{Cacciatore}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -1926,7 +1926,7 @@
         {
             "id": "Guide",
             "name": "Guida",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Xl9yyv67BB8a8XFo]{Scout}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.HSoeyY2cbQAndBFk]{Scout}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -1954,7 +1954,7 @@
         {
             "id": "Duelmaster",
             "name": "Maestro di Duello",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.RNcsFphKVYohTrS9]{Duellante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.3r4A1DOiF3laRWvq]{Duellante}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -1992,7 +1992,7 @@
         {
             "id": "Envoy",
             "name": "Legato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.B0zxjP3KbZag5Y79]{Legato}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.0t9wtjQIoOofh8nO]{Legato}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -2024,7 +2024,7 @@
         {
             "id": "Warden",
             "name": "Gastaldo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.XUrZJ3f1xtarPihy]{Gastaldo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.wbqpqbFoSnvoZ53j]{Gastaldo}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare Animali",
@@ -2057,7 +2057,7 @@
         {
             "id": "Knight of the Inner Circle",
             "name": "Cavaliere della Cerchia Interna",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.n2VdkCPNNxdupjeQ]{Cavaliere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.L3YNSsFKnqrqcmTn]{Cavaliere}</p>",
             "skills": [
                 "Atletica",
                 "Domare Animali",
@@ -2096,7 +2096,7 @@
         {
             "id": "Messenger",
             "name": "Messaggero",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8pk2uCvAMUAXWbcP]{Messaggero}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.9XoJinyH6CsOcJ1h]{Messaggero}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -2129,7 +2129,7 @@
         {
             "id": "Inquisitor",
             "name": "Inquisitore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.3A56eFnkIYFmbRL1]{Cacciatore di Streghe}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ADYQOtpsk5n1EHen]{Cacciatore di Streghe}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -2165,7 +2165,7 @@
         {
             "id": "Bawd",
             "name": "Ruffiano",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MY4aFbQL5T9znCUd]{Ruffiano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.WmXiUhsOHIJia8OM]{Ruffiano}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -2197,7 +2197,7 @@
         {
             "id": "Shipsword",
             "name": "Spada Nautica",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.EBpCBitHuWElKf3D]{Guardafiume}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ADHp81MC8050ngjm]{Guardafiume}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -2234,7 +2234,7 @@
         {
             "id": "Tomb Robber",
             "name": "Ladro di Tombe",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.W2Ovj3ec7eqZUuuv]{Tombarolo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.bDoNOzzUiMdKqpps]{Tombarolo}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Freddezza",
@@ -2273,7 +2273,7 @@
         {
             "id": "Interrogator",
             "name": "Interrogatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.3A56eFnkIYFmbRL1]{Cacciatore di Streghe}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ADYQOtpsk5n1EHen]{Cacciatore di Streghe}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -2299,7 +2299,7 @@
         {
             "id": "Soldier",
             "name": "Soldato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.kT0ZI0LoHmIvhjPk]{Soldato}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.1OTZ386bMWJ6wfzX]{Soldato}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -2332,7 +2332,7 @@
         {
             "id": "Knight",
             "name": "Cavaliere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.n2VdkCPNNxdupjeQ]{Cavaliere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.L3YNSsFKnqrqcmTn]{Cavaliere}</p>",
             "skills": [
                 "Atletica",
                 "Domare Animali",
@@ -2367,7 +2367,7 @@
         {
             "id": "Squire",
             "name": "Scudiero",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.n2VdkCPNNxdupjeQ]{Cavaliere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.L3YNSsFKnqrqcmTn]{Cavaliere}</p>",
             "skills": [
                 "Atletica",
                 "Domare Animali",
@@ -2396,7 +2396,7 @@
         {
             "id": "Route Master",
             "name": "Mastro delle Strade",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.BnA8KJuCw16zwOVC]{Cocchiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.tvJAKXB7R0EOr4oE]{Cocchiere}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -2434,7 +2434,7 @@
         {
             "id": "Counsellor",
             "name": "Precettore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.J8ejrXE0zWMjNsZd]{Consigliere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.pwth0cd20Vdp0B9G]{Consigliere}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -2470,7 +2470,7 @@
         {
             "id": "First Knight",
             "name": "Primo Cavaliere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.n2VdkCPNNxdupjeQ]{Cavaliere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.L3YNSsFKnqrqcmTn]{Cavaliere}</p>",
             "skills": [
                 "Atletica",
                 "Domare Animali",
@@ -2506,7 +2506,7 @@
         {
             "id": "Postilion",
             "name": "Postiglione",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.BnA8KJuCw16zwOVC]{Cocchiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.tvJAKXB7R0EOr4oE]{Cocchiere}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -2532,7 +2532,7 @@
         {
             "id": "Noble",
             "name": "Nobile",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.CMIowWLOafHKAhnB]{Nobile}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.t41abSTLeMAdLiWS]{Nobile}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -2567,7 +2567,7 @@
         {
             "id": "Town Councilor",
             "name": "Consigliere Cittadino",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.uqdZBoLtuLv0bHVV]{Borghese}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.XHYgf5oEwIeCEVNM]{Borghese}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -2603,7 +2603,7 @@
         {
             "id": "Huntsmaster",
             "name": "Capocaccia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.2RxWvPZCKW2ShY5a]{Cacciatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.T6c9MttfG0Fj4nDm]{Cacciatore}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -2641,7 +2641,7 @@
         {
             "id": "Master Fence",
             "name": "Mastro Ricettatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lbbddfm36XMb8SYg]{Ricettatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.VzMDRJtha7epNzuX]{Ricettatore}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -2676,7 +2676,7 @@
         {
             "id": "Hustler",
             "name": "Magnaccia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MY4aFbQL5T9znCUd]{Ruffiano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.WmXiUhsOHIJia8OM]{Ruffiano}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -2701,7 +2701,7 @@
         {
             "id": "Charlatan",
             "name": "Ciarlatano",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.JTKAh4qCOCcPa2yN]{Ciarlatano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Eg5D2UI3U4SAHnuU]{Ciarlatano}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -2735,7 +2735,7 @@
         {
             "id": "Assassin",
             "name": "Assassino",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mlLVNBKIUnonqka2]{Bravaccio}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.cXOl6phkTrPcUmwC]{Bravaccio}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -2773,7 +2773,7 @@
         {
             "id": "Master Pilot",
             "name": "Mastro Timoniere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.LaTDWvLySPKGojiW]{Nocchiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.TkF2ld3b72RlH2AR]{Nocchiere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Pettegolezzo",
@@ -2811,7 +2811,7 @@
         {
             "id": "Professor",
             "name": "Professore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.cIBJfaY9DKJh5ZEM]{Studioso}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.CmiCNv8YlslFqRqy]{Studioso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Intrattenere (Cantastorie)",
@@ -2848,7 +2848,7 @@
         {
             "id": "Engineer",
             "name": "Ingegnere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.c2n86bcUngGrHyO4]{Ingegnere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.hVKMI3xwuUpO3P6c]{Ingegnere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -2880,7 +2880,7 @@
         {
             "id": "Bounty Hunter",
             "name": "Cacciatore di Taglie",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bsQN8B1mtZhl2WRu]{Cacciatore di Taglie}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.orZTfdJCm6OnUktl]{Cacciatore di Taglie}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -2915,7 +2915,7 @@
         {
             "id": "Wizard",
             "name": "Mago",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.m6WuSnrrW7QllX63]{Mago}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.PKm1L6yjZ4PH0JJG]{Mago}</p>",
             "skills": [
                 "Incanalare (qualsiasi Colore)",
                 "Schivare",
@@ -2946,7 +2946,7 @@
         {
             "id": "Thief",
             "name": "Ladro",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TgcyR0ZdG6bMOK9o]{Ladro}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.mBtIPoWNpXwAS5Yl]{Ladro}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -2978,7 +2978,7 @@
         {
             "id": "Pit Champion",
             "name": "Campione dell'Arena",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.15N8GauWXWfbYbEQ]{Gladiatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.EELJsJuoDVxiRu9e]{Gladiatore}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -3007,14 +3007,14 @@
             ],
             "careergroup": "Gladiatore",
             "trappings": [
-                "Pettorale di Piastre", 
+                "Pettorale di Piastre",
                 "Elmetto"
             ]
         },
         {
             "id": "Courier",
             "name": "Corriere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8pk2uCvAMUAXWbcP]{Messaggero}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.9XoJinyH6CsOcJ1h]{Messaggero}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -3051,7 +3051,7 @@
         {
             "id": "Rabble Rouser",
             "name": "Sobillatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yDGBs92ko6rUyoTe]{Agitatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.X6OBFMR8ywipAPOo]{Agitatore}</p>",
             "skills": [
                 "Arte (Scrittura)",
                 "Corrompere",
@@ -3087,7 +3087,7 @@
         {
             "id": "Sage",
             "name": "Saggio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.M9NiEgE7qaCXmskM]{Mistico}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.CzebTXk5dirMAZ6p]{Mistico}</p>",
             "skills": [
                 "Affascinare",
                 "Intrattenere (Leggere la Sorte)",
@@ -3122,7 +3122,7 @@
         {
             "id": "Trapper",
             "name": "Bracconiere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.2RxWvPZCKW2ShY5a]{Cacciatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.T6c9MttfG0Fj4nDm]{Cacciatore}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -3150,7 +3150,7 @@
         {
             "id": "Nun",
             "name": "Monaca",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bE8g67fjVAE6R7Wx]{Monaca}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.f5m7s9K2y1zQNmej]{Monaca}</p>",
             "skills": [
                 "Arte (Calligrafia)",
                 "Freddezza",
@@ -3183,7 +3183,7 @@
         {
             "id": "Watchman",
             "name": "Miliziano",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Tt8DCpewqkmBq02v]{Miliziano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.N02cjJdNWPdc4PUS]{Miliziano}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -3216,7 +3216,7 @@
         {
             "id": "Boat-hand",
             "name": "Mozzo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.14nKRAT6nMCMGSUf]{Barcaiolo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Rk1V9EvtZ0p5Qhwr]{Barcaiolo}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Schivare",
@@ -3243,7 +3243,7 @@
         {
             "id": "Watch Captain",
             "name": "Capitano della Milizia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Tt8DCpewqkmBq02v]{Miliziano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.N02cjJdNWPdc4PUS]{Miliziano}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -3283,7 +3283,7 @@
         {
             "id": "Hexer",
             "name": "Maliarda",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.5ITpDJoRHlIgbE0g]{Strega}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.7lNzR0hDPl98NrcX]{Strega}</p>",
             "skills": [
                 "Incanalare",
                 "Freddezza",
@@ -3311,7 +3311,7 @@
         {
             "id": "Hedge Master",
             "name": "Maestro della Soglia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.pxxGfn6ze45dwg4Y]{Fattucchiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.03Nnub5GHNRCU9kg]{Fattucchiere}</p>",
             "skills": [
                 "Incanalare",
                 "Tempra",
@@ -3347,7 +3347,7 @@
         {
             "id": "Master Engineer",
             "name": "Mastro Ingegnere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.c2n86bcUngGrHyO4]{Ingegnere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.hVKMI3xwuUpO3P6c]{Ingegnere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -3382,7 +3382,7 @@
         {
             "id": "Witch",
             "name": "Strega",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.5ITpDJoRHlIgbE0g]{Strega}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.7lNzR0hDPl98NrcX]{Strega}</p>",
             "skills": [
                 "Incanalare",
                 "Freddezza",
@@ -3416,7 +3416,7 @@
         {
             "id": "Gang Boss",
             "name": "Boss",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yGZN7bMjbGH7kCMK]{Malavitoso}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Z5QPZbUR3h422ozo]{Malavitoso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -3453,7 +3453,7 @@
         {
             "id": "Novitiate (Warrior Priest)",
             "name": "Professo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.KG5lVereynSwOkxa]{Prete Guerriero}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.iYVpqJ6bz8fokdmf]{Prete Guerriero}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -3482,7 +3482,7 @@
         {
             "id": "Pamphleteer",
             "name": "Libellista",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yDGBs92ko6rUyoTe]{Agitatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.X6OBFMR8ywipAPOo]{Agitatore}</p>",
             "skills": [
                 "Arte (Scrittura)",
                 "Corrompere",
@@ -3509,7 +3509,7 @@
         {
             "id": "Ship's Master",
             "name": "Comandante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.wu6aG1XPdzvpiLcR]{Marinaio}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.XyM54Ue5w1WuCaBD]{Marinaio}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -3549,7 +3549,7 @@
         {
             "id": "Pugilist",
             "name": "Pugile",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.15N8GauWXWfbYbEQ]{Gladiatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.EELJsJuoDVxiRu9e]{Gladiatore}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -3576,7 +3576,7 @@
         {
             "id": "Pilot",
             "name": "Timoniere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.LaTDWvLySPKGojiW]{Nocchiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.TkF2ld3b72RlH2AR]{Nocchiere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Pettegolezzo",
@@ -3613,7 +3613,7 @@
         {
             "id": "Student",
             "name": "Studente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.cIBJfaY9DKJh5ZEM]{Studioso}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.CmiCNv8YlslFqRqy]{Studioso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Intrattenere (Cantastorie)",
@@ -3641,7 +3641,7 @@
         {
             "id": "Agitator",
             "name": "Agitatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yDGBs92ko6rUyoTe]{Agitatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.X6OBFMR8ywipAPOo]{Agitatore}</p>",
             "skills": [
                 "Arte (Scrittura)",
                 "Corrompere",
@@ -3672,7 +3672,7 @@
         {
             "id": "Ringleader",
             "name": "Caporione",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MY4aFbQL5T9znCUd]{Ruffiano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.WmXiUhsOHIJia8OM]{Ruffiano}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -3710,7 +3710,7 @@
         {
             "id": "Beggar",
             "name": "Mendicante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.djOQaw7iRfec9UEj]{Mendicante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.1l2m7D1LHIz2q9qv]{Mendicante}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -3742,7 +3742,7 @@
         {
             "id": "Master Smuggler",
             "name": "Mastro Contrabbandiere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TaOvUqKMJoPeuynD]{Contrabbandiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.FqhOxcvai4ROvhXB]{Contrabbandiere}</p>",
             "skills": [
                 "Atletica",
                 "Corrompere",
@@ -3778,7 +3778,7 @@
         {
             "id": "Spy",
             "name": "Spia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.dWLxT0zRnDFbwTKZ]{Spia}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ssJHG82vEHHRoAUF]{Spia}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -3813,7 +3813,7 @@
         {
             "id": "Pit Legend",
             "name": "Leggenda dell'Arena",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.15N8GauWXWfbYbEQ]{Gladiatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.EELJsJuoDVxiRu9e]{Gladiatore}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -3850,7 +3850,7 @@
         {
             "id": "Hedge Apprentice",
             "name": "Apprendista della Soglia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.pxxGfn6ze45dwg4Y]{Fattucchiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.03Nnub5GHNRCU9kg]{Fattucchiere}</p>",
             "skills": [
                 "Incanalare",
                 "Tempra",
@@ -3877,7 +3877,7 @@
         {
             "id": "Attendant",
             "name": "Valletto",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.g12yhcU74qsRKxXX]{Servitore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.iYnopOFkz5L6hljq]{Servitore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -3915,7 +3915,7 @@
         {
             "id": "Explorer",
             "name": "Esploratore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Xl9yyv67BB8a8XFo]{Scout}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.HSoeyY2cbQAndBFk]{Scout}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -3953,7 +3953,7 @@
         {
             "id": "Cavalryman",
             "name": "Cavalleggero",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.h9LHCAdlP4o55QvD]{Cavalleggero}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ArFOfnzJkToXBJBF]{Cavalleggero}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -3988,7 +3988,7 @@
         {
             "id": "Con Artist",
             "name": "Artista della Truffa",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.JTKAh4qCOCcPa2yN]{Ciarlatano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Eg5D2UI3U4SAHnuU]{Ciarlatano}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -4025,7 +4025,7 @@
         {
             "id": "Officer",
             "name": "Ufficiale",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.kT0ZI0LoHmIvhjPk]{Soldato}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.1OTZ386bMWJ6wfzX]{Soldato}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -4068,7 +4068,7 @@
         {
             "id": "River Recruit",
             "name": "Recluta del Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.EBpCBitHuWElKf3D]{Guardafiume}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ADHp81MC8050ngjm]{Guardafiume}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -4095,7 +4095,7 @@
         {
             "id": "Barge Master",
             "name": "Padrone Fluviale",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.14nKRAT6nMCMGSUf]{Barcaiolo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Rk1V9EvtZ0p5Qhwr]{Barcaiolo}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Schivare",
@@ -4133,7 +4133,7 @@
         {
             "id": "Artist",
             "name": "Artista",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.rjUjdQrWHWazjkRC]{Artista}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.u9sso2ox8BNznmy4]{Artista}</p>",
             "skills": [
                 "Arte (qualsiasi)",
                 "Freddezza",
@@ -4164,7 +4164,7 @@
         {
             "id": "Servant",
             "name": "Servitore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.g12yhcU74qsRKxXX]{Servitore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.iYnopOFkz5L6hljq]{Servitore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -4195,7 +4195,7 @@
         {
             "id": "Chancellor",
             "name": "Cancelliere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.J8ejrXE0zWMjNsZd]{Consigliere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.pwth0cd20Vdp0B9G]{Consigliere}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -4234,7 +4234,7 @@
         {
             "id": "Wrecker",
             "name": "Naufragatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AnW8kwDb9koFgMPx]{Naufragatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.37EZqecGmYFb0fdW]{Naufragatore}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -4268,7 +4268,7 @@
         {
             "id": "Apothecary's Apprentice",
             "name": "Apprendista Apotecario",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FW2VeYf0vUUFbVE6]{Apotecario}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.86gkaanqt19xYCRa]{Apotecario}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Guarire",
@@ -4296,7 +4296,7 @@
         {
             "id": "Crime Lord",
             "name": "Signore del Crimine",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yGZN7bMjbGH7kCMK]{Malavitoso}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Z5QPZbUR3h422ozo]{Malavitoso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -4335,7 +4335,7 @@
         {
             "id": "Abbess",
             "name": "Badessa",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bE8g67fjVAE6R7Wx]{Monaca}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.f5m7s9K2y1zQNmej]{Monaca}</p>",
             "skills": [
                 "Arte (Calligrafia)",
                 "Freddezza",
@@ -4371,7 +4371,7 @@
         {
             "id": "Advisor",
             "name": "Consigliere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.J8ejrXE0zWMjNsZd]{Consigliere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.pwth0cd20Vdp0B9G]{Consigliere}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -4402,7 +4402,7 @@
         {
             "id": "Villager",
             "name": "Villico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.btrs5XFk2OQsCtqj]{Villico}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.EYkvtokq0FXlFaPa]{Villico}</p>",
             "skills": [
                 "Domare Animali",
                 "Atletica",
@@ -4435,7 +4435,7 @@
         {
             "id": "Fencer",
             "name": "Spadaccino",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.RNcsFphKVYohTrS9]{Duellante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.3r4A1DOiF3laRWvq]{Duellante}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -4461,7 +4461,7 @@
         {
             "id": "Herbalist",
             "name": "Erborista",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MYzcmrUrSKLmshwu]{Erborista}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.fTqkgehpmxk7kVT6]{Erborista}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -4494,7 +4494,7 @@
         {
             "id": "Zealot",
             "name": "Zelota",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Vtice54Y7PV95Dkp]{Flagellante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.0kij2AX9aaUnCxPv]{Flagellante}</p>",
             "skills": [
                 "Schivare",
                 "Tempra",
@@ -4520,7 +4520,7 @@
         {
             "id": "Magistrate",
             "name": "Magistrato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.WbjmnVlyJ9VP2nt4]{Balivo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.UhdhIWaofKgwFKEr]{Balivo}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -4559,7 +4559,7 @@
         {
             "id": "Lector",
             "name": "Lector",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GNwQFkVKUs0JM6U5]{Prete}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.h1l9jvaIxsb92wtM]{Prete}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -4597,7 +4597,7 @@
         {
             "id": "Shipsword Master",
             "name": "Comandante delle Spade Nautiche",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.EBpCBitHuWElKf3D]{Guardafiume}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ADHp81MC8050ngjm]{Guardafiume}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -4635,7 +4635,7 @@
         {
             "id": "Thug",
             "name": "Sgherro",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yGZN7bMjbGH7kCMK]{Malavitoso}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Z5QPZbUR3h422ozo]{Malavitoso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -4661,7 +4661,7 @@
         {
             "id": "Master Artist",
             "name": "Mastro di Bottega",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.rjUjdQrWHWazjkRC]{Artista}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.u9sso2ox8BNznmy4]{Artista}</p>",
             "skills": [
                 "Arte (qualsiasi)",
                 "Freddezza",
@@ -4698,7 +4698,7 @@
         {
             "id": "Aide",
             "name": "Attendente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.J8ejrXE0zWMjNsZd]{Consigliere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.pwth0cd20Vdp0B9G]{Consigliere}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -4723,7 +4723,7 @@
         {
             "id": "Magnate",
             "name": "Magnate",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.CMIowWLOafHKAhnB]{Nobile}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.t41abSTLeMAdLiWS]{Nobile}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -4762,7 +4762,7 @@
         {
             "id": "Steward",
             "name": "Amministratore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.g12yhcU74qsRKxXX]{Servitore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.iYnopOFkz5L6hljq]{Servitore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -4801,7 +4801,7 @@
         {
             "id": "Cargo Scavenger",
             "name": "Avvoltoio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AnW8kwDb9koFgMPx]{Naufragatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.37EZqecGmYFb0fdW]{Naufragatore}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -4828,7 +4828,7 @@
         {
             "id": "Wizard's Apprentice",
             "name": "Apprendista Mago",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.m6WuSnrrW7QllX63]{Mago}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.PKm1L6yjZ4PH0JJG]{Mago}</p>",
             "skills": [
                 "Incanalare (qualsiasi Colore)",
                 "Schivare",
@@ -4854,7 +4854,7 @@
         {
             "id": "Diplomat",
             "name": "Diplomatico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.B0zxjP3KbZag5Y79]{Legato}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.0t9wtjQIoOofh8nO]{Legato}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -4891,7 +4891,7 @@
         {
             "id": "Townsman",
             "name": "Borghese",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.uqdZBoLtuLv0bHVV]{Borghese}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.XHYgf5oEwIeCEVNM]{Borghese}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -4924,7 +4924,7 @@
         {
             "id": "Custodian",
             "name": "Custode",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.XUrZJ3f1xtarPihy]{Gastaldo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.wbqpqbFoSnvoZ53j]{Gastaldo}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare Animali",
@@ -4952,7 +4952,7 @@
         {
             "id": "Smuggler King",
             "name": "Re dei Contrabbandieri",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TaOvUqKMJoPeuynD]{Contrabbandiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.FqhOxcvai4ROvhXB]{Contrabbandiere}</p>",
             "skills": [
                 "Atletica",
                 "Corrompere",
@@ -4990,7 +4990,7 @@
         {
             "id": "Road Captain",
             "name": "Capitano Guardastrada",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8zowZP5UEKTM9ehU]{Guardastrada}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.dN2K3ZBMu4rvGGpW]{Guardastrada}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -5030,7 +5030,7 @@
         {
             "id": "Apprentice Artist",
             "name": "Apprendista",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.rjUjdQrWHWazjkRC]{Artista}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.u9sso2ox8BNznmy4]{Artista}</p>",
             "skills": [
                 "Arte (qualsiasi)",
                 "Freddezza",
@@ -5055,7 +5055,7 @@
         {
             "id": "Pedlar",
             "name": "Venditore Ambulante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.jAqbxNrHW35xiuOn]{Venditore Ambulante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.FdlybSv02jjXG1qW]{Venditore Ambulante}</p>",
             "skills": [
                 "Affascinare",
                 "Tempra",
@@ -5089,7 +5089,7 @@
         {
             "id": "Horseman",
             "name": "Cavallerizzo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.h9LHCAdlP4o55QvD]{Cavalleggero}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ArFOfnzJkToXBJBF]{Cavalleggero}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -5115,7 +5115,7 @@
         {
             "id": "Riverguide",
             "name": "Guida del Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.LaTDWvLySPKGojiW]{Nocchiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.TkF2ld3b72RlH2AR]{Nocchiere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Pettegolezzo",
@@ -5142,7 +5142,7 @@
         {
             "id": "Judicial Champion",
             "name": "Campione Giudiziario",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.RNcsFphKVYohTrS9]{Duellante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.3r4A1DOiF3laRWvq]{Duellante}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -5179,7 +5179,7 @@
         {
             "id": "Student Lawyer",
             "name": "Studente di Legge",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GhqPa2iwEdc4Dokc]{Avvocato}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.uIKbkjQpNUCGIQRv]{Avvocato}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -5205,7 +5205,7 @@
         {
             "id": "Novitiate (Nun)",
             "name": "Novizia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bE8g67fjVAE6R7Wx]{Monaca}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.f5m7s9K2y1zQNmej]{Monaca}</p>",
             "skills": [
                 "Arte (Calligrafia)",
                 "Freddezza",
@@ -5224,14 +5224,14 @@
             ],
             "careergroup": "Monaca",
             "trappings": [
-                "Simbolo Religioso", 
+                "Simbolo Religioso",
                 "Tonaca"
             ]
         },
         {
             "id": "Protagonist",
             "name": "Bravaccio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mlLVNBKIUnonqka2]{Bravaccio}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.cXOl6phkTrPcUmwC]{Bravaccio}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -5265,7 +5265,7 @@
         {
             "id": "Investigator",
             "name": "Investigatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.DAHJ4cu3WiGCdakE]{Investigatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.zLWmjUbUdAOfiV3F]{Investigatore}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -5299,7 +5299,7 @@
         {
             "id": "Informer",
             "name": "Informatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.dWLxT0zRnDFbwTKZ]{Spia}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ssJHG82vEHHRoAUF]{Spia}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -5325,7 +5325,7 @@
         {
             "id": "Rat Hunter",
             "name": "Cacciatore di Ratti",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.0DuRRCYdahOKxDPF]{Acchiappatopi}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.mKvUxzJyQmhgjDE0]{Acchiappatopi}</p>",
             "skills": [
                 "Atletica",
                 "Addestrare (Cane)",
@@ -5352,7 +5352,7 @@
         {
             "id": "Reeve",
             "name": "Sovrintendente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.WbjmnVlyJ9VP2nt4]{Balivo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.UhdhIWaofKgwFKEr]{Balivo}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -5389,7 +5389,7 @@
         {
             "id": "Troubadour",
             "name": "Trovatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.b96g5MZr3rk5zYAo]{Intrattenitore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.5nIDu8oyFVShLqne]{Intrattenitore}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -5425,7 +5425,7 @@
         {
             "id": "Black Marketeer",
             "name": "Trafficante del Mercato Nero",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lbbddfm36XMb8SYg]{Ricettatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.VzMDRJtha7epNzuX]{Ricettatore}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -5464,7 +5464,7 @@
         {
             "id": "Wizard Lord",
             "name": "Signore della Magia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.m6WuSnrrW7QllX63]{Mago}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.PKm1L6yjZ4PH0JJG]{Mago}</p>",
             "skills": [
                 "Incanalare (qualsiasi Colore)",
                 "Schivare",
@@ -5503,7 +5503,7 @@
         {
             "id": "Doktor",
             "name": "Dottore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Ora8bmvHERjYWEQn]{Medico}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Mn7w0SSGfN7cu7gQ]{Medico}</p>",
             "skills": [
                 "Corrompere",
                 "Freddezza",
@@ -5539,7 +5539,7 @@
         {
             "id": "Greenfish",
             "name": "Pesce Piccolo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9D0o0fbqscpgk0RK]{Donna del Fiume}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.c8JYF7Lvaaezt9RS]{Donna del Fiume}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -5566,7 +5566,7 @@
         {
             "id": "Spymaster",
             "name": "Maestro delle Spie",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.dWLxT0zRnDFbwTKZ]{Spia}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ssJHG82vEHHRoAUF]{Spia}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -5605,7 +5605,7 @@
         {
             "id": "Lawyer",
             "name": "Avvocato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GhqPa2iwEdc4Dokc]{Avvocato}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.uIKbkjQpNUCGIQRv]{Avvocato}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -5638,7 +5638,7 @@
         {
             "id": "Giant Slayer",
             "name": "Sventragiganti",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9p3DaFU5hMFP1C3v]{Sventratore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.5leTOZ6Wj35bS1IV]{Sventratore}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -5671,7 +5671,7 @@
         {
             "id": "Troupe Leader",
             "name": "Capocomico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.b96g5MZr3rk5zYAo]{Intrattenitore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.5nIDu8oyFVShLqne]{Intrattenitore}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -5710,7 +5710,7 @@
         {
             "id": "Herb Master",
             "name": "Maestro delle Erbe",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MYzcmrUrSKLmshwu]{Erborista}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.fTqkgehpmxk7kVT6]{Erborista}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -5748,7 +5748,7 @@
         {
             "id": "Merchant",
             "name": "Mercante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FLqzxS5gxKflqDUk]{Mercante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.h7GdfctKdjWL0Ejp]{Mercante}</p>",
             "skills": [
                 "Domare Animali",
                 "Corrompere",
@@ -5781,7 +5781,7 @@
         {
             "id": "Grave Robber",
             "name": "Tombarolo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.W2Ovj3ec7eqZUuuv]{Tombarolo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.bDoNOzzUiMdKqpps]{Tombarolo}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Freddezza",
@@ -5816,7 +5816,7 @@
         {
             "id": "Daemon Slayer",
             "name": "Sventrademoni",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9p3DaFU5hMFP1C3v]{Sventratore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.5leTOZ6Wj35bS1IV]{Sventratore}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -5853,7 +5853,7 @@
         {
             "id": "Vagabond",
             "name": "Vagabondo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.jAqbxNrHW35xiuOn]{Venditore Ambulante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.FdlybSv02jjXG1qW]{Venditore Ambulante}</p>",
             "skills": [
                 "Affascinare",
                 "Tempra",
@@ -5881,7 +5881,7 @@
         {
             "id": "Sewer Jack",
             "name": "Fognaiolo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.0DuRRCYdahOKxDPF]{Acchiappatopi}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.mKvUxzJyQmhgjDE0]{Acchiappatopi}</p>",
             "skills": [
                 "Atletica",
                 "Addestrare (Cane)",
@@ -5918,7 +5918,7 @@
         {
             "id": "Hedgewise",
             "name": "Saggio della Soglia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.pxxGfn6ze45dwg4Y]{Fattucchiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.03Nnub5GHNRCU9kg]{Fattucchiere}</p>",
             "skills": [
                 "Incanalare",
                 "Tempra",
@@ -5956,7 +5956,7 @@
         {
             "id": "Detective",
             "name": "Detective",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.DAHJ4cu3WiGCdakE]{Investigatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.zLWmjUbUdAOfiV3F]{Investigatore}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -5994,7 +5994,7 @@
         {
             "id": "Witch Hunter",
             "name": "Cacciatore di Streghe",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.3A56eFnkIYFmbRL1]{Cacciatore di Streghe}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ADYQOtpsk5n1EHen]{Cacciatore di Streghe}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -6030,7 +6030,7 @@
         {
             "id": "Road Warden",
             "name": "Guardastrada",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8zowZP5UEKTM9ehU]{Guardastrada}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.dN2K3ZBMu4rvGGpW]{Guardastrada}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -6064,7 +6064,7 @@
         {
             "id": "Bandit King",
             "name": "Re dei Banditi",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mOljt11dxZENtmoR]{Fuorilegge}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.SrqxyWytyki4WYgC]{Fuorilegge}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -6102,7 +6102,7 @@
         {
             "id": "Coach Master",
             "name": "Mastro della Carrozza",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.BnA8KJuCw16zwOVC]{Cocchiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.tvJAKXB7R0EOr4oE]{Cocchiere}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -6139,7 +6139,7 @@
         {
             "id": "Sentry",
             "name": "Sentinella",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guardia}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.HndWncfaHb0nzNUq]{Guardia}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -6167,7 +6167,7 @@
         {
             "id": "Governor",
             "name": "Governatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.XUrZJ3f1xtarPihy]{Gastaldo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.wbqpqbFoSnvoZ53j]{Gastaldo}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare Animali",
@@ -6206,7 +6206,7 @@
         {
             "id": "Councilor",
             "name": "Consigliere del Villaggio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.btrs5XFk2OQsCtqj]{Villico}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.EYkvtokq0FXlFaPa]{Villico}</p>",
             "skills": [
                 "Domare Animali",
                 "Atletica",
@@ -6242,7 +6242,7 @@
         {
             "id": "Riverwoman",
             "name": "Donna del Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9D0o0fbqscpgk0RK]{Donna del Fiume}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.c8JYF7Lvaaezt9RS]{Donna del Fiume}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -6276,7 +6276,7 @@
         {
             "id": "Master Miner",
             "name": "Mastro Minatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lWT9EiFL6a09w0h9]{Minatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Nu2diwbUfo786wYt]{Minatore}</p>",
             "skills": [
                 "Freddezza",
                 "Tempra",
@@ -6305,15 +6305,15 @@
             ],
             "careergroup": "Minatore",
             "trappings": [
-                "Arma Grande (Piccone)", 
-                "Elmetto", 
+                "Arma Grande (Piccone)",
+                "Elmetto",
                 "Arnesi del Mestiere (Ingegnere)"
             ]
         },
         {
             "id": "Wrecker Captain",
             "name": "Capitano Naufragatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AnW8kwDb9koFgMPx]{Naufragatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.37EZqecGmYFb0fdW]{Naufragatore}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -6353,7 +6353,7 @@
         {
             "id": "Noble Lord",
             "name": "Lord",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.CMIowWLOafHKAhnB]{Nobile}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.t41abSTLeMAdLiWS]{Nobile}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -6394,7 +6394,7 @@
         {
             "id": "Demagogue",
             "name": "Demagogo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.yDGBs92ko6rUyoTe]{Agitatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.X6OBFMR8ywipAPOo]{Agitatore}</p>",
             "skills": [
                 "Arte (Scrittura)",
                 "Corrompere",
@@ -6434,7 +6434,7 @@
         {
             "id": "Flagellant",
             "name": "Flagellante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Vtice54Y7PV95Dkp]{Flagellante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.0kij2AX9aaUnCxPv]{Flagellante}</p>",
             "skills": [
                 "Schivare",
                 "Tempra",
@@ -6467,7 +6467,7 @@
         {
             "id": "Master Investigator",
             "name": "Mastro Investigatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.DAHJ4cu3WiGCdakE]{Investigatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.zLWmjUbUdAOfiV3F]{Investigatore}</p>",
             "skills": [
                 "Affascinare",
                 "Arrampicarsi",
@@ -6503,7 +6503,7 @@
         {
             "id": "Fortune Teller",
             "name": "Chiromante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.M9NiEgE7qaCXmskM]{Mistico}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.CzebTXk5dirMAZ6p]{Mistico}</p>",
             "skills": [
                 "Affascinare",
                 "Intrattenere (Leggere la Sorte)",
@@ -6529,7 +6529,7 @@
         {
             "id": "Tax Collector",
             "name": "Esattore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.WbjmnVlyJ9VP2nt4]{Balivo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.UhdhIWaofKgwFKEr]{Balivo}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -6555,7 +6555,7 @@
         {
             "id": "High Priest",
             "name": "Alto Sacerdote",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GNwQFkVKUs0JM6U5]{Prete}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.h1l9jvaIxsb92wtM]{Prete}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -6593,7 +6593,7 @@
         {
             "id": "Herald",
             "name": "Araldo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.B0zxjP3KbZag5Y79]{Legato}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.0t9wtjQIoOofh8nO]{Legato}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -6620,7 +6620,7 @@
         {
             "id": "Troll Slayer",
             "name": "Sventratroll",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9p3DaFU5hMFP1C3v]{Sventratore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.5leTOZ6Wj35bS1IV]{Sventratore}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -6648,7 +6648,7 @@
         {
             "id": "Seneschal",
             "name": "Siniscalco",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.XUrZJ3f1xtarPihy]{Gastaldo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.wbqpqbFoSnvoZ53j]{Gastaldo}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare Animali",
@@ -6685,7 +6685,7 @@
         {
             "id": "Master Merchant",
             "name": "Mastro Mercante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FLqzxS5gxKflqDUk]{Mercante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.h7GdfctKdjWL0Ejp]{Mercante}</p>",
             "skills": [
                 "Domare Animali",
                 "Corrompere",
@@ -6722,7 +6722,7 @@
         {
             "id": "Light Cavalry Officer",
             "name": "Ufficiale di Cavalleria",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.h9LHCAdlP4o55QvD]{Cavalleggero}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ArFOfnzJkToXBJBF]{Cavalleggero}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -6760,7 +6760,7 @@
         {
             "id": "Tracker",
             "name": "Battitore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.2RxWvPZCKW2ShY5a]{Cacciatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.T6c9MttfG0Fj4nDm]{Cacciatore}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -6797,7 +6797,7 @@
         {
             "id": "Pathfinder",
             "name": "Pioniere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Xl9yyv67BB8a8XFo]{Scout}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.HSoeyY2cbQAndBFk]{Scout}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -6835,7 +6835,7 @@
         {
             "id": "Dragon Slayer",
             "name": "Sventradraghi",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.9p3DaFU5hMFP1C3v]{Sventratore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.5leTOZ6Wj35bS1IV]{Sventratore}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Freddezza",
@@ -6871,7 +6871,7 @@
         {
             "id": "Duellist",
             "name": "Duellante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.RNcsFphKVYohTrS9]{Duellante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.3r4A1DOiF3laRWvq]{Duellante}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -6903,7 +6903,7 @@
         {
             "id": "Master Apothecary",
             "name": "Mastro Apotecario",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FW2VeYf0vUUFbVE6]{Apotecario}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.86gkaanqt19xYCRa]{Apotecario}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Guarire",
@@ -6940,7 +6940,7 @@
         {
             "id": "Miner",
             "name": "Minatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lWT9EiFL6a09w0h9]{Minatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Nu2diwbUfo786wYt]{Minatore}</p>",
             "skills": [
                 "Freddezza",
                 "Tempra",
@@ -6974,7 +6974,7 @@
         {
             "id": "Stevedore",
             "name": "Scaricatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lDvbNLRfv9MsNyf6]{Scaricatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.KslqDlYmY4trmf6S]{Scaricatore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -7008,7 +7008,7 @@
         {
             "id": "Dockhand",
             "name": "Portuale",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lDvbNLRfv9MsNyf6]{Scaricatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.KslqDlYmY4trmf6S]{Scaricatore}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -7034,7 +7034,7 @@
         {
             "id": "Ambassador",
             "name": "Ambasciatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.B0zxjP3KbZag5Y79]{Legato}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.0t9wtjQIoOofh8nO]{Legato}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -7074,7 +7074,7 @@
         {
             "id": "Honour Guard",
             "name": "Guardia d'Onore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guardia}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.HndWncfaHb0nzNUq]{Guardia}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -7103,15 +7103,15 @@
             ],
             "careergroup": "Guardia",
             "trappings": [
-                "Arma Grande o Alabarda", 
-                "Elmetto", 
+                "Arma Grande o Alabarda",
+                "Elmetto",
                 "Uniforme"
             ]
         },
         {
             "id": "Smuggler",
             "name": "Contrabbandiere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TaOvUqKMJoPeuynD]{Contrabbandiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.FqhOxcvai4ROvhXB]{Contrabbandiere}</p>",
             "skills": [
                 "Atletica",
                 "Corrompere",
@@ -7145,7 +7145,7 @@
         {
             "id": "Entertainer",
             "name": "Intrattenitore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.b96g5MZr3rk5zYAo]{Intrattenitore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.5nIDu8oyFVShLqne]{Intrattenitore}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -7179,7 +7179,7 @@
         {
             "id": "Prioress General",
             "name": "Priore Generale",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bE8g67fjVAE6R7Wx]{Monaca}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.f5m7s9K2y1zQNmej]{Monaca}</p>",
             "skills": [
                 "Arte (Calligrafia)",
                 "Freddezza",
@@ -7216,7 +7216,7 @@
         {
             "id": "Barrister",
             "name": "Giureconsulto",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GhqPa2iwEdc4Dokc]{Avvocato}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.uIKbkjQpNUCGIQRv]{Avvocato}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -7252,7 +7252,7 @@
         {
             "id": "River Pirate",
             "name": "Pirata di Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AnW8kwDb9koFgMPx]{Naufragatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.37EZqecGmYFb0fdW]{Naufragatore}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -7289,7 +7289,7 @@
         {
             "id": "Braggart",
             "name": "Spaccone",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mlLVNBKIUnonqka2]{Bravaccio}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.cXOl6phkTrPcUmwC]{Bravaccio}</p>",
             "skills": [
                 "Atletica",
                 "Schivare",
@@ -7316,7 +7316,7 @@
         {
             "id": "Outlaw Chief",
             "name": "Capobanda",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.mOljt11dxZENtmoR]{Fuorilegge}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.SrqxyWytyki4WYgC]{Fuorilegge}</p>",
             "skills": [
                 "Atletica",
                 "Reggere Alcolici",
@@ -7354,7 +7354,7 @@
         {
             "id": "Physician's Apprentice",
             "name": "Apprendista Medico",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Ora8bmvHERjYWEQn]{Medico}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Mn7w0SSGfN7cu7gQ]{Medico}</p>",
             "skills": [
                 "Corrompere",
                 "Freddezza",
@@ -7380,7 +7380,7 @@
         {
             "id": "Guard Officer",
             "name": "Ufficiale della Guardia",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.qaL8gLZdfOL5F5UV]{Guardia}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.HndWncfaHb0nzNUq]{Guardia}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -7417,7 +7417,7 @@
         {
             "id": "Pit Fighter",
             "name": "Gladiatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.15N8GauWXWfbYbEQ]{Gladiatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.EELJsJuoDVxiRu9e]{Gladiatore}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -7451,7 +7451,7 @@
         {
             "id": "Boatman",
             "name": "Barcaiolo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.14nKRAT6nMCMGSUf]{Barcaiolo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Rk1V9EvtZ0p5Qhwr]{Barcaiolo}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Schivare",
@@ -7483,7 +7483,7 @@
         {
             "id": "Rat Catcher",
             "name": "Acchiappatopi",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.0DuRRCYdahOKxDPF]{Acchiappatopi}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.mKvUxzJyQmhgjDE0]{Acchiappatopi}</p>",
             "skills": [
                 "Atletica",
                 "Addestrare (Cane)",
@@ -7515,7 +7515,7 @@
         {
             "id": "Pauper",
             "name": "Accattone",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.djOQaw7iRfec9UEj]{Mendicante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.1l2m7D1LHIz2q9qv]{Mendicante}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -7541,7 +7541,7 @@
         {
             "id": "Cat Burglar",
             "name": "Scassinatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TgcyR0ZdG6bMOK9o]{Ladro}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.mBtIPoWNpXwAS5Yl]{Ladro}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -7580,7 +7580,7 @@
         {
             "id": "Thief-taker",
             "name": "Acciuffaladri",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bsQN8B1mtZhl2WRu]{Cacciatore di Taglie}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.orZTfdJCm6OnUktl]{Cacciatore di Taglie}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -7607,7 +7607,7 @@
         {
             "id": "Runner",
             "name": "Corridore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.8pk2uCvAMUAXWbcP]{Messaggero}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.9XoJinyH6CsOcJ1h]{Messaggero}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -7632,7 +7632,7 @@
         {
             "id": "Prospector",
             "name": "Prospettore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lWT9EiFL6a09w0h9]{Minatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Nu2diwbUfo786wYt]{Minatore}</p>",
             "skills": [
                 "Freddezza",
                 "Tempra",
@@ -7660,7 +7660,7 @@
         {
             "id": "Master Bounty Hunter",
             "name": "Mastro Cacciatore di Taglie",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.bsQN8B1mtZhl2WRu]{Cacciatore di Taglie}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.orZTfdJCm6OnUktl]{Cacciatore di Taglie}</p>",
             "skills": [
                 "Corrompere",
                 "Affascinare",
@@ -7696,7 +7696,7 @@
         {
             "id": "Fellow",
             "name": "Associato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.cIBJfaY9DKJh5ZEM]{Studioso}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.CmiCNv8YlslFqRqy]{Studioso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Intrattenere (Cantastorie)",
@@ -7732,7 +7732,7 @@
         {
             "id": "Initiate",
             "name": "Iniziato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GNwQFkVKUs0JM6U5]{Prete}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.h1l9jvaIxsb92wtM]{Prete}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -7758,7 +7758,7 @@
         {
             "id": "Fence",
             "name": "Ricettatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.lbbddfm36XMb8SYg]{Ricettatore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.VzMDRJtha7epNzuX]{Ricettatore}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -7791,7 +7791,7 @@
         {
             "id": "Treasure Hunter",
             "name": "Cacciatore di Tesori",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.W2Ovj3ec7eqZUuuv]{Tombarolo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.bDoNOzzUiMdKqpps]{Tombarolo}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Freddezza",
@@ -7832,7 +7832,7 @@
         {
             "id": "Herbwise",
             "name": "Saggio delle Erbe",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.MYzcmrUrSKLmshwu]{Erborista}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.fTqkgehpmxk7kVT6]{Erborista}</p>",
             "skills": [
                 "Affascinare Animali",
                 "Arrampicarsi",
@@ -7869,7 +7869,7 @@
         {
             "id": "River Runner",
             "name": "Corriere di Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.TaOvUqKMJoPeuynD]{Contrabbandiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.FqhOxcvai4ROvhXB]{Contrabbandiere}</p>",
             "skills": [
                 "Atletica",
                 "Corrompere",
@@ -7898,7 +7898,7 @@
         {
             "id": "Exterminator",
             "name": "Sterminatore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.0DuRRCYdahOKxDPF]{Acchiappatopi}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.mKvUxzJyQmhgjDE0]{Acchiappatopi}</p>",
             "skills": [
                 "Atletica",
                 "Addestrare (Cane)",
@@ -7937,7 +7937,7 @@
         {
             "id": "Judge",
             "name": "Giudice",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.GhqPa2iwEdc4Dokc]{Avvocato}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.uIKbkjQpNUCGIQRv]{Avvocato}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Tempra",
@@ -7968,14 +7968,14 @@
             ],
             "careergroup": "Avvocato",
             "trappings": [
-                "Martelletto", 
+                "Martelletto",
                 "Parrucca Ostentata"
             ]
         },
         {
             "id": "Huffer",
             "name": "Nocchiere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.LaTDWvLySPKGojiW]{Nocchiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.TkF2ld3b72RlH2AR]{Nocchiere}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Pettegolezzo",
@@ -8008,7 +8008,7 @@
         {
             "id": "Wandering Trader",
             "name": "Commerciante Girovago",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.jAqbxNrHW35xiuOn]{Venditore Ambulante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.FdlybSv02jjXG1qW]{Venditore Ambulante}</p>",
             "skills": [
                 "Affascinare",
                 "Tempra",
@@ -8047,7 +8047,7 @@
         {
             "id": "Busker",
             "name": "Artista di Strada",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.b96g5MZr3rk5zYAo]{Intrattenitore}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.5nIDu8oyFVShLqne]{Intrattenitore}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -8073,7 +8073,7 @@
         {
             "id": "Witchfinder General",
             "name": "Generale Inquisitore",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.3A56eFnkIYFmbRL1]{Cacciatore di Streghe}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ADYQOtpsk5n1EHen]{Cacciatore di Streghe}</p>",
             "skills": [
                 "Affascinare",
                 "Reggere Alcolici",
@@ -8111,7 +8111,7 @@
         {
             "id": "Seaman",
             "name": "Marinaio",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.wu6aG1XPdzvpiLcR]{Marinaio}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.XyM54Ue5w1WuCaBD]{Marinaio}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -8143,7 +8143,7 @@
         {
             "id": "Light Cavalry Sergeant",
             "name": "Sergente di Cavalleria",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.h9LHCAdlP4o55QvD]{Cavalleggero}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.ArFOfnzJkToXBJBF]{Cavalleggero}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -8178,7 +8178,7 @@
         {
             "id": "Recruit",
             "name": "Recluta",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.kT0ZI0LoHmIvhjPk]{Soldato}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.1OTZ386bMWJ6wfzX]{Soldato}</p>",
             "skills": [
                 "Atletica",
                 "Arrampicarsi",
@@ -8205,7 +8205,7 @@
         {
             "id": "Peasant",
             "name": "Campagnolo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.btrs5XFk2OQsCtqj]{Villico}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.EYkvtokq0FXlFaPa]{Villico}</p>",
             "skills": [
                 "Domare Animali",
                 "Atletica",
@@ -8230,7 +8230,7 @@
         {
             "id": "Artisan",
             "name": "Artigiano",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.AlriWm9KtKnDAMw1]{Artigiano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.GWrZq3xoRSsDnQe0]{Artigiano}</p>",
             "skills": [
                 "Atletica",
                 "Freddezza",
@@ -8262,7 +8262,7 @@
         {
             "id": "Coachman",
             "name": "Cocchiere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.BnA8KJuCw16zwOVC]{Cocchiere}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.tvJAKXB7R0EOr4oE]{Cocchiere}</p>",
             "skills": [
                 "Domare Animali",
                 "Affascinare Animali",
@@ -8296,7 +8296,7 @@
         {
             "id": "Master Beggar",
             "name": "Mastro Mendicante",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.djOQaw7iRfec9UEj]{Mendicante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.1l2m7D1LHIz2q9qv]{Mendicante}</p>",
             "skills": [
                 "Atletica",
                 "Affascinare",
@@ -8333,7 +8333,7 @@
         {
             "id": "Apothecary-General",
             "name": "Apotecario-Generale",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.FW2VeYf0vUUFbVE6]{Apotecario}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.86gkaanqt19xYCRa]{Apotecario}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Guarire",
@@ -8371,7 +8371,7 @@
         {
             "id": "Warrior Priest",
             "name": "Prete Guerriero",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.KG5lVereynSwOkxa]{Prete Guerriero}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.iYVpqJ6bz8fokdmf]{Prete Guerriero}</p>",
             "skills": [
                 "Freddezza",
                 "Schivare",
@@ -8403,7 +8403,7 @@
         {
             "id": "Scoundrel",
             "name": "Filibustiere",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.JTKAh4qCOCcPa2yN]{Ciarlatano}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Eg5D2UI3U4SAHnuU]{Ciarlatano}</p>",
             "skills": [
                 "Corrompere",
                 "Reggere Alcolici",
@@ -8441,7 +8441,7 @@
         {
             "id": "Bargeswain",
             "name": "Nostromo di Fiume",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.14nKRAT6nMCMGSUf]{Barcaiolo}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.Rk1V9EvtZ0p5Qhwr]{Barcaiolo}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Schivare",
@@ -8477,7 +8477,7 @@
         {
             "id": "Prophet of Doom",
             "name": "Profeta del Fato",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Vtice54Y7PV95Dkp]{Flagellante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.0kij2AX9aaUnCxPv]{Flagellante}</p>",
             "skills": [
                 "Schivare",
                 "Tempra",
@@ -8516,7 +8516,7 @@
         {
             "id": "Boatswain",
             "name": "Nostromo",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.wu6aG1XPdzvpiLcR]{Marinaio}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.XyM54Ue5w1WuCaBD]{Marinaio}</p>",
             "skills": [
                 "Arrampicarsi",
                 "Reggere Alcolici",
@@ -8551,7 +8551,7 @@
         {
             "id": "Seer",
             "name": "Veggente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.M9NiEgE7qaCXmskM]{Mistico}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.CzebTXk5dirMAZ6p]{Mistico}</p>",
             "skills": [
                 "Affascinare",
                 "Intrattenere (Leggere la Sorte)",
@@ -8588,7 +8588,7 @@
         {
             "id": "Penitent",
             "name": "Penitente",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.Vtice54Y7PV95Dkp]{Flagellante}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.0kij2AX9aaUnCxPv]{Flagellante}</p>",
             "skills": [
                 "Schivare",
                 "Tempra",
@@ -8623,7 +8623,7 @@
         {
             "id": "Scholar",
             "name": "Studioso",
-            "description": "<p>@Compendium[wfrp4e-core.career-descriptions.cIBJfaY9DKJh5ZEM]{Studioso}</p>",
+            "description": "<p>@UUID[Compendium.wfrp4e-core.journal-entries.wczCPcuHT4VQDLpL.JournalEntryPage.CmiCNv8YlslFqRqy]{Studioso}</p>",
             "skills": [
                 "Reggere Alcolici",
                 "Intrattenere (Cantastorie)",
