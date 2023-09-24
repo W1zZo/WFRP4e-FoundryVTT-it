@@ -4,6 +4,10 @@
         "effects": {
             "path": "effects",
             "converter": "effects"
+        },
+        "items": {
+            "path": "items",
+            "converter": "items"
         }
     },
     "entries": {

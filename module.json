@@ -2,7 +2,7 @@
   "id": "wfrp4e-foundryvtt-it",
   "title": "WFRP4e Italian Translation",
   "description": "Add Italian language to WFRP4e system for FoundryVTT.",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "authors": [{
     "name": "WizZo"
   }],
