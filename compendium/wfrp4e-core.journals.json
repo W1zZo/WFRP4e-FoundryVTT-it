@@ -1,0 +1,41 @@
+{
+	"label": "Diario (Manuale Base)",
+	"entries": {
+		"Bestiary": {
+			"name": "Bestiario"
+		},
+		"Between Adventures": {
+			"name": "Tra le Avventure"
+		},
+		"Character": {
+			"name": "Personaggi"
+		},
+		"Class and Careers": {
+			"name": "Classi e Carriere"
+		},
+		"Glorious Reikland": {
+			"name": "Il Glorioso Reikland"
+		},
+		"GM's Guide": {
+			"name": "Guida del Master"
+		},
+		"Magic": {
+			"name": "Magia"
+		},
+		"Religion and Belief": {
+			"name": "Religione e Fede"
+		},
+		"Rules": {
+			"name": "Regole"
+		},
+		"Skills and Talents": {
+			"name": "Abilità e Talenti"
+		},
+		"The Consumers' Guide": {
+			"name": "Guida agli Acquisti"
+		},
+		"The Gamemaster": {
+			"name": "Gamemaster"
+		}
+	}
+}

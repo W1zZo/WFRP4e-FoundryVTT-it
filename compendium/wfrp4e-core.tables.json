@@ -1,5 +1,15 @@
 {
-    "label": "Tabelle",
+    "label": "Tabelle (Manuale Base)",
+    "folders": {
+        "Career Tables": "Tabelle Carriera",
+        "Character Creation": "Creazione Personaggio",
+        "Core Rulebook": "Manuale Base",
+        "Corruption & Mutation Tables": "Tabelle Corruzione e Mutazioni",
+        "Critical Hit Tables": "Tabelle Colpi Critici",
+        "GM Booklet": "Libretto del GM",
+        "Hit Location": "Locazione Colpo",
+        "Moo's Homebrew": "Fatto in casa da Moo"
+    },
     "entries": [
         {
             "id": "Career - Human",
